@@ -1,0 +1,3229 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ordnung. 
+Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr attraktive 
+Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+Ausgabe 10/2023 
+ 
+zu Hype-Themen versuche ich stets 
+einen gesunden Abstand zu wahren. 
+Es ist selten, dass die wichtigen Er-
+kenntnisse zu den großen Themen 
+unserer Zeit schon in den ersten Ta-
+gen eines Trends auftauchen. 
+Beim Thema 'generative künstliche 
+Intelligenz' hatte ich (wie wohl viele 
+von Ihnen auch) von Anfang an das 
+Gefühl, dass es sich hier um etwas 
+'Großes' und sofort Bedeutendes 
+handelt. Aber dass diese Ausgabe gleich drei Berichte enthält, die sich um KI-basierte 
+Lösungen drehen, das ist mir erst aufgefallen, als ich meine Recherchen für diese Aus-
+gabe aufbereitet habe. KI begegnet Ihnen hier als ausgereifte technische Hilfe für den 
+Kundenservice (ab der folgenden Seite), und als vielversprechendes Tool zur An-
+reicherung digitaler Presseprodukte bei Schibsted (S.6) und der FAZ (S.7). 
+Anfang des letzten Monats habe ich die Tagung des Gesamtverbandes Pressegrosso 
+in Wiesbaden besucht. Was ich denke, ob es das letzte dieser traditionsreichen Bran-
+chentreffen sein werde, wurde ich da mehrfach gefragt. "Das weiß ich nicht", habe ich 
+sinngemäß geantwortet. Aber was ich zu wissen glaube: das Ende vieler grossotypi-
+scher Traditionen steht bevor. Die Tradition dieser Tagung mag überdauern. Die ge-
+schäftlichen Traditionen der Tagenden sicher nicht (S. 16ff). 
+Je monatlichem Websitebesuch zählen deutschsprachige Tageszeitungen im Schnitt 
+3,6 Plus-Abonnenten. Nur gut eines davon mit einem Preis ab 7€ (vgl. den Bericht zu 
+den Paid Content-Benchmarks ab S.27). Zwar liegen die regulären Preise für diese 
+Abos deutlich oberhalb der 7€-Marke. Aber die meisten Kunden bezahlen weniger. Bei 
+Funke Medien nun sogar flächendeckend regulär (S.25). 
+Ich wünsche Ihnen einen guten und verkaufsstarken Monat. 
+Markus Schöberl, Herausgeber pv digest  
+Der pv digest 
+Quick Guide 
+ 
+Das Wichtigste in 15 Minuten 
+ 
+ 
+Für Zeitschriften- 
+Verlage 
+Für Zeitungs/ 
+News-Verlage 
+Zu Paid Content 
+ 
+Für Handels- 
+Verantwortliche 
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.16 
+Analysen und  
+Daten                 
+ 
+S.23 
+Personalien 
+ 
+S.30 
+letzte Worte 
+S.31 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+Lieber Herr Weber,
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 2
+ 
+ 
+ 
+ 
+ 
+ 
+Künstliche Intelligenz' in natürlicher Sprache erledigt 
+rund 1/3 aller telefonischen Zustellreklamationen 
+ 
+Künstliche Intelligenz 
+im Kundenservice 
+ 
+(Kunde, nach Warteschleifenwartezeit doppelt verärgert): "Ich habe heute Morgen keine Zei-
+tung erhalten." 
+(Mitarbeiter, frustriert, teuer): "Bitte entschuldigen Sie unsere Zustellprobleme. Darf ich Ihnen 
+eine Gutschrift anbieten?" 
+So ähnlich dürften derzeit deutlich mehr als die Hälfte aller Anrufe von Zeitungsabon-
+nenten bei den jeweiligen Kundenservicehotlines verlaufen. Sinkende Mengen, eine 
+hohe Fluktuation bei den und ein Mangel an Zustellkräften führen dazu, dass die pünktli-
+che Lieferung der Tageszeitung immer häufiger nicht gelingt. Das resultierende Rekla-
+mationsaufkommen führt zu neuerlichen Frustrationen. Zumal typische Zeitungsabon-
+nenten partout lieber zum Telefonhörer greifen als E-Mails zu schreiben, Chatprogramme 
+zu nutzen oder gar formularisierte Selfserviceprozesse auf einer Webseite zu bedienen. 
+Unangenehme Gespräche für die Servicekräfte, hohe Servicekosten auf Seiten des Verla-
+ges und nicht selten lange Wartezeiten in der Hotline für die anrufenden Abonnenten be-
+deuten eine Triple-Lose-Situation. 
+Die Oldenburger Nordwest-Zeitung und der Bremer Weser-
+Kurier nutzen eine – lt. Anbieter KI-basierte – Sprachsoftware, 
+um dieser unbefriedigenden Situation zu entkommen. Statt 
+eines Mitarbeiters nimmt die Sprachsoftware jeden Kundenanruf entgegen. Der Clou 
+dabei: Die eingesetzte Software (Parloa) versteht und spricht natürlich gesprochene 
+Sprache. Der Kunde kann sein Anliegen ohne Hotline-Wartezeit und ohne den technischen 
+Umweg über einen IVR-Tastendrückdialog in seinen eigenen Worte vortragen. Die in die 
+restliche Verlags-IT eingebundene Software 'versteht', was der Anrufer will, sie identifiziert 
+Kunden (anhand ihrer Rufnummer und mit Hilfe eines PLZ-Abgleichs), sie entscheidet, ob 
+und an wen sie das Gespräch ggf. weiterleitet, sie bearbeitet Zustellreklamationen selbst-
+ständig und nutzt dafür die verfügbaren Systeminformationen (z.B. bekannte Zustellver-
+zögerungen, die es u.U. erlauben, dem Kunden eine spätere Lieferung zuzusagen). In der 
+Regel bietet sie den Zustellreklamierern eine Gutschrift an und bucht diese ohne weiteren 
+manuellen Prozess auch direkt in das Kundenkonto. 
+Soweit diese Automatisierung gelingt, spart der Verlag damit die Kosten einer manuellen 
+Reklamationsbearbeitung und der Kunde wird ohne Wartezeit bedient. Laut Fabian 
+Rosekeit, Head of CRM & Growth bei der Medien Hub Bremen-Nordwest GmbH, der für 
+dieses Projekt verantwortlichen gemeinsamen Tochterfirma der beiden Zeitungsverlage, 
+gelingt die "fallabschließende" Automatisierung bereits in etwa einem der Drittel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zustellreklamationen 
+sind der häufigste Kon-
+taktgrund im Zeitungs-
+Aboservice 
+ 
+ 
+ 
+ 
+Self-Service-Angebote 
+dafür werden kaum 
+angenommen; Kunden 
+telefonieren lieber 
+ 
+ 
+ 
+Bei NWZ und Weser-
+Kurier telefonieren sie 
+zunächst mit einer 
+Sprech-Software 
+ 
+ 
+ 
+in natürlicher Sprache 
+ 
+ 
+kein 'Tastendrücken', 
+keine vorformulierten 
+Auswahl-Antworten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In 1/3 der Fälle kann 
+die Software die Rekla-
+mation abschließend 
+bearbeiten 
+QUELLEN:
+NACHRICHTEN AUS VERLAGEN 
+UND VERLAGSVERTRIEBEN 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 3
+aller Fälle, in denen die Kunden identifiziert werden können (etwa 70% der Brutto-Anrufe); 
+Tendenz zunehmend. 
+Wie sich so ein Dialog anhört, das zeigt eine Aufzeichnung, die uns beispielhaft zur Ver-
+fügung gestellt wurde [pv-digest.de/linkliste Link1]. 
+Wir haben uns ausführlich über die Rahmenbedingungen dieses weit fortgeschrittenen 
+Projektes informiert. 
+Wie reagieren die Kunden, wenn sie mit einer Maschine sprechen? 
+Noch ist es nahezu unüberhörbar, dass auf der Gegenseite kein Mensch, sondern ein 
+Computer das Gespräch führt. Es besteht auch keine Absicht, das zu verheimlichen, auch 
+wenn die synthetische Sprache in nicht allzu langer Zeit kaum noch von natürlicher Spra-
+che unterscheidbar sein wird. 
+Laut Fabian Rosekeit gebe es darauf aus dem Kundenkreis überhaupt nur wenige Reak-
+tionen. Und diese wenigen Rückmeldungen seien etwa in gleichen Mengen positiv 
+oder negativ. Positive Reaktionen erzeuge beispielsweise, dass den Anrufern praktisch 
+ohne Wartezeit geholfen wird. Außerdem ist die Software so eingestellt, dass sie sensibel 
+mit etwaigen Negativreaktionen umgeht. "Sobald der Kunde Schwierigkeiten mit dem di-
+gitalen Sprachassistenten hat oder das Anliegen lieber mit einem Menschen besprechen 
+möchte, wird er entsprechend an das passende Serviceteam weiterverbunden", erklärt Fa-
+bian Rosekeit. "Wir möchten niemanden im Voicebot gefangen halten, sondern der Voice-
+bot soll viel mehr dem Kunden ganz ohne Wartezeit schnell weiterhelfen. Entweder indem 
+er das Anliegen direkt fallabschließend bearbeitet oder eben bei Bedarf vorqualifiziert den 
+Kunden an den richtigen Ansprechpartner übergibt".  
+Johanna Drachenberg, als Lesermarktchefin des Weser-Kurier eine der Auftraggeberin-
+nen Rosekeits, bestätigt diese Beschreibung vorbehaltlos. "Nur eine Handvoll Beschwer-
+den" habe es gegeben.  
+Wie aufwändig war die Implementierung der Lösung? 
+Startzeitpunkt der Projektumsetzung war der 26. April. Nicht einmal eineinhalb Monate 
+später, am 7. Juni, wurde der nun trainierte Voicebot auf die Kunden des kleinen Titels 
+Emdener Zeitung losgelassen. Nochmals eine Woche später auf den Oldenburger Haupt-
+titel, die NWZ. In Bremen meldet sich seit Anfang Juli eine Roboterstimme. Zwar wird der 
+Bot weiterhin optimiert und der Prozess verbessert. Aber nach nicht einmal drei Mona-
+ten war das gesteckte Ziel, mindestens 20% aller telefonischen Zustellreklamationen auf 
+diesem Weg zu erledigen, bereits deutlich übertroffen. Als ein "schönes, glattes 6-Wo-
+chen-Projekt und dann war es arbeitsfähig" beschreibt Johanna Drachenberg die Realisie-
+rung des Projektes. 
+Was ist das Erfolgsgeheimnis? 
+Eine wesentliche Erfolgsbedingung war die radikale Beschränkung auf den einen ein-
+zigen Usecase. Urlaubsunterbrechungen, Nachsendungen oder alternative Lösungssze-
+narien (z.B. E-Paper-Zugang statt Gutschrift) wurden konsequent auf spätere Weiterent-
+wicklungen verschoben. Es sei, nachdem das Projekt schnell überzeugende Ergebnisse ge-
+liefert hatte, gar nicht so einfach gewesen, zahlreich neu auftauchende Ideen zum Einsatz 
+ 
+ 
+ 
+Hörbeispiel 
+LINKTIPP 
+ 
+ 
+ 
+Wie reagieren die 
+Kunden? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+unauffällig! keine nen-
+nenswerte Unzufrie-
+denheit über Computer 
+als Gesprächspartner 
+ 
+ 
+ 
+ 
+falls doch unzufrieden, 
+werden die Kunden so-
+fort an Menschen 
+übergeben 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wie aufwändig war 
+die Implementie-
+rung? 
+ 
+Implementierung bin-
+nen 6-8 Wochen 
+ 
+ 
+nach drei Monaten 
+Projektziel (20% erle-
+digte Reklas) erreicht 
+ 
+ 
+ 
+Erfolgsbedingungen 
+ 
+ 
+vorläufige Beschrän-
+kung auf einen eng de-
+finierten Servicepro-
+zess 
+ 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 4
+des Voicebots zunächst in die Schranken zu weisen, erzählt Rosekeit. Aber jede Erweite-
+rung steigere die Komplexität und werde zunehmende Entwicklungszeit erfordern. 
+Eine weitere Ursache des schnellen Erfolges war, dass der technische Implementierungs-
+partner SC Soft bereits bestens mit der IT des Verlagskonzerns vertraut war. Andere 
+Dienstleister hätten "nur bis Bordsteinkante" liefern können, aber SC Soft konnte die Pro-
+zesse gleich bis ins SAP Backend implementieren. Außerdem sei die von SC Soft zur Verfü-
+gung gestellte Voicebot-Technologie von Parloa möglicherweise manchem Wettbewerber 
+um das Verstehen und Erzeugen natürlicher Sprache deswegen einige Schritte voraus, weil 
+es eine originäre Voicebot-Technologie sei und nicht eine Weiterentwicklung aus text- aber 
+eben nicht sprachbasierten Chat- oder E-Mail-Systemen. 
+Was kostet eine solche Implementierung? 
+Hierzu haben wir keine konkrete Antwort erhalten. Seine Implementierungskosten wer-
+den allerdings schon nach 6 Monate amortisiert sein, schätzt Rosekeit. Und selbst wenn 
+man einen gewissen Pionierkundensonderpreis annehme, dürften andere Verlage davon 
+ausgehen, dass sich diese Automatisierungslösung nach nicht mehr als einem Jahr re-
+finanziert habe. Zumal neben der automatischen Vollerledigung von fast einem Drittel 
+aller Fälle auch die übrigen Fallbearbeitungen, die weiterhin von menschlichen Servicekräf-
+ten erledigt werden, profitieren, weil der Voicebot in aller Regel einen bereits identifizier-
+ten Kunden an die richtige Stelle übergebe (Redaktionsanfragen oder Ticketingwünsche 
+leitet der Voicebot direkt an die zuständigen Stellen im Verlag weiter). 
+Gab es auch Rückschläge währen der Projektumsetzung? 
+Als unerwartet große Herausforderung hat sich die Einbindung des Bots in die Telefon-
+anlage erwiesen. So gab es anfangs Fälle, in denen eine Firewall bewirkte, dass die Anru-
+fenden die Stimme des Bots nicht hören konnten. Auch die Übergabe von Fällen, die der 
+Bot nicht abschließend bearbeiten konnte, an die menschlichen Servicekollegen, war nicht 
+immer ohne technische Hürden. 
+Wichtig sei auch, den Trainingsbedarf des Bots nicht zu unterschätzen. So sei allein die 
+Anzahl der Varianten, in denen die Anrufer ihre Postleitzahl nennen, überraschend 
+hoch. So könne die Postleitzahl 28201 durchaus einmal als zweihundertzweiundachtzig-
+null-eins oder achtundzwanzig-zweihunderteins genannt werden. Dass "Guten Morgen" 
+kein Hinweis darauf ist, dass der Anrufer über die Zeitung des nächsten Tages sprechen 
+möchte, muss der Computer auch erst lernen. 
+Was sind die nächsten Schritte? 
+Bevor weitere Serviceprozesse automatisiert werden, will Rosekeit die Bearbeitung der 
+Zustellreklamationen weiter verbessern. So soll beispielsweise ein Hinweis auf das E-
+Paper in den Dialog eingebaut werden. Das sei aber schon mit einer deutliche Verkompli-
+zierung des Prozesses verbunden, weil die NWZ-Abonnenten alle eine Nutzungsberechti-
+gung für die digitale Ausgabe der Zeitung haben, während Weser-Kurier-Abonnenten im 
+Regelfall dafür extra bezahlen müssen. Auch Reklamationen, die sich nicht auf 'heute' be-
+ziehen, sondern auf mehrere und/oder vergangene Tage, werden bisher vom Voicebot 
+noch nicht bearbeitet. 
+ 
+ 
+ 
+ 
+Implementierungs-
+partner kannte die Ver-
+lags-IT schon bestens 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Projektkosten 
+ 
+Amortisierung schon 
+nach ½ Jahr 
+ 
+ 
+i.d.R. sollte nach spä-
+testens 1 Jahr amorti-
+siert sein 
+ 
+ 
+ 
+ 
+ 
+mögliche Fallstricke 
+ 
+ 
+Integration des Bots in 
+die Telefonanlage 
+ 
+ 
+ 
+ 
+ 
+Herausforderung: na-
+türlich gesprochene 
+Postleitzahlen verste-
+hen 
+ 
+ 
+ 
+next Steps 
+ 
+ 
+ 
+Varianten der Zustell-
+Rekla-Behandlung; z.B. 
+Hinweis auf E-Paper, 
+andere Zeiträume 
+ 
+ 
+ 
+ 
+ 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 5
+Der nächste Serviceprozess, der automatisiert durch den Voicebot erledigt werden soll, 
+ist dann die Urlaubsunterbrechung. Wie das klingen kann, das zeigt ein weiteres Hörbei-
+spiel [pv-digest.de/linkliste Link2]. 
+Ähnliche Erfahrungen bei der Rheinischen Post 
+Bei der Rheinischen Post ist ein vergleichbar 
+sprechfähiger Voicebot der erste Ansprechpart-
+ner für Abonnenten, die in einer vorgeschalte-
+ten IVR-Abfrage eine Reklamation oder eine Urlaubsunterbrechung ankündigen und 
+die anhand ihrer Telefonnummer als Abonnenten identifiziert werden können.  
+Letzteres sei bei 60-70% aller Anrufe der Fall, berichtet Birgit Rollesbroich, Director Custo-
+mer Experience Management bei der RP. Etwa ein Drittel der so behandelten Zustellre-
+klamationen (22% aller eingehenden Reklamationen) werde von der Sprachsoftware 
+abschließend erledigt. Wobei eine Erledigung bei der RP keine Gutschrift bedeutet, son-
+dern lediglich das Registrieren der Reklamation und die Abgabe eines Versprechens, dass 
+der Verlag sich schnellstmöglich um eine Lösung kümmern werde.  
+Alle diese Telefonate enden mit der Frage, ob der Abonnent noch an eine menschliche 
+Servicekraft verbunden werden will. Und auch in allen Fällen, in denen die Anrufenden 
+aktiv nach einer Gutschrift fragen, verbindet das System derzeit noch mit einem mensch-
+lichen Kundenberater. Das dürfte zu guten Teilen erklären, warum nur etwa ein Fünftel 
+der Reklamationen von der Maschine komplett erledigt wird. Bei den Urlaubsunterbre-
+chungen erledigt die Maschine vollautomatisch mehr als die Hälfte der Fälle, obwohl 
+der Vorgang sogar noch komplexer ist als die bloße Erfassung einer Reklamation. 
+Der Roboter gibt sich bei der Rheinischen Post gleich zu Beginn der Gespräche zu erken-
+nen. "Ich bin Polly, ihr digitaler Assistent". Auch bei der RP gebe es kaum Beschwerden 
+darüber, dass ein Computer statt eines Menschen am Telefon ist, sagt Rollesbroich. 
+Zukünftig solle aber eine Befragung nach Abschluss des Telefonates messen, wie zufrieden 
+die Kunden mit der Lösung wirklich sind. 
+Damit sind die Projekterfahrungen in Düsseldorf sehr nahe an denen in Oldenburg/Bre-
+men, obwohl die RP sich für eine andere Software entschieden hat (eine Bot-Lösung des 
+Anbieters der bereits genutzten Telefonanlage Genesys). Die Umsetzungsdauer war deut-
+lich länger (von November bis Ende März beim Thema Lieferreklamationen, bis Anfang Juli 
+für die Urlaubsunterbrechungen). Allerdings musste die Rheinische Post in diesem Zeit-
+raum auch die Folgen einer erfolgreichen Attacke durch Hacker bewältigen. Die Kosten 
+für die Einführung des 'intelligenten' Voicebots skizziert Rollesbroich im knapp sechs-
+stelligen Bereich. Bei den derzeitigen Erledigungsquoten werde sich die Implementie-
+rung binnen 7-9 Monaten amortisiert haben, erwartet sie. 
+Wichtig sei, die Implementierung als einen iterativen Prozess anzugehen, bei dem man 
+frühestmöglich erste Praxiserfahrungen sammelt und diese dann berücksichtigt. So erwies 
+sich auch in Düsseldorf das Thema Postleitzahlen als eine Herausforderung. Und beim Ur-
+laubsservice bewirkte eine Umstellung der Prozessreihenfolge eine deutliche Verbesse-
+rung der Erledigungsquoten (nämlich zuerst nach dem Unterbrechungszeitraum zu fragen 
+danach Urlaubsunter-
+brechungen 
+ 
+LINKTIPP Hörbeispiel 
+Kundenservice-KI bei 
+der Rheinischen Post 
+ 
+ 
+sprechfähige Software 
+erst nach IVR-Abfrage 
+des Anrufgrundes und 
+Telefonr.-Identifikation 
+ 
+=> 60%-70% aller An-
+rufe 
+ 
+davon 1/3 aller Zustell-
+reklas abschließend 
+durch die Software be-
+dient 
+ 
+ 
+ 
+ 
+ 
+ 
+davon >50% aller Ur-
+laubsunterbrechungen 
+abschließend durch die 
+Software bedient 
+ 
+ 
+ 
+kaum Beschwerden 
+ 
+ 
+ 
+ 
+ 
+=> Erfahrungswerte 
+trotz ganz anderer Sys-
+teme sehr ähnlich zu 
+NWZ/Weser-Kurier 
+ 
+ 
+ 
+ 
+Amortisierung binnen 
+7-9 Monaten zu erwar-
+ten 
+ 
+ 
+ 
+ 
+auch hier: Herausfor-
+derung Postleitzahl 
+ 
+ 
+ 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 6
+und danach zu klären, ob eine Zustell-Spende gewünscht ist; ursprünglich war dieser Pro-
+zess umgekehrt herum angelegt. 
+ 
+ 
+Artikelzusammenfassungen verlängern die Lesezeit und 
+werden insbesondere von jungen Lesern geschätzt 
+26 
+P 
+KI-basierte Artikelzu-
+sammenfassungen I 
+ 
+Von Zeitungen des Schibsted-Konzerns war in den letzten Wochen zu hören, dass mit ge-
+nerativer künstlicher Intelligenz erzeugte, in Bullet Points präsentierte Zusammen-
+fassungen, die Artikeln vorangestellt werden, nicht etwa zu einer Verkürzung der durch-
+schnittlichen Lesezeit führen, sondern sogar zu einer (leichten) Verlängerung derselben. 
+Diese Erfahrung machte der Konzern bei der größten schwedischen Zeitung Aftonbladet 
+und bei seinem norwegischen Tagestitel Verdens Gang.  
+In beiden Fällen waren es vor allem 
+jüngere Leser, die das Feature zu 
+schätzen wussten. Da die Zusammen-
+fassungen 
+nur 
+angezeigt 
+wurden, 
+wenn die Leser auf ein entsprechendes 
+Symbol klickten, ließ sich die Nutzung 
+der Artikelzusammenfassungen gut 
+messen. Fast 40% der "jüngeren Leser" 
+klicken auf die Zusammenfassungen, 
+erzählt der stellvertretende Chefredak-
+teur von Aftonbladet, Martin Schori. 
+19% aller Leser und 27% der 15-24jäh-
+rigen bei Verdens Gang klicken auf das Symbol zum Anzeigen der Artikelzusammenfassun-
+gen, berichtete Data Scientist Vebjørn Nevland in einem Webinar der INMA. "Wenn Sie je-
+mals in der Produktentwicklung gearbeitet haben, dann wissen Sie, dass das ganz un-
+wahrscheinlich hohe Werte in sehr kurzer Zeit sind", stufte Nevland seine Zahlen ein. 
+ 
+Zwei Schibsted-Titel 
+stellen ihren Artikeln 
+KI-generierte Zusam-
+menfassungen voran 
+ 
+Folge: eher verlängerte 
+als kürzere Nutzungs-
+zeit 
+ 
+ 
+ 
+Vor allem junge Leser 
+nutzen dieses Angebot 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fast 40% der "jüngeren 
+Leser" bei Aftonbladet 
+ 
+ 
+ 
+19% aller Leser und 
+27% der U24-Leser bei 
+Verdens Gang 
+ 
+ 
+ 
+pvd meint natürliche Sprache ist die natürliche Kommunikationsform für die meisten 
+Menschen. Sofortservice in natürlicher Sprache ist ganz sicher das Beste, was Verlage im 
+Rahmen ihres Kundenservices anbieten können. 'Sofort' ist teuer, wenn es von Men-
+schen geleistet werden soll. Und eine schöne Arbeit ist es für die menschlichen Arbeits-
+kräfte auch nicht, wenn mehr als die Hälfte aller Telefonate nach dem gleichen Muster 
+zu behandelnde Zustellreklamationen oder andere hoch ausdefinierte Standardfälle 
+sind. Das schreit geradezu nach Computerunterstützung.  
+Gemessen sowohl an den Heilsversprechen als auch an den Untergangsvisionen, die 
+rund um das Megathema Künstliche Intelligenz derzeit kursieren, ist die Abarbeitung 
+von Zustellreklamationen ein denkbar bescheidenes Szenario. Dafür ist es allerdings – 
+jetzt, heute schon – marktreif. Das belegen die beiden technisch und prozessual ganz 
+unterschiedlichen, in ihren Erfahrungswerten aber bemerkenswert nahe beieinander-
+liegenden Cases aus Oldenburg (NWZ und Weser-Kurier) und Düsseldorf (Rheinische 
+Post). 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 7
+Sowohl Schori als auch Nevland berichteten von der Herausforderung, die die Neigung 
+der KI-Systeme darstellt, gelegentlich zu halluzinieren. Verdens Gang ging dieses Thema 
+durch einen ebenfalls KI-basierten Qualitätscheck an. Wer sich für dieses Thema interes-
+siert, dem empfehlen wir die Videoaufzeichnung des Vortrags, die allerdings nur Mitglie-
+dern der INMA zugänglich ist [pv-digest.de/linkliste Link3]. 
+ 
+Herausforderung: Hal-
+luzinationen der KI 
+ 
+ 
+ 
+LINKTIPP 
+ 
+FAZ-App mit KI-basierter Zusammenfassungsfunktion 
+P 
+KI-Zus.-fassungen II 
+ 
+"Als erstes Qualitätsmedium" [lt. Selbstein-
+schätzung, der wir für Deutschland nicht wider-
+sprechen] hat die FAZ eine KI-basierte Artikel-
+Zusammenfassungsfunktion in ihre Nachrich-
+ten-App eingebaut. Zunächst nur bei ausge-
+wählten Artikeln im Wirtschafts- und Regional-
+teil können bezahlende Nutzer mit einem Klick 
+auf ein Zauberstab-Symbol eine Zusammen-
+fassung des nachfolgenden Beitrags in vier 
+Bullet Points anzeigen lassen. Das neue Pro-
+duktfeature ist als KI-basiert gekennzeichnet. 
+Es wird nur bei faktenbasierten, nicht bei Mei-
+nungsbeiträgen angeboten. Die Nutzer sind 
+aufgefordert, die Funktion zu bewerten und ggf. auf Fehler aufmerksam zu machen. [pvd: 
+Dabei könnten sie durchaus auf Halluzinationen stoßen. Auf pv digest-Nachfrage erklärt 
+FAZ-Sprecher Christian Eilers, dass die technische Absicherung gegen dieses Phänomen 
+derzeit nur in ausführlich getesteten Prompts und einer restriktiven Einstellung des krea-
+tiven Freiheitsgrades der KI besteht. Immerhin "können Zusammenfassungen der KI de-
+publiziert werden", wenn sie denn fehlerhaft sein sollten.] 
+ 
+ 
+ 
+ 
+ 
+FAZ testet KI-generierte 
+Zusammenfassungen 
+für Bezahlkunden bei 
+ausgewählten Artikeln 
+ 
+Kein Bundling mehr mit Canal+  
+L'Equipe verzichtet auf 200.000 Digitalabos 
+79 
+L'Equipe 
+ 
+Vor knapp zwei Jahren, in der November-Ausgabe 2021, be-
+richteten wir über die französische Sport-Tageszeitung 
+L'Equipe. Die erreichte damals immer noch eine verkaufte Auflage von 230.000 Exempla-
+ren. Und 325.000 Abonnenten bezahlten für eines von drei Digitalpaketen (die teilweise 
+das E-Paper beinhalten). 
+Kernthema unseres Berichtes war die Wandlung des sportjournalistischen (Digital-) Pres-
+seangebotes zu einem Multimedia-Medium, das neben Text&Bild auch Videos, Podcasts 
+und Livestreams umfasst. Als Zielstellung für 2025 hatte die Geschäftsführung unter dem 
+TV-erfahrenen CEO Laurent Prud'homme damals 425.000 Digitalabos ausgegeben. 
+Diese quantitative Vorgabe ist nun einer qualitativen, am Umsatz orientierten Zielstellung 
+gewichen. "Wir orientieren uns in Richtung einer Strategie des Wertes und nicht mehr 
+der Mengen", sagte Laurent Prud'homme im Rahmen der gerade erfolgten Aufkündigung 
+einer Abo-Kooperation mit dem Bezahlsender Canal+. Dessen Abonnenten hatten bisher 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die französische Sport-
+Tageszeitung sieht sich 
+als Multimedia-Me-
+dium 
+ 
+ 
+ 
+Mittelfristziel 425.000 
+Abos aufgegeben zu-
+gunsten von Umsatz-
+optimierung 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 8
+Zugriff auf die Plusinhalte von L'Equipe. Jetzt nicht mehr. "Dieses Distributionssystem war 
+gerechtfertigt als wir ein einfaches Informationsangebot waren. [Jetzt] sind wir eine ve-
+ritable Digitalplattform mit unterschiedlichen Inhalten, und der Erlös pro Abo, den wir 
+aus der Vereinbarung mit Canal+ gezogen haben, genügt nicht mehr, um unsere Investiti-
+onen in diese Inhalte mit Mehrwert zu monetarisieren." 
+Das Ende der Kooperation mit Canal+ führt unmittelbar dazu, dass L'Equipe 200.000 Di-
+gitalabos weniger zählt und nur noch um und bei 150.000 verbuchen kann. 
+Schon im August 2022 hatte sich L'Equipe aus der Presseflatrate Cafeyn zurückgezo-
+gen (das französische Pendant und geplanter zukünftiger Eigner der nicht-skandinavi-
+schen Aktivitäten von Readly). Andere Abo-Kooperation bleiben aber [vorerst?] bestehen; 
+so zum Beispiel die Integration der L'Equipe-Angebote in das Sportpaket des Telekommu-
+nikationsanbieters Bouygues Telecom, die erst seit Mitte 2022 besteht. 
+ 
+ 
+ 
+darum Bundling-Ko-
+operation mit Bezahl-
+sender Canal+ beendet 
+ 
+ 
+Folge: -200.000 Digital-
+abos 
+ 
+ 
+auch keine Teilnahme 
+mehr beim frz. Readly-
+Pendant Cafeyn 
+ 
+Die drei wirksamsten A/B-Tests (Fortsetzung) 
+P 
+A/B-Tests 
+ 
+Was waren ihre drei wirksamsten A/B-Tests? Diese Frage haben wir führenden Leser-
+marktverantwortlichen gestellt, weil wir davon überzeugt sind, dass wirksame Tests ei-
+nes Verlages mindestens wertvolle Anregungen für andere Verlage sein sollten, und 
+dass gar nicht so selten Testergebnisse von einem Markt und einer Marke auch für an-
+dere Märkte und Marken Gültigkeit haben. 
+Eine Testfragestellung, der wir im Rahmen unserer Recherchen immer wieder begegnet 
+sind und zu der unsere Ansprechpartner über völlig entgegensetzte Ergebnisse berich-
+ten, ist die Frage, ob man auf der Paywall ein einzelnes Angebot pushen sollte oder 
+eine Auswahl mehrerer Angebote; womöglich derart, dass eines dieser Angebot außer-
+ordentlich attraktiv ist und darum den Großteil der Bestellungen auf sich zieht ('Decoy'-
+Taktik). 
+Diese Testfrage nennt Katharina Hauser-Puntigam, Digitalabochefin bei der Kleinen Zei-
+tung in Österreich, als erstes Beispiel für wirksame A/B-
+Tests in ihrer folgenden Antwort auf unsere Frage. 
+Die drei wirksamsten A/B-Tests bei der Kleinen Zeitung 
+"Um in der Akquise etwas zu bewegen, haben wir – ge-
+rade auf der Paywall – laufend A/B-Tests aktiv. Allein in 
+diesem Jahr arbeiten wir bereits an unserem achten A/B-
+Test auf der Paywall. Die Erkenntnisse eines Tests führen 
+oft direkt zu einem nächsten Test und somit nähern wir 
+uns Schritt für Schritt einer optimierten Paywall, als 
+eine der primären Akquise-Quellen für uns. Die drei größ-
+ten Erkenntnisse, die wir diesbezüglich in letzter Zeit ge-
+wonnen haben: 
+> Ein einziges Abo-Angebot auf der Paywall performt am 
+besten. Mehr als 80% unserer Website-Zugriffe und 60% 
+unserer Abo-Abschlüsse erfolgen auf mobilen Endgerä-
+ten, d.h. die Zahlschranke muss primär mobil 
+ 
+ 
+Frage an Verlage: was 
+waren Ihre 3 wirk-
+samsten A/B-Tests? 
+ 
+ 
+ 
+ 
+Sehr häufige Testfrage: 
+1 oder mehrere Ange-
+bote auf der Paywall? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kleine Zeitung 
+ 
+laufende A/B-Tests zur 
+Annäherung an opti-
+mierte Paywall 
+ 
+ 
+ 
+ 
+ 
+ 
+die 3 wirksamsten 
+Tests: 
+ 
+ 
+1) Nur 1 Abo auf 
+Paywall! 
+ 
+ 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 9
+funktionieren, und das zeigte auch unser A/B -Test sehr gut. Ein einziges Paywall-An-
+gebot erzielte eine um 13 % höhere Conversionrate als zwei Paywall-Angebote in der 
+mobilen Ansicht untereinander bzw. in der Desktop-Ansicht nebeneinander. Nachdem 
+wir unseren Leser:innen allerdings gerne die Wahl zwischen unseren beiden Digitalabo-
+Angeboten lassen möchten (Plus-Abo und Plus-Abo mit E-Paper), haben wir uns für ei-
+nen Schieberegler auf der Paywall entschieden, der es unseren Usern ermöglicht, zwi-
+schen beiden Abo-Angeboten zu wechseln. In einem darauffolgenden Test haben wir 
+eruiert, welche User welches der beiden Digitalabo-Angebote als erste Option angezeigt 
+bekommen.  
+> Das Abo-Angebot auf der Paywall sollte für alle User-Segmente so niederschwellig wie 
+möglich sein. Wir können die User auf unserer Website nach Abo-Abschluss-Wahr-
+scheinlichkeit in unterschiedliche Segmente teilen. Ein A/B-Test hat ergeben, dass die 
+Paywall mit unserem Monatsabo mit 6-wöchigen Testzeitraum in jedem User-Segment 
+eine höhere Conversionrate erzielte als die Paywall mit unserem Halbjahres- bzw. Jah-
+resabo mit exakt gleichem Testzeitraum. Sogar in den beiden User-Segmenten, die die 
+höchste Abo-Abschluss-Wahrscheinlichkeit aufweisen, hatte die Paywall mit unserem 
+Monatsabo im Schnitt eine 55% höhere Conversionrate. Das führte dazu, dass trotz 
+der geringeren Retention Rate die Paywall mit Monatsabo in allen Segmenten schluss-
+endlich die meisten Abos erzielte. Wichtig ist uns allerdings, dass der Testzeitraum nicht 
+ganz kostenlos ist und unsere User dafür zumindest einen geringen Betrag, derzeit 0,99 
+€, bezahlen müssen. Somit selektieren wir von Beginn an User aus, die vermutlich nie 
+bereit wären, einen regulären Abo-Preis zu zahlen. 
+> Das Wording '42 Tage für 0,99€' performt auf der Paywall besser als '6 Wochen für 
+0,99€'. Dass wir bei diesem Paywall-Test ein signifikantes Ergebnis erzielten, verwun-
+derte uns selbst. Das Wording '42 Tage für 0,99 ' erzielte eine um 20 % höhere Con-
+versionrate, als das Wording '6 Wochen für 0,99€'. Die User scheinen den Testzeit-
+raum als länger wahrzunehmen und schließen somit eher ein Abo ab. Die Reihung von 
+Dauer und Preis des Testzeitraums machen in der Performance allerdings keinen Un-
+terschied mehr. 
+Zusätzlich hatten wir im Zuge einer Abo-Kampagne dieses Jahr einen weiteren A/B-Test 
+auf unterschiedlichen Online-Werbemitteln auf unserer Website laufen, der uns zu fol-
+gender Erkenntnis geführt hat: Die Kommunikation von '1 € pro Woche' performt besser 
+als '4€ pro Monat'. Die Conversionrate bei einer Kommunikation von '1€ pro Woche' ist 
+um 80% höher als bei einer Kommunikation von '4€ pro Monat'. Es scheint also so, dass 
+eine kleinere Preiseinheit eine niedrigere Hemmschwelle für User darstellt und somit 
+eher ein Abo abgeschlossen wird. [pvd: Wochenpreise statt Monatspreise haben sich 
+auch beim Spiegel als ein überraschend wirksamer Hebel erwiesen. Dazu unten mehr.] 
+Testing gepaart mit einer gesunden 'Trial-and-Error'-Mentalität ist seit Beginn an fixer 
+Bestandteil unseres Teams und ein ausschlaggebender Faktor für unser Digitalabo-
+Wachstum. Man darf allerdings nicht vergessen, dass es sich bei A/B-Tests immer nur 
+um Momentaufnahmen handelt. Unser Produkt entwickelt sich stetig weiter und auch 
+ 
++13% Abo-Bestellun-
+gen 
+ 
+ 
+ 
+ 
+'Schieberegler' bietet 
+Zugriff auf ein zweites 
+Angebot 
+ 
+ 
+ 
+2) Flexabo (monatlich 
+kündbar) sogar in den 
+Top-Segmenten den 
+Jahresabos überlegen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3) "42 Tage" +20% 
+Abos ggü. "6 Wochen" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"1€ pro Woche" + 80% 
+ggü. "4€ pro Monat" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Produkte und Märkte 
+verändern sich => 
+Tests zeigen immer nur 
+Momentaufnahmen 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 10
+der Markt verändert sich regelmäßig. Eine Erkenntnis heute kann im nächsten Quartal 
+wieder verworfen werden. Deshalb ist es wichtig, sich auf seinen Lorbeeren am digitalen 
+Markt nie auszuruhen." 
+Die drei wirksamsten A/B-Tests bei Funke Medien 
+In der letzten Ausgabe haben wir das Testwissens-Management der FAZ besonders 
+herausgehoben. Allein steht der Titel mit seiner Best Practice in diesem Bereich aber 
+nicht. Auch der Regionalzeitungskonzern Funke Medien dokumentiert alle Tests (in 
+Google Sheets, im damit verlinkten Ticketing-System Jira und, wie die FAZ, in einer Con-
+fluence-Datenbank). 
+Für das Testmanagement hat Funke im vergangenen Jahr eine eigene Position ge-
+schaffen. Kira Reibe, Head of Digital Subscription bei Funke: "Sarah Barth ist unsere Opti-
+mization Consultant. In dieser Rolle ist sie für die Planung und die Erstellung der funke-
+weiten Test-Roadmap im Bereich Paid Content verantwortlich. Sie sorgt dafür, dass un-
+sere Tests standardisiert sind, die Qualität hoch ist und führt umfangreiche Analysen 
+durch. Darüber hinaus ist es ihr vorrangiges Ziel, alle Teammitglieder eigenständig im 
+Aufsetzen und Auswerten von Tests zu schulen und zu befähigen. Sarahs Rolle und Auf-
+gaben sind ein zentraler Baustein für unsere Produkt-, Kampagnen- und UX-Weiter-
+entwicklung." 
+Funkes Teststrategie zeichnet sich auch durch eine hohe Sensibilität für die Fragilität 
+von Tests aus. "Tests mit hohem Business Value werden im Rahmen unserer Testing 
+Strategie regelmäßig gleich oder zumindest in ähnlicher Gestalt wiederholt, um sicher 
+zu gehen, dass wir nicht mit veralteten Ergebnissen am Markt vorbei arbeiten", sagt Kira 
+Reibe. 
+[pvd: auch Katharina Puntigam betont oben die Notwendigkeit, wichtige Tests regelmä-
+ßig zu wiederholen. Das ist nicht nur notwendig, weil sich Märkte und Nutzerverhalten 
+ändern könnten. Es ist auch deswegen wichtig, weil beim Testen Fehler passieren. Wir 
+empfehlen hier eine hohe Sensibilität. In Zeiten nicht-digitaler Tests musste man davon 
+ausgehen, dass etwa ein Drittel aller Marketing-Tests an nicht verwertbaren 
+ 
+ 
+ 
+ 
+ 
+Exkurs: 1 oder mehrere 
+Angebote auf der 
+Paywall? 
+ 
+unterschiedliche, ge-
+gensätzliche Testergeb-
+nisse 
+ 
+pvd #7/2022: Zeitun-
+gen in D/A/CH je zur 
+Hälfte mit 1 oder meh-
+reren Angeboten 
+ 
+Top36 News-Websites 
+weltweit: 80% mit 1 An-
+gebot, 20% mit mehre-
+ren Angeboten 
+ 
+ 
+Funke Medien 
+ 
+ 
+Auch Funke mit weit 
+entwickeltem Test-Wis-
+sensmanagement 
+ 
+ 
+ 
+eigene Stelle für das 
+Test-Management: 'Op-
+timization Consultant' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wichtige Tests werden 
+wiederholt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ein Angebot oder mehrere Angebote auf der Paywall? 
+So eindeutig, wie die Kleine Zeitung zum dem Ergebnis kam, dass ein einzelnes Angebot um-
+wandlungsstärker ist als mehrere Angebote, so eindeutig klang das gegenteilige Testergebnis 
+bei der Rheinischen Post, über das wir in der Vorausgabe berichtet haben oder die Überlegen-
+heit von 2 Angeboten gegenüber nur einem Angebot auf der Paywall beim Spiegel, über die wir 
+weiter unten berichten. 
+Wie unterschiedlich die deutschsprachigen Zeitungen in ihrer Gesamtheit in dieser Frage urtei-
+len, darüber haben wir in der Juli-Ausgabe des Vorjahres berichtet. Je etwa die Hälfte von über 
+50 von uns untersuchten Zeitungswebsites in Deutschland, Österreich und der Schweiz macht 
+genau ein Angebot, die andere Hälfte mehr als ein, oft genau drei Angebote.  
+Im Rahmen einer aktuellen Auszählung ist die Marketingchefin des französischen Paywall-
+dienstleisters Poool, Marion Wyss, jüngst zu dem Ergebnis gekommen, dass von den 36 größten 
+internationalen Paid Content-Nachrichtenmedien auf seiner Paywall jedes fünfte mehrere An-
+gebote zur Auswahl stellt, rund 80% jedoch darauf setzen, auf der Paywall genau ein Angebot 
+zu machen (vgl. pvd #9/2023). 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 11
+Ergebnissen scheitert (vgl. Schöberl, 'Tests im Direktmarketing', Redline Wirtschaft, 
+2004). Ein vergleichbar ermitteltes Datum zur Fehleranfälligkeit digitaler Tests ist uns lei-
+der nicht bekannt. Auf die Herausforderungen der Testmethodik kommen wir im Rah-
+men unserer Artikelserie noch zurück.] 
+Die 3 wirksamsten Tests bei Funke 
+Die drei wirksamsten Tests zu bestimmen sei gar nicht so einfach, beantwortet Kira 
+Reibe unsere zentrale Frage. Es sei die Vielzahl an Tests und der Erkenntnisse daraus, auf 
+dies es ankomme. Viele der Testergebnisse führten über Nachfolgetests zu wirksamen 
+Ergebnissen. Und: "Auch ein nicht erfolgreicher Test, kann einem den richtigen Weg wei-
+sen". Dies vorausgeschickt, stellt Reibe folgende drei Tests vor. 
+> "Durch die Optimierung des mobilen Check-out-Flows konnten wir beeindruckende Er-
+gebnisse erzielen: Die CTR stieg um 38% und wir haben knapp 15% mehr Abos ge-
+macht. Wir haben den Check-out-Prozess durch das Entfernen unnötiger Bilder, 
+Texte und Eingabefelder schlanker gestaltet, alle gängigen Bezahlmethoden integriert 
+und die Navigation vereinfacht. Wichtige Felder wurden visuell hervorgehoben, um die 
+Benutzerführung zu verbessern und die Conversion-Rate zu steigern." [pvd: der Zeit-
+punkt dieses Tests liege schon länger zurück, teilt uns Kira Reibe mit.]  
+ 
+> Im Sommer 2023 testete Funke die Wirkung einer rollierenden Ansprache. Statt einer 
+immergleichen Handlungsaufforderung auf einem Werbebanner testete Funke die Wir-
+kung von Abwechslung 
+durch ein rollierendes Set 
+unterschiedlicher Werbe-
+texte. Das Ergebnis war ein 
+über 50%ige Steigerung 
+der Klickraten.  
+> Mit einem seit langem be-
+kannten Marketing'trick' 
+(Verknappung) konnte 
+Funke ebenfalls deutliche 
+Steigerungen bei der Abo-
+Conversion erzielen. 
+ 
+Die drei wirksamsten A/B-Tests bei Der Spiegel 
+Für den Spiegel beantwortete Simon Schwandner, Leiter Data & Research, unsere Frage 
+nach den wirksamsten A/B-Tests. 
+ 
+ 
+ 
+ 
+die 3 wirksamsten 
+Tests: 
+ 
+ 
+Auch 'kleine', sogar 
+nicht erfolgreiche Tests 
+können wirksam sein! 
+ 
+ 
+ 
+ 
+1) Verschlankung Abo-
+Bestellprozess => +15% 
+Abos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2) abwechselnde Wer-
+bemittel => +57% 
+Klicks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3) künstliche Verknap-
+pung: 
+• +20% Abos durch 
+Wording 'streng li-
+mitiert' 
+• +25% Abos durch 
+zeitliche Befristung 
+ 
+ 
+ 
+ 
+Der Spiegel 
+die 3 wirksamsten 
+Tests: 
+ 
+ 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 12
+> "Paywall-Design Test bei spiegel.de und manager-magazin.de. Wir haben verschiedene 
+Designvarianten mit einem und zwei Angeboten auf der Paywall gegeneinander getes-
+tet mit der Hypothese, dass weniger Ablenkung und eine klarere Kommunikation auf 
+der Paywall auch zu mehr Abschlüssen in unserem Bestellprozess führen. Bei diesem 
+Test von insgesamt 5 Varianten hat unsere aktuelle, intern als 'Switch' betitelte, Variante 
+gewonnen und bei spiegel.de zu einem Uplift von 13% auf die Bestellungen geführt, bei 
+manager-magazin.de zu einem Uplift von 30%. Bei beiden Angeboten hat sich für uns 
+das Ausspielen von 2 Angeboten auf der Paywall deutlich bezahlt gemacht und hatte 
+in Summe einen größeren Effekt als die sehr direkte Kommunikation mit nur einem An-
+gebot. 
+> Umstellung auf Wochenpreise bei spiegel.de. Im Zuge unserer ersten Preiserhöhung bei 
+Spiegel+ seit der Einführung vor 5 Jahren haben wir verschiedene Kommunikationen in 
+der Ansprache für die Akquise getestet. Dabei haben wir ein komplexeres Testsetup ge-
+nutzt, von Angeboten mit und ohne zwischengeschaltete Landingpage und von einer 
+Kommunikation in Monats- und Wochenpreisen. Dabei haben wir in verschiedenen Stu-
+fen getestet. In der ersten Stufe haben wir in einem reduzierteren Testaufbau die Base-
+line ohne Preiserhöhung gegen Varianten mit Preiserhöhung in unserem bisherigen 
+Setup mit einer Kommuni-
+kation von Monatspreisen 
+und monatlicher Abrech-
+nung gegen die Kommuni-
+kation von Wochenpreisen 
+einmal mit wöchentlicher 
+Abrechnung, einmal mit 
+monatlicher Abrechnung 
+getestet. In einer zweiten 
+Stufe noch einmal mehrere 
+Kommunikationsvarianten 
+mit und ohne Landingpage 
+und dazu noch unter-
+schiedliche Kommunikatio-
+nen auf der Paywall und 
+dem Banner. Bei beiden 
+Stufen hat jeweils die Variante mit der Kommunikation eines Wochenpreises und ei-
+ner wöchentlichen Abrechnung gewonnen. Diese Variante hat im Test auch gegen-
+über dem günstigeren Monatspreis einen Uplift von 23% gebracht und damit einen 
+deutlichen Schub in der Akquise. Wir hätten vorher keinen so deutlichen Effekt von den 
+greifbareren Wochenpreisen erwartet. 
+> Test von Jahresabos mit verschiedenen Rabattstufen auf der zweiten Paywallposition. 
+Wir haben bisher meist mit '3Monate für 30€' ein Angebot mit einer kürzeren Laufzeit 
+auf der zweiten Paywallposition gespielt. In dem Test wollten wir die Hypothese prüfen, 
+ob wir durch das Angebot von Jahresabos auf der zweiten Position unseren Umsatz in 
+1) zwei Angebote auf 
+der Paywall => +13% 
+Orders (Spiegel); +30% 
+Orders (Manager Mag.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2) Kommunikation 
+(Formulierung) der 
+Aboangebote 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wochenpreise +23% 
+ggü. Monatspreisen 
+ 
+ 
+ 
+ 
+3) Angebotstest für 
+zweites Abo auf der 
+Paywall 
+ 
+ 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 13
+Summe steigern können. Dabei wollen wir aber aus strategischen Aspekten keine zu 
+stark rabattierten Jahresangebote spielen. Daher haben wir uns für die Rabattstufen 
+25, 30 und 35% auf das Jahresabo entschieden. Hier gewinnt die 35% Variante deut-
+lich und führte zu einem Uplift von 7% auf den prognostizierten Umsatz. Die Bestel-
+lungen für das erste Angebot bleiben dabei bei allen Varianten relativ konstant. Wir ver-
+lieren gegenüber dem kürzeren Angebot mit 3für30 zwar an Bestellungen, überkom-
+pensieren das jedoch durch die längeren Laufzeiten." 
+Insgesamt führt der Spiegel 40-50 Tests jährlich durch. Über das Testmanagement beim 
+Spiegel berichtet Schwandner: "Wir haben im interdisziplinären Data & Research-Team 2 
+Kolleg:innen, die sich explizit um die Konzeption, Durchführung und Auswertung 
+von A/B/n-Tests auf unseren Angeboten beschäftigen. Dort liegt auch die Verantwor-
+tung für die Testings. Die Kolleg:innen arbeiten dabei in enger Abstimmung mit unserem 
+Abo-Team für die Priorisierung von aborelevanten Tests zusammen. Für die jeweils an-
+stehenden Tests gibt es eine Roadmap aus dem Team, die mit den jeweiligen Fachabtei-
+lungen priorisiert und gefüllt wird. Tests und Hypothesen kommen dabei in den meisten 
+Fällen aus unserer interdisziplinären Produktentwicklung, in der Vertrieb, Produkt, Mar-
+keting, Media und Redaktion gemeinsam unsere Produkte & Angebote weiterentwickeln. 
+Das Team Data & Research beschäftigt sich dabei auch mit UX-Testings, Nutzer:innenin-
+terviews und -befragungen und der Analyse und Bereitstellung unserer Nutzer:innenda-
+ten. Dadurch können wir Tests immer ganzheitlich denken und auch mit mehreren Me-
+thoden untersuchen. 
+Unsere Testergebnisse werden in Confluence dokumentiert und stehen dort dem Haus 
+offen. Teststarts und Ergebnisse werden immer adHoc an die Stakeholder und Fachberei-
+che kommuniziert. In regelmäßigen Abständen werden die Ergebnisse zudem in unse-
+rer wöchentlich stattfindenden Produktentwicklungskonferenz an alle Beteiligten 
+im Haus kommuniziert. Dadurch, dass das Fachwissen auch bei zwei Personen im Haus 
+gebündelt ist, können wir auch ältere Ergebnisse immer wieder hervorholen oder einflie-
+ßen lassen. Aktuell arbeiten wir meist mit den Gewinnervarianten weiter und nehmen 
+diese als gegeben hin. Bei größeren Themen kann es auch dazu kommen, dass wir alte 
+Ergebnisse noch einmal nachprüfen. Das ist aber nicht die Regel." 
+Beim Spiegel sind wir auch einem Thema begegnet, dass im Zusammenhang mit Tests 
+niemals ausgeblendet werden darf: Fehler im Testprozess. Die passieren überall. Es wird 
+nur nicht gerne darüber gesprochen. Torben Sieb, Lesermarktchef des Spiegel, hat uns 
+hier ein schönes Beispiel genannt. Der Test eines 'ohne Werbung'-Abos konnte nicht ab-
+schließend bewertet werden, weil sich die Langfristfolgen auf die Haltbarkeit der Abon-
+nenten nicht ermitteln ließen. Durch die fehlende Weitergabe eines Kampagnenparame-
+ters an das Customer Datawarehouse gab es kein Merkmal, mit dem sich die Abos aus 
+der Testvariante auch später noch hätten identifizieren lassen können. Dieses Thema 
+und weitere Beobachtungen zum Testmethodik und zu Test-Statistiken werden 
+Schwerpunkt der Fortsetzung dieser Artikelserie in der kommenden Ausgabe sein. 
+ 
+ 
+ 
+Jahresabo mit 35% Ra-
+batt ggü. Flexpreis = 
++7% Umsatz 
+ 
+ 
+ 
+ 
+ 
+40-50 Tests jährlich 
+ 
+2 Mitarbeiter mit 
+Haupt-Aufgabe Test-
+Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dokumentation der Er-
+gebnisse in Confluence 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Herausforderung: Test-
+Methode und fehler-
+hafte Tests 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+… mehr dazu in pvd 
+#11/2023 
+ 
+ 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 14
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe 
+von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende Abonnenten ma-
+chen Sie das möglich.  
+ 
+Gelegentlich erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das 
+ist durch den regulären Abopreis nicht abgedeckt.  
+ 
+Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen. Für mehrere Abos 
+innerhalb eines Unternehmens kann ich Ihnen attraktive Mehrfachlizenzen anbieten. Ich 
+verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: 
+schoeberl@pv-digest.de, Tel.: +49 40 308 901 09. 
+ 
+mit einem herzlichen Dankeschön, Ihr 
+Markus Schöberl, Herausgeber pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nein, das mache ich 
+nicht. Warum unter-
+stützt Du diesen 
+Dienst nicht mit ei-
+nem eigenen Abo? 
+Kannst Du mir 
+pv digest  
+weiterleiten? 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 15
+ 
+         
+P 
+      
+Marktentwicklung
+neue Objekte 
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im 
+September 2023, zu Anzahl 
+und Erscheinungsweise siehe 
+"Daten Cockpit Handel")  
+   
+ 
+Marktentwicklung
+Preise
+ 
+neu eingeführte Zeitschriften 
+Print, Presse-Apps in ausge-
+wählten Stores 
+   
+ 
+Marktentwicklung
+Copypreise 
+ 
+ 
+(Häufigkeitsverteilung Copy-
+Preise bei neuen Zeitschrif-
+ten) 
+  
+ 
+DATEN COCKPIT VERLAGE
+QUELLEN:
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 16
+ 
+ 
+ 
+ 
+ 
+Blick zurück in die Zukunft: Fit for Future? Im Grosso-
+vertrieb wird kein Stein auf dem anderen bleiben. 
+P 
+pvd Nachhaltigkeits-
+Check 
+ 
+Vor einem Jahr dokumentierten wir ausführlich den über zwei öffentliche Reden ausge-
+tragenen Streit zwischen der Verlagsseite (vertreten von Bauer-Manager Ingo Klinge) und 
+Grossoverbandschef Frank Nolte. Solche zwei Reden gab es nun wieder. Nur dass eine der 
+beiden Seiten diesmal den Streit verweigerte. 
+Nachdem Bauer-Vertriebschef Mark Schrader zuletzt auf äußerst polemische Weise weit-
+reichende Forderungen an die Unternehmen des Pressegrosso formuliert hatte (vgl. 
+Schlusskommentar der letzten Ausgabe), hätte man – wie im Vorjahr – eine vergleichbar 
+deutliche Antwort des scheidenden Vorsitzenden des Gesamtverbandes Pressegrosso, 
+Frank Nolte, im Rahmen seiner Eröffnungsrede zur Jahrestagung seines Verbandes am 12. 
+September in Wiesbaden erwarten können. Die blieb aber aus. Abgesehen von einer 
+höchst diplomatischen Zurechtweisung ("nicht hilfreiche maritime Metaphern") signali-
+sierte er vor allem Gesprächsbereitschaft. Klare Absagen an auch nur eine der Forde-
+rungen Schraders blieben aus. "Lassen Sie uns ein neues Bündnis schließen. Ein nationales 
+Bündnis, das den Pressevertrieb moderner, effizienter und zukunftsfest macht", war Nol-
+tes wesentliche Reaktion auf die von Schrader vorgetragenen Forderungen. 
+"Ein Bündnis" – das klingt nach einer die Systemorganisation bewahrenden, vielleicht so-
+gar heimeligen Konstruktion. Es ist aber eventuell auch schlicht ein Ausdruck der Hilflosig-
+keit angesichts der noch völlig unklaren Architektur des Pressevertriebssystems nach 
+dessen allseits erwarteter radikaler Umgestaltung. 
+Denn nichts weniger ist in Vorbereitung. In den letzten 10 bis 15 Jahren gab es immer 
+wieder einmal massive Konfrontationen zwischen Verlagen und Grossisten und zwischen 
+großen Verlagen und kleinen Verlagen dadurch, dass insbesondere Großverlage sie bevor-
+zugende Veränderungen an den jeweils geltenden Verabredungen zum Grossovertrieb 
+einforderten. Obwohl diese Streitfragen – gemessen an den nun diskutierten Umgestal-
+tungsideen – nur gradueller Art waren, scheinen sich alle am Ökosystem des Grossover-
+triebs teilnehmenden Akteure damit abgefunden zu haben, dass diesmal kein Stein 
+auf dem anderen bleiben könnte. 
+Das jedenfalls ist unser Eindruck aus zahlreichen Gesprächen auf der o.g. Jahrestagung. 
+Nicht nur, weil Frank Nolte auf eine Gegenposition zu den Forderungen des Bauer-Mana-
+gers verzichtet hatte. Sondern zum Beispiel auch deswegen, weil Lars Rose, Gesellschafter 
+und Geschäftsführer des erst in den letzten Jahren zum Schwergewicht gewordenen 
+Klambt Verlages, auf der gleichen Veranstaltung teils in die gleichen Kerben hineinschlug 
+wie letzterer, teils sogar noch drastischer formulierte. Wie Mark Schrader forderte Rose, 
+dass die Grossounternehmen sich auf nur "ein" Regulierungssystem einigen sollten 
+ 
+Vor 1 Jahr: Grossover-
+band und Verlagsseite 
+streiten öffentlich 
+ 
+ 
+ 
+Kürzlich bot erneut ein 
+Bauer-Manager eine 
+Steilvorlage zur Ausei-
+nandersetzung 
+ 
+ 
+ 
+Aber die Grossoseite 
+blieb konsens-orien-
+tiert 
+ 
+ 
+ 
+ 
+ 
+ 
+das, obwohl eine radi-
+kale Umgestaltung des 
+Grossovertriebssys-
+tems zu erwarten ist 
+ 
+ 
+ 
+ 
+ 
+ 
+was Verlagsseite for-
+dert, geht weit über 
+Streitfragen der Ver-
+gangenheit hinaus 
+ 
+ 
+ 
+ 
+z.B. Klambt-Verlag: 
+ 
+ 
+ 
+ 
+ 
+• nur 1 (!) Regulie-
+rungssystem 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+#10/22 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 17
+[Hervorhebung im Originalchart]. Grossisten sollten klar trennen zwischen "originärer Ba-
+sisleistung" [lies: Logistik&Abrechnung] und "Zusatzleistungen" [lies: alles andere, z.B. Au-
+ßendienstleistungen]. Sie sollten "Transparenz" gewährleisten [vermutlich lies: ihre Bücher 
+offenlegen]. Grossisten sollten von den Verlagen "nur die zur Aufrechterhaltung des Ver-
+triebs notwendigen originären Vertriebskosten" bezahlt bekommen [lies: z.B. nicht die In-
+vestitionen in den Ausbau der Overnight-Logistik des von der Grossoseite zu Zwecken der 
+Ent- und Auslastung der vorhandenen Ressourcen gegründeten Gemeinschaftsunterneh-
+mens]. Und schließlich: "Der Presse-Einzelvertrieb darf für die Verlage nicht teurer werden 
+(max. Deckelung des aktuellen HSP-Niveaus)". 
+Seinen Vortrag schloss Rose mit einem bemerkenswerten Fazit: "Wir in der Medien-
+gruppe Klambt zweifeln aktuell an, dass die von uns formulierten Ziele und die daraus 
+aus unserer Sicht resultierenden Maßnahmen in der heutigen Systemlandschaft bis 
+2027 zu erreichen sind".  
+Wer also bis dahin noch dachte, dass zum Laufzeitende der derzeit gültigen Handelsspan-
+nenregelung wieder neue Verhandlungen zwischen den dann noch verbliebenen selbst-
+ständigen Grossisten und Verlagen über eine Regelung für die Zeit ab 2028 stattfinden 
+werden, der sollte aufwachen. Das wird nicht passieren. 
+Branchenbarometer deutet auf 'Umschwung' 
+An dieser Stelle verlassen wir den Boden der belegbaren Tatsachen und betreten oft 
+schwankenden Grund: Hörensagen, vertrauliche Gespräche, Spekulationen. Aber anders 
+können wir keinen realistischen Eindruck von dem außerordentlichen Umschwung des 
+Branchenklimas geben, den wir in Wiesbaden wahrgenommen haben. 
+Ein offenes Geheimnis [von dem aber längst nicht jeder Betroffene weiß] ist, dass sich 
+derzeit Vertreter von 11 Verlagen mit hoher Frequenz an Freitagen treffen und hinter ver-
+schlossenen Türen darüber diskutieren, wie eine noch möglichst langlebige Systemland-
+schaft für den Presseinzelverkauf erhalten werden kann. Diese 'Fridays Fit for Future' 
+gelabelte Runde hat den Anspruch, die gesamte Publikums- und Tagespresse zu reprä-
+sentieren. Darum sind kleine (z.B. VF Verlag, Kelter) und große Zeitschriftenverlage (Bauer, 
+Burda, Klambt) ebenso vertreten wie die Tagespresse (FAZ, SZ, Bild). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• auf Basisleistungen 
+beschränken 
+ 
+• Bücher offen legen 
+ 
+ 
+• kein Geld der Ver-
+lagsseite für presse-
+unabhängiges Over-
+night-Geschäft 
+ 
+ 
+ 
+"unsere Ziele nicht in 
+der heutigen System-
+landschaft erreich-
+bar"?!! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eindrücke zum Bran-
+chenklima 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heimliche Verlags-
+runde berät über Sys-
+temumgestaltung  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Über Fit-for-Future (folgend 3F) 
+Wieder einmal verhält sich diese Runde, die antritt, um 'das Vertriebssystem' für alle zu retten, 
+wie ein Geheimbund aus einem Mittelalter-Verschwörungsroman. Nicht einmal die beteiligten 
+Verlage mochten Bauer Manager Mark Schrader und Burda Managerin Kerstin Gajewi nennen, 
+die wir behelfsweise um Auskunft gebeten hatten, weil es natürlich keinen Pressesprecher und 
+keine(n) öffentlich benannte(n) Vorsitzende(n) dieser 3F- Runde gibt.  
+Auch die folgenden Fragen mochten die beiden nicht beantworten: 
+> Wie und nach welchen Kriterien wurde der Personenkreis [der Fit for Future Runde] zusam-
+mengesetzt? 
+> Wann ist vorgesehen, die Pressegrossisten in die Gespräche einzubeziehen? 
+> Ist geplant, zu einem späteren Zeitpunkt weitere mögliche Betroffene hinzuzuziehen (z.B. Na-
+tionalvertriebe? Einzelhandelsvertreter? Bahnhofsbuchhandel? 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 18
+ 
+Wie schon bei den Verhandlungen zum Thema Handelsspannen durch die 'G7/G13'-Ver-
+lage funktioniert die in diesem Kreis abgesprochene Geheimhaltung recht gut. Wie sehr 
+die oben angesprochenen Forderungen der Herren Schrader und Rose bzw. der Häuser 
+Bauer und Klambt bereits Konsens unter den 3F-Vertretern sind, ist unklar. Teilnehmer 
+der 3F-Runden betonen uns gegenüber, dass es sich dabei (noch?) um deren Einzelmei-
+nungen handele. Aber trotz aktiven Bemühens haben wir nicht einmal außerhalb des 
+verschwiegenen Kreises eine grundsätzliche Opposition gegen die in Vorbereitung 
+befindliche Umgestaltung des Vertriebssystems gefunden. Nicht im Kreis kleiner Ver-
+lage und nicht einmal bei den Grossofirmen, die sich nach 2027 ganz offensichtlich in 
+neue Rollen werden fügen müssen. 
+Zwar gibt es noch keine ausdefinierten Pläne. Aber alles läuft darauf hinaus, dass zukünf-
+tig die Mechanismen, Leistungen und Preise des Pressevertriebssystems nicht mehr 
+zwischen Grossofirmen auf der einen Seite und Verlagen auf der anderen Seite ausgehan-
+delt werden. Stattdessen werden diese beiden Seiten unter einer gemeinsamen Regie 
+geführt werden – und den Regiestab wird dabei die Verlagsseite in der Hand halten. 
+Unklar ist, ob es überhaupt noch mehrere selbstständige Grossounternehmen geben wird. 
+Die explizite Forderung, sich auf ein einziges Regulierungssystem zu einigen, die gefor-
+derte 'Transparenz' und die Kritik der Verlagsseite an den Versuchen der Grossisten, ein 
+pressefernes Overnight-Geschäft aufzubauen, deuten jedenfalls darauf hin, dass die 
+Selbstständigkeit nicht mehr allzu ausgeprägt sein kann. Was auch in Frage gestellt wird, 
+das ist die Rolle der Nationalvertriebe. Ob deren zwischen Verlagen und Pressegroßhandel 
+befindliche Scharnierfunktion noch benötigt werden wird, wenn zukünftig Mengen-Dispo-
+sition, Abrechnung und alle anderen Fragen in den Händen eines "Bündnisses" liegen, ist 
+offen. 
+ 
+ 
+ 
+ 
+Themen, Ideen und 
+Forderungen werden 
+überwiegend geheim-
+gehalten 
+ 
+ 
+ 
+dennoch: kaum/keine 
+Kritik an diesem For-
+mat 
+ 
+ 
+ 
+ 
+obwohl radikale Ände-
+rungen zu erwarten 
+sind 
+ 
+zukünftiges Grossosys-
+tem wird nicht mehr 
+verhandelt, sondern 
+von Verlagen diktiert  
+ 
+auf der Strecke bleiben 
+könnten dabei: 
+• Selbstständigkeit der 
+Grossounternehmen 
+• Nationalvertriebe 
+• u.a.m. 
+ 
+ 
+ 
+ 
+pvd meint Wie seit Jahren üblich wird die Zukunft des Pressehandels von einem Gre-
+mium mit unklarer Legitimation hinter verschlossenen Türen verhandelt. Unüblich ist, 
+dass es uns nicht gelungen ist, auch nur anonyme Grundsatzkritik an diesem Verfahren 
+oder den wenigen aber durchaus pointierten Umgestaltungsideen, die wir oben skizziert 
+haben, zu finden. Auch die Grossofirmen haben sich in die Notwendigkeit ergeben, ihre 
+eigene Rolle drastisch zu beschneiden. Auch kleine Verlage und deren Interessenvertre-
+ter (AMV) sehen die gewaltige Bedrohung eines totalen Zusammenbruchs und vertrauen 
+darauf, dass die Fit for Future-Gesprächsrunde tatsächlich an einer Lösung arbeitet, die 
+auch in ihrem Interesse ist. 
+Nur Nuancen werden in Frage gestellt. Warum die Fixierung auf genau ein Regulie-
+rungssystem, das dann ja eine Monopolstellung innehätte? Warum unterstützen die Ver-
+lage so gar nicht den Versuch der Grossisten, ihre Logistikstrukturen mit neuen Geschäf-
+ten besser auszulasten? [Diese Frage ist allerdings schon seit einigen Jahren offen.] 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 19
+  
+ 
+Abo-USP "Du weißt niemals, was als nächstes kommt" 
+P 
+Stack 
+ 
+Ein ganz besonderes Aboangebot macht das englische Unternehmen 
+Stack. Jeden Monat erhalten die Stack-Abonnenten eine andere 
+Zeitschrift. Jeden Versand begleitet ein einseitiges Schreiben, im dem 
+Stack-Gründer und Geschäftsführer Steve Watson Appetit auf den jeweiligen Titel macht 
+und begründet, warum diese Zeitschrift besonders und lesenswert ist. "Es gibt stapel-
+weise fantastische Zeitschriften, die nur darauf warten, entdeckt zu werden, und Stack 
+macht es billiger und einfacher, sie zu entdecken und zu genießen". So beschrieb Watson 
+die Kernidee seines Angebotes, als wir im Juli 2015 zum ersten Mal über den ungewöhnli-
+chen Magazinaboanbieter berichtet hatten. 
+Einen Aboservice für den dauerhaften Bezug bestimmter Zeitschriften bietet Stack 
+nicht. Watson sagt, er wolle den Publishern eine Plattform liefern, die ihnen neue, ei-
+gene Abonnenten zuführt, nicht als "Middle Man" deren Wertschöpfung kürzen. 
+Das Stack-Abo umfasst nur 'Indie-Magazine', also unkonventionelle Zeitschriften, die 
+von kleinen, unabhängigen Verlegern herausgegeben werden. Steven Watson wählt 
+für jeden Versand eine Zeitschrift aus und kauft deren aktuelle Ausgabe für sämtliche sei-
+ner Abonnenten beim Verlag ein. Dafür bezahlt der den Publishern 1,90£ pro Heft. Im 
+Einzelverkauf an die Endkunden berechnen die Publisher für diese Hefte Preise im Be-
+reich des Vierfachen und darüber. Allerdings liegen die Auflagen normalerweise nicht sel-
+ten im nur dreistelligen und regelmäßig im überschaubar vierstelligen Bereich. "Manch 
+eine Zeitschrift kann ihre Druckauflage um das Drei- oder Vierfache steigern, wenn wir 
+sie versenden. Das ermöglicht deutlich günstigere Druckkosten. Außerdem bezahle ich 
+sofort. Im regulären Presse-Handel warten die Magazine manchmal sechs bis zwölf Mo-
+nate auf ihr Geld", erläutert Watson den Deal zwischen den 'Verlagen' und seinem 
+Abounternehmen. 
+ 
+Anbieter eines Jeden-
+Monat-eine-andere-
+Zeitschrift-Abos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nur 'Indie'-Magazine, 
+originelle, unkonventi-
+onelle Zeitschriften von 
+Kleinverlegern 
+ 
+ 
+ 
+Stack bezahlt den Ver-
+lagen nur kleinen 'Ab-
+gabepreis' 
+ 
+Die können dafür ihre 
+Druckauflage einmalig 
+deutlich erhöhen 
+ 
+ 
+Selbst die Verschwiegenheit der 'Medien-Allianz' (so bezeichnet Grossochef Frank 
+Nolte den 3F-Kreis) erscheint in einem anderen Licht als die klandestinen Absprachen 
+der vergangenen Jahre. Dahinter sind nicht nur egoistische Absichten zu vermuten. Die 
+Sorge, dem Kartellamt, Angriffspunkte zu bieten, noch bevor überhaupt klar ist, auf wel-
+che Ergebnisse man sich einigt, ist groß. Zwar betonen Mitglieder der 3F-Runde gerne, 
+dass man sich mit dem Kartellamt abgestimmt habe. Aber der Behördensprecher betont 
+in seiner Antwort auf unsere Fragen, dass es sich dabei nur um eine erste Einschätzung 
+und keineswegs um eine Entscheidung handele. Und aus seiner Antwort geht hervor, 
+dass der aktuelle Teilnehmerkreis der 3F-Runden und damit möglicherweise auch des-
+sen Legitimation schon nicht mehr den Umständen der Kartellamtsfrage entsprechen. 
+Widerstand der Behörde ist allerdings erst dann zu erwarten, wenn sich neuerlich je-
+mand zu diesem Thema beschwert.  
+Der Rückblick auf unseren Bericht vor 12 Monaten belegt einen drastischen Wandel. 
+Der damals äußerst wehrhaft auftretende Grossoverband hat sich in sein Schicksal, das 
+gerade von der Verlagsseite geschmiedet wird, gefügt. 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 20
+Über seine Abonnenten sagt Watson, dass deren Hauptmotivation die Erwartung sei, 
+jeden Monat von Stack überrascht zu werden. "Also stellen wir sicher, dass wir es nicht 
+an Abwechslung fehlen lassen. Wenn wir ein Food-Magazin verschicken, dann werden wir 
+in den nächsten 12 Monaten kein Zweites versenden. Wenn wir eine sehr textlastige Zeit-
+schrift versendet haben, dann versenden wir in den folgenden Monaten eher visuell aus-
+gerichtete Magazine". 
+Jeder Stack-Abonnent erhält im Rahmen der monatlichen Aussendung das gleiche Ma-
+gazin. Ausnahmen ermöglicht Watson nur in Fällen, in denen seine Kunden bereits eine 
+Zeitschrift beim Verlag abonniert haben. Hier gibt es die Möglichkeit zu einem Opt-out 
+für bestimmte Titel. Diese Kunden bekommen dann eine Alternative. Für solche Fälle 
+hat er immer Restmengen spannender Zeitschriften im Lager. Aber grundsätzlich ver-
+sucht Watson Ausnahmen zu minimieren. "Manche Kunden bitten mich, ihnen keine 
+Kochzeitschriften zu schicken oder keine Sportmagazine. Aber das mache ich nicht. Ich 
+wähle die Zeitschriften ja aus, um die Leute zu überraschen und weil ich denke, das soll-
+ten sie lesen." Aus genau diesem Grund versende er aber auch keine Back Issues. Das 
+Versprechen sei ja "Ich versende das Beste, was jetzt gerade zu haben ist" [letztlich sei es 
+auch sehr schwer, Back Issue-Mengen im erforderlichen Umfang zu erhalten]. 
+Bis zum Brexit wuchs Stack langsam, aber kontinuierlich 
+Abonnenten im Heimatland Großbritannien bezahlen für die monatliche Überra-
+schungssendung von Stack aktuell 80£ im Jahresabo oder 8£ pro Monat. Aus-
+landsabonnenten müssen schon wegen der Versandkosten mit deutlich höheren Preisen 
+leben. In Deutschland bietet Stack sein Abo für 150€ jährlich oder 15€ pro Monat an, 
+in den USA für 17$ pro Monat oder 190$ pro Jahr. 
+Vor fünfzehn Jahren, 2008, hatte Watson Stack als Nebenbeschäftigung gestartet. Im 
+Frühjahr 2014 erlaubte der erreichte Abonnentenbestand die vollberufliche Konzent-
+ration auf sein Unternehmen, das damals rund 1.500 Abonnenten hatte. Im Sommer 
+2015 konnte pv digest von der ersten Vollzeitangestellten berichten. Bei 3.100 Abonnen-
+ten stand der Zähler damals. 12 Monate später waren es 3.300 Abonnenten. Im August 
+2018 berichteten wir zum letzten Mal über Stack. Damals stand der Zähler bei 3.800 
+Abos. Jeweils rund 10% der Kunden stammten aus den USA, Rest-Europa und dem Rest 
+der Welt – 70% waren im englischen Heimatmarkt zuhause. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abo-Motivation: über-
+rascht werden wollen 
+ 
+ 
+ 
+ 
+ 
+ 
+Alle Abonnenten erhal-
+ten das gleiche Maga-
+zin; außer… 
+ 
+ 
+Wer eines der Maga-
+zine schon abonniert, 
+bekommt eine andere 
+Zeitschrift 
+ 
+ 
+ 
+ 
+ 
+ 
+wirtschaftliche Ent-
+wicklung 
+ 
+Abopreis zwischen 
+8£/80£ im Heimat-
+markt und 17$/190$ 
+ 
+ 
+ 
+ 
+Gründung 2008 
+ 
+ 
+anschließend langsa-
+mes, kontinuierliches 
+Wachstum 
+ 
+ 
+ 
+ 
+ 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 21
+Im Februar 2020 hatte Stack seinen bisherigen Höchststand zu vermelden. 4.300 
+Abonnenten aus aller Welt, zu großen Teilen aber auch aus der Europäischen Union, 
+bezahlten für das Jeden-Monat-eine-andere-Zeitschrift-Abo. Doch dann schlug der – mit 
+Datum 31. Januar 2020 vollzogene – Brexit zu. 
+Steve Watson: "Brexit war ein Desaster für uns. Wir hatten alle Formalitäten durch-
+laufen, eine IOSS-Nummer bezogen [pvd: Import-One-Stop-Shop-Nummer; die zollrechtli-
+che Voraussetzung für den EU-Import durch Online-Shops] und einen EU-Steuerbevoll-
+mächtigten beauftragt. Wir hatten herausgefunden, wie wir die Steuern bei unseren 
+Abonnenten erheben und wie wir sie mit den notwendigen Papieren versorgen, die bele-
+gen, dass die Steuern tatsächlich bezahlt worden sind. Das alles hatte uns schon eine 
+Menge Zeit und auch Geld gekostet. Aber dann haben die verschiedenen Postgesellschaf-
+ten innerhalb der EU unseren Abonnenten noch einmal zu Unrecht an der Haustür Geld 
+dafür abverlangt, dass sie die Lieferung übergeben. Wir haben das allen Abonnenten er-
+stattet, die sich beschwert haben. Aber das dauerte Monate und kostete uns sehr viele 
+unserer EU-Abonnenten. Mittlerweile hat sich die Situation im Großen und Ganzen ge-
+löst, aber es ist immer noch ein Lotteriespiel, Dinge per Post in die EU zu schicken. 
+Eine Menge Zeug wird vom Zoll aufgehalten und zurückgesendet, weil denen irgendwas 
+im begleitenden Papierkram inkorrekt erscheint." 
+Durch diese Friktionen ist der Abobestand deutlich zurückgefallen. Aktuell beliefere er 
+2.600 Abonnenten, sagt Watson. Nach Großbritannien (45% der Abos) sind die USA 
+mittlerweile der größte Markt (27%).  
+…bis auf in der Spitze 
+4.300 Abos 
+ 
+ 
+ 
+ 
+Dann kam der Brexit, 
+"ein Desaster" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Versand in die EU "im-
+mer noch ein Lotterie-
+spiel" 
+ 
+ 
+ 
+ 
+aktuell 2.600 Abonnen-
+ten  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint Die große Politik hätte das feine, kleine Unternehmen fast umgebracht. 
+Dass Stack auch 15 Jahre nach der Gründung noch existiert, das verdankt das Unterneh-
+men nur der Leidensbereitschaft und dem Herzblut, die Gründer Steve Watson in sein 
+Unternehmen investiert. Beides sind grundlegende Produktionsmittel in der gesamten 
+Welt der 'Indie'-Magazine. 
+Wir denken immer noch, dass ein solches Entdecker-Abo im deutschsprachigen Markt 
+auch in größerem Stil und mit besserer wirtschaftlicher Perspektive betrieben werden 
+könnte. Für Abowerbeunternehmer (WBZ), die sich für Presseprodukte auch inhaltlich 
+begeistern, ist ein kuratiertes Wechselabo und die damit verbundene monatliche Ent-
+scheidung für einen Titel, der versendet werden soll, vielleicht ein interessantes Neben-
+geschäft. Dabei hülfe, dass ein Unternehmen wie Stack mit deutlich höheren Renditen 
+(Handelsspannen) arbeiten kann als hiesige Abowerber. 
+Abonnements mit Überraschungssendungen ('Boxen-Abos') sind mittlerweile ein welt-
+weites Mrd$-Umsatz-Phänomen. Das Geschäftsmodell ist also mehr als erprobt. Be-
+grenzt wird der Erfolg von Stack vor allem durch die Spezialisierung auf 'Indie-Magazine'. 
+Im Bereich der populären Bookazines oder mittelgroßer, konventioneller und hochwer-
+tiger Publikumszeitschriften fände sich immer noch genug Abwechslung, um einem po-
+tenziell deutlich größeren Kundenkreis 12x pro Jahr eine spannende Überraschung zu 
+versprechen. Einen Versuch wäre das allemal wert. 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 22
+ 
+  
+ 
+    P2 
+  
+Index
+Marktentwicklung
+Einzelhandel
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland,  
+Datenstand KW 33) 
+ 
+ 
+  
+ 
+Marktentwicklung
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neueinfüh-
+rungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+  
+ 
+Marktentwicklung
+digitaler Vertrieb
+ 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATEN COCKPIT HANDEL UND ABSATZ
+QUELLEN:
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 23
+ 
+ 
+ 
+ 
+ 
+Abopreisgestaltung Print&Digital in D/A/CH 
+P 
+Abopreise D/A/CH 
+ 
+Seit 2014 präsentiert pv digest jährlich eine Analyse zur Preisgestaltung von Digitalproduk-
+ten. Im Vordergrund stand dabei immer der Vergleich der Digitalpreise mit den Preisen 
+für die gedruckten Produkte. Dabei untersuchen wir jeweils ein Set ausgewählter Zei-
+tungen und Zeitschriften aus den drei deutschsprachigen Ländern, das wir in der Vergan-
+genheit repräsentativ ausgewählt hatten, und das seitdem, um die Vergleichbarkeit zu si-
+chern, unverändert betrachtet wird. Dabei handelt es sich um die jeweils größten Abozei-
+tungen und Publikumszeitschriften aus Deutschland, Österreich und der Schweiz; für 
+Deutschland zusätzlich auch um eine Auswahl mittelgroßer und kleiner Tageszeitungen. 
+Wo immer sie angeboten werden, haben wir bei unserer Untersuchung Flexabopreise be-
+trachtet, also monatlich kündbare Abos. Im Unterschied zur letzten Analyse haben wir in 
+diesem Jahr die Regelpreise der Digitalabos betrachtet; d.h. in mehreren Fällen, in denen 
+das Abo im ersten Jahr stark vergünstigt angeboten wird, den Abopreis ab dem dreizehn-
+ten Monat. 
+Übergreifend die bemerkenswerteste Beobachtung ist, dass die Verlage in den letzten 12 
+Monaten die Preise ihrer Web- bzw. Paywallabos stark 'entwickelt', vulgo angehoben 
+haben. Über alle hier betrachteten Märkte und Segmente hinweg ist der durchschnittliche 
+Preis für ein solches Paid Content-Abo um 5,8% gestiegen. Berücksichtigt man nur die un-
+tereinander gut vergleichbaren Tageszeitungen, dann um 6,4%. [Bei den Publikumszeit-
+schriften haben wir in diesem Jahr überhaupt nur bei deutschen Titeln solche Abos vorge-
+funden (digital only ohne E-Paper oder auch über das E-Paper hinaus, mehr dazu unten).] 
+Die Preise der E-Pa-
+per-Abos haben sich 
+über alle hier be-
+trachteten 
+Märkte 
+und Segmente hin-
+weg um 4,9%, die 
+der Printabos um 
+6,4% erhöht (nur 
+Tageszeitungen: 4% 
+bzw. 6,9%). 
+Am wenigsten haben die Verlage im letzten Jahr an der Preisschraube bei E-Papern 
+gedreht. Das gilt umso mehr, als die über 10%ige Erhöhung des Durchschnittsabopreises 
+für E-Paper österreichischer Publikumszeitschriften in Teilen dadurch zustande gekom-
+men ist, dass wir in diesem Jahr bei immerhin 7 von 10 Titeln ein E-Paper-Abo vorgefunden 
+haben. Im letzten Jahr war das nur bei drei Titeln der Fall. Ins Gewicht fällt außerdem die 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vergleich der Flexabo-
+preise für gedruckte 
+und digitale Presse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Web-/Paywallabos im 
+ø 5,8% teurer als vor 1 
+Jahr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-Paper-Abos: + 4,9% 
+ 
+Printabos: +6,4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN: 
+ANALYSEN UND DATEN 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 24
+von uns beobachtete Erhöhung des E-Paper-Abopreises der Wochenzeitschrift profil um 
+satte 25%. 
+Deutsche Zeitungen hatten im Vorjahresvergleichszeitraum die E-Paper-Abopreise durch 
+die Bank stärker erhöht als die Preise ihrer Printabos. Diesmal ist es in allen drei deutschen 
+Zeitungssegmenten (Top10, mittelgroße und kleine Tageszeitungen) umgekehrt. In der 
+Schweiz sehen wir bei CH Media eine Rolle rückwärts. Die Zeitungen dieses Konzerns 
+hatten im Vorjahr ihre E-Paper-Preise sogar nach unten angepasst; von CHF33 auf CHF30. 
+Ein Unternehmenssprecher hatte das damals damit begründet, dass man auf diesem 
+Preisniveau vor allem ehemalige Printabonnenten als Kunden zurückgewinnen wollte. 
+Nun haben die Titel wie Nordwestschweiz oder Aargauer Zeitung ihr E-Paper-Abos wieder 
+auf monatlich CHF33 verteuert. 
+E-Paper-Abos sind in der Schweiz und in Deutschland teurer als in Österreich. Auch die 
+Abonnements für gedruckte Tageszeitungen (TZ) sind in Österreich deutlich günstiger als 
+in Deutschland und in der Schweiz. Für ein Digitalabo, das den Zugang zu den Artikeln 
+hinter der Paywall einer Zeitung ermöglicht, das aber nicht das E-Paper beinhaltet, bezah-
+len Leser in den Österreich dagegen ungefähr das gleiche wie in Deutschland, nämlich im 
+Mittel um und bei 10€. In der Schweiz sind diese Abos etwa 50% teurer. 
+Relative Preise (Printabo = 100) in D/A/CH 
+Was vergleichend besonders aussagekräftig ist, das ist der Preis der Digitalabos in Rela-
+tion zum Preis der Printabos. Die E-Paper-Abopreise für Publikumszeitschriften sind in al-
+len drei Ländern relativ gesehen gegenüber den Printpreisen weniger 'rabattiert' als die E-
+Paper-Abos von Tageszeitungen. Die E-Paper-Abos von Zeitschriften aus unserer Stich-
+probe kosten im Schnitt 23% (Deutschland), 30% (Schweiz) und 36% (Österreich) weniger 
+als die jeweiligen Printabos. Ein durchschnittliches E-Paper-Zeitungsabo kostet dage-
+gen zwischen einem Drittel (kleine deutsche Tageszeitungen) und bis fast zur Hälfte 
+(Österreich) weniger als das durchschnittliche Abo der gedruckten Ausgabe. Für ein 
+Web- bzw. Paywallabo wiederum rufen Zeitungen zwischen 17% und 28% des Printabo-
+preises auf. Weil die Verlage die Printpreise meistens stärker erhöht haben als die Digital-
+preise, liegen die re-
+lativen Digitalpreise 
+in diesem Jahr in ei-
+nigen Fällen (Top10 
+PZ Österreich, Top10 
+TZ Deutschland und 
+Schweiz) 
+niedriger 
+als im Vorjahr. 
+Die Preisgestaltung bei Tageszeitungen 
+Im Vergleich zum Vorjahr und über alle analysierten Tageszeitungen hinweg, sind die 
+Printabos in diesem Jahr 6,9% teurer. Von über 50 untersuchten Zeitungen haben nur 
+sechs ihren Abopreis nicht erhöht. Bei zehn Titeln haben wir Preissteigerungen im pro-
+zentual zweistelligen Bereich vorgefunden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E-Paper-Abos in D&CH 
+teurer als in A 
+ 
+ 
+ 
+Webabos in CH teurer 
+als in D&A 
+ 
+Relative Preise (Print 
+= 100%) 
+ 
+ 
+ 
+E-Paper-Abos PZ kos-
+ten im Vgl zu Print: 
+ 
+• in D: 77% 
+• in CH: 70% 
+• in A 64% 
+ 
+ 
+ 
+E-Paper-Abos bei TZ 
+sind noch deutlich 
+günstiger 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Preisgestaltung TZ 
+ 
+ 
+Nur gut 10% der TZ ha-
+ben ihre Print-Abo-
+preise nicht erhöht 
+ 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 25
+Deutlich mehr, nämlich 17 Titel, haben ihren E-Paper-Abopreis nicht erhöht. Bei 12 
+Titeln ist der E-Paper-Abopreis prozentual zweistellig gestiegen. Im Durchschnitt waren die 
+betrachteten E-Paper-Abos von Tageszeitungen in diesem Jahr 4% teurer als vor zwölf Mo-
+naten. 
+Ein Web-/Paywallabo bieten 49 der von uns untersuchten Zeitungen an. Nur die Titel des 
+deutschen Ippen-Konzerns und der in unserer Stichprobe sehr kleiner Zeitungen vertre-
+tene Gäubote verfolgen weiterhin eine Alles-gratis-Strategie auf ihren Webseiten. 
+Im Durchschnitt haben sich die Preise der Paywallabos deutlich nach oben entwickelt. 
+Dieser Durchschnitt verdeckt allerdings, dass der deutsche Funke Konzern die Preise sei-
+ner Plus-Abos flächendeckend reduziert hat. So kostet das Plus-Abo beim Flaggschiff 
+WAZ derzeit nur 4,99€ im Monat. Sogar nur 3,50€ für Neukunden oder gar 3€/Monat für 
+Abonnenten, die sich direkt für zwei Jahre binden lassen. Im Vorjahr kostete WAZ+ noch 
+9,99€. Funkes Hamburger Abendblatt hat den Plus-Preis von 9,90€ auf 7,90€ reduziert; die 
+Braunschweiger Zeitung von 7,90€ auf 4,90€.  
+Im Vorjahr hatten zwei Madsack-Titel (HAZ und Kieler Nachrichten) ihre Paywallabo-
+Preise reduziert. Beide Titel haben den Preis seitdem nicht mehr angepasst. Im Gegensatz 
+ 
+Ein Drittel der Zeitun-
+gen hat den E-Paper-
+Abopreis nicht erhöht 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Funke hat die Preise 
+seiner Plus-Abos deut-
+lich reduziert 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Funke Test: 6,90€ vs. 
+9,90€ = +39% UQ, 
++17% Haltbarkeit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Plus-Abo-Pricing bei Funke 
+Laut Carsten Groß, bis vor kurzem CPO und Lesermarktchef bei Funke, optimiert der Konzern 
+seine Preisgestaltung dabei mit Blick auf die Customer Lifetime-Umsätze. Digitalabochefin Kira 
+Reibe erläutert im Gespräch mit pv digest ausführlich den Hintergrund dieser ungewöhnlichen 
+Preisentwicklung. Basis sei die Strategie, auf eine maximale Marktdurchdringung (Bestands-
+wachstum) zu zielen und erst später im Kundenlebenszyklus die Preise "Lifetime-optimal" zu 
+entwickeln. Hinzu komme, dass die niedrigeren Preise teilweise auch zu einer besseren Halt-
+barkeit der Neuabos beitrügen. 
+Vor allem aber gelinge es mit den niedrigeren Preisen, "enorm viel mehr Leute in den Funnel" 
+zu holen. Neu gewonnene Abonnenten würden dann mit persönlichen Content-Empfehlungen 
+aktiviert. In der ersten Phase jedes Abos gehe es darum, die Nutzung der digitalen Bezahlange-
+bote zur Gewohnheit zu machen ("mit Inhalten Habits erzielen"). Erst danach gehe es darum, 
+die Preise und damit den Lifetime-Umsatz zu steigern.  
+Beispielhaft berichtet Kira Reibe über einen A/B-Test im August 2021. Bei diesem sei einem 
+Monatspreis von 9,90€ ein Testpreis von 6,90€ gegenübergestellt worden. Das habe zu Steige-
+rung der Conversion Rate um 39% geführt und zu einer um 17% verbesserten Haltbarkeit 
+im 6. Laufzeitmonat.  
+Jeder Abonnent werde an allen Touchpoints und mit allen digitalen Werbemitteln mit den glei-
+chen, für ihn ausgewählten Upsell-Botschaften zum Abschluss von langlaufenden oder höher-
+preisigen Angeboten motiviert. Auch spätere Preiserhöhungen bei den digitalen Produkten 
+würden personalisiert durchgeführt. Je nach Loyalitätsgrad (gemessen am Piano-Score 
+Likelihood to Churn) fallen die Preiserhöhungen für unterschiedliche Kunden unterschied-
+lich aus. Bisher sei das ein 'manueller' Prozess, für den die betroffenen Kundensegmente fall-
+weise selektiert werden müssten. Man arbeite aber an einer "Upgrade-Maschine", also einer 
+vollautomatisierten Kampagnenlösung, die jeden Abonnenten zum richtigen Zeitpunkt mit der 
+jeweils aussichtsreichsten Preiserhöhung konfrontiert, erzählt Kira Reibe. Hier gebe es aller-
+dings noch viel zu testen; zum Beispiel bezüglich der richtigen Kommunikationsstrategie (For-
+mulierung der Preise, offene oder 'verdeckte' Preiserhöhungen, Preiserhöhungen mit oder 
+ohne Downgrade-Alternative für die Kunden usw.) 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 26
+dazu verlangen zum Beispiel der deutsche Südkurier und Die Presse aus Österreich in die-
+sem Jahr für ihre Webabos etwa ein Drittel mehr, als vor 12 Monaten. 
+Die Preisgestaltung bei Publikumszeitschriften 
+Der Vergleich der Abopreise für Publikumszeitschriften (PZ) macht keinen großen 
+Sinn. Denn die jeweils größten Titel sind so unterschiedlich in Themen-Segment, Ziel-
+gruppe und Erscheinungsweise, dass der Landesdurchschnittspreis nichts aussagt. Auch 
+sind Paywalls in diesem Bereich derzeit praktisch nur in Deutschland anzutreffen. 
+Sehr bemerkenswert ist allerdings, dass einige deutsche Zeitschriften ihre Digitala-
+bos höher bepreisen als ihre E-Paper-Abos oder sogar ihre Printabos. Wenn man lange 
+genug danach sucht, dann findet man zum Beispiel ein Aboangebot für ein E-Paper des 
+Spiegel im PDF-Format für knapp 16€ pro Monat. Das Digitalabo, das außerdem den Zu-
+gang zu allen Plus-Artikeln und zu allen App-Inhalten inklusive der mobilen Ausgabe bein-
+haltet, kostet dagegen rund 22€ pro Monat (und das Abo des gedruckten Spiegel, das keine 
+Digitalinhalte beinhaltet, etwa 26€ pro Monat). Auch heise+, das Digitalabo des deutschen 
+IT- und Technikmagazinverlages, kostet mit 12,95€ pro Monat mehr, als sowohl das E-Pa-
+per-Abo als auch das Printabo des Flaggschifftitels c't, die beide für 12€ monatlich zu ha-
+ben sind. Allerdings beinhaltet heise+ den Zugang zu den Digitalinhalten aller Zeitschriften 
+des Verlages, also neben c't zum Beispiel auch von Technology Review, Mac & i oder c't 
+Fotografie. Bei Tageszeitungen ist das Abo inklusive E-Paper wohl ausnahmslos das 
+hochpreisigste Aboangebot.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Preisgestaltung PZ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Einige Zeitschriften ha-
+ben Digitalabopakete 
+geschnürt, die teurer 
+sind als E-Paper-Abo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Flexabo mit Treuegutschrift 
+Beim Südkurier ist uns ein sehr originelles Kundenbindungsangebot ins Auge gesprungen. Die 
+Zeitung bewirbt ein monatlich kündbares Flexabo. Sie stellt gleichzeitig einen sehr hohen Bonus 
+in Aussicht. Flexabonnenten, die zwölf Monate durchhalten, verspricht die Zeitung eine Rück-
+zahlung in Höhe von zwei Monatsabopreisen. Das summiert sich auf dem mittlerweile erreich-
+ten Preisniveau zu einem Betrag >100€. 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 27
+Einen spektakulären Preisschritt sahen wir zunächst 
+beim Manager Magazin. Das bot im vergangenen Jahr 
+sein Plus-Abo noch für 8,99€ an. In diesem Jahr schien 
+dieses Angebot mit 19,99€ mehr als doppelt so teuer 
+(13,99€ im ersten Jahr) und beinhaltete neben den Ma-
+nager Magazin-Inhalten auch die des Harvard Business 
+Managers. Erst nach Rücksprache mit Lesermarktchef 
+Torben Sieb haben wir realisiert, dass es sich dabei um 
+ein absichtlich in den Fokus gerücktes Kombi-Abo 
+handelt, zu dem es für aktiv Suchende aber weiterhin 
+die versteckte Alternative eines 'Nur Manager Magazin'-
+Digitalabos gibt, das für 9,99€ pro Monat zu haben ist. 
+Laut Torben Sieb hat sich Conversion Rate, also die Be-
+stellquote an der Paywall, durch diese Verdoppe-
+lung des Angebotspreises nicht verschlechtert. Die 
+Menge der Abobestellungen sei im Zeitverlauf sogar 
+steigend. Einen leichten Rückgang habe es nur bei der 
+Umwandlungsquote der so generierten Probeabos in regulär bezahlte Abos gegeben. Und 
+eventuell zeichne sich auch eine leicht verschlechterte Haltbarkeit ab. Das sei – nur ein 
+gutes Jahr nach der Umstellung der Angebotspolitik – aber noch nicht valide zu bewerten. 
+Auf jeden Fall würden diese leichten Negativeffekte durch die deutlich höheren Preise weit 
+überkompensiert. 
+ 
+ 
+ 
+Manager Magazin bie-
+tet vor allem die teure 
+Kombi inkl. Harvard 
+Business Manager an 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+trotz doppeltem Ange-
+botspreis gleiche Be-
+stellquote wie Abo für 
+nur das Manager Mag. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paid Content-Ausschöpfungs-Benchmarks: 23% bzw. 
+13% je vk. Ex / 3,6 bzw. 1,1 Abos je 1.000 Visits 
+P 
+Benchmark Paid Con-
+tent-Ausschöpfung 
+ 
+Wenn zwei Zeitungen in ihrem Kundenbestand gleich viele Digitalabos zählen, dann ist 
+lange noch nicht ausgemacht, dass beide Titel über einen vergleichbaren Erfolg im digi-
+talen Vertrieb sprechen können. Denn wenn zum Beispiel die Nordwest-Zeitung der IVW 
+zuletzt 16.405 täglich verkaufte digitale Nutzungsrechte gemeldet hat, dann liegt sie bei 
+dieser Kennzahl zwar nur leicht über der Passauer Neuen Presse (15.068). Berücksichtigt 
+man aber, dass die NWZ als verkaufte Auflage 'nur' rund 86.000 Exemplare meldet, wäh-
+rend die Passauer Neue Presse auf beinahe 140.000 kommt, dann liegt doch die Einschät-
+zung nahe, dass relativ zum Potenzial des jeweiligen Marktes die NWZ erheblich erfolg-
+reicher ist als der süddeutsche Titel. [pvd: im Folgenden unterscheiden wir nicht zwischen 
+dem technischen Begriff 'digitale Nutzungsrechte' und dem einfacher handhabbaren Be-
+griff 'Digital-/Onlineabos'. Das ist nicht hundertprozentig korrekt, weil ein Bruchteil dieser 
+Nutzungsrechte nicht aus Abos, sondern aus Einzelkäufen resultiert. Es ist aber ein ver-
+tretbarer Kompromiss, um das Lesen zu erleichtern.] 
+Man könnte argumentieren, dass die verkaufte Auflage nicht viel zu tun hat mit der 
+Menge der Online-Abonnenten. Wir würden dagegenhalten. Denn Zeitungen haben über 
+Jahrzehnte daran gearbeitet, ihre Leserschaftspotenziale bestmöglich auszuschöpfen. Das 
+maximale Paid Content-Potenzial dürfte in einem sinnvoll betrachtbaren Verhältnis zur Le-
+serschaft der Printzeitungen stehen und damit auch zur Menge der verkauften Exemplare. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Digitalabo-Mengen im 
+Vergleich zu Reichwei-
+ten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 28
+Die 23 deutschen und österreichischen Titel, die ihre Paid Content-Ergebnisse an die IVW 
+bzw. die ÖAK melden, melden derzeit im Durchschnitt eine Menge verkaufter digitaler 
+Nutzungsrechte, die 22,7% ihrer jeweiligen Mengen verkaufter Exemplare (Print + E-
+Paper) entspricht. Dabei ist die Spannbreite groß. Ganz oben in einer Rangliste nach die-
+ser Kennzahl steht die FAZ, die für den Juli 115.423 Paid Content-Zahler meldete und für 
+das zweite Quartal gut 186.000 verkaufte Auflage. Damit erreichen die Frankfurter bei der 
+Paid Content-Menge einen Wert von 62% der verkauften Menge der Zeitungsausgaben. 
+Ganz am Ende dieser Rangliste findet sich der Titel 'Österreich', der mit 389 Paid Content-
+Nutzungsrechten für sein Digitalangebot oe24.at gerade einmal einen Wert im Bereich von 
+2% seiner verkauften Auflage nennt. 
+Bekanntlich ist es für diese 
+Kennzahlen fast gleichgültig, wie 
+viel die Nutzer für Paid Content-
+bezahlen. So bezahlen für das 
+größte deutschsprachige Paid 
+Content-Angebot, Bild+, insge-
+samt fast 700.000 Nutzer. Aber 
+mehr als die Hälfte dieser Nut-
+zer bezahlt weniger als 2€ pro 
+Monat. Von den Paid Content-
+Bezahlern der FAZ ist es weniger 
+als 1%, die weniger als 2€ bezah-
+len. 97.085 Digitalabonnenten 
+der FAZ bezahlten mit Stand Juli 
+mindestens 7€ [d.i. die höchste 
+Preiskategorie in der IVW-Zäh-
+lung]. Das entspricht 52% der 
+verkauften Auflage. Diesen Wert 
+übertrifft nur die Süddeutsche Zeitung, bei der eine Menge von 59% der verkauften Auf-
+lage für ein Digitalabo bezahlen, das mindestens 7€ kostet. Im Marktdurchschnitt der 
+deutschen Titel (für Österreich ist dieses Datum nicht verfügbar) werden derzeit Paid 
+Content-Nutzungsrechte ab 7€ monatlich in einer Menge ausgewiesen, die knapp 13% der 
+verkauften Auflage entspricht. 
+Der Eindruck, dass die Nordwest-Zeitung ihren Paid Content-Markt besser ausschöpft als 
+die Passauer Neue Presse, verstärkt sich noch, wenn man die digitale Reichweite, ge-
+messen an den monatlichen Visits laut Schätzungen des Dienstleisters Similarweb, 
+misst. Denn danach registriert nwz.de monatlich rund 4Mio Visits. Das ist das Potenzial, 
+aus dem die Paywall Abonnenten schöpfen kann. PNP.de dagegen kommt auf 5,4Mio Vi-
+sits, also auf eine um mehr als ein Viertel größere Reichweite. 
+Dennoch zählt die NWZ mehr Digitalabos als die PNP. Im Verhältnis zu den Visits sind es 
+in Oldenburg 4,1 Digitalabos je 1.000 monatlicher Visits. In Passau sind das nur 2,8. Die 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KPI1: Digitalabos im 
+Verhältnis zur verkauf-
+ten Auflage (in %) 
+ 
+Ø 23 Titel aus D und A: 
+22,7% 
+ 
+ 
+ 
+KPI2: Digitalabos ab 7€ 
+im Verhältnis zur ver-
+kauften Auflage (in %) 
+ 
+ 
+Ø 18 Titel aus D: 13% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 29
+Schere geht noch weiter auf, wenn 
+man sich erneut nur auf die Zahl der 
+Digitalabos ab 7€ pro Monat bezieht. 
+Davon zählt die NWZ derzeit 2,25 je 
+1.000 Visits. In Passau sind das nur 
+0,18 Digitalabos je 1.000 Visits. Im 
+Schnitt zählen alle hier betrachteten 
+Zeitungen 3,6 Digitalabos je 1.000 Vi-
+sits. Und die deutschen Titel 1,1 Digi-
+talabos ab 7€ je 1.000 Visits. 
+Die Schere geht nicht nur bei diesen 
+Titeln weit auf. Die meisten Digitalabos 
+je 1.000 Visits verkauft die Rheinpfalz 
+(12,4). Aber davon kosten nur 0,6 Digi-
+talabos je 1.000 Visits mindestens 7€ 
+monatlich. Das reicht gerade einmal 
+für einen Platz im unteren Mittelfeld. Den Spitzenplatz bei der Ausschöpfung der hoch-
+preisigen Abos hält die Süddeutsche Zeitung mit 3,77 Digitalabos ab 7€ je 1.000 Visits. 
+Von den 18 Titeln, die derzeit Paid Content-Daten an die IVW melden, gibt es zehn Titel, 
+die die meisten Digitalabos in der Preiskategorie 'ab 7€' melden. Das sind: Die Welt, Eßlin-
+ger Zeitung, FAZ, Handelsblatt, Heidenheimer Zeitung, Nordwest-Zeitung, Rheinische Post, 
+beiden Zeitungen aus Stuttgart, die Süddeutsche Zeitung und der Südkurier. Die übrigen 
+acht melden in der Preiskategorie unterhalb 2€/Monat mehr Abos als in den beiden Preis-
+kategorien darüber. 
+Solche Kennzahlen ermitteln und analysieren wir seit 2021. Prozentual ist in diesem Zeit-
+raum der Digitalabobestand keines Titels schneller gewachsen als der der Tiroler Tages-
+zeitung – nämlich auf heute das 8-fache der Menge von 2021. Die Presse aus Österreich 
+KPI3: Digitalabos je 
+1.000 Visits 
+ 
+Ø 23 Titel aus D und A: 
+3,6 
+ 
+KPI4: Digitalabos ab 7€ 
+je 1.000 Visits 
+ 
+Ø 18 Titel aus D: 1,1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10/18 deutschen Titeln 
+verkaufen >50% ihrer 
+Abos ab 7€ monatlich 
+ 
+8/18deutschen Titeln 
+verkaufen >50% ihrer 
+Abos zu Preisen unter 
+2€ pro Monat 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 30
+hat im gleichen Zeitraum sogar fast 6% Digitalabos verloren. Der Titel Österreich' weist 
+heute sogar 40% weniger Digitalabos aus als 2021. 
+Gegenüber Vorjahr sehen wir das größte Wachstum bei den Vorarlberger Nachrichten 
+(heute doppelt so viele Digitalabos wie 2022) und bei der Augsburger Allgemeinen (+59%). 
+Tabellierung der Ausschöpfungskennzahlen: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Burda Forward-CEO und Burda Verlag-Geschäftsführer Oliver Eckert verlässt das Un-
+ternehmen. 
+Carsten Groß wird zum 1.11. weiterer Geschäftsführer der Medienholding Süd. 
+Daniel Daum wird zum 1.11. Geschäftsführer der Freien Presse Mediengruppe in 
+Chemnitz. Vorgänger Michael Tillian wird am 1. Dezember Mitgeschäftsführer des öster-
+reichischen Zeitungskonzerns Mediaprint. Dort löst er Christoph Niemöller ab. 
+Nachfolger des nicht mehr zur Wahl angetretenen Grossoverbands-Vorstandsvorsitzen-
+den Frank Nolte ist ein gleichberechtigtes Triumvirat: Vincent Nolte, Andreas Obervoß-
+beck und Thorsten Mauch. 
+Thomas Huber wird (spätestens zum April 2024) Nachfolger des verstorbenen Rolf 
+Grummel als Geschäftsführer der Mediengruppe Allgäuer Zeitung. 
+Welt-Geschäftsführerin Merrit Kraus verlässt Axel Springer zu Ende November. 
+Mitgründer Sebastian Esser kehrt als Geschäftsführer zurück zur Content-Creator-Be-
+zahlplattform Steady. Interim-Geschäftsführerin Tina Dingl verlässt das Unternehmen. 
+Joachim Dreykluft, bisher Mitglied der Geschäftsleitung der NOZ Digital, hat das Unter-
+nehmen verlassen.  
+Beim Presse-Grossisten Fritzenschaft & Partner ist Geschäftsführer Frank Schmalen-
+berger ausgeschieden. Neue (Mit-)Geschäftsführerin ist Ines Krüger. 
+P 
+2 
+14 
+100 
+ 
+Personalien 
+QUELLEN:
+PERSONALIEN 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 31
+Letzte Worte 
+Out of the Box-Abos 
+ 
+Kunden des englischen Unternehmens 
+Stack erhalten in jedem Monat eine andere 
+Zeitschrift (vgl. S.19). Was Stack verkauft, ist
+kein Abonnement im herkömmlichen Sinn 
+(keine Vereinbarung über eine regelmäßige 
+gleichartige Lieferung oder Leistung). Was 
+Stack seinen Kunden verkauft, das sind 
+nicht einmal zuerst Zeitschriften. 
+Stack-Abonnenten wollen nicht einfach 
+nur einmal pro Monat bequem ein sonst
+nur umständlich erhältliches Lesevergnü-
+gen frei Haus geliefert bekommen. Stack-
+Kunden wollen überrascht werden. Eine, 
+wenn nicht sogar die Kernleistung eines 
+Stack-Abonnements ist die Unvorherseh-
+barkeit der bezogenen Leistung. 
+Das Gleiche gilt für zahllose 'Boxen-Abos'. 
+Delikatessen, Kosmetika oder Testprodukte 
+aus der Lebensmittelindustrie werden nicht 
+aus Bequemlichkeitsgründen und oft auch 
+nicht zuerst aus Gründen einer Ersparnis 
+abonniert. Sondern diese Abo-Boxen ver-
+sprechen mit jeder Lieferung Überraschung 
+und Spannung. Die Kernleistung dieser An-
+bieter ist es, ein Erlebnis zu bieten, nicht die 
+Belieferung mit Produkten. 
+Der oder die Erfinder von Boxen-Abos ha-
+ben 'out-of-the-box' gedacht; abseits jeder 
+konventionellen Vorstellung von einem 
+Abonnement. Das gilt auch für den Gründer 
+von Stack. 
+Welche bisher ungedachten Ideen lassen 
+sich außerhalb der üblichen Grenzen des 
+Denkkäfigs 'Abonnement' noch finden? Das
+könnte für Verlage und Abowerbefirmen,  
+ für 
+Print- 
+und 
+Digitalprodukte, 
+eine 
+gleichermaßen produktive Frage sein. 
+Wer sagt eigentlich, dass Abolieferungen 
+immer an die gleiche Adresse gehen müs-
+sen? Vielleicht wäre es ein wirksamer Kun-
+denzubringer für lokale Geschäfte, wenn 
+alle umliegenden Abonnenten mit einem 
+attraktiven Incentive motiviert würden, sich 
+ihre Abo-Lieferung in jedem Monat in ei-
+nem, anderen Geschäft selbst abzuholen. 
+Schon führt der out-of-the-Box-Gedanke 
+vom Abo bis in den Einzelhandel. Der ist in 
+Großbritannien übrigens ein wesentlicher 
+Stützpfeiler des Abogeschäfts von Zeitun-
+gen. Abholabonnements, bei denen die 
+Abonnenten ihre tägliche Zeitung beim 
+Pressehändler ihres Vertrauens abholen, 
+sind dort weit verbreitet. Und auch nicht 
+selten sind Pressehändler, die sich früh-
+morgens als Zeitungszusteller verdingen. 
+Wäre es möglich, ein Upcycling-Abo zu 
+kreieren? Der Abonnent wirbt einen zwei-
+ten Empfänger, dem er seine Zeitung oder 
+Zeitschrift übergibt, nachdem er sie ausge-
+lesen hat. Dieser zweite Empfänger bezahlt 
+nur einen reduzierten Abopreis an den Ver-
+lag, und dieser schüttet davon wieder die 
+Hälfte an den Abonnenten aus. 
+Ihnen fallen hundert Gründe ein, warum 
+das totgeborene Ideen sind? Uns auch! 
+Aber ob die Idee in der Box wirklich tot ist, 
+das weiß man erst, wenn man den Deckel 
+gehoben hat (Damit sind wir nun sogar bei 
+Schrödingers Katze – also in der Quanten-
+physik – angekommen). 
+ 
+… letzte Worte 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Hier wird jemand anderes angesprochen als Sie selbst? Dann lesen Sie in einer Ausgabe, die für Sie nicht lizenziert ist. In digitaler Form ist das nicht in Ord-
+nung. Bitte stellen Sie sicher, dass für Ihre Nutzung meiner Arbeit auch bezahlt wird. Wenn bereits Kollegen pv digest abonnieren, dann habe ich sehr 
+attraktive Mitleser-Angebote für Sie. Bitte sprechen Sie mich jederzeit dazu an: Tel.: 040 / 308 901 09, Mail: schoeberl@pv-digest.de. DANKE. 
+ 
+AUSGABE 10/2023 ׀ SEITE 32
+ 
+ 
+Über pv digest 
+ 
+pv digest ist ein Informationsdienst auf Expertenniveau für das Top-Management 
+rund um das Thema Lesermarkt und Vertrieb journalistischer Produkte. pv digest 
+beruht auf eigenen Recherchen und auf Zusammenfassungen an anderer Stelle 
+veröffentlichter Informationen und bietet einen einzigartigen Überblick über alle 
+strategisch relevanten Vertriebsthemen. pv digest unternimmt in der Regel keine 
+Prüfung wiedergegebener Inhalte und übernimmt keine Garantien für die inhaltli-
+che Korrektheit von Informationen. Genutzte Quellen in pv digest sind in der vorlie-
+genden Ausgabe wie folgt codiert: 
+ 
+Quellenverzeichnis Ausgabe 10/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACHTUNG: der nächste pv digest 
+erscheint am 7. November 2023 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH

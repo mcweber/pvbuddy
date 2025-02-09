@@ -1,0 +1,2846 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+April 2024
+ 
+pv digest ist ein Nischenmedium par excellence. Der sehr spitze Fokus 
+auf den Lesermarkt bewirkt, dass viele Leser von den gleichen Fragen 
+bewegt werden. Ich freue mich darum sehr, Ihnen ab Seite 24 einen aus-
+führlichen Bericht zu einem Thema anbieten zu können, das eine Leser-
+frage an mich ausgelöst hat. Welche Erfahrungswerte gibt es zum 
+Thema 'Preiserhöhungen bei Plus-Abos'? 
+Ein anderes Thema wurde von anonymen Tippgebern ausgelöst, von de-
+nen ich nicht sagen kann, ob sie zum Leserkreis gehören. Was ich aber 
+weiß, ist das: das Thema Abosysteme bewegt einen ganz großen Teil 
+der pv digest-Community. Für produkt- und marketingorientierte Men-
+schen ist das sehr sprödes Thema. Aber ohne die zugrundeliegende IT 
+können Abomodelle für Printangebote, Paid Content oder gar die Kom-
+bination beider Erscheinungsformen nicht funktionieren. Die häufige Ab-
+hängigkeit vom veralteten SAP-System IS-Media ist da ein großes Prob-
+lem. Mögliche Alternativen für Verlage und Systemdienstleister erzeugen 
+neue Herausforderungen. Mehr dazu ab Seite 13. 
+Ich wünsche Ihnen einen guten und verkaufsstarken Monat. 
+Markus Schöberl, Herausgeber pv digest  
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.12 
+Analysen und  
+Daten                 
+ 
+S.19 
+Meinungen 
+S.29 
+Personalien 
+ 
+S.30 
+letzte Worte 
+S.31 
+Highlights aus der aktuellen Ausgabe 
+Erfahrungen mit der Erhöhung von Plusabo-Preisen Nach der Installation 
+einer Paywall stellt sich früher oder später die Frage, in welchem Umfang der 
+Plusabo-Preis erhöht werden sollte und welche Folgen das hat. Wir haben zahlreiche 
+Erfahrungswerte zu diesem Thema gesammelt. S.24-28 
+Abosysteme &-systemanbieter: dsb vor erheblicher Umgestaltung? 
+Welche SAP-Alternativen haben TZ-Verlage? Auf Recherchen von pv digest 
+folgend verkündet dsb eine "Technologiepartnerschaft". Die könnte für dsb-Kunden 
+viel gravierendere Folgen haben, als es die Unternehmenskommunikation erschei-
+nen lässt. Hintergrund ist eine mögliche Ablösung des alten, SAP-basierten Abover-
+waltungssystems. Dieses Thema bewegt besonders die Zeitungswelt. S.13-17 
+Mediapart doch noch nicht am Wachstumsdeckel Nach zwei Jahren der 
+Stagnation ist die hochprofitable französische Digital only-Zeitung wieder gewach-
+sen. S.5-6. Der Umgang mit und die Bedeutung von Stagnationsphasen ist auch 
+Thema zweiter Meinungsbeiträge auf S.29-30 und S.31 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+Lieber Herr Weber,
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 2
+ 
+ 
+ 
+ 
+ 
+ 
+Economist-Espresso 
+26 
+Economist Espresse 
+ 
+Der Verlag gibt nun bekannt, wie viele Nutzer für seine 'Ausgaben-Digest-App' bezahlen. Das ist einerseits ernüch-
+ternd. Andererseits hat er die App 10 Jahre alt werden lassen und sieht zuletzt prozentual sehr hohes Wachstum. 
+Vor knapp 10 Jahren hat der Economist seine 'Espresso'-App gelauncht. Für 
+damals 4,99 ($/£/€) erhielten Espresso-Abonnenten täglich ein Mini-Paket von 
+sechs kurzen Artikeln, die eigens für diese App erstellt wurden. Einen Beitrag 
+konnten Gratisnutzer lesen, die übrigen fünf nur bezahlende Abonnenten. 
+Die Produktidee brachte der damalige stellvertretende Chefredakteur, Tom Standage, so auf 
+den Punkt: "Ich wollte eine tägliche Version dessen, was der Economist auf einer 
+wöchentlichen Basis macht… ein Gegengift zur Informationsüberflutung. Was wir am Ende 
+verkaufen, das ist das Gefühl, informiert zu sein, sich schlau zu fühlen". 
+Die Antwort auf die Frage, wie erfolgreich diese App ist, hängt von der Messlatte ab, die man 
+daran anlegt. Ein Jahr nach dem Launch hatten wir berichtet, dass der damalige Digitalchef 
+Robin Raven tiefstapelte. Wenn es darum gehe, Geld zu verdienen, dann solle man lieber 
+keine solche App launchen, empfahl er anderen Verlagen damals. Wie viele App-
+Abonnenten der Economist für dieses Produkt gewonnen hatte oder wie viel Paid Content-
+Umsatz er damit erzielte, dazu gab es kaum Informationen – schon gar nicht offiziell aus dem 
+Verlag. 
+Stolz verkündet wurde allerdings das Überschreiten der 1Mio-Downloads-Grenze im 
+November 2015. Wöchentlich sollen damals 200.000 Menschen die App genutzt haben, 
+100.000 sogar täglich. Das dürften allerdings zu einem großen Teil Abonnenten des normalen 
+Digitalbos des Economist gewesen sein, die die App gratis nutzen können. 
+Im März 2022 relaunchte der Economist die App dann umfassend. Zu den täglich sechs 
+Artikeln kommen jetzt noch eine Fakten-Grafik, ein Quizz und ein Hör-Text hinzu. Der erste 
+der sechs Artikel ist dabei ein Nachrichtenfeed, der mehrfach täglich aktualisiert wird. Am 
+Wochenende gibt es vier vollständige Beiträge aus der jeweils aktuellen Economist-Ausgabe. 
+Für diese vier Beiträge können registrierte Nutzer drei Themenschwerpunkte (wie China, 
+Mittlerer Osten, Wirtschaft …) auswählen und das Angebot so auf ihre Bedürfnisse 
+zuschneiden lassen. Diese Texte können auch angehört werden, vorgelesen von 
+professionellen Sprechern. Laut Economist-internen Auswertungen nutzen besonders Frauen 
+das Hörangebot sehr intensiv. 
+Dieses runderneuerte Paket hatte der Economist auch deutlich teurer gemacht. Statt 4,99 
+($/£/€) kostet das App-Abo seitdem 7,99 ($/£ und sogar 12,99€!) – aber immer noch deutlich 
+weniger als des reguläre Digitalabo, das für 19,90£ oder 29,90€ angeboten wird). 
+ 
+ 
+ 
+ 
+Launch der 'Digest-
+App' mit nur 6 kurzen 
+Artikeln täglich vor 
+rund 10 Jahren  
+ 
+ 
+Produktidee anfangs: 1 
+Ausgabe täglich gegen 
+Informationsüberflu-
+tung 
+ 
+ 
+ 
+Ist das Produkt erfolg-
+reich? 
+ 
+1 Jahr nach dem Start 
+hieß es aus dem Ver-
+lag: 'damit lässt sich 
+kein Geld verdienen' 
+ 
+ 
+ 
+ 
+aber: hohe Nutzungs-
+zahlen 
+ 
+ 
+ 
+ 
+2022: umfangreicher 
+Relaunch 
+• zusätzliche Inhalte 
+• zusätzliche Features 
+• untertägige Aktuali-
+sierungen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• deutliche Preiserhö-
+hung 
+ 
+ 
+NACHRICHTEN AUS VERLAGEN
+UND VERLAGSVERTRIEBEN
+QUELLEN:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 3
+Seit 2022 meldet der Economist 'Auflagenzahlen' für die Espresso-App an die ABC, das 
+britische IVW-Pendant. Die sind recht ernüchternd. Gerade einmal 21.775 Abonnenten hatte 
+Espresso in der zweiten Jahreshälfte 2023. Das aber waren fast drei Viertel (74%) mehr als 
+im Vorjahreszeitraum.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+seit 2022 offizielle Nut-
+zungsdaten 
+ 
+zuletzt nur ~22k Abos 
+(aber: d.s. +74% ggü VJ) 
+ 
+ 
+pvd meint Für einen Paid Content-Anbieter, dessen Digitalauflage an der Millionen-
+grenze kratzt, sind das minimalistische Werte. Allerdings ging die gemeldete Gesamt-Digi-
+talabomenge des Economist zuletzt um 2% zurück (auf 966.947 Digitalabos im zweiten Halb-
+jahr 2023). Daneben sind 74% Wachstum immerhin ein Trostpflaster. Zehn Jahre Lebens-
+dauer sind ein deutlicher Beleg dafür, dass der Verlag seine Espresso App für eine Berei-
+cherung hält. Einige Learnings lassen sich auch für Outsider ableiten: 
+> Die App ist in jeder Hinsicht ein mobile only Produkt. Auch beim Vertrieb. Wir schätzen, 
+dass mindestens 50% der Leser-Erlöse der App aus dem In-App-Vertrieb stammen, obwohl 
+das Espresso-Abo auch direkt beim Economist bestellt werden kann. Ohne Zahlen zu nen-
+nen, bestätigte das jüngst auch Marketingchefin Nada Arnot, die sagt "Wir gehen dahin, 
+wo man mobile Apps vermarktet, wir machen viele reine App-Kampagnen ('universal app 
+campaign campaigns'). Wir machen Apple Anzeigen ('Apple ads')." 
+> Die App ist – zumindest für Economist-Verhältnisse – ein Produkt mit überdurchschnitt-
+lich hohem Anteil weiblicher Nutzer. Sie ist damit ein Baustein bei der Erschließung einer 
+riesengroßen Zielgruppe von Nutzern, die etablierte und renommierte Nachrichtenme-
+dien oft noch vernachlässigen oder erst entdecken. Wir haben das unter dem Stichwort 
+'Die andere Hälfte' schon einige Male thematisiert. 
+> Die App-Inhalte werden mittlerweile mindestens dreimal täglich aktualisiert. Tom Stan-
+dages oben zitierte Ursprungsidee eines abgeschlossenen Ausgaben-Produktes ist aufge-
+weicht. Arnot spricht sogar von einem "hübschen Feed dessen, was im Laufe eines Tages 
+wirklich wichtig ist". Wie viele Publisher setzt der Economist hier wieder mehr auf 'Aktuali-
+tät' als auf 'Finishability', also die Eigenschaft eines digitalen Produktes, 'fertig' bzw. 'zu 
+Ende' genutzt werden zu können. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 4
+ 
+Taz zahl ich: dank wenig Kündigern geht es noch voran 
+P 
+taz zahl ich 2023 
+ 
+2023 erstmals kein ununterbrochenes Wachstum beim freiwilligen Bezahlmodell der alternativen Tageszeitung. Aber 
+zum Jahresende wiederum mehr 'Abos' als 12 Monate vorher; v.a. wg. herausragender Kundenbindung 
+Die Erlöse der alternativen Tageszeitung Taz aus ihrem freiwilligen Bezahlmodell taz zahl ich 
+wachsen weiter. Fast 2,9Mio€ nahm die Zeitung im letzten Jahr damit ein. Davon rund 90% 
+aus Abos und ein Zehntel aus freiwilligen Einmalzahlungen. Zum ersten Mal ging es bei der 
+Anzahl der Bezahler allerdings nicht ununterbrochen nach oben. "Der Schock im März: zum 
+ersten Mal in der Geschichte von taz zahl ich war die Zahl der Unterstützenden rückläufig", 
+schreiben die Bezahlverantwortlichen der Zeitung in ihrer wie immer offenen und auskunfts-
+freudigen jährlichen Selbstbespiegelung. Schon einen Monat später ging es aber wieder auf-
+wärts und am Jahresende 2023 zählten die Taz gut 37.500 freiwillige Abos – rund 2.000 mehr 
+als im Vorjahr. 
+Wie schon lange diagnostiziert, gelingt dieses andauernde Wachstum vor allem, weil die Kun-
+denbindung der Zeitung ganz ungewöhnlich hoch ist. Gerechnet auf den Vorjahresendbe-
+stand kündigten im ganzen letzten Jahr nur 8% der Bezahler. Das ist der zweitniedrigste 
+Churn-Wert der Taz-Geschichte und eine der weltweit niedrigsten Churnquoten eines Pub-
+likumsmediums überhaupt.  
+Gut 5.000 Neuzugänge zum freiwilligen Bezahlen zählt die Taz für 2023. Das sind ein Fünf-
+tel weniger als im Vorjahr und nur halb so viele wie im Rekordjahr 2020. Aber es sind immer 
+noch mehr als in den meisten Jahren vor 2020.  
+ 
+Die Tazler bleiben optimistisch: "Wenn wir das tägliche Wachstum aus dem vergangenen Jahr 
+zugrunde legen, können wir erwarten, am 17. April 2025 die wichtige im Wirtschaftsplan für 
+die Digitalisierung der taz für taz zahl ich vorgesehene Marke von 40.000 Unterstützenden zu 
+erreichen." 
+ 
+ 
+ 
+ 
+ 
+2023: 2,9Mio€ Einnah-
+men aus freiwilligen 
+Zahlungen 
+ 
+ 
+ 
+ 
+ 
++2.000 Abos ggü. 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+nur 8% Churn pro Jahr 
+ 
+ 
+ 
+ 
+ 
+mittelprächtige 5.000 
+Neuzugänge 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Taz: Zielmarke 40.000 
+Bezahler zum 
+17.4.2025 realistisch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 5
+ 
+Mediapart doch noch nicht am Wachstumsdeckel 
+P 
+Mediapart 
+ 
+Nach zwei Jahren der Stagnation ist die hochprofitable französische Digital only-Zeitung wieder gewachsen. 
+"Hochrentables Mediapart am Wachstumsdeckel?!" haben wir vor einem Jahr gefragt. Da-
+mals war die Anzahl der bezahlenden Abonnenten zum zweiten Mal in Folge leicht rück-
+läufig gewesen. 
+Mediapart ist seit langem ein Leuchtturm der internationalen Paid Content-Welt, den pv di-
+gest mehr oder weniger von Anfang an aufmerksam begleitet. Denn das sehr links orientierte 
+Bezahlmedium mit harter Paywall ist eine rein digitale Tageszeitung ohne Printher-
+kunft, die hochprofitabel ist, und die zumindest bei der Anzahl der Abonnenten eine Grö-
+ßenordnung erreicht hat, wie immer noch nur wenige digitale Zeitungsmedien. Der Tenor un-
+seres Beitrags vor einem Jahr war dieser: 'Es sieht so aus, als habe Mediapart einen Wachs-
+tumsdeckel erreicht. Das ist nicht schlimm. Denn irgendwann hat jedes Angebot seinen Markt 
+ausgeschöpft. Und für ein mittlerweile von einer Stiftung getragenes Unternehmen ist stabile 
+Profitabilität auf hohem Niveau ein völlig befriedigender Zustand.' 
+Wir haben uns getäuscht. 2023 ist Mediapart wieder gewachsen. Um immerhin 4% stieg 
+die Anzahl der Abonnenten auf nur ganz knapp unter 220.000 und damit leicht über den vor-
+herigen Spitzenwert des Corona-Boom-Jahres 2020. Die Umsätze – zu 98% Aboerlöse – stiegen 
+noch etwas stärker, nämlich um 5,5%. 
+Zusammen mit der Bekanntgabe dieser Ergebnisse hat Mediapart einen weiteren großen 
+Markstein aufgestellt. Der äußerst exponierte (meinungsstarke, streitlustige, nicht einschüch-
+terbare) Gründer Edwy Plenel wurde als oberster kaufmännischer Steuermann ("Président") 
+und Chefredakteur durch Carine Fouteau ersetzt. Welche Folgen diese einschneidende Perso-
+nalie mittel- und langfristig haben wird, ist eine offene Frage. 
+ 
+ 
+vor einem Jahr: Wachs-
+tumsdeckel erreicht? 
+(wg.: zweiter Abo-Rück-
+gang in Folge) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2023 aber wieder 
+Wachstum: +4% Abos 
+auf hist. Spitzenwert; 
++5,5% Umsatz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gründer und Chefre-
+dakteur Edwy Plenel 
+tritt ab 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 6
+ 
+ 
+ 
+Zeitungsabonnements in den USA: immer öfter nicht mehr 
+täglich und nicht mehr per Bote 
+12 
+'Tages'Zeitungen USA 
+per Post statt Bote 
+ 
+Wie US-Verlage mit Zustellproblemen und Druckkosten umgehen; Umstellung auf nicht-tägliche Erscheinungsweise 
+verläuft langsamer als von Expertem erwartet 
+Die deutschen Zeitungen sind nicht allein mit ihren Zustellproblemen. In den USA haben 
+schon viele Verlage auf Postzustellung umgestellt. Allein der größte Zeitungskonzern Gannett 
+hat seit 2022 bei 70 seiner über 200 Titel die Botenbelieferung beendet und versendet 
+seine Zeitungen stattdessen über den U.S. Postal Service. Das bedeutet auch, dass die Abon-
+nenten die Sonntagsausgabe schon am Samstag erhalten mit Inhalten, für die am Freitagmit-
+tag Redaktionsschluss war.  
+Auch andere Verlage haben diesen Schritt schon vollzogen – teils in Verbindung mit einer 
+Reduktion der Wochentage, an denen überhaupt noch eine Zeitung gedruckt wird. 
+Laut Verlagen ist das unproblematisch. Das börsennotierte Gannett lässt sogar verlauten, 
+dass "einige Leser" die Umstellung als Verbesserung begriffen, weil die Post zuverlässiger zu-
+stelle als das zuletzt arg ausgedünnte Botensystem. Und John D'Orlando, COO bei Wick Com-
+munications, das bei 14 Titeln nicht nur zur Postzustellung gewechselt ist, sondern diese 
+statt ohnehin schon nur noch dreimal pro Woche auf die Erscheinungsweise 'zweimal pro 
+Woche' umgestellt hat, sagt: "Wir wollen nicht notwendigerweise nur investigativ berichten, 
+sondern mehr robuste Geschichten [pvd: lies 'hintergründige Stücke, die nicht vor allem aus 
+der Aktualität heraus entstehen'] ... Was die Häufigkeit betrifft, wenn sie drei 8-Seiten Zei-
+tungen haben und diese in zwei 12-Seiten-Zeitungen verwandeln, dann macht das keinen 
+großen Unterschied, und es bedeutet vielleicht sogar einen Pluspunkt aus Sicht von Lesern 
+und Werbetreibenden". 
+Sorgen bereitet den Verlagen dagegen die fragile finanzielle Situation des US Postdienstes, 
+der außerdem ebenfalls mit Personalproblemen kämpft und möglicherweise vor einer Re-
+form mit unklarem Ausgang steht. 
+ 
+ 
+ 
+ 
+ 
+70 von gut 200 Gan-
+nett-Zeitungen haben 
+auf Postbelieferung 
+umgestellt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"einige Leser finden 
+das sogar besser" 
+ 
+ 
+Wick Communications: 
+Post statt Bote und nur 
+noch 2 statt 3 Ausga-
+ben pro Woche 
+ 
+ 
+"vielleicht sogar ein 
+Pluspunkt aus Sicht 
+der Leser" 
+ 
+ 
+ 
+US-Post wirtschaftlich 
+angeschlagen 
+ 
+ 
+ 
+pvd meint manche Häuser, die sich in den letzten Jahren am eigenen Erfolg berauschen 
+konnten, erleben gerade eine Phase der Stagnation – der Churn frisst die Neuproduktion 
+auf. Manche wähnen sich sogar an eine Wachstumsbarriere gestoßen zu sein.  
+Wir glauben auch, dass eine solche Barriere existiert. Allerdings nur nach vollständigem 
+Ausschöpfen des Zielgruppenpotenzials für das jeweilige Produktkonzept. Bis dahin sollte 
+man sich von Phasen der Stagnation und auch moderaten Rückschlägen nicht frustrieren 
+lassen. Oft werden sich Hebel finden lassen, um zurück auf den Wachstumspfad zu finden 
+Die Durststrecke bis dahin kann für sehr gewinnorientierte Medien allerdings ein Problem 
+werden. Schwer vorstellbar, dass die börsennotierte New York Times entspannt eine ein- 
+oder gar zweijährige Depressionsphase abwettern könnte. Das wird eines Tages die Kehr-
+seite des dortigen Wachstumsmärchens sein. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 7
+US-Zeitungsexperte Rick Edmonds sieht im Switch auf die Post nur einen Baustein einer 
+umfassenden Strategie, die Zahlbereitschaft der letzten Printleser mit radikalen Kosten-
+senkungen – zum Beispiel auch durch Auslagerung des Drucks zu weit entfernten Standorten 
+– und Abopreisen im Bereich bis zu 1.200$ jährlich auszureizen und die Leser im Übrigen 
+forciert zu den digitalen Ausgaben zu migrieren. Aber er sagt auch: "Der Trend zu reduzierten 
+Erscheinungsweisen .... verbreitet sich langsamer, als ich es erwartet hatte ... ein großflächiger 
+Wechsel zu nur noch einem oder zwei Tagen pro Woche ist noch nicht eingetreten." 
+ 
+ 
+Experte: Verlage redu-
+zieren Kosten und stei-
+gern Preise um Print-
+fans auszumelken 
+ 
+ 
+"Trend zu weniger 
+Drucktagen langsamer 
+als erwartet" 
+ 
+ 
+Als erste deutsche Zeitung verzichtet 'nd. DerTag' auf den 
+Druck ein einem einzelnen Wochentag 
+P 
+nicht-tägliche TZ 
+ 
+Als erste deutschsprachige Tageszeitung verzichtet das Neue 
+Deutschland bzw., so heißt der ehemalige Top-Titel der DDR heute, 
+'nd.DerTag', an einem Wochentag auf den Druck. Montags erscheint 
+der Titel ab 6. Mai nur noch als E-Paper, dienstags bis samstags gibt es bis auf weiteres so-
+wohl eine digitale wie auch eine gedruckte Ausgabe. 
+ 
+😉😉 PS: Tageszeitungen erscheinen bisweilen nicht mehr täglich. Neue Zeitschriftentitel 
+erscheinen mit immer geringerer Frequenz. Meister in der Kategorie regelmäßiger aber 
+selten erscheinender Publikationen ist das französische La Bougie du Sapeur. Das er-
+scheint stets am 29. Februar - also fast alle 4 Jahre. 
+Erstmals erschien das satirische Magazin im Jahr 1980. Aufgrund einer Ausnahmeregel der 
+Schaltjahresausnahmenregel (kein Schaltjahre in Jahren, die durch 100 teilbar sind außer in 
+Jahren, die durch 400 teilbar sind) erschien La Bougie du Sapeur auch im Jahr 2000 und jüngst 
+konnte die Ausgabe #12 publiziert werden. Die wird nun in einer Druckauflage von 200.000 
+Exemplaren für 4,90€ an französischen Kiosken und einigen weiteren Verkaufsstellen im fran-
+zösischsprachigen Ausland zum Verkauf angeboten – eine moderate Preissteigerung von nur 
+10 Cent gegenüber der Vorausgabe. Das '21.Jahrhundertabo' wird für 100€ angeboten. 
+(Sonntags erscheint der Titel übrigens mit einer Beilage. Die erste Sonntagsausgabe er-
+schien 2004, die nächste ist für 2032 angekündigt.) 
+ 
+ 
+nd.Der Tag erscheint 
+ab Mai an Montagen 
+nur noch digital 
+ 
+ 
+ 
+ 
+ 
+ 
+Fun Fact: Satiretitel La 
+Bougie du Sapeur er-
+scheint seit 1980 an 
+29sten Februaren 
+ 
+ 
+=> 12 Ausgaben seit 
+1980 
+ 
+ 
+ 
+aktuelle Printauflage: 
+200.000 Ex; VKP 4,90€ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint Über nicht-tägliche Tageszeitungen haben wir immer wieder einmal berich-
+tet. Besonders umfangreich haben wir in pvd #3/2023 'Amedias Erfolgs-Drehbuch für das 
+Streichen von Print-Erscheinungstagen bei Tageszeitungen' vorgestellt. Ganz sicher ist eine 
+gedruckte Tageszeitung, die nicht mehr täglich erscheint, nur eine Brücke zu einer Tages-
+zeitung, die nur noch digital erscheint. Ob es sinnvoll ist, über diese Brücke zu gehen, ist vor 
+allem eine Frage an die Controller. Strategisch ist es viel wichtiger, gleich das andere Ufer in 
+den Blick zu nehmen und nach Wegen zu suchen, möglichst viele der Printabonnenten zu 
+Digital only-Lesern zu machen. Bitte beachten Sie hierzu auch unser Special, das auf der 
+folgenden Seite beworben wird. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 8
+ 
+Werbung 
+ 
+ 
+ 
+Wie gewinnt man Printleser als Digitalabonnenten? 
+ 
+Digital statt Print 
+ 
+Die wichtigste Frage zur Zukunft von Tageszeitungen ist die, wie und mit welchen digitalen 
+Formaten jene jüngeren Menschen als bezahlende und möglichst 'lebenslang' gebundene 
+Abonnenten (zurück-)gewonnen werden können, die derzeit weder eine gedruckte Zeitung 
+noch deren digitales Abbild nutzen. 
+Die dringendste Frage ist aber eine andere: wie gelingt es, die Abonnenten der gedruck-
+ten Zeitung für digitale Angebote zu gewinnen und damit aus dem teuren Druck und der 
+noch teureren physischen Zustellung auszusteigen, ohne dabei auf die Erlöse aus den Hoch-
+preis-Printabos zu verzichten? 
+Für dieses Special haben wir 11 Fallbeispiele zusammengestellt, über die pv digest in den 
+letzten Jahren – oft mehrfach – berichtet hat. Sieben der elf vorgestellten Fälle sind eindeu-
+tige Erfolgsbeispiele. Das heißt, dass entweder der Verzicht auf jegliches gedruckte Erschei-
+nen in dem Sinne gelungen ist, dass die Zeitung über ihre digitalen Kanäle wirtschaftlich er-
+folgreich publizieren kann. Oder aber es wurde der Druck nur an einzelnen Wochentagen ein-
+gestellt, während der Titel an anderen Tagen noch auf Papier erscheint – und unter den neuen 
+Verhältnissen werden nicht nur Kosten gespart, sondern auch ausreichend Erlöse generiert, 
+um dauerhaft weiter publizieren zu können. Drei Fallbeispiele sind nicht eindeutig zu bewer-
+ten. Nur ein Case handelt von einem eindeutigen Scheitern. 
+Von allen Fällen kann man lernen. Unter dem Strich vor allem, dass die forcierte Migration 
+durch einen Tag X, der das Ende der Papierausgabe bedeutet, möglich ist. Und dass eine 
+Vorgehensweise mit definierter Strategie, konsequenter Umsetzung und optimistischer 
+Durchhaltebereitschaft erfolgversprechend ist. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd Special: 
+ 
+• 11 Fallbeispiele 
+     7 Erfolgs-Cases 
+     3 unklare 
+    1 Misserfolg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 55 Seiten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 599€ für pvd Abon-
+nenten 
+• 849€ für Nicht-
+Abonnenten 
+ 
+pv-digest.de/specials 
+abo@pv-digest.de 
++49 / 40 / 308 901 09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 9
+ 
+ 
+ 
+ 
+ 
+Blick zurück in die Zukunft: VIP-Steuerköpfe bedient wei-
+terhin erfolgreich seine B2B-Nischen-Audience 
+P 
+pvd Nachhaltigkeits-
+Check 
+ 
+Mit einem Community-Modell und einer Fortbildungsflatrate schöpfen zwei Gründer mit innovativen Ange-
+boten weiterhin sehr erfolgreich Potenziale einer besonderen B2B-Zielgruppe ab. 
+Vor einem Jahr berichteten wir über den sehr ungewöhnlichen und jungen B2B-Pub-
+lisher VIP Steuerköpfe. Dessen beide Gründer haben in einer Nische (Steuerberater) 
+eine Nische gefunden (community-affine, austauschfreudige und auf humorvoll-selbstironi-
+sche Art erreichbare Steuerberater) und dafür eine passende Plattform aufgebaut, die in kur-
+zer Zeit an der Millionen-Euro-Umsatzgrenze kratzte. 
+"Erprobte Abläufe aus realen Kanzleien, EDV-
+Schulungen für Mitarbeiter, Arbeitshilfen und 
+mehr. Webinare und Communities stiften Ge-
+meinschaft. Mit VIP-Steuerköpfe stehen Sie 
+nie wieder allein vor einem Problem" ist das 
+Kernversprechen des Angebotes, für das immer 
+noch pro Kanzlei (Steuerberatungsunterneh-
+men) 199€ monatlich bezahlt werden müssen – 
+unabhängig von der Unternehmensgröße! 
+Für diesen Blick zurück in die Zukunft haben wir 
+uns erneut mit Gründer Claas Beckmann zusam-
+mengeschlossen. Wir haben ihn gefragt, ob der 
+Preis weiterhin unabhängig von der Größe der Kanzleien oder der Anzahl der nutzenden Mit-
+arbeiter ist. Daran habe sich nichts geändert, sagt er. Neu sei lediglich ein "Sozialtarif" hinzu-
+gekommen, der für junge Kanzleien mit bis zu 3 Mitarbeitern gedacht ist, und in dem nur 50€ 
+pro Monat berechnet werden. Das mit der Bezeichnung verbundene Stigma solle den Kanz-
+leien, die das in Anspruch nehmen, einen Anreiz geben, aus eigenem Antrieb zum gegebe-
+nen Zeitpunkt in das reguläre Preismodell zu wechseln. 
+Seit unserem letzten Bericht ist der Abonnenten/Mitgliederbestand von VIP-Steuerkoepfe 
+um rund ein Drittel, von 600 auf 790, gewachsen. Die Millionengrenze beim Umsatz hat das 
+2021 gegründet Unternehmen damit locker genommen.  
+ 
+ 
+ 
+ 
+ 
+ 
+Vor 1 Jahr: B2B-Ange-
+bot für Steuerberater 
+erreicht in kurzer Zeit 
+>1Mio€-Umsatz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Community-Modell 
+hilft Steuerberatern bei 
+der Organisation des 
+Kanzlei-Alltags 
+ 
+ 
+ 
+ 
+ 
+ 
+Preis: 199€ pro Monat, 
+unabhängig von Kanz-
+leigröße 
+ 
+ 
+ 
+neu: "Sozialtarif" für 
+junge, kleine Kanzleien 
+ 
+ 
+ 
+vor 1 Jahr: 600 Bezah-
+ler; heute 790 
+ 
+ 
+ 
+ 
+ 
+ 
+Videoseminar-Flatrate 
+Taxflix 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#4/23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 10
+ 
+Noch schneller gewachsen war schon vor einem Jahr die von den beiden Gründern später 
+gelaunchte Weiterbildungsplattform Taxflix. Auf Taxflix finden Steuerberater für sich und 
+ihre Mitarbeiter Videoseminare zu Themen, zu denen Weiterbildung für Steuerfachleute obli-
+gatorisch ist. Die Teilnahme an entsprechenden konventionellen Weiterbildungsveranstaltun-
+gen muss in der Regel für jede Veranstaltung und jeden Teilnehmer einzeln teuer bezahlt wer-
+den. Auf Taxflix können die Steuerberater dagegen unbegrenzt und mit unbegrenzt vielen 
+Mitarbeitern an Video-Seminaren für 199€ monatlich teilnehmen. Im Unterschied zu VIP-
+Steuerköpfe verkauft Taxflix also vor allem Inhalte, keine Community-Leistungen. 
+Taxflix war bei unserem letzten Bericht gerade einmal ein Jahr alt und zählte dennoch schon 
+700 Abonnenten und hatte damit die Millionen-Euro-Umsatzgrenze bereits überschritten. Bis 
+heute ist auch dieses Geschäft deutlich weiter gewachsen auf etwa 900 Abonnenten. Die 
+Gewinne aus diesem Modell müssen sich die beiden VIP-Steuerköpfe-Gründer allerdings mit 
+dem 50%-Gesellschafter Deubner-Verlag teilen. 
+Neben diesen beiden Hauptgeschäftsfeldern entwickelt das kleine, innovative Unternehmen 
+weitere Geschäftsideen, die ebenfalls mit Abomodellen monetarisiert werden sollen; zur Zeit 
+beispielsweise eine Kommunikationssoftware für die Kanzleien. Dabei bleibt das B2B-Startup-
+Konglomerat eine hochrentable Mini-Unternehmung (vor einem Jahr hatten die beiden 
+Gründer einen Vollzeitmitarbeiter; mittlerweile sind es zwei Mitarbeiter), die so schnell wächst, 
+dass sie sich nicht allzusehr um unternehmensübliche Routinen bemühen muss. Unsere Frage 
+nach den Churn-Werten beantwortet Beckmann so vage wie im Vorjahr: fast kein Churn bei 
+VIP-Steuerkoepfe, ein deutlich höherer Churn bei Taxflix. Zahlen hat er dazu aber keine.  
+"Wir sind nicht in einem Jahr plötzlich professionell geworden", sagt Claas Beckmann. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Preis: 199€ pro Monat, 
+unabhängig von Kanz-
+leigröße, Nutzerzahl, 
+Nutzungsmenge 
+ 
+ 
+ 
+vor 1 Jahr: 700 Bezah-
+ler; heute 900 
+ 
+ 
+ 
+weitere Geschäftsfelder 
+in Vorbereitung 
+ 
+nur 4 Mitarbeiter (inkl. 
+der beiden Gründer-
+CEOs) 
+ 
+Churn: wird nicht ge-
+messen; 'wenig' bei 
+VIP-Steuerköpfe, 'deut-
+lich mehr' bei Taxflix 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint er sagt das mit wenig Augenzwinkern. Der ehemalige Fachjournalist und 
+Steuerthemenblogger ist unternehmerisch zwar sehr erfolgreich. Er wirkt aber nicht so, als 
+sehe er sich dauerhaft in dieser Rolle. Schon auf dem Distribution Summit des MFVP im 
+letzten Spätsommer, wo er das Publikum mit seiner hemdsärmeligen Selbstdarstellung be-
+geisterte, warb er um Investoreninteresse. Und er signalisiert immer noch, dass er sich ei-
+nen angemessenen 'Exit' aus der Unternehmerrolle wünscht. 
+Das ist eine frappierend andere öffentlich vorgetragene Haltung, als man sie sonst aus er-
+folgreichen (und nicht erfolgreichen) Wachstumsunternehmen kennt. Den Erfolg ihres Un-
+ternehmens haben Beckmann und sein Partner Mario Tutas nicht einer unternehmerischen 
+Vision und deren brillanter Umsetzung zu verdanken, sondern ihrem tiefen Verständnis für 
+eine Fach-Audience und der kreativen Entwicklung von passenden Community-Angeboten. 
+Damit sind Sie eine Inspiration und ein Vorbild für jeden Publisher, der in Special Interest 
+oder B2B-Nischen nach digitalen Geschäftsmodellen sucht. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 11
+ 
+         
+P 
+      
+Marktentwicklung
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im  
+März 2024, zu Anzahl und Er-
+scheinungsweise siehe "Daten 
+Cockpit Handel")  
+   
+ 
+Marktentwicklung
+Preise
+ 
+neu eingeführte Zeitschriften 
+Print, Presse-Apps in  
+ausgewählten Stores 
+   
+ 
+Marktentwicklung
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+Preise bei neuen  
+Zeitschriften) 
+  
+ 
+DATEN COCKPIT VERLAGE
+QUELLEN:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 12
+ 
+ 
+ 
+ 
+ 
+Nutzungsdaten von Cafeyn und Readly im Vergleich 
+P 
+Nutzungsdaten von 
+Readly und Cafeyn 
+ 
+Die beiden Presseflatrateanbieter haben ausgewählte Nutzungsdaten veröffentlicht, die punktuell gut vergleichbar 
+sind. Wie es um die angekündigte Übernahme großer Teile des Readly-Geschäftes durch Cafeyn steht. 
+Im Dezember hat Readly zu PR-Zwecken seinen 'Trend Report 2023' veröffentlicht, der eine 
+Vielzahl handverlesener Daten zum Nutzungsverhalten der eigenen Abonnenten bein-
+haltet. Der französische Wettbewerber und (bisher nur laut Willensbekundungen) kommende 
+Eigner von Readly, der französische Flatrate-Anbieter Cafeyn, hat jüngst ebenfalls aggregierte 
+Daten zum Verhalten seiner Nutzer veröffentlicht. 
+In einigen wenigen Punkten ermöglichen diese beiden Quellen einen Vergleich der Dienste, 
+die ein sehr ähnliches Geschäftsmodell in überwiegend unterschiedlichen Märkten betrei-
+ben (Readly ist vor allem in Deutschland, Großbritannien und Schweden aktiv, nur in über-
+schaubarem Maß auch in Frankreich, wo Cafeyn seinen Schwerpunkt hat): 
+> Cafeyns Angebot umfasst rund 2.500 verschiedene Titel. Bei Readly sind das fast 8.000 
+> Die durchschnittlich Nutzungszeit pro Tag und pro Nutzer ist überraschend ähnlich: 15 
+Minuten bei Cafeyn, 17,2 Minuten bei Readly. 
+> Cafeyn gibt die Anzahl der durchschnittlichen Nutzungsvorgänge pro Tag mit 2 an. 
+Readly spricht von 26 durchschnittlichen Nutzungstagen pro Monat – das wäre dann weni-
+ger als einer pro Tag. [pvd: dennoch zeigen die Flatrate Abonnenten in beiden Fällen damit 
+ein 'Engagement', das noch oberhalb der Engagement-Werte sogar von Tageszeitungen 
+liegt.] 
+> Beide Dienste erleben sonntags die meiste Nutzung. Werktags lesen die Cafeyn-User vor 
+allem morgens zwischen 7 und 8 Uhr. Die Readly-Nutzung hat ihre tägliche Spitze dagegen 
+am Spätnachmittag. 
+Wir haben uns bei Cafeyn nach dem Fortgang der angekündigten Übernahme der nicht-
+skandinavischen Aktivitäten von Readly erkundigt. Eine Sprecherin teilt uns dazu mit, dass 
+Cafeyn zwar immer noch keine einzige Aktie von Readly besitze, dass Cafeyn aber über 
+seinen CEO bereits Mitglied des Readly-Aufsichtsrates ist, und dass Cafeyn "Hand in Hand" mit 
+Readly-Großaktionär Bonnier News an einer Realisierung des Übernahmeplans arbeite. 
+ 
+ 
+ 
+ 
+ 
+Beide Flatrateanbieter 
+nennen ausgewählte 
+Information zum Nut-
+zungsverhalten 
+ 
+ 
+ 
+gleiches Geschäftsmo-
+dell in unterschiedli-
+chen Märkten => ähnli-
+ches Nutzerverhalten  
+ 
+ 
+ 
+• Ø tgl. Nutzungszeit 
+Cafeyn vs. Readly: 
+15 vs. 17,2 Minuten 
+ 
+ 
+• Ø Anzahl Nutzungen 
+pro Tag pro User: 
+2 vs. 0,9 
+ 
+ 
+ 
+• Sonntag ist Haupt-
+nutzungstag 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+kein erkennbarer Fort-
+schritt bei angekündig-
+ter Übernahme von 
+Readly durch Cafeyn 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+pvd meint sowohl dieser letzte Unterschied wie auch das anscheinend noch höhere En-
+gagement  bei Cafeyn könnten das Resultat der Tatsache sein, dass Readly immer noch vor 
+allem ein Dienst ist, der auf Tablets genutzt wird und überwiegend in Form von E-Paper-
+Lektüren im Druckdesign. Cafeyn forciert schon länger die Nutzung auch auf Smartphones 
+und die Inhalte dort werden viel häufiger in Form einzelner Artikel bzw. Artikelstreams an-
+geboten statt in Form printidentischer Seiten. Allerdings hat der Readly-CEO die Eroberung 
+auch des Smartphones als Verbreitungskanal jüngst oben auf seine Agenda gesetzt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 13
+ 
+Abosysteme &-systemanbieter: dsb vor erheblicher Umge-
+staltung? Welche SAP-Alternativen haben TZ-Verlage? 
+ 
+Szenarien für SAP-ba-
+sierte Abosysteme 
+ 
+Auf Recherchen von pv digest folgend verkündet dsb eine "Technologiepartnerschaft". Die könnte für dsb-Kunden 
+viel gravierendere Folgen haben, als es die Unternehmenskommunikation erscheinen lässt. Hintergrund ist eine mög-
+liche Ablösung des alten, SAP-basierten Aboverwaltungssystems. Dieses Thema bewegt besonders die Zeitungswelt. 
+Gerüchte… 
+Anfang März erhielt pv digest per englischsprachiger E-Mail mit verschleierter Absenderad-
+resse Hinweise mit heiklen Behauptungen über den im deutschen und englischen Markt gro-
+ßen Abonnementdatendienstleister dsb und dessen Kundenmanagement-Systeme, die un-
+ter dem Namen dsb fly betrieben werden. 
+Diese behandelten die zukünftigen Beziehungen von dsb zu einem hierzulande kaum be-
+kannten kanadischen Softwareanbieter. dsb ist nicht irgendwer. Vor allem im Bereich Zeit-
+schriftenabonnements ist dsb mit Abstand der wichtigste Kundenmanagementdienst-
+leister. Über die Aboverwaltung im Zeitschriftenmarkt hatte pv digest 2019 ausführlich be-
+richtet. Aus diesem Bericht zitiert der dsb-Gesellschafter 'Beck Gruppe' heute noch stolz in der 
+'Chronik' auf seiner Website: "dsb hat laut Branchendienst pv digest 39% Marktanteil". Auch 
+um die Zeitungswelt bemüht sich dsb. 
+Wir haben uns intensiv bemüht, die Behauptungen, die aus mitgehörten Telefongesprä-
+chen stammen sollen, zu überprüfen und uns einen Eindruck davon zu machen, wie plausi-
+bel die in der anonymen E-Mail skizzierten, angeblich kommenden Entwicklungen sind. Wir 
+haben dafür mit Kunden von dsb, Experten für Abonnement- und Kundendatensoftware und 
+mit Wettbewerbern gesprochen. Wir haben ein persönliches und in Teilen vertrauliches Ge-
+spräch mit einem wichtigen dsb-Manager geführt. Und wir haben den geschäftsführenden 
+dsb-Gesellschafter Olaf Bendt und den dsb-Hauptgesellschafter Ulrich Beck mit konkre-
+ten Fragen kontaktiert. Wir haben darauf keine Antworten erhalten.  
+Gut 24 Stunden nach Versand unserer Fragen veröffentlichte das Traditionsmedium der 
+Branche, DNV, eine Nachricht, die auf einer dsb-Mitteilung beruhen dürfte: "dsb-Gruppe 
+schließt neue Kooperation (…) um ihre Vertriebs- und Payment-Lösungen für Verlage weiter-
+zuentwickeln. Im Rahmen einer gemeinsamen Absichtserklärung wurde eine Zusammenar-
+beit mit dem kanadischen Technologie-Unternehmen Darwin CX vereinbart". 
+ 
+ 
+ 
+ 
+ 
+ 
+Behauptungen anony-
+mer Tippgeber zu dsb 
+bzw. dsb fly 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Überprüfung durch 
+pvd-Recherchen 
+ 
+ 
+ 
+ 
+u.a. durch Fragen an 
+dsb-GF und Gesell-
+schafter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die antworten über 
+dnv-online.de und per 
+Pressemitteilung 
+ 
+ 
+ 
+ 
+ 
+Das waren unsere Fragen an den geschäftsführenden dsb-Geschäftsführer Olaf Bendt: 
+> Wissen Sie von Plänen oder Gesprächen zu einem Verkauf von dsb an die Investoren von Dar-
+win.cx?  
+> Gibt es Pläne, Teile der dsb fly-Softwarearchitektur durch Software von darwin.cx zu ersetzen? 
+> Ist es zutreffend, dass Sie das SAP-Entwicklerteam in naher Zukunft deutlich verkleinern werden? 
+> Ist es zutreffend, dass dsb derzeit aufgrund einer unklaren diesbezüglichen Situation keine neuen 
+langfristigen Verträge mit Verlagen abschließen kann? 
+Das war unsere Frage an Hauptgesellschafter Ulrich Beck: 
+> Sprechen Sie derzeit mit Liam Lynch (oder anderen Gesellschaftern von darwin.cx) über den Ver-
+kauf einer Mehrheit an dsb? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 14
+Keiner der deutschen Experten, mit denen wir vorher gesprochen haben, hatte Darwin.cx 
+auf seinem Radarschirm. Hier hatten die Tippgeber einen offensichtlichen Wissensvor-
+sprung. Darum lohnt sich die Prüfung ihrer übrigen Hinweise. 
+So behaupten sie, dass bei dsb "SAP ERP in den nächsten 6 bis 24 Monaten durch Dar-
+win.cx ersetzt werden wird". Was sehr technisch klingt, wäre für alle Verlage und WBZ-Un-
+ternehmen, die ihre Abonnements bei dsb über das dort auf Basis der R3-Software von SAP 
+beruhende Abosystem verwalten, ein bedeutender und herausfordernder Schritt. Denn alle 
+Erfahrung zeigt, dass Datenmigrationen von Abobeständen aus komplexen Softwareumge-
+bungen, die über Jahrzehnte entstanden sind, aufwändig, langwierig und fehleranfällig sind. 
+Die Tippgeber meinen, dass eine solche Datenmigration für dsb unumgänglich sei. Sie be-
+haupten, "SAP und fly werden aufgegeben. (…) Es ist erstaunlich, wie abhängig dsb von einer 
+veralteten SAP-Version ist". Sämtliche Investitionen in aktuelle fly-Architektur seien gestoppt. 
+Intern werde bei dsb eine Migration auf SAPs neue Systemsoftware HANA erwartet. Der an-
+geblich bevorstehende Austausch von Kernelementen der dsb fly Softwarearchitektur habe 
+sogar noch gravierendere Folgen. "Die Entwicklung deutscher Abomodule für Darwin.cx wird 
+nicht mehr in Deutschland stattfinden. dsb Fly-Module werden eingestellt, wenn Dar-
+win.cx diese Funktionalitäten übernimmt. Diese Migration wird zu neuen Prozessen, Unsi-
+cherheiten und unbekannten Kosten für die dsb-Kunden führen. Zugesagte Fristen für Mig-
+rationen in den Jahren 2024 und 2025 werden vermutlich nicht einzuhalten sein. Ursa-
+che dafür ist, dass Darwin.cx noch keine deutschen Abos und viele Features, die im deutschen 
+Markt benötigt werden, unterstützt". 
+dsb stehe unter finanziellem Druck, meinen die Tippgeber – sowohl aufgrund des schwa-
+chen Printmarktes als auch aufgrund zunehmenden Wettbewerbs. In England stehe ein gro-
+ßer dsb-Kunde, die Burda-Tochter Immediate Media, vor dem Absprung, wird behauptet [von 
+Burda aber dementiert; s.u.]. Das soll plausibel machen, dass dsb ein Verkaufskandidat 
+ist: "Die Investoren, die Darwin.cx 2022 mit 38Mio$ Venture Capital ausgestattet haben, ver-
+suchen nun, einen Mehrheitsanteil an dsb zu erwerben oder wenigstens ein Joint Venture zu 
+kreieren, um Zugang zum Kundenbestand zu erhalten", heißt es in der Mail. 
+Soweit zu einigen Behauptungen der anonymen Absender, über die wir nichts wissen, als 
+dass sie vermutlich aus den Niederlanden stammen, wie ein wohl versehentlich in der Kom-
+munikation enthaltener Textabschnitt auf Holländisch nahelegt. Der oben erwähnte Beitrag 
+auf dnv-online und eine am Tag danach erschienene Pressemitteilung passen in weiten 
+Teilen zu den Behauptungen der Tippgeber. Sowohl die Pressemitteilung als auch den vo-
+rangehenden 'Bericht' auf dnv-online verstehen wir als direkte Reaktion auf unsere am Vortag 
+an den Geschäftsführer und den Gesellschafter von dsb gestellten Fragen. 
+Faktencheck 
+Wird Darxin.cx bisherige Kernbausteine der dsb fly-Architektur ersetzen? 
+Spricht man mit dsb-COO Alexander Münch, dann lautet die Antwort: Nein. Darwin.cx sei 
+nur eine Ergänzung. Es betreibe eine Customer Data Plattform (CDP), die es ermögliche, Daten 
+aus ganz unterschiedlichen Quellen und Geschäftsfeldern auf Ebene der einzelnen Kunden 
+zusammenzuführen. Nur mit CDP-Systemen ließen sich die vielfältigen Aktivitäten von 
+Tippgeber offensicht-
+lich gut informiert 
+ 
+ 
+ 
+Sie behaupten: 
+ 
+• dsb werde sein SAP-
+ERP und fly durch 
+Darwin.cx ersetzen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• aufgrund notwendi-
+ger Vorbereitungen 
+seien evtl. Timelines 
+in Gefahr 
+ 
+ 
+ 
+ 
+ 
+• dsb stehe unter fi-
+nanziellem Druck 
+ 
+ 
+• Darwin.cx Investo-
+ren wollten dsb 
+übernehmen oder 
+wenigstens ein JV 
+ 
+ 
+Faktencheck: 
+ 
+ 
+Mitteilungen von dsb 
+passen gut zu einigen 
+Behauptungen 
+ 
+ 
+ 
+ 
+ 
+Wird dsb fly durch Dar-
+win.cx ersetzt? 
+ 
+dsb-COO sagt: Nein. 
+Darwin ist nur eine Er-
+gänzung zu fly, keine 
+Alternative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 15
+Medienmarken managen, die ihre Geschäftsmodelle weit über das Angebot von gedruckten 
+oder digitalen Presseprodukten hinaus entwickeln. Digitale und physische Produkte, Abonne-
+ments und Einzelverkäufe, Presseprodukte, Bildungsprodukte oder presseferne E-Commerce-
+Aktivitäten ließen sich nur auf so einer Plattform zusammenführen. Eine Kooperation mit Dar-
+win ermögliche es dsb-Kunden, die gesamte Vielfalt der denkbaren Geschäftsfelder von Me-
+dienunternehmen über ein zentrales System zu managen. 
+Aber ist die nun bestätigte Zusammenarbeit von dsb und Darwin tatsächlich nur eine 
+solche Kooperation? Der Artikel auf dnv-online legte das nahe. Aber die am Tag danach ver-
+öffentlichte Pressemitteilung [pv-digest.de/linkliste Link1] geht darüber hinaus. Hier einige 
+bezeichnende (wenn auch im Technojargon verkleidete) Selbstauskünfte darin: 
+> Das laut Alexander Münch "nur eine CDP-Plattform" Darwin.cx wird jetzt so vorgestellt: "Dar-
+win CX, verfolgt wie auch dsb einen hybriden Ansatz für Print- und Digital-Produkte und 
+entwickelte hierfür nicht nur ein integriertes Abo-System, sondern eine ganze Integrations-
+plattform, die in weiten Teilen architektonisch sehr verwandt ist mit dem fly-Eco-System der 
+dsb-Gruppe." 
+> "dsb wird … unter dem Projektnamen 'fly evolution' zunehmend auch Backend-Funktio-
+nen in den kommenden Jahren … erweitern und umbauen … Hierzu stehen derzeit auch 
+ein Teil-Upgrade auf SAP HANA auf dem Prüfstand." 
+> "dsb wird in den kommenden Monaten gemeinsam mit Darwin CX prüfen, welchen Auf-
+wand eine Lokalisierung der Prozesse auf dem deutschen Markt mit sich bringt." [pvd: 
+'Lokalisierung' = Anpassung des Systems an die hiesigen Markterfordernisse?!] 
+Das klingt viel weitgehender als die Beschwichtigungen, mit denen Alexander Münch eine 
+mögliche Kooperation mit Darwin.cx charakterisiert hatte. Wir lesen hier, dass tatsächlich eine 
+umfangreiche Datenmigration auch bezüglich der Kernprozesse "geprüft" wird. 
+Wird eine Mehrheit der dsb-Anteile von den Investoren von Darwin.cx übernommen? 
+Stehen dsb-Anteile (genauer Anteile an der dsb ccb solutions GmbH, die das dsb fly-System 
+betreibt) zum Verkauf? Hauptgesellschafter Ulrich Beck (dem die Beck-Gruppe gehört, der 
+wiederum 90% der dsb-Anteile gehören) hat unsere Frage zwar nicht uns gegenüber aber in 
+der zitierten Pressemitteilung so beantwortet: "Die Medienbranche ist und bleibt ein Core 
+Business der Beck Gruppe." Das ist kein Dementi der Verkaufsgerüchte.  
+Es wäre nicht unplausibel, wenn der dsb-Gesellschafter den Spaß an seiner Beteiligung 
+verloren hätte. Klar dementiert hat zwar eine Burda-Sprecherin die Behauptung, "dass Im-
+mediate seinen Vertrag mit dsb gekündigt hat oder momentan plant, dies zu tun." Zumindest 
+diese Belastung seiner Bilanz dürfte dsb also in der nächsten Zeit erspart bleiben.  
+Aber gut scheinen die Geschäfte des Softwareunternehmens schon länger nicht zu laufen. 
+Laut Bundesanzeiger erwirtschaftete die dsb ccb GmbH 2018 noch über eine halbe Million 
+Euro Überschuss. Seitdem geht es, daran gemessen, von Jahr zu Jahr bergab. Der letzte 
+veröffentlichte Bericht weist für das Jahr 2021 gerade noch gut 120.000€ Überschuss aus.  
+ 
+ 
+ 
+ 
+nur eine Kooperation 
+ 
+ 
+ 
+ 
+tatsächlich? 
+ 
+ 
+dsb-PM: 
+LINKTIPP 
+ 
+ 
+• "Darwin ist integrier-
+tes Abo-System; sehr 
+verwandt dem fly-
+Eco-System" 
+ 
+ 
+ 
+• "dsb wird auch Ba-
+ckend-Funktionen 
+umbauen" 
+ 
+• dsb wird Aufwand 
+prüfen, Darwin-Pro-
+zesse an deutschen 
+Markt anzupassen 
+ 
+ 
+ 
+ 
+Werden dsb-Anteile an 
+Darwin-Investoren ver-
+kauft? 
+ 
+ 
+Ulrich Beck: "Medien-
+branche bleibt Core-
+Business der Beck-
+Gruppe" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dsb-Geschäfte schei-
+nen seit längerem nicht 
+gut zu laufen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 16
+Hinzu kommt, dass Ulrich Beck dem dsb ccb-Geschäftsführer und Minderheitsgesellschafter 
+Olaf Bendt im April letzten Jahres die Prokura für die Beck-Gruppe und damit für den poten-
+zialen Verkäufer der Anteile an der angeblich zum Verkauf stehenden GmbH entzogen hat. 
+Das von den Tippgebern behauptete 38Mio$ Investorenkapital ist eine Tatsache und ein Indiz, 
+dass eine Übernahme nicht an fehlenden Mitteln scheitern dürfte. 
+Das (gar nicht dsb-spezifische) Problemfeld 'SAP-Abhängigkeit bei Tageszeitungen' 
+In einer Schwerpunkt-Ausgabe (#11/2018) hat pv digest den Marktanteil des SAP-Systems 
+bei Aboverwaltungssystemen für Tageszeitungsverlage auf über 70% geschätzt. Der Ha-
+ken: das SAP-System zur Verwaltung von Abonnements ist uralt und beruht auf der R3-Syste-
+marchitektur, die SAP durch die cloudbasierte HANA-Technologie abgelöst hat. Um die in vie-
+len Branchen vorhandene Trägheit und Scheu vor dem Austausch der oft alle Geschäftspro-
+zesse zusammenhaltenden SAP-Software zu überwinden, hat der Softwareriese angekün-
+digt, seine alten Systeme ab 2027 oder allerspätestens 2030 nicht mehr zu "warten" und 
+schon gar nicht weiterzuentwickeln. Das bedeutet, dass spätestens ab diesem Zeitpunkt 
+unklar ist, ob Unternehmen, die dann noch auf die R3-Software setzen, angemessen auf Än-
+derungen zum Beispiel der buchhalterischen, Datenschutz- oder anderen rechtlichen Vorga-
+ben werden reagieren können. SAP erzwingt damit früher oder später den Wechsel zu HANA. 
+Für die Abonnementverwaltung wird das R3-Systemmodul 'IS Media' genutzt. Ein dem bis-
+herigen IS Media vergleichbares Medien-Modul wird es in HANA gar nicht mehr geben. Das  
+beunruhigt alle Verlage sehr, deren Abonnements auf IS Media-basierenden Systemen ver-
+waltet werden [pvd: zu Recht! wie Kenner der Materie meinen.] Insbesondere Tageszeitun-
+gen, die häufig im eigenen Haus auf die individuellen Anforderungen angepasste Versionen 
+von IS Media betreiben, suchen intensiv nach Alternativen.  
+Laut dsb-Geschäftsführer Alexander Münch bereitet das SAP-'Wartungsende' seinem Un-
+ternehmen keine Sorgen. Zwar sei es zutreffend, dass auch einige Kernmodule des dsb fly-
+Systems auf SAP-Programmen beruhen. Aber schon seit langem verzichte man auf die War-
+tung oder Weiterentwicklung durch SAP und entwickele die Software stattdessen mit eigenen 
+dsb-GF nicht mehr Pro-
+kurist der Holding-Ge-
+sellschaft 
+ 
+Darwin-Investoren ver-
+fügen nachweislich 
+über Kapital 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+zeitungsbranchen-
+weites Problem: die 
+Abhängigkeit von 
+SAP-Software 
+ 
+ 
+pvd-Schätzung: mind. 
+70% der Zeitungsabos 
+werden SAP R3-basiert 
+verwaltet 
+ 
+SAP R3 ist veraltet und 
+wird demnächst von 
+SAP nicht mehr gewar-
+tet 
+ 
+SAP will (in allen Bran-
+chen) Wechsel von R3 
+auf HANA erzwingen 
+ 
+ 
+Folge: keine zeitge-
+mäße Aboverwaltung 
+auf SAP-Basis mehr 
+möglich 
+ 
+ 
+ 
+ 
+dsb COO Münch: kein 
+Problem, wir können 
+selbst warten und ent-
+wickeln 
+ 
+ 
+pvd meint anonyme Hinweise sind im investigativen Journalismus Gang und Gäbe. Fach-
+medien, die vor allem konstruktivem Journalismus verpflichtet sind, kommen damit selte-
+ner in Kontakt. Das gilt offensichtlich auch für spezialisierte Dienstleister, wenn sie einmal 
+das Objekt solcher Gerüchte sind. Die unschöne Reaktion von Seiten dsb, auf unsere Fragen 
+nicht zu antworten und stattdessen einem anderem Medium mitzuteilen, dass es mindes-
+tens intensiven Kontakt zu Darwin.cx gibt, die ausweichende Formulierung des dsb-Haupt-
+gesellschafters bezüglich eines möglichen Anteilsverkaufs und die nachträglich veröffent-
+lichte Pressemitteilung haben uns motiviert, diese Geschichte zu erzählen. 
+Denn: Aboverwaltung ist ein Kernprozess aller Zeitungs- und Zeitschriftenverlage. Sowohl 
+für bestehende als auch für prospektive dsb-Kunden wären eine großangelegte Umstellung 
+der Systemarchitektur, komplexe Datenmigrationen oder Veränderungen in der Gesell-
+schafterstruktur entscheidungsrelevante Sachverhalte. Wir denken, das betrifft viele Leser 
+von pv digest. Darum lassen wir uns hier auf das Spiel der anonymen Tippgeber ein.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 17
+Programmierern weiter, von denen eine große Zahl zur Verfügung stehe oder notfalls bedarfs-
+gerecht beauftragt werden könnten. 
+Das klingt einerseits wohlfeil. Es ist andererseits aber ein Tenor, den auch andere Unter-
+nehmen in vergleichbarer Situation anstimmen. Noch viel abhängiger von SAP als dsb sind 
+die Unternehmen der deutschsprachigen Zeitungswelt. Die tägliche Erscheinungsweise, die 
+Vielzahl unterschiedlicher Angebotsformen und die Feinheiten der Zustelllogistik stellen An-
+forderungen, die über Jahrzehnte hinweg auf Basis der SAP-Branchenlösung erfüllt wurden, 
+und für die es nur wenig Alternativen gibt. 
+Tim Greve, Geschäftsführer des vielleicht wichtigsten EDV-Dienstleisters für die Zeitungs-
+branche, der MSP Medien Systempartner GmbH, setzt für Logistikprozesse ebenfalls weiter-
+hin auf eine IS Media-basierte Lösung, die notfalls weiterzuentwickeln er ausreichende eigene 
+Programmierkapazitäten habe. MSP hat sich jüngst mit Piano verbündet, um Verlagen eine 
+einheitliche Softwareumgebung für die Verwaltung sowohl gedruckter als auch digitaler Abon-
+nements anbieten zu können ('Piano Print'). Für die Logistik soll das topmoderne und inter-
+national verbreitete Piano-System hier mit dem veralteten aber anscheinend unersetzlichen 
+SAP-Modul zusammenarbeiten. Greve sprach in einem Kundenevent augenzwinkernd davon, 
+auf diesem Modul gemeinsam mit seinen Kunden "in die Abendsonne zu reiten". 
+Viele Zeitungsverlage betreiben noch hauseigene SAP-basierte Lösungen für die Verwaltung 
+ihrer Abonnements. Allerdings mehren sich die Fälle, in denen sie nach einer Alternative su-
+chen, weil SAP für die Verwaltung von Digitalabos ungeeignet ist und obendrein für ab 2027 
+oder allerspätestens 2030 das definitive Ende seines Media-Moduls angekündigt hat. So hat 
+sich zum Beispiel die Aschendorff Gruppe bereits fast komplett von SAP emanzipiert und 
+setzt stattdessen für die Verwaltung ihrer Print- und Digitalabos auf die eSuite des Anbieters 
+Aptitude. Nur für die Printlogistik konnte dieser Anbieter keine Lösung anbieten. Dafür hat 
+der Verlag MSP und damit indirekt wieder eine SAP-basierte Lösung beauftragt. 
+Auch Open Subs, das Gemeinschaftsunternehmen des Digitalabodienstleisters Plenigo, des 
+Logistikers Ohl und der Beratungsfirma Bardohn, drängt in den vielversprechenden Markt der 
+'hybriden' Abodienstleister, die sowohl Print- wie auch Digitalabos verwalten können und 
+hofft auf Aufträge aus der Zeitungswelt. Das Open Subs-System ist komplett SAP-frei. 
+Aber die Bewältigung der Anforderungen der Tageszeitungslogistik steht noch bevor. Ge-
+schäftsführer Christoph Hauschild ist optimistisch, diese Leistung ab Anfang 2025 anbieten zu 
+können. Dieser Optimismus wird allerdings von bisherigen Erfahrungen in anderen Häusern 
+in Frage gestellt. 
+ 
+ 
+ 
+ 
+ 
+das sagen auch andere 
+Nutzer des SAP Me-
+dien-Moduls IS Media 
+ 
+ 
+ 
+ 
+ 
+ 
+insbesondere für Ta-
+geszeitungslogistik 
+scheint es kaum Alter-
+nativen zu geben 
+ 
+ 
+ 
+Bsp. Piano Print: Logis-
+tik weiterhin mit Hilfe 
+der SAP-Basis 
+ 
+ 
+ 
+Bsp. Zeitungsverlag 
+Aschendorff: SAP fast 
+komplett ersetzt 
+ 
+ 
+ 
+ 
+ 
+…außer bei der Logistik 
+ 
+ 
+ 
+Open Subs will dem-
+nächst auch Zeitungs-
+abos bedienen 
+ 
+eigenes Logistikmodul 
+soll kommen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint Zum Thema SAP-Abhängigkeit lässt sich damit resümieren: die ist vorhanden 
+und problematisch. Vor allem für die (Zustell-)Logistik von Tageszeitungen ist es aber unklar, 
+ob es überhaupt eine Alternative dazu gibt. Es handelt sich dabei um keine dsb-exklusive 
+Herausforderung. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 18
+ 
+  
+ 
+    P2 
+  
+Index
+Marktentwicklung
+Einzelhandel
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland,  
+Datenstand KW 8/24) 
+ 
+ 
+  
+ 
+Marktentwicklung
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neuankündi-
+gungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+  
+ 
+Marktentwicklung
+digitaler Vertrieb
+ 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATEN COCKPIT HANDEL UND ABSATZ
+QUELLEN:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 19
+ 
+ 
+ 
+ 
+ 
+Junge Leute bezahlen sehr wohl für Nachrichten – nur 
+längst nicht immer an etablierte Nachrichtenmedien 
+P 
+Bezahlen für Journa-
+lismus 
+ 
+Über eine sehr umfangreiche und qualitativ hochwertige Studie des American Press Institute 
+Junge Leute bezahlen nicht für Nachrichten? Doch, das machen Sie! Sogar mehrheitlich. 
+Wenn auch tatsächlich die älteren jungen Menschen noch häufiger bezahlen als die jungen 
+jungen Leute, und wenn sie auch zwar für Nachrichteninhalte, nicht aber unbedingt an die 
+traditionellen Nachrichtenmedien bezahlen. 
+So kann man die wichtigsten Ergebnisse einer sehr profunden Studie zusammenfassen, die 
+das American Press Institute zusammen mit dem AP-NORC Center for Public Affairs Research 
+erstellt hat. "Funding News: How Gen Z and Millennials pay for or donate to news" ist unser 
+Lesetipp des Monats [pv-digest.de/linkliste Link2], auch wenn die Veröffentlichung schon ein 
+Jahr zurück liegt. Dank rund 6.000 Befragten, deren Repräsentativität für sämtliche Haus-
+halte der USA über ein ausgefeiltes Samplingverfahren und verschiedene Befragungsmetho-
+den (Post, E-Mail und persönliche Interviews) bestmöglich sichergestellt wurde und einer be-
+merkenswerten Sensibilität für die methodischen Probleme sozialempirischer Forschung, er-
+scheinen die erhobenen Daten von großer Qualität. Die wirklich bemerkenswerten Befunde 
+aus diesen Daten sind im deutschen Sprachraum und leider auch in pv digest bisher weitge-
+hend unbeachtet geblieben, obwohl die Veröffentlichung der Studie schon ein Jahr zurück-
+liegt.  
+ 
+ 
+ 
+Studie: eine Mehrheit 
+junger Menschen (U40) 
+bezahlt für Nachrich-
+ten 
+ 
+ 
+ 
+ 
+ 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+umfangreiche und me-
+thodisch hochwertig 
+erhobene Daten, re-
+präsentativ für die USA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+ANALYSEN UND DATEN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 20
+Die Mehrheit, nämlich 60% der sämtlich unter 40 Jahre alten Befragten, gab an, in irgend-
+einer Weise für Nachrichten zu bezahlen. Auch bei einer Segmentierung in verschiedene Al-
+tersgruppen blieb es dabei, dass stets die Mehrheit den Bezahlern gehört (zwar nur 51% bei 
+den 16-24jährigen aber dann schon 63%bei den 25-31jährigen und sogar 67% der älteren, 32-
+40jährigen). 
+Die Mehrheit bezahlt – aber mehrheitlich nicht für die etablierten Medien 
+Dieses überraschende Ergebnis kommt vor allem zustande durch eine zeitgemäß offen ge-
+haltene Frage bezüglich a) der Bezahlmechanismen und b) der Nachrichtenquellen, für die 
+bezahlt wird. Die entsprechende Frage zu a) lautete: "Bitte wähle alle der folgenden Typen 
+bezahlter Produkte oder Services aus, die Du regelmäßig im vergangenen Jahr genutzt hast. 
+Für jeden gib an, ob Du selbst für das Produkt oder den Service bezahlst oder ob jemand 
+anderes dafür bezahlt oder, im Fall von Nonprofit, ob Du gespendet hast oder eine Mitglied-
+schaft abgeschlossen hast". Als b) Nachrichtenquellen berücksichtigte die Studie dabei 
+nicht nur etablierte Medien wie gedruckte oder digitale Zeitungen, sondern auch Nachrichten-
+Apps, Nonprofit- Websites und -Rundfunk und digitale Angebote wie E-Mail-Newsletter, Vi-
+deos und Podcasts von Publisher-unabhängigen 'Creators'. 
+Diese sehr weite Fassung des Universums der möglichen Nachrichtenquellen machte nicht 
+nur deutlich, wie viele junge Menschen tatsächlich an irgendwen für Paid Content bezahlen. 
+Sondern sie förderte auch die Erkenntnis zutage, dass traditionelle Nachrichtenmedien von 
+dieser Bezahlbereitschaft viel weniger profitieren als die genannten alternativen Digital-
+medien. Denn von allen Unter-40jährigen dieser Studie bezahlen 47% für nicht etablierte 
+digitale Medien. Nur halb so viele (22%) bezahlten für "traditionelle Quellen wie ge-
+druckte oder digitale Zeitungen". 
+Dazu passt eine Frage bezüglich der Einstellung gegenüber verschiedenen Gattungen der 
+Nachrichtenmedien. Nur eine Minderheit der Befragten hat eine positive Einstellung ge-
+genüber Nachrichtenmedien. Individuelle Journalisten und Lokalmedien kommen dabei 
+noch am besten weg. 
+ 
+60% der U40-jährigen 
+bezahlen 
+ 
+Sogar 51% der 16-
+24jährigen bezahlen 
+ 
+ 
+ 
+ 
+ 
+ 
+…für gedruckte oder 
+digitale Presse oder al-
+ternative digitale Nach-
+richten-Angebote  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+47% bezahlen für An-
+gebote, die nicht von 
+etablierten Pressean-
+bietern stammen 
+ 
+dafür zahlen nur 22% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mehrheitlich negative 
+Einstellungen gegen-
+über Nachrichtenme-
+dien 
+ 
+(auch bei den Bezah-
+lern) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 21
+ 
+Sowohl Bezahler als auch Nicht-Bezahler sind meist keine aktiven Nachrichtennutzer 
+Verbreiteten Vorstellungen entsprechend spielen die Sozialen Medien eine immense Rolle 
+bei der Nachrichtennutzung der jungen Menschen. Denn selbst die Bezahler "stolpern 
+mehr über Nachrichten, als dass sie nach ihnen suchen", heißt es im Studientext. 54% der 
+Bezahler sagen das von sich selbst; nur 45% der Bezahler bezeichnen sich selbst als aktive 
+Nachrichtensucher. (Mehr als zwei Drittel der jungen Nicht-Bezahler sagen von sich, dass sie 
+über Nachrichten mehr stolpern als nach diesen zu suchen).  
+Ein Weg, der zum Stolpern führt, ist die private Kommunikation. Wer bezahlt, der spricht 
+auch häufiger über Nachrichten. 34% der Bezahler aber nur 16% der Gratisnutzer sprechen 
+mit Familie oder Freunden über Nachrichten. 31% der Bezahler tauschen sich mit der Familie 
+oder mit Freunden per SMS, Whatsapp & Co über die Nachrichten aus, die sie konsumiert 
+haben. Nur 13% der Nichtbezahler machen das auch. 24% der Bezahler aber nur 8% der Nicht-
+Bezahler teilen Artikel über ihre digitalen Kanäle. Usw. Diese deutlichen Unterschiede bei 
+der Bedeutung der Nachrichten für die privaten Kommunikation ziehen sich durch alle 
+erfragten Phänomene. 
+Empfehlungen an traditionelle Nachrichtenmedien 
+Dass alternative, neue, nicht etablierte Quellen einen so großen Teil der Bezahlbereitschaft 
+abschöpfen, mag teilweise dazu beitragen zu erklären, warum viele Studien eine nur ge-
+ringe Bezahlbereitschaft (noch dazu bei jungen Menschen) diagnostizieren. So sollen in 
+den USA zuletzt nur 21% der Bevölkerung für 'Online-News' bezahlt haben. Dass es in der hier 
+besprochenen Studie 60% schon bei den Unter 40jährigen sind könnte auch daran liegen, dass 
+dabei viel konkreter gemacht wurde, wonach gefragt wird und dass nicht-traditionelle Me-
+dien explizit mitberücksichtigt wurden. 
+Es ist aber auch ein dringender Grund für die etablierten Nachrichtenmedien, sich mit der 
+Frage zu beschäftigen, warum ein so großer Teil der Bezahlbereitschaft an ihnen vorbei geht. 
+Die Studienautoren schreiben: "Nachrichtenmedien sollten mögliche Gründe dafür bewer-
+ten, wie zum Beispiel die wahrgenommene Authentizität individueller Stimmen, die For-
+mate oder den Stil der Inhalte oder vielleicht sogar die oft mannigfaltigen Wege, auf de-
+nen Personen die Creators unterstützen durch wiederkehrende oder Einmal-Zahlungen". 
+ 
+ 
+ 
+ 
+auf Nachrichten stößt 
+man mehr, als dass sie 
+aktiv gesucht werden 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bezahler sprechen / 
+kommunizieren privat 
+viel mehr über Nach-
+richten als Nichtzahler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mögliche Gründe für 
+die Bevorzugung alter-
+nativer Nachrichten-
+quellen: 
+• wahrgenommene 
+Authentizität 
+• Formate, Stil 
+• Diversität der Mone-
+tarisierungsmecha-
+nismen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 22
+Sie empfehlen den traditionellen Publishern auch, "robuste Social Media-Strategien zu 
+entwickeln, die geeignet sind, Beziehungen mit neuen Millenial- und Gen Z-Audiences zu 
+identifizieren und zu kultivieren (die eventuell später einmal bezahlen oder spenden) und die 
+aber auch existierende Bezahler oder Spender ansprechen". 
+ 
+ 
+ 
+Empfehlung:  
+Social Media auch zum 
+Erreichen der Bezahler 
+[Abonnenten] nutzen 
+ 
+ 
+Gleiche Werbeerlöse mit weniger programmat. Anzeigen? 
+3 
+N Werbeplätze vs. 
+progr. Werbeerlöse 
+ 
+Die nachahmenswerte Testidee des Monats 
+Mark Alker, Mitgründer des Mountainbike-Magazins Singletrack, berichtet über seinen Ver-
+such, die Nutzer der Website singletrackworld.com mit weniger programmatischer Werbung 
+zu konfrontieren. Er startet seinen sehr lesenswerten Bericht für das Fachmagazin InPubli-
+shing [pv-digest.de/linkliste Link3] mit einigen grundsätzlichen Erläuterungen zum Geschäft 
+mit automatisierten Werbeschaltungen. Die für nicht mit den Praktiken des digitalen Werbe-
+geschäfts vertrauten Leser überraschendste Information ist dabei: Publisher werden nur an-
+scheinend 'pro tausend Kontakte' bezahlt. Tatsächlich hängt die Vergütung für die meisten 
+programmatisch eingebuchten Werbemittel aber von den Klicks der Nutzer ab. Denn die Wer-
+betreibenden buchen in der Regel Klicks, nicht Ad Impressions. 
+'Pro tausend Kontakte'-Preise sind im Bereich der programmatischen Werbung aus die-
+sem Grund in der Praxis lediglich entweder nachträglich ermittelte Kennzahlen ('eCPMs' = 
+effektive Tausenderkontaktpreise) oder aber Prognosewerte, auf deren Basis die 
+Computeralgorithmen die Werbeanzeigen zuteilen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+programmatische Wer-
+bung wird fast immer 
+auf 'pro Klick'-Basis ge-
+bucht 
+ 
+ 
+Folge: 'pro Tausend 
+Kontakte'-Preise sind 
+irreführend 
+ 
+ 
+pvd meint empirische Studien zur Bezahlbereitschaft sind chronisch verdächtig, besten-
+falls schwer interpretierbare und nicht selten auch Nonsense-Daten zu produzieren. Nicht 
+umsonst arbeiten wir uns einmal jährlich am hochproblematischen Digital News Report des 
+Reuters Institutes ab, dessen offensichtlich unstimmige Daten zum Thema 'Bezahlen für 
+Online-Nachrichten' rund um die Welt oft für den Goldstandard in der Frage Bezahlbereit-
+schaft gehalten werden. Vor einem Jahr mussten wir uns ausführlich über die aus Rund-
+funkgebühren bezahlte Flatratepropaganda 'Coopetition is King' deutscher Wissenschaftler 
+ärgern, die sich ebenfalls auf zweifelhafte Daten zur Bezahlbereitschaft stützte. 
+Auch die hier besprochene Studie muss darum unter den Verdacht gestellt werden, zu 
+über- oder unterzeichnen oder das Phänomen Bezahlbereitschaft zu eng oder zu weit zu 
+fassen. Aber der Methodenteil dieser Studie ist ungewöhnlich überzeugend, der Absender 
+American Press Institute in unseren Augen ohne eigenes Interesse an den berichteten Be-
+funden und die Autoren maßvoll in ihrer Interpretation der Daten. 
+Die wiederum haben Sprengkraft. Dabei ist es fast egal, ob 60% oder 40% oder vielleicht 
+sogar nur 20% der jungen Menschen für digitale Nachrichten bezahlen. Denn die viel wich-
+tigere Erkenntnis, an der zu zweifeln wir keinen Grund sehen, ist diese: Junge Menschen 
+bezahlen durchaus für Nachrichten. Das Geld fließt allerdings zu weiten Teilen an Empfän-
+ger, die etablierte Medien viel zu wenig auf dem Schirm haben. Warum das so ist und wie 
+man davon eventuell lernen kann, sind Fragen, die zu stellen sich sehr lohnt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 23
+ 
+Das ist der Grund dafür, dass zu-
+sätzliche Werbeplätze nicht unbe-
+dingt zu zusätzlichen Erlösen füh-
+ren. Im Umkehrschluss bedeutet 
+das, dass weniger Werbebanner 
+auf einer Website nicht zwangs-
+weise zu weniger Werbeerlösen 
+führen. 
+Alker hat das im Zeitraum Juli – 
+Oktober 2023 mit einem Test über-
+prüft. Während des Tests verrin-
+gerte er sukzessive die Anzahl der 
+Werbeplätze für programmatische 
+Werbung. Alker verrät nicht die ab-
+soluten Messwerte seines Experi-
+mentes. Aber er zeigt drei Grafi-
+ken, die seinen Test quantitativ 
+bewerten helfen.  
+Die erste Grafik mit fallenden 
+Mengen zeigt die Anzahl der Ad 
+Impressions. Die ging deutlich zu-
+rück, nachdem er nach und nach 
+alle Werbeplätze, die zu weniger als 10% zu den Erlösen beitrugen, entfernt hatte. 
+Die zweite Grafik zeigt die Werbeerlöse im gleichen Zeitraum. Die blieben im Großen und 
+Ganzen auf dem Ursprungsniveau. 
+Trotz (viel) weniger Werbeschaltungen verdiente die Website in diesem Zeitraum also un-
+verändert viel Geld mit den verbliebenen Werbeplatzierungen. Wie ist das möglich? 
+Das deutet die dritte Grafik an, die die Klickraten der verbliebenen Werbeschaltungen 
+zeigt. Pro angezeigter Werbung stieg der Prozentsatz der Nutzer, die auf die angezeigte Wer-
+bung klickten. Alker: "Denken Sie daran, das sind Klickraten, nicht die Menge der Klicks. Das 
+bedeutet, man kann sinnvoll annehmen, dass die Reduzierung der Werbeeinblendungen kei-
+nen großen Einfluss auf die Gesamtanzahl der Klicks hatte. Dass die Erlöse ziemlich unverän-
+dert blieben, stützt diese Interpretation". 
+Und damit kommt er zum Schluss: "In einem Markt, der von 'per Klick'-Kampagnen domi-
+niert wird und wo jeder einzelne Nutzer wahrscheinlich bestenfalls auf nur eine einzige An-
+zeige klickt, führt eine Vermehrung der angezeigten Werbung nicht zu einer bedeutenden 
+Veränderung bei den Erlösen. Sie hat aber einen deutlichen Effekt auf die Nutzererfahrung, 
+und wenn die schlechter wird, wegen ausufernder Werbeverstopfung, dann werden die Erlöse 
+mit Sicherheit unter der resultierenden abnehmenden Nutzermenge leiden." 
+ 
+ 
+pro Klick => zusätzliche 
+Werbeschaltungen <> 
+zusätzliche Erlöse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Test: sukzessive Reduk-
+tion der Werbeplätze 
+und also der Werbe-Pis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Folgen: 
+ 
+ 
+• weniger 
+Ad Impressions 
+ 
+ 
+ 
+ 
+• gleichbleibende Wer-
+beerlöse 
+ 
+ 
+ 
+ 
+ 
+• steigende Klickraten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+q.e.d. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 24
+ 
+Erfahrungen mit der Erhöhung von Plusabo-Preisen 
+P 
+Preiserhöhungen bei 
+Paid Content 
+ 
+Nach der Installation einer Paywall stellt sich früher oder später die Frage, in welchem Umfang der Plusabo-Preis 
+erhöht werden sollte und welche Folgen das hat. Wir haben zahlreiche Erfahrungswerte zu diesem Thema gesammelt. 
+Vor einigen Wochen erreichte uns aus dem Leserkreis folgende Frage: "Gerne möchte ich ein 
+Thema anregen: Mich beschäftigt aktuell, inwiefern wir den Preis von Plus im Bestand ändern 
+können. Leider kann ich nur bedingt einordnen, wie die Preiselastizität bei Plus ist. 
+Grundsätzlich nehmen wir an: 'Sehr elastisch. Eine Preiserhöhung führt zu einem 
+überproportionalen Nachfragerückgang.' Bislang haben wir den Preis nicht erhöht. Mich 
+würde interessieren, ob Sie Daten haben, aus denen man Ableitungen treffen kann." 
+Unsere Antwort war diese: "Wie kommen Sie zu Ihrer Einschätzung? Ich kann mich jetzt 
+spontan nicht an einzige Preiserhöhung erinnern, die nicht den Umsatz gesteigert 
+hätte. Oft sogar sehr, denn was ich erinnere, das sind Erfahrungswerte wie 'das hat unsere 
+Abomengen nur wenig (oder auch gar nicht!) beeinträchtigt'. Aber danke für die Gelegenheit, 
+meine Erinnerungen mit meinem Archiv und weiterer Recherche abzugleichen." 
+Gesagt – getan. Wir haben uns intensiv mit der Frage beschäftigt, welche Erfahrungswerte 
+zum Thema 'Erhöhung der Preise für Plus-Abos' vorliegen. 
+Einzelfallbeobachtungen 
+> RUMS: In unserem Beitrag über das Lokaljournalismus-Startup aus Münster in der letzten 
+Ausgabe findet sich folgende Passage: "Der Abobestand mag stagnieren – die Aboumsätze 
+stagnieren nicht. Der Basisabopreis für RUMS hat sich bereits zweimal erhöht (von 
+anfangs 8€ monatlich auf 10€ und zuletzt auf 12€). Laut Geschäftsführer Götz Grommek 
+habe er bei beiden Preiserhöhungen keine erhöhten Kündigerzahlen gesehen." 
+> Süddeutsche Zeitung: Der Dienst MedienInsider, der in jedem Monat viel Aufmerksamkeit 
+auf die an die IVW gemeldeten Paid Content-Zahlen verwendet, berichtete jüngst: "Die 
+Süddeutsche Zeitung verlor im Februar als einziger Titel der Top 10 an Paid-Content-Abos. 
+Der Bestand schrumpfte leicht um 0,4 Prozent". Das sei aber für die Münchner dennoch ein 
+Grund zur Freude, denn als Ursache für diesen Rückgang habe die Zeitung eine sehr 
+deutliche 
+Preiserhöhung 
+angegeben, 
+die 
+demzufolge 
+zu 
+einer 
+deutlichen 
+Erlössteigerung geführt haben sollte: "Wir haben im Januar 2024 den Preis des SZ Plus 
+Basis-Abos um 20 Prozent angehoben, der leichte Rückgang im Paid Content Abo-Bestand 
+war deshalb erwartbar". 
+Auch aus dem pv digest-Netzwerk konnten wir einige konkrete Erfahrungswerte 
+einsammeln. Dort wir haben uns erkundigt, wie sich Plusabo-Preiserhöhungen a) auf den 
+Bestand und b) auf die Neuproduktion ausgewirkt haben. 
+> Dazu schreibt uns zum Beispiel Markus Hofmann, Leiter Digitale Inhalte und 
+stellvertretender Chefredakteur bei der Badischen Zeitung: "Allgemein kann man sagen, 
+dass wir im Basisbereich seit Jahren quasi jedes Jahr den Preis erhöht haben. Wir liegen 
+aktuell bei 15,50€ pro Monat und damit preislich ziemlich an der Spitze in Deutschland.  
+Unsere Zugangssituation ist auch nach Preiserhöngen stets robust gewesen. Seit einiger 
+Zeit haben wir aber – wie die meisten anderen Verlage auch – mit Churn zu kämpfen. Zu 
+ 
+ 
+ 
+ 
+Frage aus dem Leser-
+kreis: Erfahrungen mit 
+Plusabo-Preiserhöhun-
+gen? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd-Recherche-Ergeb-
+nisse: 
+ 
+ 
+ 
+ 
+• RUMS: 2 Erhöhun-
+gen (+25%, +20%) 
+mengenunschädlich 
+ 
+ 
+ 
+ 
+ 
+ 
+• SZ: Preiserhöhung 
+um 20%, ganz leich-
+ter Bestandsrück-
+gang  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Badische Zeitung: 
+quasi jährliche Er-
+höhungen auf nun 
+15,50€ pro Monat 
+ 
+Produktion stabil 
+aber mögliche 
+Churn-Effekte?!? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 25
+sagen, dass die Haltbarkeiten hauptsächlich vom absoluten Preisniveau abhängen, wäre 
+aber stark vereinfacht. 
+> Der Lesermarktverantwortliche eines sehr großen Titels möchte anonym bleiben, weil er in 
+seiner Antwort eingesteht, dass er unsere Frage nicht mit Messwerten, sondern eher auf 
+Basis seiner Eindrücke beantwortet [Er ist damit alles andere als eine Ausnahme!]. Eine 
+prozentual deutlich zweistellige Preiserhöhung habe sich nicht erkennbar negativ auf 
+den Abobestand ausgewirkt. Seit der Preiserhöhung sei der Abobestand prozentual 
+zweistellig weitergewachsen. 
+ 
+ 
+ 
+großer TZ-Titel: %ual 
+2stellige Preiserhö-
+hung ohne Negativ-
+folgen für Bestand 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• FAZ: Preiserhöhung 
+für 1. Abojahr wäre 
+schädlich für Neu-
+produktion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dito eine Verkürzung 
+des Niedrigpreis-
+phase im 1. Jahr 
+ 
+sinnvoll: Probemo-
+nat für 99 Cent statt 
+gratis 
+ 
+ 
+Fallstudie FAZ 
+Sehr ausführlich haben wir mit Donika Lilova, Head of Paywall bei der Frankfurter Allgemeinen Zei-
+tung, über die dortigen Erfahrungen mit Preiserhöhungen gesprochen. 
+Die FAZ-Leute gehen das Thema-Preiserhöhung wie auch praktisch alle übrigen wichtigen Fragen 
+rund um ihr Paid Content-Angebot sehr systematisch und analytisch an. Das FAZ+ Abo war im 
+Herbst 2018 in den Markt eingeführt worden. Die Preisgestaltung war dabei von Anfang an drei-
+stufig: einem Probemonat folgte für das erste Lesejahr ein ermäßigter Preis von 2,95€ pro Wo-
+che und ab dem dreizehnten Lesemonat ein regulärer Wochenpreis von 4,95€. Beide Abos wur-
+den de facto monatlich à 11,80€ bzw. 19,80€ berechnet. 
+Anfang 2023 testete die FAZ erstmals eine Erhöhung dieser Preise. Basis waren Marktforschun-
+gen der Pricing-Spezialisten von Vocatus, die zu dem Ergebnis gekommen waren, dass jeder Preis 
+bis zu einem Monatspreis von knapp unter 25€ zu einer Steigerung des Kundenwertes führen 
+würde [das also bis zu diesem Preis erhöhte Abgangsquoten durch die steigenden Aboerlöse um-
+satzseitig kompensiert werden würden]. 
+Daraufhin führte die FAZ eine umfangreiche Testserie durch. Überprüft wurde die Angebotsge-
+staltung des Probemonats (99Cent oder 1€ anstelle eines Gratismonats), eine Steigerung beider 
+Wochenpreise um je 1€, also eine Steigerung der Monatspreise auf 15,80€ bzw. 23,80€ und auch 
+ein Verkürzung der Niedrigpreisphase vom gesamten ersten Jahr auf nur noch 6 Monate. 
+Die Tests führten zu einem Verzicht auf die Preiserhöhung im ersten Lesejahr. Wie die folgen-
+den Testdaten zeigen, führte der höhere Preis hier zu einer deutlichen Verringerung bei der Anzahl 
+neu gewonnener Digitalabonnenten und auch zu einer leichten Verringerung der prognostizierten 
+Kundenlebenswerte (CLVs). 
+Auch die Verkürzung der Niedrigpreisphase im ersten Jahr auf nur sechs Monate hat sich in den 
+FAZ-Tests nicht als empfehlenswert präsentiert. 
+Eine sehr bedeutende Preiserhöhung im Bereich der Neukundengewinnung erwies sich im Test 
+dagegen als sinnvoll. Statt eines Gratismonats bietet die FAZ heute den Probemonat für 99Cent 
+an. Dieser Preispunkt führte im Test zu mehr bezahlenden Kunden, die obendrein einen höheren 
+Lebenszeitumsatz erwarten lassen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 26
+Umfrage im pv digest-Leserkreis 
+Wir haben den pv digest-Leserkreis auch per Online-Formular um Erfahrungswerte gebeten. 
+Folgende Fragen haben wir gestellt:  
+1) 
+Wann fand Ihre letzte Plusabo (Paid Content)-Preiserhöhung statt? 
+2) 
+Um wie viel Prozent haben Sie den Preis dabei erhöht? 
+3) 
+Wie hat sich der Abobestand seitdem entwickelt? 
+4) 
+Wie haben sich die Aboneuzugänge seitdem entwickelt? 
+Da absehbar war, dass die Antworten auf die beiden letzten Fragen nicht immer als 
+Messwerte verfügbar sind, haben wir ermuntert, notfalls zu schätzen ("Bitte nennen Sie … 
+bestenfalls Ist-Werte, andernfalls bestmögliche Schätz- und Näherungswerte"). 
+Wir haben insgesamt nur zwölf verwertbare Antworten einsammeln können. Das mag auch 
+daran liegen, dass etliche Verlage bisher den Preis ihres Paid Content-Abos noch niemals 
+angehoben haben – so wie es zum Beispiel beim Initiator unserer Recherchen der Fall ist. Das 
+Erfahrungsspektrum, das wir auf Basis der elf Antworten zeichnen können, ist breit. 
+Die berichteten Preiserhöhungen fanden im Zeitraum Januar 2023 bis Februar 2024 statt. Im 
+arithmetischen Mittel wurden die Plusabo-Preise dabei um 14% erhöht. Im Minimum um 
+5%, im Maximum um 33%. Das Median-Mittel liegt bei 8% (Ein Verlag berichtet außerdem von 
+einer Preiserhöhung um 25% schon im Januar 2020. Zu den Fragen 3 und 4 konnte er aber 
+keine Angaben mehr machen). 
+Die meisten Antworten verweisen auf eine leicht negative Bestandsentwicklung nach 
+der Preiserhöhung. Die angegebenen Werte schwanken zwischen -4% und +2,2%, im 
+arithmetischen Mittel liegt die genannte Bestandsentwicklung bei -1%. In einem Fall wurde 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 10% Preiserhöhung 
+im Bestand führte 
+dagegen zu Mehrer-
+lösen 
+ 
+ 
+ 
+ 
+ 
+ 
+quantitative Erhe-
+bung im pvd-Leser-
+kreis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• letzte PE fand statt 
+zwischen Jan23 und 
+Feb24 
+ 
+• PE um ø 14% 
+ 
+ 
+ 
+• Bestand entwickelt 
+sich mehrheitlich 
+ganz leicht negativ 
+ 
+ 
+ 
+Im Bestandskundenbereich verzichtete die FAZ auf einen Test. Der Wochenpreis wurde im Okto-
+ber 2023 von 4,95€ auf 5,45€ um rund 10% erhöht. Die Auswirkungen dieses Preisschrittes konnten 
+dabei nicht isoliert von weiteren, vermutlich bedeutenden Faktoren analysiert werden. Zwar stieg 
+die Anzahl der Kündigungen kurzfristig massiv an (um 31% im 60-Tage-Durchschnitt). Allerdings 
+war das zu einem unbekannten Anteil auch Folge der im Vorjahr stattgefundenen, sehr produkti-
+onsstarken Werbekampagnen. Unter dem Strich verblieb eine Verringerung des betroffenen 
+Abonnentenbestandes um 3%, was in einem guten Verhältnis zu den durch die Preiserhö-
+hung deutlich gestiegenen Erlösen steht. Auch in der Apple-Bezahl-App 'FAZ Der Tag' folgte auf 
+eine rund 10%ige Preiserhöhung ein spürbarer aber geringerer Bestandsrückgang (-6,8%). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 27
+mit einem Plus-Symbol eine positive Bestandsentwicklung symbolisiert, aber nicht in einen 
+Zahlenwert gefasst.  
+Bei den Neuzugängen weichen die Antworten noch weiter voneinander ab. Das untere 
+Limit liegt bei minus 14,6%. Das Maximum bei +86%. Zumindest dieser letzte Fall ist eine 
+eindrückliche Erinnerung daran, dass die hier berichteten Werte zwar nach einer 
+Preiserhöhung eintraten, dass sie aber auch durch ganz andere Ursachen bedingt sein 
+können. In einem anderen Fall schrieb der Befragungsteilnehmer dazu passend in ein 
+Kommentarfeld "Die Churnrate blieb gleich. Die geringeren Neuzugänge sind m.E. nicht auf 
+den erhöhten Preis, sondern auf zu diesem Zeitpunkt geringe Marketingaktivitäten 
+zurückzuführen". 
+Vielleicht aus ähnlichen Gründen finden wir bei der Frage nach der Entwicklung der 
+Neuproduktion auch häufiger als bei der Frage nach der Bestandsentwicklung neutrale 
+Antworten wie leere Datenfelder oder die Angabe '0%' [=keine Veränderung]. 
+ 
+ 
+ 
+ 
+ 
+• Effekte auf Neuzu-
+gänge völlig unter-
+schiedlich 
+ 
+(vermutlich andere 
+Ursachen) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fallbeispiel Die 
+Presse 
+ 
+ 
+ 
+ 
+• Preiserhöhung um 
+über 25% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• im Neukundenbe-
+reich ergänzt um 
+weitere Angebotsop-
+timierungen 
+ 
+ 
+ 
+ 
+• deutlicher Produkti-
+onsrückgang (aber 
+immer noch bei po-
+sitiven Erlöseffekten) 
+ 
+ 
+• unerwartet geringe 
+Folgen für den Be-
+stand 
+ 
+ 
+ 
+ 
+ 
+ 
+Fallstudie 'Die Presse' 
+Ähnlich wie die FAZ ist auch der nationale österreichische Titel 'Die Presse' das Thema der Paid 
+Content-Preiserhöhung auf eine sehr systematische und testorientierte Art&Weise angegangen. 
+Obwohl 'Die Presse' einen sehr ausgereiften Online-Auftritt und eine attraktive Nachrichten-App 
+anbietet, verkauft sie aktiv nur ein Digitalabo, das auch das E-Paper umfasst (Ein Digitalabo ohne 
+E-Paper kommt nur als Downgrade im Rahmen der Kündigungsabwehr zum Einsatz). Darum ist 
+das Abo hochpreisig. Bis November 2022 kostete ''Die Presse' Digital' 20€ monatlich, danach 22€ 
+monatlich. Im März dieses Jahres folgte eine weitere, noch deutlichere Preiserhöhung von 22€ auf 
+rund 30€ pro Monat. Dieser erhebliche Preisschritt wurde mit Tests vorbereitet. 
+Im Kundenbestand testete 'Die Presse' dafür bei 9% ihrer Abonnenten vorab den erhöhten 
+Preis bzw. Preisvarianten, um zu einer Abschätzung eines umsatzoptimalen Preisschrittes zu ge-
+langen. Im Neukundenbereich führte 'Die Presse' einen A/B-Test durch, bei dem jeweils bei einer 
+Hälfte der Paywalleinblendungen das vorherige Angebot und bei der anderen Hälfte ein neues An-
+gebot gemacht wurde. 
+Das neue Angebot bestand nicht nur aus dem neuen, deutlich erhöhten Preis. Denn gleichzeitig 
+mit der Preiserhöhung von 22€ auf rund 30€ pro Monat veränderte 'Die Presse' die Preiskom-
+munikation und Fakturperiode. Statt pro Monat wurde den Kunden das Abo zu "6,99€ pro Woche" 
+angeboten. Und anstelle eines ersten Probemonats für 1€ wurde das initiale Probeabo drei Mo-
+nate lang zu "1€ pro Woche" angeboten. Obendrein veränderte die Presse den Preis für die ers-
+ten Monate nach der Probephase. Statt vorher 9€ monatlich während der ersten 9 Monate lau-
+tete das neue Angebot 3,99€ pro Woche für die ersten 12 Wochen nach der 1€-pro-Woche-Phase. 
+Die gleich mehrfachen Verteuerungen zeigten im A/B-Test ihren Preis. Die Umwandlung an der 
+Paywall sank deutlich um 44% gegenüber der Kontrollgruppe mit dem vorherigen Angebot. Der 
+Verlag prüft noch die Konsequenzen aus diesem Befund. Denn trotz der deutlich kleineren Menge 
+neu gewonnener Abos generieren die verbleibenden neuen Abos zu den neuen Preisen immer 
+noch höhere Erlöse als Neuabos für 1€ im ersten Monat, 9€ in der Zwischenphase und 22€ Regel-
+preis danach.  
+Dagegen überraschten die Bestandskunden mit einer gegenüber dem Pretest unerwartet we-
+nig negativen Entwicklung. 3 Wochen nach der Preiserhöhung hatten in der Testgruppe nur 2,9% 
+der Abonnenten den höheren Preis reklamiert. Die Churnquote erhöhte sich gegenüber der Kon-
+trollgruppe im Vergleich zu den Mehrerlösen aus der Preiserhöhung nur sehr moderat. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 28
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• "Angst vor Preiser-
+höhung größer als 
+sie sein muss." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• erwartbar: Anti-
+Churn-Effekte aus 
+verändertem Neu-
+kundenangebot  
+ 
+ 
+ 
+Insgesamt bewertet Lesermarkt- 
+und Marketingchef Luca Gat-
+scher die jüngste Preiserhöhung 
+so: "In Summe hat sich bisher die 
+Preiserhöhung 
+erwartungsge-
+mäß verhalten. Loyale Abonnen-
+ten halten Preisanpassungen aus 
+und die Angst vor der Erhöhung 
+ist größer als sie sein muss. 
+(Gute Vorbereitung vorausge-
+setzt). 
+Durch 
+den 
+niedrigen 
+Churn in der Bestandszielgruppe 
+werden wir unseren gewünsch-
+ten Erlösanstieg erreichen.  
+Die Entscheidung zur Akquise ist noch nicht gefallen (…). Ein weiterer positiver Sideeffekt durch 
+die Preisanpassung auf der Paywall wäre aber, dass die Sprünge zwischen den Preisstufen geringer 
+werden und wir damit rechnen, dass dies einen positiven Effekt auf die Abwanderungsquote 
+nach den Trialphasen hat." 
+pvd meint so falsch war unsere spontane erste Reaktion nicht. Zwar gibt es vereinzelt 
+Berichte über Preiserhöhungen, die möglicherweise schädlich waren. Aber die Mehrheit der 
+von uns gefundenen Erfahrungen lässt sich so zusammenfassen: Auch Digitalpreiserhöhun-
+gen werden im Vorfeld mit Sorgen begleitet und im Anschluss meistens mit gestiegenen 
+Erlösen und manchmal sogar mengenunschädlich zufrieden quittiert. So sicher es ist, dass 
+stets irgendein Preispunkt existiert, der zu hoch ist, so sicher hat den bisher noch niemand 
+eindeutig identifiziert. 
+Im Printbereich gibt es Anzeichen dafür, dass man diesen Punkt langsam erreicht (vgl. 
+"Preisgestaltung Tageszeitungen: ist das Fass nun übergelaufen?" in pvd #7/2023). Im Digi-
+talbereich ist das noch sehr unwahrscheinlich. Schließlich finden hier häufig die ersten 
+Preiserhöhungen überhaupt statt. 
+Gar nicht wenige Verlage tun sich schwer damit, die Preiseffekte bei den Digitalangeboten 
+zu messen. Das ist – angesichts der Mess- und Testbarkeit der meisten Fragestellungen – 
+überraschend und ein Fehler. Der Preis ist der größte Hebel für die Wirtschaftlichkeit eines 
+Angebotes und es ist (fast) jede Mühe wert, zu verstehen, wie er wirkt. 
+In einem Fall sind wir der These begegnet sind, dass Preistests im Bestandskundenbereich 
+gar nicht zulässig sind, weil alle Bestandskunden ein Anrecht auf eine preisgleiche Behand-
+lung hätten. Das könnte einer übervorsichtigen Rechtsabteilung geschuldet sein oder auch 
+ungeschickt formulierten AGB. Es könnte auch zutreffend sein. Aber selbst dann lohnt sich 
+eine Risikoabschätzung: lieber Blindflug oder lieber ein überschaubares Klagerisiko unter 
+dem Motto 'Wo kein Kläger da kein Richter'. 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+AUSGABE 4/2024 ׀ SEITE 29
+Anzahl Digitalabo-Höchstwerte = Stagnationsphasen +1 
+P 
+Wachstumsdeckel? 
+Manche Publisher sehen sich derzeit auf einem Plateau angekommen und bezweifeln die Möglichkeit weiteren Wachs-
+tums. El Diario hatte mindestens dreimal die Gelegenheit zu ähnlichen Selbstzweifeln und wuchs dennoch weiter. 
+'Wir sind auf einem Plateau angekommen und haben unseren Wachstumsdeckel er-
+reicht'. So diagnostizieren derzeit gar nicht wenige Paid Content-Anbieter ihre aktuelle Situa-
+tion; manchmal noch garniert mit mathematischen Ausführungen zum Zusammenhang von 
+Abobestand, Kündigungsquote und Abo-Neuproduktionskapazität. 
+"Derzeit durchlaufen wir eine Phase der Stagnation. Eine Vollbremsung, die sich damit erklä-
+ren lässt, dass das mittlerweile erreichte hohe Niveau bei der Anzahl der bezahlenden Mit-
+glieder dazu führt, dass die Kündigungen, so gering die Churnquote auch ist, einen starken 
+Effekt bei den absoluten Zahlen haben." 
+So formulierte tatsächlich die CEO der spanischen Digitalzeitung El Diario, Rosalía Lloret, 
+den gleichen Befund für das Gratismedium mit freiwilligen Bezahl-Abos im Dezember 2019. 
+Ähnlich hätte sie es auch im Dezember 2017 oder Ende 2023 formulieren können.  
+In allen drei Fällen konnte sie sich später über einen steilen Wiederanstieg der Abonnenten-
+zahlen auf ein jeweils neues historisches Höchstniveau freuen. 
+"Um dieses Szenario umzukehren, arbeitet El Diario seit einiger Zeit an der Entwicklung 
+eines neuen Mitgliedschaftsmodells, das es erlaubt, die treuesten Leser mit größerer Ge-
+schwindigkeit [zu bezahlenden Mitgliedern] umzuwandeln". Auch das sagte Lloret im Dezem-
+ber 2019. Auch das hätte sie schon im Dezember 2017 oder Ende 2023 so formulieren können. 
+Denn El Diario ist bezüglich seiner Gratis-Strategie ausgesprochen undogmatisch. Es 
+hat früh damit begonnen, seinen Bezahlern kleinere Vorteile gegenüber Gratisnutzern zuzu-
+gestehen (z.B. früherer Zugang zu Inhalten, Kommentarfunktion nur für Bezahler). Es hat die 
+Gratisnutzung später mit einem Meter-Limit eingeschränkt. Und noch später hat El Diario so-
+gar stets bezahlpflichtige Premium-Artikel eingeführt. Es hat diese Schritte mit Ausnahmere-
+geln für sozial schwache Leser begleitet. Und es hat später die Ausnahmeregeln mit Maßnah-
+men gegen deren Missbrauch optimiert. 
+Wir haben über das wirtschaftlich und publizistisch erfolgreiche El Diario mehrfach berichtet 
+– zuletzt im Januar 2023. Auch seitdem haben wir die Entwicklung dort aufmerksam verfolgt.
+Wir können daher Vermutungen darüber anstellen, wie es jeweils gelungen ist, die drei 
+genannten Talsohlen, die manchmal sogar eine Bergab-Komponente umfassten, zu durch-
+schreiten. 
+Aber an dieser Stelle wollen wir vor allem die Abobestandsentwicklung bei El Diario der 
+teilweise verbreiteten Bereitschaft entgegenstellen, momentane Stagnationsphasen oder 
+auch überschaubare Rückschläge beim Digitalabobestand schon für das Ende der 
+teils verbreitet: Stagna-
+tionsphasen als 
+Wachstumsdeckel be-
+greifen 
+CEO El Diario 2019: 
+"Phase der Stagnation, 
+weil viele Abos = viele 
+Kündiger" 
+Das hätte sie auch 
+2017 oder 2023 sagen 
+können 
+In allen drei Fällen 
+konnte die Stagnation 
+überwunden werden 
+Maßnahmenbeispiele: 
+• Vorteile für Bezahler 
+• Limit für Gratis-Nut-
+zung 
+• Premium-Artikel 
+• Anti-Missbrauchs-
+Maßnahmen 
+QUELLEN:
+MEINUNGEN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 30
+ 
+jeweiligen Fahnenstange zu halten. Wer auch immer sein Geschäft derzeit auf einem Plateau 
+sieht oder sogar leichte Rückgänge beim Digitalabobestand verzeichnet, der betrachte diese 
+Grafik und stelle sich die Frage, ob er wirklich keine Optionen mehr sieht, um einen nächsten 
+Anstieg zu versuchen.  
+PS: zu diesem Thema lohnt sich auch ein kurzes Zurückblättern auf die Seite 5 und den Be-
+richt über das französische Mediapart. 
+ 
+ 
+(momentane) Stagna-
+tion <> 'natürlicher' 
+Wachstumsdeckel  
+ 
+ 
+ 
+ 
+ 
+Andreas Hoffmann, bisher und weiterhin Verlagsleiter Subscription & CRM bei der dfv Me-
+diengruppe, ist seit 1. April 2024 weiterer Geschäftsführer der FVW Medien. 
+Boris Hächler und Gero-Schmitt-Sausen sind Geschäftsführer der neu gegründeten mgo 
+Lokale Medien GmbH & o. KG. 
+ 
+P 
+4 
+ 
+ 
+Personalien 
+QUELLEN:
+PERSONALIEN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 31
+Letzte Worte 
+No Limits 
+ 
+In letzter Zeit begegnen wir manchmal einer 
+mathematisch formulierten Variante der 
+Behauptung, dass 'wir' (Medium XY, alle 
+Paywallanbieter, die Branche usw.) an eine 
+mehr 
+oder 
+weniger 
+undurchdringliche 
+Grenze beim Digitalabowachstum stoßen 
+werden. 
+Dabei kommt folgende Logik zum Einsatz: 
+a) 
+Die mögliche Menge zu wirtschaftlich 
+vertretbaren Konditionen neu zu ge-
+winnender Kunden ist ab einem ge-
+wissen Reifegrad mehr oder weniger 
+konstant 
+b) 
+Bei konstanter Churnquote wächst
+der Abobestand nur so lange, wie die 
+monatlichen Zugewinne nicht durch 
+die monatlichen Kündigungen kom-
+pensiert werden. 
+Der Gedankengang wird ungefähr so visu-
+alisiert: 
+Uns überzeugt das nicht. Die 'Produktions-
+menge' für eine Konstante zu halten be-
+deutet, davon auszugehen, dass man ein 
+Optimum erreich hat, dass keine Strate-
+gie, kein Test und keine gute Idee vorstell-
+bar sind, die das Neugeschäft noch einmal
+ substanziell verbessern. Der vorangehende 
+Artikel zu El Diario ist ein schönes Beispiel 
+dafür, wie sehr man das Potenzial neuer 
+Ideen&Maßnahmen unterschätzen könnte. 
+Vielleicht noch wichtiger: nicht nur die 
+'Produktion' ist keine Konstante. Erst recht
+ist der Churn keine Konstante. Denn: von al-
+len aktiven Maßnahmen abgesehen gibt es 
+einen Mechanismus, der völlig selbststän-
+dig und verlässlich greift: Je länger ein 
+Abonnement besteht, desto unwahrschein-
+licher wird eine Kündigung; je höher der An-
+teil von Abos, die schon 2 oder 3 oder noch 
+mehr Jahre alt sind, desto geringer die 
+Churnquote. 
+Der belgische Zeitungskonzern Mediahuis 
+nannte kürzlich einmal folgende Erfah-
+rungswerte 
+zu 
+seinen 
+monatlichen 
+Churnquoten: 
+> 3% im ersten Abo-Jahr 
+> 2% im zweiten und dritten Abo-Jahr 
+> weniger als 1% danach 
+Wenn man eine Bestandsentwicklung auf 
+Basis dieser realen Werte modelliert und sie 
+einem Modell mit konstanter Churnquote 
+gegenüberstellt, dann laufen die beiden 
+Kurven schnell auseinander. 
+… letzte Worte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 4/2024 ׀ SEITE 32
+ 
+ 
+ 
+Genutzte Quellen in pv digest sind in der vorliegenden Aus-
+gabe wie folgt codiert: 
+ 
+Quellenverzeichnis Ausgabe 4/2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ACHTUNG: der nächste pv digest 
+erscheint am 8. Mai 2024 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH

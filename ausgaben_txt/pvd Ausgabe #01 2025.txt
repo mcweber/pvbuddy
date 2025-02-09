@@ -1,0 +1,2734 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Falsche Anrede? Wir bitten um Entschuldung und entsprechende Nachricht. Für widerrechtlich weitergeleitete Ausgaben haben wir aber kein Verständnis. Raubko-
+pien gefährden das Geschäft und damit das Erscheinen von pv digest. Für mehrere Leser innerhalb eines Unternehmens haben wir attraktive Konditionen. Sprechen 
+Sie uns dazu gerne an: abo@pv-digest.de / Tel.: 040 / 308 901 09. 
+Januar 2025
+ 
+wie immer stelle ich Ihnen in dieser Ausgabe meine jährliche Schätzung 
+der Paid Content-Umsätze in Deutschland vor (S.24-28). Nach drei Jah-
+ren mit verlangsamtem Wachstum ging es zuletzt wieder etwas be-
+schleunigt voran. Zumindest bei den Umsätzen. Bei der Anzahl der Abos 
+scheint es ja manchmal stillzustehen. Das war auch bei der Augsburger 
+Allgemeinen der Fall, bis sie auf die Idee einer sehr smarten Angebots-
+steuerung für die Paywall gekommen ist. Davon berichte ich gleich im 
+nächsten Beitrag. 
+Die für mich 'unterhaltsamste', weil sehr bunte, Recherche war die zur 
+Titelseitendatenbank von Cover Rocket. Das ist zwar (noch?!) nur ein 
+Thema aus dem amerikanischen Markt. Aber wie hier Künstliche Intelli-
+genz, Big Data, redaktionelle Kreativität und Vertriebsdaten zu einem 
+großen Ganzen zusammenkommen, das ist wirklich bemerkenswert. 
+Und das Stöbern in dieser Datenbank eine Freude für jeden (Print-)Ma-
+gazinliebhaber. Ich denke, mein Beitrag ab Seite 15 macht greifbar, was 
+mich so sehr fasziniert hat. 
+Ich wünsche Ihnen einen guten Start ins neue Jahr und einen verkaufs-
+starken Monat. 
+Markus Schöberl, Herausgeber pv digest  
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.2 
+ 
+Handel und 
+Vertriebssysteme 
+ 
+S.15 
+Analysen und  
+Daten                 
+ 
+S.21 
+Personalien 
+ 
+S.29 
+Branchennews 
+und -recht 
+ 
+S.29 
+letzte Worte 
+S.31 
+Highlights aus der aktuellen Ausgabe 
+Die Augsburger Allgemeine hat die Stagnation bei Plus-Abos mit vari-
+ablen Preisen an der Paywall überwunden Das Pricing ist der größte Hebel 
+für jedes Abomodell. Variable Preise – noch dazu im Zeitverlauf abnehmende – waren 
+eine erfolgreiche Idee. 100% aller neuen Abos zahlen nun ab dem ersten Tag den vol-
+len Preis. Aber nicht den gleichen! S.2-5 
+Verkauf einzelner digitaler Artikel Zuletzt begegnete uns mehrfach der 
+Paywalltechnikanbieter tiun. Der ermöglicht den Verkauf einzelner digitaler Inhalte 
+auf Basis der Lesezeit. Wir haben mit mehreren Anwendern auf Verlagsseite darüber 
+gesprochen. Schon lange verkauft die deutsche Lokalzeitung Der Patriot einzelne Arti-
+kel. Warum und mit welchen Ergebnissen? S.9-12 
+'Abo-Performance-Benchmarks' von Piano Der marktführende Digital-
+abomanagementdienstleister Piano hat seine Kundendaten analysiert und daraus zum 
+wiederholten Mal 'Abo Performance Benchmarks' abgeleitet. S.21-23 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+Lieber Herr Weber,
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 2
+ 
+ 
+ 
+ 
+ 
+ 
+Die Augsburger Allgemeine hat die Stagnation bei Plus-
+Abos mit variablen Preisen an der Paywall überwunden  
+P 
+abnehmende Preise 
+auf der Paywall 
+ 
+Das Pricing ist der größte Hebel für jedes Abomodell. Variable Preise – noch dazu im Zeitverlauf abnehmende – waren 
+eine erfolgreiche Idee. 100% aller neuen Abos zahlen nun ab dem ersten Tag den vollen Preis. Aber nicht den gleichen! 
+Im vergangenen Juni hatten wir über einen ungewöhnlichen Preis- und Abowerbemechanis-
+mus der indischen, englischsprachigen Tageszeitung The Hindu (die 2019 eine Paywall ein-
+gerichtet hat und ihre Umsätze im Digitalgeschäft immerhin zu rund der Hälfte im Lesermarkt 
+erwirtschaftet!) berichtet. Die konfrontierte auf ihrer Paywall die Nutzer mit Proberabatten, 
+die im Zeitverlauf geringer ausfielen. Jedes Angebot war dabei mit der Ankündigung ver-
+bunden: 'beim nächsten Mal wird dieses Abo für Sie teurer angeboten'. Die Idee dahinter kann 
+sich auf eine etablierte verhaltenspsychologische Erkenntnis berufen: die Verlustangst. Weil 
+Menschen den Verlust von etwas [auch eines Rabattanspruchs?!] gerne vermeiden, sollte die-
+ser Mechanismus zu mehr und früheren Bestellungen führen.  
+Zwei für das Projekt verantwortliche Manager hatten damals über verdoppelte Umwand-
+lungsgquoten berichtet, dafür zwar nur eine sehr kleine Testdatenbasis vorgestellt aber 
+ihren Glauben an den Mechanismus damit untermauert, dass er direkt als neuer Standard 
+etabliert worden war. Das konnten wir damals nachvollziehen. Bei einer neuerlichen Überprü-
+fung im Dezember konnten wir diese Form der Abowerbung allerdings auf thehindu.com nicht 
+mehr finden. 
+Am Rande unserer Recherchen zu diesem Thema stießen wird damals kurioserweise auf 
+eine gegenteilige Praxis bei der Augsburger Allgemeinen Zeitung: steigende Rabatte, im 
+Zeitverlauf attraktiver werdende Abopreise auf der Paywall. Im Unterschied zu den Kollegen 
+aus dem indischen Chennai kann das bereichsübergreifende 'Produktteam Paid Content', das 
+die Verlagsgruppe im letzten Jahr bei ihrer Tochter pd digital aufgebaut hat, zu diesem Thema 
+zwar keine psychologiewissenschaftliche Basis, dafür aber überzeugende Testergeb-
+nisse präsentieren. 
+ 
+Zur Vorgeschichte 
+Seit Launch der Paywall vor rund zehn Jahren warb die Augsburger Allgemeine um Plus-
+Abos mit einem weithin verbreiteten Angebot: 99 Cent im ersten Monat. Im zweiten Monat 
+stieg der Preis auf den Regelpreis, zuletzt 10,99€. Mit dieser Angebotsform gelang der Aufbau 
+eines Abobestandes von knapp 8.000 Plus-Abos. Aber ab 2023 stagnierte das Wachstum. Die 
+Neuproduktion und der Churn neutralisierten sich gegenseitig. Dazu trugen die typischen 
+Charakteristika eines Probeangebots bei. Weniger als 50% der Brutto-Besteller wechselten in 
+den Vollpreismonat. Und nur ein Fünftel der initialen Abo-Besteller bezahlte 6 Monate nach 
+der Neubestellung noch den Regelpreis für das Digitalabo.  
+ 
+ 
+ 
+ 
+ 
+ 
+pvd #6/2024: The 
+Hindu testet abneh-
+mende Rabatte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+im Test angeblich er-
+folgreich 
+ 
+ 
+aber: anscheinend 
+nicht mehr im Einsatz 
+ 
+ 
+ 
+ 
+Die Augsburger Allge-
+meine testete damals 
+das Gegenteil: 
+ 
+im Zeitverlauf abneh-
+mende Preise 
+ 
+ 
+ 
+ 
+warum? 
+ 
+langandauernde Stag-
+nationsphase 
+ 
+u.a. wegen hoher Ab-
+gangsquoten beim 
+Standardangebot 99-
+Cent-Probemonat 
+ 
+ 
+ 
+ 
+ 
+NACHRICHTEN AUS VERLAGEN
+UND VERLAGSVERTRIEBEN
+QUELLEN:
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 3
+Die neue Preisstrategie an der Paywall 
+Diesem tradierten Gewinnungsmechanismus setzte die Zeitung in einer Testserie einen kre-
+ativ-innovativen Ansatz gegenüber: neue Kunden bezahlen von Tag1 an den Regelpreis. 
+Aber: der Regelpreis im ersten Jahr fällt unterschiedlich aus und schöpft so im Idealfall die 
+individuelle Bezahlbereitschaft bestmöglich ab. Erst zum zweiten Abojahr soll der Preis dann 
+auf den Standard-Regelpreis steigen. 
+Das wird durch eine Kas-
+kade im Zeitverlauf abneh-
+mender Preise erreicht. Beim 
+ersten Paywallkontakt wird 
+das Abo zum Standard-Regel-
+preis offeriert (im Test 10,99€ 
+pro 
+Monat, 
+mittlerweile 
+11,99€). In der Folge sinkt die-
+ser Preis: auf 8,99€ beim zwei-
+ten Paywallkontakt, auf 6,99€ 
+ab dem vierten Paywallkon-
+takt und auf 4,99€ ab dem 
+siebten Paywallkontakt. 30 
+Tage 
+nach 
+dem 
+ersten 
+Paywallkontakt erfolgt ein Reset und die Kaskade wird beginnend mit 10,99€ erneut gestartet. 
+Kunden, die bestellen, bezahlen im Rahmen eines Flexabos für ein Jahr den jeweils zuletzt 
+angebotenen Preis. Nach zwölf Monaten soll der dann auf 11,99€ angehoben werden. 
+Neben diesem Pricing-Mechanismus variierten die Augsburger weitere zentrale Bau-
+steine der Neukundengewinnung: die Preiskommunikation und die Bezahloptionen. 
+Die wichtigsten Testergebnisse und Erfahrungswerte 
+Die nachahmenswerte Testidee des Monats: 
+Als größter Hebel für die Menge der neugewonnenen Abos stellte sich im Rahmen der 
+Tests gar nicht einmal die Kaskade der abnehmenden Preise heraus. Sondern es war eine 
+Umstellung der Preiskommunikation, die zu rund 40% mehr Bestellungen geführt hat. 
+Während die im Zeitverlauf abnehmenden Preise anfangs als Monatspreise kommuniziert 
+wurden, zeigte sich bei einem A/B-Test, dass eine Darstellung der Preise in der Form 'pro Woche' zu 
+deutlich mehr Bestellungen (660 vs. 470) führt. 
+[pvd meint: schon in unserer Artikelserie 'Die wirksamsten A/B-Tests' (pv-digest.de/linkliste Link1) haben 
+mehrere Verlage von dieser Erfahrung berichtet. Zum Beispiel Der Spiegel, bei dem die Darstellung des 
+Preises für Spiegel+ als Wochenpreis im Test 23% mehr Bestellungen generiert hat als die Darstellung 
+des Preises pro Monat. Die Preiskommunikation in der Form 'pro Woche' dürfte eines der wenigen Bei-
+spiele für eine verlagsübergreifende Best Practice sein. Wer noch mit Monatspreisen arbeitet, ohne die-
+sen Hebel wenigstens getestet zu haben, handelt fahrlässig.] 
+> Durch den Verzicht auf den 99Cent-Schnäppchenmonat (neue Abonnenten bezahlen nun 
+mindestens 4,99€ pro Monat) verringerte sich erwartungsgemäß die Anzahl der Brutto-
+Neubestellungen. Allerdings in geringerem Ausmaß als geplant. Die Anzahl der Brutto-Be-
+stellungen sank nur um ca. ein Drittel.  
+neue Preisgestaltung 
+für Neukunden: 
+ 
+vom ersten Tag an 'Re-
+gelpreis für Jahr 1' 
+ 
+aber: dieser Regelpreis 
+ist variabel 
+ 
+ 
+im Zeitverlauf abneh-
+mend: 
+ 
+ 
+1. Paywallkontakt: 
+Standardreis (11,99€) 
+ 
+2.&3. Paywallkontakt: 
+8,99€ 
+ 
+4.-6. Paywallkontakt: 
+6,99€ 
+ 
+ab 7. Paywallkontakt: 
+4,99€ 
+ 
+Nach 30 Tagen: da 
+capo al fine 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tests/Testergebnisse 
+ 
+ 
+ 
+• Preise als Wochen-
+preise statt Monats-
+preise = 40% mehr 
+Bestellungen 
+ 
+ 
+ 
+ 
+LINKTIPP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• rund 1/3 weniger 
+Bruttobestellungen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 4
+>  Im für das interne Reporting zentralen vierten Monat verbleiben im neuen Modell rund 
+15-20% mehr Vollpreiszahler als bei der Neugewinnung über den 99Cent-Probemonat. 
+Die bezahlen allerdings unterschiedliche Preise, häufig weniger als den Standardpreis von 
+10,99€. 
+>  Die Neubestellungen verteilen sich zu etwa gleichen Teilen auf die vier Regelpreise. 
+Seit Umstellung auf die Wochenpreisdarstellung sogar mit leichter Mehrheit für die zuerst 
+aufgerufenen beiden höheren Preise 10,99€/Monat bzw. 2,75€/Woche und 8,99€/Monat 
+bzw. 2,25€/Woche. 
+>  Sehr gut angenommen wird das 'One-Klick'-Bezahlverfahren per Paypal. Rund vier von 
+fünf neuen Abonnenten entscheiden sich für diesen Weg, bei dem der Verlag allerdings die 
+Gebühren und die monatliche 'Warnkommunikation' des Bezahldienstleisters in Kauf neh-
+men muss ("Sie haben eine Zahlung von X€ autorisiert"). Der Bestand der Paypal-Zahler in 
+Augsburg wächst rasant und dürfte schon bald die Anzahl der Bankeinzugskunden überho-
+len.  
+Wie geht es weiter? 
+Ganz im Sinne des kontinuierlichen Testen&Optimieren-Ansatzes ruhen sich die Augsburger 
+nicht auf diesen Erfolgswerten aus. Derzeit und noch bis Jahresende läuft ein Test, bei dem 
+die Preiskaskade nicht in Abhängigkeit von der Anzahl der Paywallkontakte gesteuert wird, 
+sondern von der Anzahl der aktiven Nutzungstage. Die Preise sinken dabei in der Testvari-
+ante im gleichen Ausmaß wie oben vorgestellt, aber zu anderen Gelegenheiten, nämlich je-
+weils am zweiten, vierten und siebten Tag aktiver Nutzung der Website innerhalb eines 30-
+Tage-Zeitraums. Zwei Ideen stehen hinter dieser Variation: 
+a) Die (wenigen) Nutzer, die den Preismechanismus erkannt haben, können sich dann nicht 
+mehr, durch mehrfaches Betätigen der F5-Option auf der Tastatur (Seiteninhalte neu laden) 
+ganz einfach vom hohen Preis zum niedrigsten Preis durchklicken. 
+• im 4. Monat 15-20% 
+mehr aktive Abos 
+ 
+ 
+ 
+ 
+• ungefähre Gleich-
+verteilung auf die 
+vier Regelpreise im 
+Jahr 1 
+ 
+ 
+• extrem große Bevor-
+zugung des Bezah-
+lens per Paypal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Next Steps 
+ 
+ 
+ 
+derzeit Test: abneh-
+mende Preise nicht je 
+Paywallkontakt son-
+dern je N aktive Tage 
+ 
+ 
+ 
+ 
+Idee 1: Smart Shopping 
+verunmöglichen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 5
+b) Die Steuerung nach aktiven Tagen erlaubt eine Personalisierung des Paywall-Mes-
+saging. "Schön, dass Sie wieder da sind" (Nutzungstag 2), "Sie besuchen uns regelmäßig" (Tag 
+4) und "Sie sind uns treu" (Tag 7) sind Begrüßungsformeln, die hier auf der Paywall verwendet 
+werden. 
+Erfolgreich ist diese Variation der Preiskaskade allerdings nicht. Zum Zeitpunkt unserer Re-
+cherchen war die Steuerung der Preiskaskade nach Paywallkontakten um rund 20% pro-
+duktiver als die Steuerung in Abhängigkeit von den aktiven Tagen. Da die Testvariante bis 
+zum Jahresende in 50% aller Fälle ausgespielt wird, führt das sogar zu einem Bremseffekt bei 
+der Bestandsentwicklung. Unklar bleibt, ob hier vielleicht ein noch nicht optimales Messaging 
+an der Paywall die Ursache ist oder die Tatsache, dass die günstigeren Preise nun oft erst Tage 
+später angeboten werden als bei der Steuerung nach Paywallkontakten. 
+(Die Preiskaskade nach Paywallkontakten generiert 20% mehr Besteller. Die Steuerung nach 
+aktiven Tagen führt allerdings zu einem höheren Anteil Abos mit hohen Preispunkten. Nach 
+Umsatz betrachtet liegen die beiden Steuerungsmechanismen ungefähr gleichauf.) 
+Der nächste 'Knackpunkt' der Pricing-Strategie steht 12 Monate nach der Gewinnung der 
+ersten auf diesem Weg neu gewonnenen Abos bevor – die Anhebung der niedrigeren Preise 
+auf den Standard-Regelpreis von 11,99€. Große Sorgen macht man sich diesbezüglich aber 
+nicht. Denn wie zahlreiche ähnlich gelagerte Vorgängerfälle zeigen, darf man nach einem Jahr 
+bezahlten Lesens darauf setzen, dass die Abonnenten im Durchschnitt eine gute Bindung an 
+das Angebot gefunden haben ("Dazu muss man nur pv digest lesen", sagt Paid Content Pro-
+duktmanager Tom Trilges. Vgl. zum Beispiel unseren Bericht über Erfahrungen bei Tageszei-
+tungen in den USA und in Frankreich in der Novemberausgabe).  
+Auch die Testideen gehen nicht aus. So testet Trilges zum Beispiel derzeit, ob die Umwand-
+lung auf der niedrigsten Preisstufe mit einem 60-Minuten-Countdown-Zähler befördert wer-
+den kann. Die Strategie der Preiskaskade sieht er auf absehbare Zeit als gesetzten Stan-
+dard in der Neukundengewinnung auf der Paywall. Möglicherweise allerdings in Verbindung 
+mit einer intelligenteren Aussteuerung der Paywalleinblendungen an sich. Derzeit verplust die 
+Augsburger Allgemeine ihre digitalen Inhalte noch 'hart'. Zukünftig könnten hier algorithmi-
+sche Steuerungen basierend auf individuellen Nutzer- oder Nutzungsdaten zum Einsatz kom-
+men. 
+ 
+ 
+ 
+ 
+Idee 2: personalisierte 
+Paywallkommunika-
+tion 
+ 
+ 
+ 
+ 
+gemessen am Ziel der 
+Abomenge ist die Test-
+variante 20% unterle-
+gen 
+ 
+ 
+ 
+ 
+ 
+ 
+(aber umsatzneutral) 
+ 
+ 
+Knackpunkt: nach 12 
+Monaten werden alle 
+Abos zum Standard-
+Regelpreis fakturiert 
+ 
+ 
+ 
+große Zuversicht, dass 
+an dieser Stelle kein 
+massiver Churn ent-
+steht 
+ 
+derzeit Test: Count-
+down-Zähler beim 
+günstigsten Angebot 
+ 
+Strategie 'abnehmende 
+Preise' bis auf Weiteres 
+gesetzt 
+ 
+ 
+Wie The Atlanta Journal Constitution die Anzahl der 
+Digitalabonnenten auf 500.000 verfünffachen will. 
+3 
+The Atlanta Journal 
+Constitution 
+ 
+Ehrgeizig oder überambitioniert? Im Süden der USA findet ein mit 150Mio$ Investitionsmitteln ausgestattetes Experi-
+ment zur Digitalisierung einer Traditionszeitung statt. 
+In der Oktober-Ausgabe haben wir ausführlich über den erfolgreichen Test der Zeitung The 
+Atlanta Journal Constitution mit dem Angebot 'iPad statt Print' berichtet. Die Ergebnisse fielen 
+ähnlich aus wie bei den beiden von uns ebenfalls ausführlich berichteten Cases aus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 6
+Schenefeld und Arkansas. Aber unsere Geschichte aus Atlanta nahm eine überraschende 
+Wendung. Obwohl der aufwändige und großangelegte Test (bei immerhin 20% aller Printabos) 
+als Erfolg zu bewerten war, entschied sich die Zeitung gegen einen Full Run. Statt auf das E-
+Paper auf dem iPad zu setzen will The Atlanta Constitution die Anzahl seiner Abos (derzeit 
+rund 110.000, davon 60.000 digital only) durch Forcierung des nicht mehr an der Printvorlage 
+orientierten Produktes verfünffachen. Das Nordstern-Ziel von 500.000 Digitalabonnenten 
+soll mit einem zeitgemäßen und mobilfreundlichen Digitalangebot schon vor 2027 er-
+reicht werden. 
+Das haben wir wohlwollend skeptisch als "ehrgeizig" bezeichnet. David Folkenflik, Medien-
+journalist beim großen gemeinnützigen US-Radiosender NPR war ebenfalls skeptisch, als er 
+"sechs Branchenexperten mit Erfahrungen im Bereich lokaler Journalismus über die 
+Pläne befragt hatte. Ich erwartete wenigstens einige Skepsis. [pvd: Aber] fünf sagten, es gäbe 
+eine ziemlich gute Chance, dass das klappt".  
+Der Plan von 'Publisher und President' Andrew Morse setzt voll auf einen Ausbau der jour-
+nalistischen Qualität der Zeitung inklusive 
+einer Vergrößerung der zur Zeit etwa 400 
+Köpfe zählenden Belegschaft um rund 100 
+Personen. Der ehemalige CNN-Top-Mana-
+ger hat von seinem Gesellschafter das GO 
+für einen Plan bekommen, der in den nächs-
+ten Jahren eine Investition von 150Mio$ be-
+deutet. Das ist durchaus überraschend an-
+gesichts der Tatsache, dass es sich dabei um 
+Cox Enterprises handelt, ein Unternehmen, 
+das Milliarden im Kabel-TV-Geschäft um-
+setzt und immer noch in den Händen der 
+Gründerfamilie liegt. Viele andere Zeitungs-
+beteiligungen hat Cox längst abgestoßen 
+Optimistische Investitionen in das eigene 
+Geschäft sind bisher auch nicht unbedingt 
+das Markeneichen des Atlanta Journal Constitution gewesen. In den vergangenen Jahrzehnten 
+waren es eher Stellenstreichungen oder gar der Rückzug aus der Fläche, die vom vorherigen 
+Management betrieben wurden. Statt über den ganzen Bundesstaat Georgia zu berichten, 
+hatte sich die Zeitung nur noch auf die Metropole Atlanta und deren direktes Umland kon-
+zentriert.  
+Andrew Morse vollzieht hier eine 180 Grad-Wende. "Unsere Mission ist es, die wichtigste 
+und engagierteste Nachrichtenquelle für alle Menschen in Atlanta, Georgia und dem ganzen 
+Süden [der USA] zu werden". 
+Engagiert bedeutet im Süden der USA immer noch auch eine starke Konzentration auf die 
+Belange der Bevölkerung mit dunkler Hautfarbe. Die 'schwarze Community' ist eine Audi-
+ence, aus der sich Morse Wachstum verspricht. Die bediente seine Redaktion kürzlich mit 
+einer Video-Dokumentation über das Entstehen der Musikrichtung Hip-Hop in Atlanta. Dafür 
+ 
+ 
+ 
+ 
+ 
+pvd #10/2024: Nord-
+stern-Ziel bis Ende 
+2026: von 100.000 auf 
+500.000 Abos 
+ 
+ 
+ 
+NPR zitiert Experten, 
+die sagen: "gute 
+Chance, dass das 
+klappt" 
+ 
+ 
+ 
+Wie? => massive Inves-
+titionen in Personal 
+und Produkt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rückkehr vom Rückzug 
+aus der Fläche 
+ 
+"wollen wichtigste 
+Nachrichtenquelle im 
+Süden der USA wer-
+den" 
+ 
+u.a. mit Konzentration 
+auf 'Black Culture' 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 7
+hatte er ein sechsstelliges Budget zur Verfügung gestellt. Um diese Audience zu monetarisie-
+ren hat das AJC das Mitgliedschaftsangebot UATL gelauncht – ein Vertical das Branchenbe-
+obachter mit dem Cooking-Angebot oder dem Rätselangebot der New York Times vergleichen, 
+auch wenn es (bisher) kein eigenes Abo beinhaltet, sondern nur zu kostenlosen Mitgliedschaf-
+ten animiert. 
+Weitere Themenfelder, mit denen Morse Wachstum erreichen will, sind konventioneller: 
+vor allem die Politik im Bundesstaat (dessen Wählerschaft mehrheitlich für Donald Trump ge-
+stimmt hat), aber auch der regionale Sport und Gastronomie. Seiner Redaktion verspricht er 
+freie Hand. Er werde sich sowohl politischem Druck als auch möglicher Einflussnahme der 
+Gesellschafter entgegenstellen. 
+ 
+ 
+ 
+>100.000$ für eine Vi-
+deodokumentation zur 
+Entstehung von Hip-
+Hop 
+ 
+ 
+ 
+ 
++Politik 
++ regionaler Sport 
++ Gastro-Themen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Neuseeland: 'Krimskrams' launcht dedizierte Zeitungs-
+websites mit Paywalls; nutzt Gelegenheit für eine Flatrate 
+26 
+Zeitungen / Paid Con-
+tent Neuseeland 
+ 
+Neuseelands zwar befremdlich benanntes aber wichtigstes Nachrichtenunternehmen – Stuff – launcht Paid Content 
+und nutzt die Gelegenheit für eine landesweite Flatrate, die Printlesern eine Motivation zur Digitalnutzung gibt. 
+'Stuff' klingt für Deutschsprecher mit Kenntnis des Englischen nicht wie der Name einer se-
+riösen Nachrichtenquelle. Trotzdem war und ist www.stuff.co.nz ein seriöses und etabliertes 
+Nachrichtenangebot des gleichnamigen Verlagsunternehmens. So etwas passierte eben, 
+wenn man (in diesem Fall der Verlag Independent Newspapers Ltd) im Jahr 2000 einer Wer-
+beagentur (in diesem Fall Saatchi & Saatchi) den Auftrag gab, eine Nachrichtenwebsite für eine 
+Zeitung zu gestalten und dafür einen Namen zu finden.  
+2003 verkaufte der Verlag Stuff und die dazugehörigen Zeitungen an den australischen Ver-
+lag Fairfax Media – für 1,2Mrd$. 17 Jahre später gelangten Stuff und die Zeitungen wieder 
+zurück in neuseeländische Hände – im Rahmen eines Management Buyouts für 1$ (rund 50 
+€-Cent zu aktuellen Wechselkursen des neuseeländischen Dollars). Seitdem ist der damalige 
+CEO Sinead Boucher Verleger. Stuff ist bis heute mit Abstand die meistgenutzte Nachrich-
+tenquelle Neuseelands. Die Website zählt über 20Mio monatliche Visits und 2,2Mio Unique 
+Visitors – in einem Land mit nur rund 5,5Mio Einwohnern. 
+3 
+P 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+'Stuff' ist größter Zei-
+tungsverlag in Neusee-
+land 
+ 
+ 
+ 
+pvd meint The Atlanta Journal Constitution bewegt sich gegen den Strom in einem Um-
+feld, das sehr von Einsparungen, Zeitungssterben und Ausmelkstrategien geprägt ist. Eine 
+optimistische 150Mio$-Investitionsstrategie ist da mehr als nur ein großer Lichtblick. Skep-
+tisch bleiben darf man trotzdem. Eine Verfünffachung der Abos in kurzer Zeit ist sehr ehr-
+geizig. Und vielleicht ist auch nicht nur polemisch zu ergänzen, dass Andrew Morse zwar 
+vorher ein Top-Manager bei CNN war. Dass er dort aber das krachend gescheiterte und 
+mindestens genauso teure erste CNN+ Experiment, also den Versuch, für den Nachrichten-
+sender ein eigenes Paid Content-Geschäft aufzubauen, zu verantworten hatte. 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 8
+Boucher veranlasste im April 2023 eine Re-Organisation. Seitdem gehören die Gratisweb-
+site Stuff einerseits und die Zeitungstitel andererseits zwei unterschiedlichen Ge-
+schäftseinheiten an. Erst bei dieser Gelegenheit installierte der Verlag Paywalls und ein 
+Abomodell vor seinen nationalen (The Post) und regionalen Titeln (The Press, Waikato Times 
+et al). Wettbewerber New Zealand Media and Entertainment (NZME) war bei diesem Thema 
+fünf Jahre schneller und konnte somit den 'Corona-Boom' voll mitnehmen. 2022 überschritt 
+allein dessen Flaggschifftitel New Zealand Herald die Schwelle von 100.000 Digitalabos. 
+Die Digitalabos der nun unter 'Masthead Publishing' firmierenden Zeitungseinheit geben für 
+129NZ$ im ersten Jahr und danach für 199NZ$ (rund 100€) Zugriff auf alle zehn Zeitungs-
+Websites. Seitdem hat sich das Wachstum der Digitalumsätze laut Head of Content Develop-
+ment Elise Johnson "außerordentlich" entwickelt. Details veröffentlicht der Verlag dazu aller-
+dings nicht.  
+[Die digital only publizierende Politik- und Kulturwebsite The Spinoff berichtet von Gerüch-
+ten in Medienkreisen, dass sich das digitale Lesermarktgeschäft unter Plan entwickele. 
+Allerdings stellen wir fest, dass neu gestarteten Digitalabomodellen das Scheitern vorherzu-
+sagen, auf der ganzen Welt ein beliebtes Spiel in ebendiesen Kreisen ist. The Spinoff berichtet 
+auch, dass die beiden Organisationseinheiten demnächst in separate Unternehmen überführt 
+werden sollen, was neue Optionen in Hinsicht auf den Kapitalmarkt und mögliche Verkäufe 
+des Printgeschäfts an Investmentgesellschaften eröffne.] 
+Neben den Zusatzerlösen, aus dem digitalen Abogeschäft hat der Verlag nun erstmals die 
+Möglichkeit, Printabonnenten an digitale Bezahlprodukte heranzuführen. Die haben ohne 
+Zusatzkosten Zugang zu allen Inhalten hinter den Paywalls aller Zeitungen des Verlages 
+In einem Land, das mit nur 19 Einwohnern pro Quadratkilometer etwa zehnmal dünner be-
+siedelt ist als Deutschland, ist das Heranführen der Printleser an digitale Produkte sogar noch 
+dringlicher als hierzulande, auch wenn die Bindung an die lokale Zeitung und deren gemein-
+schaftsstiftende Rolle vor Ort womöglich größer ist als bei uns. 
+ 
+April 2023: Trennung 
+von Gratiswebsite und 
+Zeitungs-Websites 
+ 
++Einrichtung von 
+Paywalls 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Digitalabo für zehn 
+Zeitungswebsites 
+ 
+Verlag: "läuft super" 
+ 
+ 
+ 
+ 
+'Kreise': "läuft unter 
+Plan" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Printabonnenten ha-
+ben Zugang zu den In-
+halten hinter den 
+Paywalls 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 9
+ 
+Paid Content Publikumszeitschriften: zeitbasierter Einzel-
+artikelverkauf via tiun bei Cicero, Ringier & Hochparterre 
+P 
+digitaler Einzelarti-
+kelverkauf I 
+ 
+Zuletzt begegnete uns mehrfach der Paywalltechnikanbieter tiun. Der ermöglicht den Verkauf einzelner digitaler In-
+halte auf Basis der Lesezeit. Wir haben mit mehreren Anwendern auf Verlagsseite darüber gesprochen. 
+In einer Online-Werbeveranstaltung gab der Dienst MedienInsider vor einigen Wochen dem 
+Schweizer Einzelartikelbezahldienstleister Tiun die Gelegenheit, sich als Partner des deut-
+schen Monatsmagazins Cicero vorzustellen. Cicero ist einer der immer noch wenigen Fälle, 
+bei denen ein nicht tagesaktuelles Zeitschriftenmedium seine Webinhalte mit Erfolg auch über 
+Paid Content monetarisiert. 
+Wir hatten zuletzt vor über 5 Jah-
+ren (pvd #9/2019) darüber berich-
+tet. Nun springt uns der jüngste 
+Auflagenzuwachs des Cicero-E-
+Papers ins Auge. Dieser sei, so ist 
+Verlagsleiter Martin Stedler über-
+zeugt, fast ausschließlich auf den 
+Erfolg des Plus-Abos zurückzufüh-
+ren, nicht so sehr auf das Interesse 
+an der digitalen Ausgabe des Mo-
+natsmagazins. Das Plus-Abo bein-
+halte das E-Paper-Abo, aber das In-
+teresse daran sei überwiegend auf die weit über die Heftinhalte hinausgehenden Artikel hin-
+ter der Paywall zurückzuführen. Und die Paywall von Cicero sei sehr hart; neun von zehn Arti-
+kel seien verplust.  
+Für den aktuell besonders steilen Anstieg will Stedler nur inhaltliche Gründe sehen. Nur 
+die redaktionelle Positionierung als seriös konservatives Medium sei ursächlich dafür. Für 
+derart wirksame Marketingmaßnahmen stehe ihm auch gar kein Budget zur Verfügung.  
+Die 9.000 Digitalabos machen 25% der gesamten Aboauflage des Cicero aus. Das ist ein 
+im Branchenvergleich sehr hoher Anteil. Wenn dieser Erfolg vor allem der Paywall zu verdan-
+ken ist, dann sollte man davon ausgehen, dass das Paywallmanagement sehr sorgfältig er-
+folgt. Vor diesem Hintergrund ist die Entscheidung, neben dem Digitalabo auch einen Einzel-
+artikelzugang zu Plusinhalten zu ermöglichen, bemerkenswert. 
+ 
+Der Einzelartikelzugang über tiun bei Cicero 
+Den Einzelartikelzugang ermöglicht Cicero über die Technologie des Schweizer Anbieters 
+tiun. Dabei werden nicht ganze Artikel verkauft, sondern tiun rechnet per Lesezeit ab. Im 
+Fall von Cicero à 20 Cent pro Minute. Hinzu kommt eine Grundgebühr von zuletzt 1€ (zu 
+Beginn unserer Recherchen waren es noch nur 60 Cent). Laut Stedler ist ein durchschnittlicher 
+Artikel bei Cicero in 6 Minuten gelesen. Zu den genannten Konditionen müsste der Nutzer 
+dafür also 2,20€ bezahlen. Das kann über die Kreditkarte oder über Apple Pay anonym und 
+ohne das Anlegen eines Nutzerkontos erfolgen. Wer aber bereit ist, ein Prepaid-Wallet bei tiun 
+ 
+…via tiun 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Monatsmagazin Cicero 
+mit großem Digitalabo-
+erfolg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(der lässt sich zwar an 
+der E-Paper-Auflage 
+ablesen, aber verdankt 
+sich v.a. dem Plus-Abo) 
+ 
+Digitalabos = 25% der 
+Aboauflage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tiun bei Cicero 
+ 
+ 
+ 
+via tiun bezahlt man 
+für einzelne Artikel ab-
+hängig von der Lese-
+dauer 
+ 
+ 
+20Cent/Minute 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 10
+anzulegen, der erspart sich die Grundge-
+bühr von 1€ pro Artikel. Die Möglichkeit 
+ohne Extra-Registrierung Zugang zu 
+einzelnen Artikeln kaufen zu können, 
+ist ein großer Unterschied zu anderen 
+'Micro'payment-Lösungen. 
+Verlagsleiter Stedler ist sich sicher, dass 
+der Einzelartikelzugang das blühende 
+Abogeschäft nicht beeinträchtige. Zwar 
+könne er das nicht hart belegen. Aber 
+auch seit Einführung von tiun sei das 
+Wachstum bei den Plus-Abos weiterhin or-
+ganisch dynamisch. In den zwei Monaten 
+nach dem Start der Alternative zum Digi-
+talabo habe man knapp 1.000 Einzelzu-
+gänge mit einer durchschnittlichen Lesedauer von 10 Minuten verkauft.  
+Diese Durchschnittsdauer interpretiert Stedler als Beleg dafür, dass der nur zeitbasierte Kauf 
+nicht etwa dadurch missbraucht wird, dass ein Text eben schnell einmal per Copy&Paste in 
+ein anderes Programm entführt und dort ohne weitere Kosten gelesen wird, sondern dass die 
+Nutzung tatsächlich komplett im Rahmen der zeitbasierten Bezahlweise erfolgt. Damit 
+ist zwar ein mögliches Grundmisstrauen gegenüber tiun beseitigt. Aber warum setzt er über-
+haupt auf die zeitbasierte Bezahlung statt einer Bezahlung pro Artikel? Wir interpretieren 
+seine Erläuterung so, dass ihm zum Zeitpunkt der Einführung einer 'Micro'paymentlösung 
+kein anderer Anbieter bekannt war bzw. zur Verfügung stand. 
+ 
+Der Einzelartikelzugang über tiun bei Hochparterre und Ringier 
+Nicht sehr überraschend sind die Pionierkunden des Schweizer Startups ebenfalls Schweizer 
+Verlage. Schon seit über einem Jahr bietet die Website des Magazins Hochparterre neben 
+dem Abo auch den Einzelartikelzugang via tiun. Das Special Interest-Magazin rund um das 
+Themenfeld Schweizer Architektur&Städtebau&Design ist ein echter Paid Content Pionier, der 
+sein nachrichtlich ausgerichtetes Webangebot von Anfang hinter eine Paywall gestellt hatte. 
+Dieser Anfang lag immerhin schon im Jahr 2011 und die Paywall könnte damit die erste 
+überhaupt vor einem Schweizer Pressemedium gewesen sein. 
+Dennoch spielt das Paid Content-Geschäft keine große Rolle für die sehr von der Haptik und 
+Opulenz des gedruckten Produktes lebende Zeitschrift. Nur etwa 250 Digitalabos (inkl. E-Pa-
+per für monatlich 18CHF – genauso teuer wie das Printabo, das allerdings nur mit Jahresver-
+pflichtung abgeschlossen werden kann) stehen rund 6.000 Printabos (mit Digitalzugang) ge-
+genüber. Die aus den Digitalabos monatlich resultierenden rund 4.000CHF sind ein Vielfaches 
+der mageren 160CHF, die im Schnitt über tiun erwirtschaftet werden. Aber, so sagt uns Urs 
+Honegger, Leiter Online und Mitgesellschafter der Zeitschrift im Besitz ihrer Mitarbeiter, "ein 
+wichtiger Punkt, der für tiun spricht, ist, dass es ein modernes, zeitgemäßes System ist. 
+ 
+zzgl. 1€ Grundgebühr 
+bei Einzelbezahlung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grundgebühr entfällt 
+mit Prepaid-Wallet 
+ 
+ 
+ 
+ 
+ 
+ 
+rund 1.000 Artikelver-
+käufe in 2 Monaten 
+ 
+ 
+ 
+ 
+ 
+ 
+tiun, weil es zur Verfü-
+gung stand 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tiun bei Hochparterre 
+ 
+Architekturmagazin 
+Hochparterre mit äl-
+tester Paywall der 
+Schweiz (?!) 
+ 
+Einzelartikel-Verkauf 
+via tiun seit 1 Jahr 
+ 
+Paid Content spielt nur 
+untergeordnete Rolle 
+ 
+ 
+ 
+ 
+ 
+tiun, weil: sieht gut aus 
+& reibungslose Pro-
+zesse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 11
+Es sieht nach 2024 aus. Die Prozesse sind reibungslos, auch auf mobilen Geräten. Das Angebot 
+wird gut dargestellt." 
+Das ist ein Argument, das insbesondere einer Designzeitschrift gut zu Gesicht stehen mag. 
+Kaufmännisch scheint die Einbindung von tiun dagegen nicht unbedingt geboten. Die Motiva-
+tion für den Einsatz von tiun beim Schweizer Großverlag Ringier ist darum eine andere. Der 
+experimentiert mit tiun sowohl bei seinem hochauflagigen Frauenmagazin Schweizer Il-
+lustrierte als auch bei seinem Boulevardtitel Blick. 
+Lesermarktchef Adrian Gottwald begründet im Gespräch mit pv digest die Einbindung von 
+tiun damit, dass er Erfahrungen mit Micropayments sammeln wolle. Dass das nun via tiun 
+geschieht, ist mehr eine Folge der einfach realisierbaren Einbindung des Dienstes als des Prin-
+zips der Zeitbasierung. Gottwald deutet an, dass er in absehbarer Zeit weitere und nicht auf 
+tiun basierende Tests zum Thema Einzelartikelverkaufe plant. 
+Tiun ist sowohl bei der Schweizer Illustrierten als auch bei Blick nur in sehr randständigen 
+Nutzungsprozessen involviert. Die Illustrierte betreibt auf ihrer Website gar keine Paywall. Sie 
+teasert dort lediglich Heftbeiträge an, die auf der tiun-Website gekauft werden können. 
+Blick wiederum hat zwar seit über einem Jahr eine Paywall. Aber dort stellten sich bisher wich-
+tigere Fragen als die nach einer Option zum Einzelartikelverkauf via tiun. Der findet statt-
+dessen nur in der E-Paper-App und im Webreader für das E-Paper von Blick statt. 
+"Vernachlässigbar" seien entsprechend auch die absoluten Größen der via tiun reali-
+sierten Verkäufe, sagt Gottwald. Aber immerhin mit einem spürbaren Wachstum von Monat 
+zu Monat. Über 3% derjenigen, die auf der tiun-Paywall klicken, bezahlten anschließend auch 
+für einen Artikel. Das sei vielleicht eine überraschend gute Quote. Und zwar im Durchschnitt 
+3CHF. Das ist mehr, als das E-Paper von Blick kostet. 10% der Einzelartikelkäufer beim Blick-
+Paper würden sogar monatlich mehr Geld via tiun bezahlen als ein Monatsabo des E-Papers 
+kosten würde. 
+ 
+ 
+ 
+ 
+ 
+ 
+tiun bei Ringier 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tiun, weil: einfach ein-
+zubinden 
+ 
+ 
+ 
+ 
+ 
+im Einsatz auch nur 
+bei periphären Prozes-
+sen 
+ 
+ 
+ 
+ 
+ 
+ 
+Learnings: 
+• Umwandlungsquote 
+an der tiun-Paywall: 
+3% 
+• Ø3CHF pro Transak-
+tion 
+• 10% bezahlen mehr 
+als Abo kosten 
+würde 
+ 
+ 
+ 
+ 
+Digitaler Einzelartikelverkauf bei Der Patriot 
+P 
+digitaler Einzelarti-
+kelverkauf II 
+ 
+Seit 2018 verkauft die deutsche Lokalzeitung einzelne Artikel; wirtschaftlich ohne große Bedeutung 
+Was die Protagonisten des vorangehenden Beitrags – teils aus 
+der Not heraus zeitbasiert – per tiun ermöglichen und was von 
+ 
+ 
+ 
+Der Patriot (Lippstadt) 
+verkauft seit 2018 ein-
+zelne Digitalartikel 
+pvd meint wir sind große Anhänger der Suche nach einer wirtschaftlich vernünftigen 
+Option zum Kauf einzelner Artikel. Die zeitbasierte Berechnung überzeugt uns allerdings 
+nicht. Und die drei Verlagsmanager, mit denen wir für diesen Beitrag gesprochen haben, 
+haben bezeichnenderweise allesamt anklingen lassen, dass sie tiun nicht vor allem wegen 
+dieser uniquen Eigenschaft einsetzen, sondern weil es umstandslos zur Hand war und/oder 
+schlanke Prozesse bietet. Das immerhin bestätigen alle drei ebenfalls. 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 12
+ 
+ 
+manchem 
+Branchenschwerge-
+wicht a priori als schädlich ver-
+dächtigt und darum erst gar nicht 
+in Angriff genommen wird, wird in 
+der Provinz seit Jahren praktiziert. 
+Der Patriot, Lokalzeitung für das 
+im westfälischen Niemandsland 
+gelegene 
+Lippstadt, 
+verkauft 
+schon seit 2018 den Zugang zu 
+einzelnen Artikeln. 
+Der Patriot hat vor seinem We-
+bangebot eine harte Paywall installiert. Die digitalen Inhalte stehen im Regelfall nur Abonnen-
+ten zur Verfügung – obendrein nur Abonnenten, die mindestens monatlich 25,80€ für das E-
+Paper-Abo bezahlen. Ein Plus-Abo nur für die Webinhalte ist nicht im Angebot. Dafür aber die 
+Einzelartikel-Hintertür: für 0,69€ kann jeder Artikel ohne Abo, sogar ohne Daten zu hinter-
+lassen, per Paypal oder Mobilfunkrechnung bezahlt gelesen werden.  
+Es sei eine nicht von wirtschaftlichen Kriterien abhängige Entscheidung des Verlegers 
+gewesen, den Menschen in der Region neben dem Abo diesen alternativen Zugang zu den 
+Berichten seiner Zeitung zu ermöglichen. Das werde auch zunehmend genutzt, berichtet Ver-
+triebschef Thomas Deppe. Derzeit werden auf der patriot.de rund 1.000 Einzelartikel pro Mo-
+nat verkauft. Tages- und Wochenpässe fänden daneben allerdings kaum Zuspruch.  
+Den Preis pro einzelnem Artikel hat Der Patriot zum 1. Oktober von 0,49€ auf 0,69€ ange-
+hoben, den des Tagespasses von 0,99€ auf 1,29€. In der Folge – aber nicht unbedingt deswe-
+gen – registrierte Deppe einen leichten Rückgang der Einzelverkäufe. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+als Alternative zum 
+teuren Digitalabo 
+ 
+ 
+0,69€/Artikel 
+ 
+ohne Registrierung! 
+ 
+warum? Verleger-Ent-
+scheidung! 
+ 
+ 
+rd. 1.000 Verkäufe pro 
+Monat 
+ 
+ 
+1.10.24: Artikelpreiser-
+höhung um 40% 
+ 
+ 
+ 
+pvd meint Ob der Einzelartikelverkauf dem Abogeschäft schadet, haben wir gefragt. Eine 
+empirisch basierte Antwort gab es auf diese Frage nicht. Das habe man gar nicht weiter 
+analysiert, weil der Einzelartikelverkauf aus der verlegerischen Grundhaltung heraus moti-
+viert sei. 
+Von außen betrachtet diagnostizieren wir: dafür gibt es keine Anzeichen. Wenn seit bald 
+sieben Jahren Einzelartikelverkauf kein Verdacht in dieser Hinsicht entstanden ist, dann 
+sollte das daran liegen, dass ein solcher Verdacht unbegründet wäre. Mit einem E-Paper-
+Anteil von knapp 20% an der Aboauflage liegt die Zeitung leicht über dem Branchenschnitt. 
+Auch dieser Benchmark spricht gegen Kannibalisierungsbefürchtungen. 
+1.000 Einzelartikelkäufe stehen in einem Verhältnis von 0,5-1% zu den monatlichen Visits. 
+Das spricht für eine nicht zu vernachlässigende aber auch nicht überbordende Nachfrage.  
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 13
+ 
+ 
+pvd Kolloquium Der Tag X 
+ 
+ 
+ 
+Für Tageszeitungen kommt unweigerlich der Tag X, der Tag, ab dem die gedruckte Aus-
+gabe zu wirtschaftlich vertretbaren Bedingungen nicht mehr täglich angeboten werden 
+kann. 
+ 
+ Das ist für Sie noch in weiter Ferne? Dann haben Sie das Glück, sich planvoll darauf 
+vorbereiten zu können. 
+ Das steht für Sie nah bevor? Höchste Zeit, sich mit allen wichtigen Erfahrungswerten 
+zu versorgen! 
+ 
+Vorbereitung ist die halbe Miete! 
+Unser Vorbereitungsangebot: das pvd Kolloquium zum Tag X 
+Online-Veranstaltung im kleinen Kreis. Vortrag, Fragerunde, Austausch 
+ 
+Am 22. Januar um 16 Uhr bis max. 18 Uhr 
+(Alternativtermine in Vorbereitung) 
+ 
+Teilnahme: 299€ pro Person. Anmeldung an abo@pv-digest.de 
+Die ersten 3 Anmeldungen sind gratis! (es zählt die Reihenfolge des E-Mail-Eingangs) 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 14
+ 
+         
+P 
+      
+Marktentwicklung 
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im  
+Dezember 2024, zu Anzahl 
+und Erscheinungsweise siehe 
+"Daten Cockpit Handel")  
+   
+ 
+Marktentwicklung 
+Preise
+ 
+neu eingeführte Zeitschriften 
+Print, Presse-Apps in  
+ausgewählten Stores 
+   
+ 
+Marktentwicklung 
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+Preise bei neuen  
+Zeitschriften) 
+  
+ 
+DATEN COCKPIT VERLAGE 
+QUELLEN:
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 15
+ 
+ 
+ 
+ 
+ 
+Pressevertrieb USA: Verlag verschmilzt mit Grossisten 
+P 
+Pressegrosso USA 
+ 
+McClatchy und A360 fusionieren; der wichtigste Grossist ist nun Sparte eines einzigen Verlages 
+Der US-Medienkonzern McClatchy fusioniert sein Geschäft mit dem des mit Abstand wichtigs-
+ten Pressegroßhändlers Accelerate360 (Insider schätzen dessen Marktanteil auf mindes-
+tens 70%. Der Grossist beliefert rund 56.000 Einzelhändler in den USA und in Kanada). Das 
+zusammengefügte Unternehmen firmiert nun unter McClatchy Media Company. Es wird in 
+drei Sparten strukturiert: Zeitungen, Zeitschriften und das Vertriebsgeschäft. Wie schon vor-
+her gehören beide Unternehmen dem gleichen Hedge Fund. 
+Accelerate360 war (ist) auch verlegerisch aktiv – zum Beispiel als Resterampe für das vom 
+Bauer Verlag aufgegebene US-Geschäft mit Frauen- und Celebrity-Titeln oder als Aufkäufer 
+des 100Mio$ Umsatz starken Bookazine-Verlages Centennial Media, über den wir im März 
+2021 ausführlich berichtet haben. Neben Zeitschriften gehörten zum Portfolio auch Kaufzei-
+tungen wie zum Beispiel der umstrittenen National Enquirer. Die wurden im Rahmen des Mer-
+gers aber an einen nicht genannten Käufer veräußert. 
+ 
+ 
+ 
+ 
+ 
+ 
+Verlag McClatchy und 
+Grossist A360 fusionie-
+ren zu McClatchy Me-
+dia 
+ 
+ 
+ 
+ 
+A360 war auch Verlag 
+(z,B. ex Bauer-Titel, 
+Bookazines) 
+ 
+Cover Rocket: Titel&-seiten datengesteuert optimieren 
+P 
+Cover Rocket 
+ 
+In den USA steht eine Datenbank mit fast allen Zeitschriftentitelseiten und deren Verkaufsergebnissen zur Verfügung. 
+Was man damit machen kann. Use Cases. 
+Die Gestaltung der Titelseite ist für den Erfolg beim Verkauf von Zeitschriften im Einzelhan-
+del von wesentlicher Bedeutung. Die richtige Wahl des Hauptthemas, die Hauptfarbe des 
+Covers, die Haarfarbe einer abgebildeten Person, die richtige Beigabe für eine Kinderzeit-
+schrift – das alles sind wesentliche Faktoren. Wie 'man' weiß. 'Man' – Mann oder Frau – ist in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Titelseitengestaltung ist 
+wichtig für den Ver-
+kaufserfolg von Maga-
+zinen 
+HANDEL UND VERTRIEBSSYSTEME
+QUELLEN: 
+pvd meint Der Zeitschriftenvertrieb in Nordamerika ist ähnlich wie bei uns das Vertriebs-
+geschäft der Tageszeitungen vor allem ein Abonnementvertrieb. Dennoch ist der Einzelver-
+kauf für zahlreiche Titel immer noch ein bedeutendes Geschäft – im Segment Bookazines 
+sogar eines mit Wachstum. Dass ein halber Kontinent überwiegend von einem einzigen 
+Großhändler versorgt wird, der nicht nur unter der Fuchtel von Großverlagen steht, sondern 
+unmittelbar einem Verlagsunternehmen in Händen eines Hedgefunds gehört, zeigt, wie viel 
+'Luft nach unten' noch selbst zwischen einem Worst Case Szenario für die nächste Evoluti-
+onsstufe des deutschen Pressevertriebssystems und amerikanischen Verhältnissen ist. 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 16
+diesem Fall in der Regel das unstrukturierte und nicht weiter objektivierte Erfahrungswissen 
+von Chefredaktionen und Vertriebsabteilungen. 
+In nicht allzu ferner Zukunft wird vielleicht eine Künstliche Intelligenz die schier endlose kom-
+binatorische Vielfalt aus Farben, Formen und Themen auf Formeln bringen, die zu optimalen 
+Magazincovern oder womöglich monothematischen, zeitlich perfekt platzierten Bookazines 
+führen. Das jedenfalls ist die Vision von Alan Centofante, Gründer und CEO von Cover Rocket, 
+einem Unternehmen, das die dafür notwendige Datenbasis in Nordamerika bereits geschaf-
+fen hat und das von dortigen Zeitschriftenverlagen genutzt wird für die (noch menschlich-
+'manuelle') Optimierung der Gestaltung von Zeitschriftentiteln auf Basis der individuellen Ver-
+kaufsergebnisse von mehr als 100.000 Zeitschriftentitelseiten von mehr als 8.000 Titeln. 
+Seit 2022 stellt Cover Rocket Verlagen und anderen Kunden eine bis 2019 zurückreichende 
+Datenbank zur Verfügung, die zu jeder dieser Titelseiten eine filter- und durchsuchbare Viel-
+zahl Variablen, Kennzahlen und Schlagworte zur Verfügung hält.  
+Datenquelle sind wöchentlich die Stammdaten und Verkaufsdaten sämtlicher über den 
+wichtigsten Grossisten (McClatchy Retail Network, vgl. vorangehender Beitrag) des Landes 
+vertriebenen Magazine. Sogar täglich stellt die Handelskette Barnes&Noble, mit der Cover 
+Rocket eine exklusive Partnerschaft verbindet, ihre Verkaufsdaten zur Verfügung.  
+Die Titelseiten lässt Cover Rocket sämtlich von Künstlicher Intelligenz analysieren. So ent-
+steht eine große Menge analytisch nutzbarer Datenpunkte, von der Titelperson und dem Ti-
+telthema über etwaig abgebildete Dinge oder die dominierende Farbe bis hin zu den nach 
+100.000 Schlagworten dursuchbaren Heftthemen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cover Rocket bietet 
+Bild und Verkaufsda-
+ten von 100.000 Titel-
+seiten 
+ 
+ 
+ 
+Daten seit 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Datenbasis: Gesamt-
+markt Grossist + Bar-
+nes & Noble 
+ 
+ 
+ 
+ 
+KI-basierte Kategorisie-
+rung & Verschlagwor-
+tung der Titelseiten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 17
+Große Verlage wie Dotdash Meredith, 
+Condé Nast oder Future Media nutzen die 
+Datenbank ebenso wie Barnes & Noble und 
+andere Handelsketten. Je nach Unterneh-
+mensgröße bezahlen sie dafür in der Regel 
+zwischen drei- und vierstellige monatli-
+che Preise. 
+Verlage nutzen die Datenbank vor allem zur 
+Entwicklung neuer Ideen bei der Gestaltung 
+von Titelseiten, der Zusammenstellung von 
+Themen für eine Ausgabe oder auch die Ge-
+nerierung ganz neuer Zeitschriften und 
+vor allem Bookazines. Auch zur Konkur-
+renzbeobachtung inklusive deren Preisge-
+staltung dient das Tool. 
+"Wir nutzen Cover Rocket um sicherzustel-
+len, dass wir nicht die gleichen Fotos wie auf vorangegangenen Ausgaben verwenden und um 
+sicherzustellen, dass wir neue Schlagzeilen verwenden und die richtigen Schlüsselworte an-
+sprechen", sagt Kathy Campbell Editorial Director beim Bookazine-Verlag Perfect Type Media 
+LLC. "Es ermöglicht uns auch, der Redaktion auf eine sehr visuelle Weise zu zeigen, wie gut 
+eine Titelseite oder ein Thema performt hat", sagt Holly Oakes, VP Consumer Marketing, 
+McClatchy Media.  
+ 
+Use Case Barnes & Noble 
+Nach Auskunft von Alan Centofante generiert Barnes & Noble allein 14% ("1$ von 7$") der 
+Einzelhandelsumsätze mit Presseprodukten in den USA. Und mehr als die Hälfte des gesam-
+ten Presseeinzelhandelsumsatzes sollen mittlerweile Bookazines – also monothematische, 
+preislich zwischen hochwertigen Zeitschriften und Büchern platzierte Einmalerscheinungen –
+generieren. Das ist für das Verständnis der folgenden Schilderung wichtig. Man beachte dabei 
+auch die sehr aktive Rolle, die das Handelsunternehmen bei der Erschaffung neuer Pres-
+seprodukte einnimmt. 
+ 
+Cover Rocket nutzen 
+große Verlage und 
+Pressehändler 
+ 
+ 
+ 
+Kosten: je nach Größe 
+3-4stellig pro Monat 
+ 
+ 
+ 
+Use Case: Ideen für die 
+Titelseitengestaltung 
+oder komplette Booka-
+zines finden 
+ 
+ 
+ 
+ 
+ 
+ 
+"Originalität von Fotos 
+und Schlagzeilen si-
+chern" 
+ 
+ 
+"Redaktion auf visuelle 
+Weise die Verkaufser-
+gebnisse präsentieren" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nutzerbeispiel B&N: 
+ 
+ 
+ 
+ 
+ 
+ 
+n.b.: sehr aktive Rolle 
+des Händlers bei der 
+Produktentwicklung 
+ 
+ 
+pvd meint in den Tiefen dieser Datenbank kann man sich verlieren. Wer sich schon für 
+ein gut sortiertes Zeitschriftenregal begeistern kann, der muss hier aufpassen, dass er nicht 
+in der Fülle möglicher Entdeckungen ertrinkt. Dabei sind Vielfalt und Ideenreichtum stets 
+verknüpft mit dem Markterfolg. 
+Für Kreative und Magazinredakteure, die sich ihre Themen nicht von der Tagesaktualität 
+diktieren lassen müssen, sondern die mit dem Ziel wirtschaftlichen Erfolgs journalistische 
+Produkte erschaffen wollen, ist Cover Rocket eine phantastische Ressource. Instruktiv ist 
+die ausführliche Schilderung von Krifka Steffey, die beim Buchhändler Barnes & Noble für 
+das Pressesortiment verantwortlich ist.  
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 18
+Wie B&N Cover Rocket nutzt (von Krifka Steffey, Director of Newsstand) 
+"Mein Team und ich nutzen Cover Rocket täglich für die Bewertung von Verkaufstrends, die 
+Steuerung der Bestellungen sowie die Produktideenfindung. Die Möglichkeit, das Cover zu-
+sammen mit den Verkaufszahlen aus unseren Geschäften sowie nationalen Trenddaten zu 
+sehen, ist äußerst nützlich, um den Erfolg einer Ausgabe zu beurteilen und hilft uns, den Zeit-
+schriftenkäufer besser zu verstehen. Häufig, wenn ein Trend in den großen Medien oder so-
+gar in den sozialen Medien beginnt, schauen wir auf Cover Rocket, um zu sehen, ob eine 
+Special Interest Publikation (Bookazine) zu diesem Thema erstellt wurde oder ob eine Titel-
+zeile verwendet wurde, die sich auf den Trend bezieht. Da wir das Cover und somit die Um-
+setzung sehen können, können wir auch bewerten, ob das Thema erfolgreich behandelt 
+wurde oder nicht. Wir können dann praktische Entscheidungen treffen, wie z. B. welche 
+Verlage wir bezüglich weiterer Produktkreationen kontaktieren möchten, welche Verbesse-
+rungen oder Aktualisierungen erforderlich sind, um das Verkaufspotenzial maximal auszu-
+schöpfen oder ob das Thema bei den Kunden einfach nicht ankommt. 
+Ein wenige Jahre zurückliegendes Beispiel hierfür war im Zusammenhang mit KI (Künstliche 
+Intelligenz), ChatGPT und Kryptowährungen. Da der Technologiebereich unserer Pressere-
+gale seit Jahren rückläufig ist, gab es keinen Verlag, der Inhalte in diesem Bereich erstellen 
+wollte. Viele hatten sich von dieser Kategorie losgesagt. Mit Cover Rocket sahen wir schnell, 
+dass in diesen Bereichen nicht viel unternommen worden war. Wir wussten aber, dass es eine 
+Nachfrage nach einer (oder mehreren) Printpublikationen mit Berichten zu diesen Trendthe-
+men geben würde. Wir kontaktierten mehrere Verlage und haben nun (und werden wei-
+tere haben) Sonderausgaben zu diesen Themen mit sehr profitablen Ergebnissen. 
+Wir nutzen Cover Rocket auch, um uns im gesamten Geschäft mit Bookazine-Inhalten zu lei-
+ten. Oft sehen wir [pvd: auf Periodika] Titelzeilen, die genug Momentum und Inhalt haben, um 
+in eigenständige Ausgaben zu resultieren. Da wir eine beträchtliche Menge an Produkten aus 
+dem Vereinigten Königreich und der ganzen Welt beziehen, müssen wir oft einschätzen, 
+wann der richtige Zeitpunkt für bestimmte Themen für unsere Kunden in den USA ist. 
+Letztes Jahr begannen wir zu sehen, dass die britischen Magazine Artikel über die Meno-
+pause veröffentlichten und schließlich Bookazines zu diesem Thema. Leider war das in den 
+USA noch kein nationales Gesprächsthema und die Verkaufszahlen dieser Ausgaben erfüllten 
+nicht die Erwartungen. Nach der Durchsicht der Cover und mehrerer dieser britischen Aus-
+gaben erkannten wir, dass es Aspekte dieser Magazine gab, die für unsere Kunden einfach 
+nicht relevant genug waren. Wir diskutierten das Thema dann mit unseren inländischen 
+Verlagen und endeten mit mehreren sehr erfolgreichen Ausgaben – insbesondere unter re-
+nommierten Namen wie Oprah und Dr. Jennifer Ashton. Die Behandlung des Themas Meno-
+pause war viel erfolgreicher mit einer bekannten US-Persönlichkeit auf dem Cover und fand 
+stärkeren Resonanz beim Publikum durch Verwendung von Gesundheitsterminologien und 
+dem Bezug auf Gesundheitssysteme, die in den USA bekannt und zugänglich sind. 
+ 
+ 
+ 
+Krifka Steffey, Sorti-
+mentsverantwortliche 
+für Presse bei B&N: 
+ 
+ 
+ 
+ 
+ 
+Trends erkennen => 
+prüfen, ob es schon 
+passende Zeitschriften 
+gibt 
+ 
+ 
+ 
+=> Einkaufsentschei-
+dungen und Optimie-
+rungsgespräche mit 
+Verlagen 
+ 
+ 
+ 
+Bsp.: Anregung von 
+Bookazines zu KI, Chat-
+GPT&Krypto 
+ 
+ 
+obwohl US-Verlage das 
+IT-Segment mit Print 
+bereits verlassen hat-
+ten 
+ 
+ 
+ 
+Ableitung von Booka-
+zine-Ideen aus einzel-
+nen Schlagzeilen/The-
+men bei Periodika 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bsp.: erfolgreiche US-
+Magazine zum Thema 
+Menopause entwickelt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 19
+ 
+Werbung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 20
+ 
+  
+ 
+    P2 
+  
+Index
+Marktentwicklung 
+Einzelhandel
+ 
+(Inflationsraten und Umsatz-
+entwicklung im Lebensmittel-
+Einzelhandel) 
+ 
+ 
+  
+ 
+Marktentwicklung 
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neuankündi-
+gungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+  
+ 
+Marktentwicklung 
+digitaler Vertrieb
+ 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATEN COCKPIT HANDEL UND ABSATZ 
+QUELLEN:
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 21
+ 
+ 
+ 
+ 
+ 
+'Abo-Performance-Benchmarks' von Piano 
+P 
+Digitalabobench's  
+ 
+Der marktführende Digitalabomanagementdienstleister Piano hat seine Kundendaten analysiert und daraus zum wie-
+derholten Mal 'Abo Performance Benchmarks' abgeleitet. 
+Angesichts der Breite (von sehr kleinen bis zu sehr großen Publishern) und der Menge der 
+Piano-Kunden, können die Daten und Analysen Pianos ein gewisses Maß an Branchenre-
+präsentativität beanspruchen – wenn auch aufgrund der weltweit verteilten Kundschaft des 
+Unternehmens nur auf einer sehr globalen Ebene. 
+Wir haben den Bericht gelesen und daraus die unseres Erachtens spannendsten Befunde 
+ausgewählt. 
+> Viele Publisher haben in den vergangenen zwei Jahren Rückgänge oder doch höchstens eine 
+Stagnation bei der digitalen Reichweite ihrer Websites erlebt. Aber nicht alle. Im Durchschnitt 
+der Piano-Kunden stieg der 'Traffic' in den zwei Jahren vom dritten Quartal 2022 bis zum 
+dritten Quartal 2024 um 5%. Aber viel stärker stiegen die aborelevanten Ergebnisse. Die 
+Menge der neu produzierten Abos stieg im Durchschnitt aller Kunden um 14%. Sogar 
+die Publisher, die einen Rückgang bei der Reichweite erlebten, gewannen mehrheitlich mehr 
+Abos als im vorherigen Vergleichszeitraum.  
+> Piano stellt eine neue Kennzahl zur Ausschöpfung der Webreichweiten vor: Aboerlöse 
+pro 1.000 Visits. Pro tausend Visits verdienten Piano-Kunden mit ihren Abonnenten in ei-
+nem Monat 29$. Das sei ein Plus von 21% zum Vergleichswert von 24$, heißt es im Bench-
+mark-Report. Die reinen Abo-Einnahmen der Piano-Kunden stiegen sogar um 28%. 
+[pvd: Auf unsere Nachfrage erläutert Piano, dass hier der Septemberwert des Jahres 2023 
+mit dem Septemberwert des Jahres 2022 verglichen wurde. Die Daten sind also nicht über-
+mäßig aktuell. Aber die Kennzahl ist beachtenswert. Denn sie ermöglicht einen Vergleich 
+der Ausschöpfungsergebnisse von Abomodellen mit Werbemodellen – denn Werbeer-
+löse lassen sich problemlos ebenfalls in der Währung 'pro tausend Visits' ermitteln und ver-
+gleichen. 
+29$ Aboerlöse pro tausend Visits entspricht 3 Abos mit je 10$ Monatspreis. 3 Abos pro tau-
+send Visits wären ein Ausschöpfungswert, der ziemlich nahe am Mittel auch hiesiger Paid 
+Content-Medien liegt, wie wir zuletzt in der Juni Ausgabe 2024 gezeigt haben.] 
+> Verfolgt man die Herkunft neuer Abos über die Website des jeweiligen Publishers hinaus, 
+dann landet man in fast einem Viertel aller Fälle bei Google. Facebook (nur noch 1%) und 
+Ex-Twitter X (<0,5%) spielen für die Abogewinnung der meisten Piano-Publisher gar keine 
+Rolle mehr. 
+> Ein Vergleich der unterschiedlichen Haltbarkeitsentwicklung von Digitalabos je nach de-
+ren initialer Angebotsform führt zu überraschend nahe beieinander liegenden Verläufen. 
+ 
+ 
+ 
+ 
+Digitalaboplattform Pi-
+ano veröffentlicht ag-
+gregierte Kundendaten 
+ 
+ 
+ 
+Highlights: 
+ 
+ 
+ 
+• Aboproduktion 
+steigt schneller als 
+Web-Reichweiten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• neue KPI zur Aus-
+schöpfung: 29$ Abo-
+erlös pro Monat pro 
+1.000 Visits 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• wichtigste externe 
+Aboquelle ist Google 
+(rund 25% aller 
+neuen Abos) 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+ANALYSEN UND DATEN
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 22
+Drei Jahre nach der Abobestellung waren bei den Piano-Kunden bei Jahresabos, die per 
+Gratisprobe gewonnen wurden, sogar noch ein wenig mehr Abonnenten aktiv (47%) als bei 
+Jahresabos, die von Anfang bezahlpflichtig waren, wenn auch zu Beginn rabattiert (45% ak-
+tive Abos nach 3 Jahren). Nicht überraschend ist, dass die Jahresabos, die von Anfang an voll 
+bezahlt werden mussten, die beste Haltbarkeitsentwicklung zeigen. Überraschend ist, wie 
+gering deren Vorsprung nur ist (50% aktive Abos nach 3 Jahren). 
+> Eine Erklärungshilfe für diesen Befund bietet, dass im Querschnitt der Piano-Kunden die ku-
+mulierten Einnahmen je durchschnittlichem Abo drei Jahre nach dessen Gewinnung bei 
+von Anfang an voll bepreisten Monatsabos höher ausfallen als bei Monatsabos, die mit 
+einem Rabattangebot gewonnen wurden, während es bei Jahresabos umgekehrt ist: da 
+erzielen die Publisher mit Abonnenten, die anfangs von einem Rabatt profitierten, nach drei 
+Jahren höhere Erlöse als mit Abonnenten, die von Anfang an den regulären Preis bezahlt 
+hatten. 
+ 
+ 
+• oberflächlich irritie-
+rend: Gratisproben 
+resultieren in halt-
+bareren Abos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Hintergrund: initiale 
+Angebotsformen & 
+Abopreise korrelie-
+ren  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 23
+Dieser Befund dürfte zur Ursache haben, dass Abos, die ohne Rabatt gewonnen werden, 
+meistens einen niedrigeren Regelpreis haben als Abos, für die mit Rabatt geworben wird. 
+Das und ähnliche Korrelationen von Angebotsform, Preisgestaltung und Haltbarkeit wird 
+eine große Rolle bei allen Vergleichen der und mit den Piano-Benchmarks spielen. Das ent-
+wertet die Kennzahlen als Benchmarkwerte erheblich – es ist aber eine wertvolle Erinnerung 
+daran, wie trügerisch Kennzahlen sein können, wenn man nicht alle Rahmenbedingungen 
+kennt und kontrolliert. 
+>  Die Preise der Abos der Piano-Kunden haben sich im Vergleichszeitraum überraschend we-
+nig verändert. Der Median-Mittelwert des Einstiegspreises stieg in zwei Jahren um nur 
+7%. Das Median-Mittel der Regelpreise sogar nur um 5%.  
+[pvd: aufgepasst! In diesen Mittlerwerten dürften sich Veränderungen in der Kundenbasis 
+(zzgl. neue Piano-Kunden abzgl. Publisher, die ihre Abos heute auf einem anderen System 
+verwalten als im Vergleichszeitraum) und aktives Preismanagement der unverändert beste-
+henden Piano-Kunden vermischen.] 
+> Jahrelang galt der Merksatz: 'Die Nutzung erfolgt mobil. Aber Abos kommen überwiegend 
+auf dem Desktop zustande'. Das gilt für die Piano-Kunden nicht mehr. Spätestens seit dem 
+vergangenen Sommer gewinnen sie mehr neue Digitalabonnenten über mobile Geräte 
+als über die Nutzer am PC bzw. Laptop.  
+> Piano-Kunden, die im Rahmen des Selfservice-Kündigungsprozesses Versuche unterneh-
+men, die kündigungswilligen Abonnenten umzustimmen, haben in bis zu 16% aller Fälle 
+Erfolg (der Benchmark Report nennt hier eine Spanne von 6%-16%). Aber nur (!), wenn sie 
+kommunikative Maßnahmen mit einem Sonderpreisangebot kombinieren. Angeblich gelang 
+es keinem der Publisher, Kunden zum Beispiel nur durch einen in den Kündigungsprozess 
+eingebauten Fragebogen von der Kündigung abzuhalten. 
+> Unter dem Strich gute Erfahrungen machen die Piano-Publisher mit Preisanhebungen. 
+Ein durchschnittlicher Preisschritt um 15-20% nach Ablauf des ersten Jahres führe nach Ab-
+zug der dadurch verursachten Kündigungen (5-8%) immer noch zu bis zu 14% mehr Aboer-
+lösen. Mindestens 6% mehr Erlöse seien es selbst im Fall von Monatsabos und einer Preis-
+anhebung schon nach nur einem halben Jahr. 
+ 
+ 
+z.B. Abos, die ohne 
+Rabatt geworben 
+werden, sind i.d.R. 
+billiger 
+ 
+ 
+ 
+ 
+• øAbopreise binnen 2 
+Jahren nur geringfü-
+gig gestiegen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• seit rund ½ Jahr 
+kommen mehr Abos 
+über mobile Geräte 
+als über PC/Laptop 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Kündigerabwehr im 
+Selfservice-Prozess 
+geht nur via Ra-
+battangebot 
+ 
+ 
+ 
+ 
+ 
+• Preiserhöhungen: 
+Mehrerlöse über-
+kompensieren 
+Aborückgänge 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 24
+ 
+Paid Content-Umsatz in Deutschland: wieder beschleunig-
+tes Wachstum auf aktuell 1,4Mrd€ pro Jahr 
+P 
+Paid Content 
+Deutschland 
+ 
+Unsere jährlichen Schätzwerte zur Entwicklung von Paid Content in Deutschland, differenziert nach Segmenten und 
+Produkttypen 
+Je größer die Bandbreite digitaler Bezahlprodukte wird (zZ im Trend: bezahlpflichtige 'Pro-
+Newsletter', im Kommen: Paid Podcasts); in dem Maß, in dem öffentlich kaum diskutierte Ni-
+schenangebote zumindest zusammengezählt eine Größenordnung erreichen, die nicht mehr 
+übersehen werden darf (in einem Äpfel+Birnen-Vergleich hat Sebastian Esser, Gründer der 
+Monetarisierungsplattform für Creators, Steady, kürzlich darauf hingewiesen, dass die addier-
+ten Bezahlabos aller über Steady monetarisierenden Creators auf der Rangliste der IVW Paid 
+Content-Zahlen der deutschen Paid Content-Angebote auf Platz zwei stehen würden – hinter 
+Bild aber noch vor dem ebenfalls eine aggregierte Zahl publizierenden RND [pv-digest.de/link-
+liste Link2]; je variantenreicher die Preisgestaltung insbesondere für Abonnements digitaler 
+Produkte ausfällt, desto herausfordernder wird eine Schätzung der Gesamtumsätze. 
+pv digest schätzt seit zwölf Jahren das Volumen der deutschen Paid Content-Umsätze. Da wir 
+in dieser Zeit ein im Wesentlichen unverändertes Schätzmodell verwenden, in dem wir nur die 
+Variablen bestmöglich an den jeweils aktuellen Kenntnisstand anpassen, sind unsere Werte 
+im Zeitverlauf gut vergleichbar. Weil gleichzeitig die Produktvielfalt und die Anzahl der Paid 
+Content-anbietenden Verlage und auch der digital only publizierenden Medien stark gewach-
+sen ist, ist die Bandbreite für Schätzfehler größer geworden. 
+Unser Modell addiert detaillierte Schätzwerte für die größten Angebote und aggregierte Be-
+rechnungen für die verbleibenden kleineren Angebote und blinden Flecken. Wie (nicht nur) in 
+der Verlagswelt seit Jahrzehnten üblich, betrachten wir Endkundenumsätze, also Umsätze zu 
+Verkaufspreisen inklusive Mehrwertsteuer. Wie in der Digitalwirtschaft üblich, sind unsere 
+Werte fiktive Jahresumsätze ('Run Rates'), die sich aus der Hochrechnung der jeweils aktu-
+ellen Monatsumsätze ergeben. Weitere Details zu unserem Vorgehen erläutern wir im Metho-
+denteil unten.  
+ 
+ 
+ 
+ 
+'Paid Content' umfasst 
+ein immer breiter wer-
+dendes Spektrum An-
+gebote 
+ 
+ 
+ 
+ 
+ 
+ 
+LINKTIPP 
+ 
+ 
+ 
+ 
+ 
+pvd schätzt zum 12. 
+Mal Paid Content-Um-
+sätze der deutschen 
+Publikumsmedien 
+ 
+ 
+ 
+ 
+ 
+Schätzmodell: Bottom-
+up für große Medien-
+marken + Top down 
+für den restl. Markt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 25
+Dies vorausgeschickt sehen wir das aktuelle Jahresumsatzniveau mit Paid Content-Produk-
+ten deutscher Publikumsmedien (inklusive Special Interest aber ohne Fachmedien) bei 
+1.446Mio€. Das ist ein Plus von 18% gegenüber unserer letzten Schätzung vor zwölf Mona-
+ten. Nach drei Rückgängen der von uns beobachteten jährlichen Wachstumsraten in Folge ist 
+das ein gegenüber Vorjahr wieder beschleunigtes Wachstum. 
+Das mag überraschen. Denn in weiten Teilen der den digitalen Lesermarkt bearbeitenden 
+Verlagswelt herrscht die Vorstellung, dass Paid Content – insbesondere das Geschäft mit 
+Plus-Abos – stagniere. Das ist aber nicht der Fall! So berichtete der INMA-Verband erst kürz-
+lich, dass seine (weltweiten) Mitglieder 11% Mengenwachstum bei Digitalabos und sogar 
+knapp 16% Umsatzwachstum im Vergleich des Q3/24 mit dem Q3/23 verzeichnet hätten. 
+Schon im letzten Juli meldete der Zeitungsverlegerverband BDZV: "Mit E-Paper erreichten die 
+Verlage dank eines Zuwachses von knapp 21 Prozent erstmals fast die Umsatz-Schwelle von 
+500 Millionen Euro." Nach unseren Berechnungen und zu Endkundenpreisen erzielen die 
+deutschen Zeitungen auf 12 Monate hochgerechnet sogar fast 700Mio€ Umsatz mit dem Ver-
+kauf ihrer E-Paper. 
+Was wir sehen, ist allerdings eine signifikante Verschiebung der Treiber für das Paid Con-
+tent-Wachstum. Während wir bisher das Wachstum der Paid Content-Umsätze ganz über-
+wiegend einer Zunahme der Mengen 
+(mehr Abos, mehr Angebote mit 
+Paywalls…) zuschreiben konnten, kön-
+nen wir in diesem Jahr fast die Hälfte 
+(49%) des Umsatzwachstums von 
+217Mio€ höheren Preisen zuordnen. 
+Entsprechend resultiert nur noch 
+etwa die Hälfte des übrigen Wachs-
+tums aus höheren Mengen. Das war 
+vor zwölf Monate noch anders. Vor ei-
+nem Jahren haben wir über 70% des 
+Umsatzwachstums noch gestiegenen 
+Mengen zuordnen können.  
+Regionale Tageszeitungen generieren fast die Hälfte des deutschen Gesamtumsatzes 
+mit digitalem Journalismus. Während der Einzelverkauf digitaler Ausgaben eine äußerst ge-
+ringe Bedeutung hat (weniger als 1% der Umsätze entfällt auf den Verkauf einzelner E-Paper-
+Ausgaben), erzielen Zeitungen erhebliche Umsätze mit dem Verkauf digitaler Nutzungsrechte 
+an die Abonnenten ihrer gedruckten Ausgaben. Über 60Mio€ jährlich dürften die regionalen 
+Tageszeitungen, die diese Angebotsstrategie noch nicht aufgegeben haben, damit erlösen. 
+Das ist moderater Rückgang gegenüber Vorjahr (knapp 70Mio€). Das Prinzip, Printabonnen-
+ten den Umgang mit digitalen Angeboten nicht auch noch dadurch zu erschweren, dass man 
+dafür einen Aufpreis verlangt, hat sich noch längst nicht durchgesetzt. Hinzu kommen sogar 
+teils erhebliche Preissteigerungen für die Kombination aus Print und E-Paper. Die Gelnhäuser 
+Neue Zeitung knöpft ihren Printabonnenten mit 16,45€ gar einen Aufpreis von 50% auf das 
+Print only-Abo ab, wenn sie auch auf das E-Paper zugreifen wollen. 
+aktuelles Paid Content-
+Umsatzniveau = 
+1,4Mrd€ 
+(+18% z. VJ) 
+ 
+ 
+ 
+ 
+ 
+auch andere Marktbe-
+obachter sehen Wachs-
+tum 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+absolut 217Mio€ mehr 
+als vor 12 Monaten; 
+Wachstum 50/50 aus 
+Mengen und Preisen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+regionale TZ generie-
+ren fast die Hälfte der 
+Paid Content-Umsätze 
+ 
+ 
+ 
+davon immer noch ei-
+nen erheblichen Teil 
+mit E-Paper-Aufpreisen 
+für Printabonnenten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 26
+Ein Drittel der deutschen Paid Content-Umsätze erzielen Zeitschriftenmarken und ma-
+gazinartige Digital-only-Medien (wir ordnen hier auch die Umsätze von Wochenzeitungen 
+und rein digital erscheinenden Medien inklusive diverser Blogs und 'Creators' ein). 
+Im Vorjahr übertrafen bei den überregionalen Zeitungen die Erlöse aus dem Verkauf von 
+Paywall-Abos (Plus-Abos) erstmals die Umsätze der E-Paper-Abos. Die vom Papier vollstän-
+dig emanzipierte Produktgattung ist zur wichtigsten Säule im digitalen Lesermarkt von 
+Bild, Welt und Süddeutscher Zeitung geworden (die übrigen überregionalen Tageszeitun-
+gen dürften immer noch mehr mit dem Verkauf ihrer E-Paper verdienen als mit ihren Paywall-
+Abos).  
+Bei den regionalen Tageszeitungen stammen immer noch drei von vier Paid Content-
+Euros aus dem Verkauf von E-Paper-Abos. Nur langsam entwickelt sich hier der Anteil der 
+Erlöse der Plus-Abos (+1%P zum Vorjahr. 
+ 
+ 
+nur rd. 1/3: Publikums-
+zeitschriften und Digi-
+tal only-Medien 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+überregionale Titel: 
+Plus-Abos sind das um-
+satzstärkste Produkt 
+ 
+ 
+ 
+ 
+ 
+ 
+reg. TZ erzielen 84% ih-
+rer Paid Content-Um-
+sätze mit E-Papern 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 27
+ 
+ 
+Visualisierung des deutschen Paid Content-Marktes (nur Publikumsmedien) 
+Die deutschen Top3 Medien – gemessen an ihren digitalen Lesermarktumsätzen –sind Die 
+Zeit, Der Spiegel und die Süddeutsche Zeitung. Addiert man die Umsätze von FAZ und FAZ am 
+Sonntag, die wir allerdings trennen, weil wir die FAZ den Tageszeitungen, die Sonntagsaus-
+gabe aber den Wochenzeitungen und damit in unserer Kategorisierung dem Zeitschriftenbe-
+reich zuordnen, dann rücken die Frankfurter zulasten der Süddeutschen in die Top3 auf; al-
+lerdings nicht an die Spitze der drei Titel, wie wir im Vorjahr fehlerhaft ermittelt hatten (ein 
+Datenfehler führte zur Überschätzung der E-Paper-Umsätze der FAZaS). Der Paid Content-
+umsatzstärkste deutsche Titel dürfte momentan Der Spiegel sein, gefolgt von Die Zeit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 28
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schätz-Parameter & 
+Annahmen im Detail: 
+ 
+• für große TZ Ist-
+Werte 
+ 
+ 
+ 
+ 
+• restl. TZ: IVW x 
+ø33,39€ für E-Pa-
+per-Abo +  x ø8,06€ 
+für E-Paper SV 
+ 
+ 
+• Annahme: 90% der 
+TZ generieren Plus-
+Eröse; øPreis 10,88€ 
+ 
+ 
+ 
+ 
+ 
+• für große WZ und 
+PZ Ist-Werte 
+ 
+ 
+ 
+ 
+ 
+• restl. PZ: IVW-E-Pa-
+per-Abo-Mengen x 
+11,81€/Monat 
++1,74€ x SV-Menge 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• zzgl. 67Mio€ für 
+nicht IVW-meldende 
+PZ + 40Mio€ für wei-
+tere Angebote 
+ 
+ 
+ 
+ 
+ 
+Unser Kalkulationsmodell beruht auf folgenden Parametern und Annahmen. 
+ 
+•
+Für die überregionalen Zeitungen, für Bild und für ausgewählte regionale Zeitungen 
+haben wir anhand der IVW-Daten (E-Paper-Auflagen, soweit vorhanden Paid Content-Mel-
+dungen) und weiterer uns bekannter Daten zu übrigen Digitalprodukten eine auf den De-
+tails der Auflagenstruktur und der jeweiligen individuellen Angebotspreise beru-
+hende Abschätzung vorgenommen. 
+•
+Die E-Paper-Erlöse der übrigen regionalen (inkl. lokalen) Tageszeitungen haben wir ent-
+sprechend der IVW-Angaben und per repräsentativer Stichprobe ermittelten Durch-
+schnittspreisen (monatlich 33,39€ für E-Paper-Abos und 8,06€ für den sonstigen Verkauf 
+der E-Paper) kalkuliert. 
+•
+Längst hat die Mehrheit aller Tageszeitungen vor ihren Webangeboten eine Paywall instal-
+liert. Aber nicht alle diese Titel generieren Paywall-only-Erlöse. Bei manchen Titeln berech-
+tigt nur ein E-Paper-Abo auch zur Nutzung der bezahlpflichtigen Webinhalte, so dass die 
+Paywall keine zusätzlichen Erlöse generiert. Wir unterstellen, dass im Branchenschnitt 
+90% aller Zeitungen ein separates Webabo anbieten, und dass dabei ein Webabo-Kun-
+denbestand in Höhe von 9,9% der verkauften Zeitungsauflage erreicht wurde. Für diese rei-
+nen Paywall-Abos sehen wir einen Monats-Durchschnittspreis von 10,88€. 
+•
+Auch für digital herausragende Zeitschriften und Wochenzeitungen haben wir anhand 
+der IVW- Daten eine auf den Details der Auflagenstruktur und der jeweiligen individu-
+ellen Angebotspreise beruhende Einzel-Abschätzung vorgenommen. Hinzu kommen 
+Umsatzwerte, die sich aus öffentlich gemachten Aussagen aus einzelnen Verlagen und auch 
+aus Hintergrundinformationen für pv digest ergeben. 
+•
+Für die Abschätzung der Paid Content Erlöse der übrigen Zeitschriften (inkl. Wochenzei-
+tungen und Special Interest Magazine aber keine Fachzeitschriften) mit IVW-Meldung haben 
+wir die Erlöse aus dem Verkauf von E-Papern auf Basis der IVW-Zahlen mit Durchschnitts-
+preisen ermittelt. Die per Abonnement als E-Paper verkauften Zeitschriften erscheinen zu 
+sehr unterschiedlichen Preisen und unterschiedlich häufig. Für die Kalkulation haben wir 
+einen repräsentativen Mittelwert herangezogen. Basis für dessen Berechnung sind Durch-
+schnittswerte, die wir aus einem proportional gewichteten Mix der nach E-Paper-Auflage 
+größten Zeitschriften und einer Stichprobe aus allen übrigen Titeln berechnet haben. Unser 
+'Durchschnitts-E-Paper' einer Zeitschrift kostet 11,81€ pro Monat im regulären Abo und 
+1,74€ im sonstigen Verkauf. 
+•
+Für die E-Paper von Zeitschriften (inkl. Romanhefte!) ohne IVW-Meldung haben wir einen 
+Betrag von 67Mio€ ermittelt, der sich aus geschätzten Wachstumsquoten gegenüber un-
+seren Vorjahreswerten ergibt. Für alle übrigen Paywall-, App- und sonstigen Angebote für 
+bezahlpflichtigen digitalen Publikumsjournalismus haben wir pauschal weitere 40Mio€ 
+angenommen. 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 29
+ 
+ 
+ 
+ 
+ 
+David Lämmel ist seit Jahresanfang Geschäftsführer des Südkurier. Er löst dort Interim-GF 
+Björn Jansen ab. 
+Nikolaus von der Hagen, u.a. Geschäftsführer der Morgenpost für Sachsen und Vertriebs-
+leiter der Sächsischen Zeitung, hat die DDV Mediengruppe verlassen. 
+Beatrice Gerner ist seit Anfang Januar Geschäftsführerin der VDI Verlage. Vorgänger Ken 
+Fouhy wechselt in die Chefredaktion. 
+Arne Löffel, Geschäftsführer mehrerer Einheiten der dfv Mediengruppe, hat das Unterneh-
+men verlassen. 
+Uwe Mork ist jetzt Geschäftsführer der OM Vertrieb GmbH & Co. KG und Leiter für das 
+Lesermarktgeschäft der Münsterländischen Tageszeitung. 
+Andreas Conradt, Managing Director Bild, hat Axel Springer verlassen. 
+Karina Pusch ist seit Anfang des Jahres in Nachfolge Ludwig von Jagows Geschäftsführerin 
+des Bundesverbandes Abonnement e.V. 
+Dennis Draber wird im nächsten Monat Geschäftsführer der Zeit Akademie. Vorgängerin 
+Birthe Kretschmer verlässt das Unternehmen. 
+ 
+ 
+P 
+1 
+2 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paid Content-Daten IVW ohne Bild&Welt 
+P 
+IVW & Paid Content 
+ 
+Die (vermutlichen) wahren Gründe– die Bedeutung für die übrigen Teilnehmer – ein Vorschlag zur Zukunft 
+Axel Springer publiziert seit Beginn dieses Jahres keine Zahlen mehr über die Paid Content-
+Statistik der IVW. Natürlich nicht etwa, weil der Konzern befürchtet, demnächst kein Wachs-
+tum mehr ausweisen zu können. Sondern (in den Worten einer Sprecherin): "Unsere nächsten 
+Wachstumsziele benötigen kein Tracking über die IVW, sondern sind für uns gesetzt: eine Mil-
+lion Abonnenten für Bild+ bis Ende 2026". Für Paid Content bei der Welt gehe es nun vor allem 
+um Umsatzwachstum, um "Abos im Hochpreissegment". Deswegen sehe man "in dem Leis-
+tungsvergleich mit anderen Paid-Content-Angeboten keinen bedeutenden Mehrwert mehr. 
+Den in kurzfristigen Intervallen getakteten Ausweis halten wir nicht mehr für sinnvoll." Zu-
+künftig sollen Zahlen nur noch "anlassbezogen" kommuniziert werden. 
+ 
+ 
+ 
+Bild&Welt ziehen sich 
+aus dem IVW-Melde-
+verfahren Paid Content 
+zurück 
+ 
+ 
+Warum? 
+ 
+Verlag: "nicht mehr 
+sinnvoll" 
+ 
+ 
+ 
+Personalien 
+QUELLEN: 
+PERSONALIEN
+Branchennews 
+QUELLEN: 
+BRANCHENNEWS & -RECHT
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 30
+ 
+Wir haben aus diesem Anlass mehrere Verlage mit Beteiligung an der Paid Content-Statistik 
+der IVW kontaktiert. Die Entscheidung von Axel Springer namentlich kommentieren mochte 
+niemand. Aber vertraulich haben wir mehr als einmal die Vermutung gehört, dass sich Axel 
+Springer weniger aufgrund der Furcht vor sinkenden Mengen und erst recht nicht wegen des 
+überschaubaren Aufwands der Teilnahme zurückzieht. Sondern weil Springer (wie andere 
+Teilnehmer am Meldeverfahren auch) davon genervt ist, diversen Mediendiensten monat-
+lich die Veränderungen bei den Daten erläutern 'zu müssen'. 
+Keiner der von uns befragten Verlage gab an, nun ebenfalls über einen Rückzug nachzuden-
+ken. SZ Digital-Geschäftsführer Johannes Hauner antwortete verbindlich "wir werden auch 
+2025 unsere Paid-Content-Abos (SZ Plus Basis) in der IVW ausweisen". Die Mediengruppe 
+Rheinische Post wird zukünftig neben dem Stammtitel auch die Zahlen der Tochterverlage 
+veröffentlichen und ihre bisher schon gemeldeten Zahlen um die Anzahl der Kombiabos er-
+weitern. 
+Viel mehr als um die Teilnahme der übrigen Verlage am Meldeverfahren Paid Content sollte 
+man sich um die Organisation und den Stellenwert der IVW als ganzer sorgen. Denn im 
+Vergleich zu zahlreichen anderen 'Abmeldungen' aus der Verlagswelt verliert Springers Rück-
+zug beim Thema Paid Content jedes Gewicht. Binnen zwölf Monaten haben zuletzt sechs Ta-
+geszeitungen, gut zwei Dutzend Publikumszeitschriften und fast 10% aller Fachzeitschriften 
+die Meldung ihrer Quartalszahlen aufgegeben. Ganz zu schweigen von der Meldung von Heft-
+auflagen, die nunmehr so selten ist, dass wir seit Mitte letzten Jahres unseren monatlichen 
+Index zum Presseabsatz nicht mehr ermitteln können. Oder zu schweigen von der noch viel 
+größeren Abgangswelle bei den Online-Meldungen an die IVW (RTL inkl. Stern, IQ Digital, 
+Burda Forward…) 
+ 
+ 
+ 
+'Kreise': "Medien-
+dienste stellen zu viele 
+anstrengende Fragen 
+zu den Zahlen"  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+bisher keine Abwande-
+rungswelle erkennbar  
+ 
+ 
+ 
+ 
+ 
+ 
+ganz im Gegensatz zu 
+anderen Meldeverfah-
+ren der IVW 
+ 
+z.B. Quartalsauflagen! 
+ 
+z.B. Heftauflagen!! 
+ 
+ 
+z.B. Online-Zahlen!!! 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint Die IVW-Meldung der Paid Content-Zahlen hat null Relevanz für das Werbe-
+geschäft. Die Paid Content-Statistik ist nicht mehr als ein öffentliches Schaulaufen zum 
+Thema Plus-Abo-Erfolge. Die Motivation daran teilzunehmen ist eine Mischung aus ehrli-
+cher Bereitschaft zum branchenweiten Austausch hilfreicher Kenngrößen und eitler Her-
+auskehrung von Bruttomengenerfolgen. 
+Wertlos ist sie deswegen nicht. Sie ist zum Beispiel eine wichtige Datenquelle unserer jähr-
+lichen Paid Content-Umsatzschätzung (die monatlichen Veränderungen interessieren uns 
+allerdings nicht – schon gar nicht auf der Ebene einzelner Medien). Sie ermöglicht viele un-
+serer Ausschöpfungsbenchmarks (vgl. zuletzt pvd #6/2024). Und sie ist ein verlässlicher An-
+lass zum produktiven Austausch von Fragen und Ideen rund um den digitalen Lesermarkt. 
+Liebe IVW: Ihr seid ein Prüfverein. Aber an dieser Stelle seid ihr nichts als ein willkommener 
+Datensammler und -veröffentlicher. Kein Werbekunde interessiert sich für das Paid Con-
+tent-Prüfsiegel. Mit einem Verzicht auf den Prüfanspruch und den damit – zum Beispiel bei 
+Kombinationsabos nicht völlig vernachlässigbaren – Aufwand könntet Ihr die Teilnahme der 
+übrigen Verlage festigen und vielleicht sogar weitere Teilnehmer für eine wichtige Bran-
+chenstatistik gewinnen. Was haltet Ihr von der dieser Idee? 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 31
+Letzte Worte 
+ 
+Keine Ahnung (ist mir auch egal) 
+ 
+ 
+Axel Springer hat die monatliche Meldung
+der Paid Content-Mengen an die IVW been-
+det. Mit Bild+ verschwindet nicht nur das 
+mit Abstand voluminöseste deutsche Paid 
+Content-Angebot aus der Statistik. Sondern
+das jahrelang von anderen Verlagen igno-
+rierte Meldeverfahren verliert damit auch
+seinen Pionierkunden. 
+Fast elf Jahre nach der ersten Veröffentli-
+chung IVW-geprüfter Paid Content-Zahlen 
+(Mai 2014, damals 200.000 Bezahler für
+Bild+ und 50.000 für Welt+) kann man nur 
+hoffen, dass die beiden nicht wieder als Pi-
+oniere fungieren.  
+Damals hatte es Jahre gedauert, bis wei-
+tere Titel hinzukamen. Auf die Trägheit der
+übrigen Verlage kann man also schon ein-
+mal setzen. Hoffentlich kann man sich auch 
+auf deren eigenständiges Urteil verlassen.  
+Zwar ist die Paid Content-Statistik der IVW
+ohne Nutzen für das Werbegeschäft. Auf-
+grund der niedrigen Preisschwellen für die 
+jeweiligen Meldekategorien ist sie auch von
+überschaubarer Aussagekraft für das Le-
+sermarktgeschäft. 
+Aber nach und nach ist doch ein gewisses
+Verständnis für und Interesse an diesen
+Zahlen gewachsen. Mit der Folge nicht nur 
+einer mittlerweile beachtlichen Anzahl (61)
+teilnehmender Medien. Sondern auch einer 
+zunehmenden Anzahl die gemeldeten Da-
+ten monatlich exegierender Branchen-
+dienste. 
+ 
+Ob deren Nachfragen eine Rolle gespielt
+haben beim Rückzug aus der ehemals von
+Springer mit viel Durchhaltekraft initiierten
+Statistik, dazu können wir nur Vermutun-
+gen anstellen. Für die in der Statistik ver-
+bleibenden Verlage haben wir dagegen ei-
+nen konkreten Rat: "Das weiß ich nicht" ist
+auch eine Antwort. Und "Ist mir auch egal"
+ist auch ein Grund. 
+Monatliche Veränderungen – auch solche,
+die nach unten gehen oder kaum vorhan-
+den sind und also als Stagnation gelesen
+werden können – können bedeutungslos
+sein. In der Regel zeigen sich Trends und
+Learnings nicht im 4-Wochen-Rhythmus.
+Schon gar nicht, wenn man einzelne Titel
+betrachtet anstelle aggregierter Werte. 
+Man kann also mit Fug&Recht auf die
+Frage nach einer monatlichen Veränderung
+antworten: "Keine Ahnung, das ist mir auch
+egal".  
+"Das weiß nicht" ist ein Normalzustand
+der Conditio humana. Man muss sich dafür
+häufig nicht schämen. Manchmal schon.
+Natürlich gibt es Dinge, die man wissen
+muss, wenn man Verantwortung trägt.
+Oder doch mindestens wissen wollen muss.
+Wer sagt, "das weiß nicht, ist mir auch
+egal", der setzt sich dem Risiko aus, dass
+das Gegenüber sich wundert oder auch Kri-
+tik übt. Das muss man dann eben aushal-
+ten. Dafür braucht man Rückgrat – nen-
+nenswerten Aufwand verursacht es nicht. 
+ 
+… letzte Worte 
+ 
+ 
+ 
+ 
+
+AUSGABE 1/2025 ׀SEITE 32
+ 
+ 
+ 
+Genutzte Quellen in pv digest sind in der vorliegenden Aus-
+gabe wie folgt codiert: 
+ 
+Quellenverzeichnis Ausgabe 1/2025 
+ 
+ 
+ 
+ 
+ 
+ 
+erscheint am 7. Februar 2025
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH

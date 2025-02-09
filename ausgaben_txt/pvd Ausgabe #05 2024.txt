@@ -1,0 +1,2687 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mai 2024
+ 
+"Google klaut Verlagen über 10% ihrer In-App-Umsätze. Apple auch, 
+zahlt aber zurück. Wenn man danach fragt!" So hatte ich einen Beitrag in 
+der Juni-Ausgabe 2021 überschrieben. Die beiden Tech-Riesen hatten 
+sich sehr viel Zeit damit gelassen, in ihren Appstores den in Deutschland 
+seit 2019 auch für digitale Presse gültigen ermäßigten Steuersatz zu be-
+rücksichtigen. 
+Mittlerweile ist die Umstellung des Steuersatzes nur Sache von ein paar 
+Klicks. Darum ist es bemerkenswert, dass Top-Marken seit Jahren 
+Geld auf der Straße liegen lassen. Oder liegen ließen? Ich habe mit die-
+sem Thema bei einigen pvd-Abonnenten Bewegung generiert. In diesen 
+Fällen dürfte damit auf Lebenszeit ein Vielfaches des Abopreises für das 
+pvd-Abo refinanziert sein. Ich freue mich, nach einem heiklen Stück in 
+der letzten Ausgabe auf Seite 11 einen sehr lösungsorientierten Beitrag 
+vorstellen zu können. Aber auch viele anderen Berichte dieser Ausgabe 
+bieten sich als Vorlage für erfolgversprechende Strategien und Maßnah-
+men an. 
+Ich wünsche Ihnen einen guten und verkaufsstarken Monat. 
+Markus Schöberl, Herausgeber pv digest  
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.11 
+Analysen und  
+Daten                 
+ 
+S.15 
+Meinungen 
+S.23 
+Personalien 
+ 
+S.27 
+Branchennews- 
+und recht 
+ 
+S.28 
+letzte Worte 
+S.30 
+ 
+ 
+Highlights aus der aktuellen Ausgabe 
+Forcierte Migration von Printabonnenten in E-Paper-Abonnenten:  
+Detailergebnisse aus Schenefeld Erfahrungswerte des A.Beig Verlages mit der 
+Einstellung des gedruckten Schenefelder Tageblatts; Erfolgsquoten für die Migration 
+Print => Digital in verschiedenen Konstellationen (mit/ohne Schulung, mit/ohne  
+Gratis iPad). S.2-4 
+Das Geld liegt auf der Straße! Seit 2019 gilt in Deutschland auch für digitale 
+Presse der ermäßigte Umsatzsteuersatz. Bei Google Play sind es häufig noch immer 
+19%. Verlage verzichten auf bis zu 6stellige Erlöse. Dabei ist Abhilfe einfach. pv di-
+gest zeigt, wie das geht. S.11-12 
+Der Samstag ist DER Zeitungstag Samstags verkaufen Zeitungen deutlich mehr 
+Exemplare als montags bis freitags. Dieser Vorsprung wächst im Zeitverlauf. Sams-
+tagsauflagen sind deutlich resilienter als Werktagsauflagen – sowohl im EV wie auch 
+im Abo. S.15-18  
+Runde Interaktionselemente effektiver als eckige?! Die nachahmenswerte 
+Testidee des Monats. S.21-22 
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH
+Lieber Herr Weber,
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 2
+ 
+ 
+ 
+ 
+ 
+ 
+Forcierte Migration von Printabonnenten in E-Paper-
+Abonnenten: Detailergebnisse aus Schenefeld 
+P 
+Print-to-Digital-Mi-
+gration von TZ-Abos 
+ 
+Erfahrungswerte des A.Beig Verlages mit der Einstellung des gedruckten Schenefelder Tageblatts; Erfolgsquoten für 
+die Migration Print => Digital in verschiedenen Konstellationen (mit/ohne Schulung, mit/ohne Gratis iPad) 
+Wenn es um die forcierte Umstellung von Printzeitungslesern auf das E-Paper geht, also um 
+das Beenden der Publikation gedruckter Ausgaben und den Versuch, möglichst viele der be-
+zahlenden Abonnenten für bezahlte digitale Angebote zu gewinnen, dann blickt man in 
+Deutschland seit etwa einem Dreivierteljahr auf zwei ostdeutsche Regionen: Mecklenburg, wo 
+Madsack mit viel Aufwand und einigem Erfolg in mittlerweile drei Gebieten das Erscheinen 
+des jeweiligen gedruckten Titels beendet hat und ins thüringische Greiz, wo Funke mit viel 
+Aufwand aber ohne den gewünschten Digitalisierungs-Erfolg in einem Mini-Gebiet seine Zei-
+tung nicht mehr zustellt. 
+Das Magazin KressPro hat uns nun auf einen dritten Fall aufmerksam gemacht, der bisher 
+unterhalb des Radarschirms der Öffentlichkeit stattfand. Der A. Beig-Verlag, der zur NOZ/mh:n 
+Mediengruppe gehört, hat zum 1. Juli letzten Jahres – also schon ein Vierteljahr bevor Mad-
+sack seinen ersten gedruckten Titel vom Markt nahm – das Schenefelder Tageblatt beerdigt. 
+Das hatte zuletzt nur noch 308 Printabonnenten (zzgl. 12 E-Paper-Abos) und war entspre-
+chend nicht mehr wirtschaftlich verlegbar. 
+Schenefeld grenzt westlich an Hamburg. Hartnäckige Printfans hatten darum nicht nur die 
+Option, auf die Postzustellung des ebenfalls bei A.Beig erscheinenden Pinneberger Tageblatts 
+zu wechseln, das eine wiederum Schenefeld westlich benachbarte Region bedient, sondern 
+sie konnten auch auf eine Schenefeld abdeckende Ausgabe des großen Hamburger Abend-
+blatts wechseln, die noch per Boten zugestellt wird. Die Voraussetzungen für eine erfolgrei-
+che Zwangs-Digitalisierung waren damit noch einmal schwieriger als in den beiden ost-
+deutschen Gebieten. 
+Die Umstellung fand statt unter der Regie von Kevin Hermeneit, Referent der NOZ/mh:n-
+Geschäftsführung, mit dem wir uns für diesen Beitrag ausführlich unterhalten haben. 
+Intensive Kommunikation im Vorfeld und kurz nach der Umstellung 
+Die Leser wurden über einen kurzen, nur rund 10 Wochen umfassenden Zeitraum intensiv 
+auf die Einstellung ihrer gedruckten Tageszeitung vorbereitet. Die Vorbereitungskommuni-
+kation erfolgte einerseits in Form von mehreren Beiträgen in der Zeitung (Interview mit 
+dem eigenen Chefredakteur, Testimonial-Berichte über für das E-Paper-Abo gewonnene Le-
+ser, 'Abschiedsartikel' in der letzten Ausgabe vom 30.6.). Andererseits wurden die Abonnenten 
+per Postbrief (3 Aussendungen vor dem 1.7.) und Outbound-Telefonie angesprochen.  
+Nach der Einstellung der Druckausgabe erfolgten weitere Telefonate mit dem Ziel, Digital-
+Probeabonnenten für ein bezahltes Digitalvollabo zu gewinnen oder – erst ab 21. August 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+bekannte deutsche Bei-
+spiele: Madsack in 
+MeckPomm und Funke 
+in Greiz 
+ 
+ 
+ 
+ 
+unbekannter und so-
+gar früher: A.Beig in 
+Schenefeld 
+ 
+ 
+ 
+ 
+ 
+ 
+Schenefelder Tageblatt 
+eingestellt während 
+Printalternativen vor-
+handen waren 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 Wochen Vorberei-
+tungskommunikation 
+(Artikel in Print, Briefe, 
+Outbound-Telefonie) 
+ 
+ 
+ 
+ 
+ 
+ 
+NACHRICHTEN AUS VERLAGEN
+UND VERLAGSVERTRIEBEN
+QUELLEN:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 3
+als letzte Maßnahmenstufe – ein aktives Angebot, den hauseigenen Titel aus der Nachbarre-
+gion, das Pinneberger Tageblatt, per Postzustellung zu beziehen. 
+Die Umstellungs-Angebote 
+Den Printabonnenten wurde in mehreren Varianten die Erprobung des Digitalabos angebo-
+ten. Von 308 Printabonnenten konnte die Hälfte (153) für ein digitales Probeabo gewonnen 
+werden – meistens in Verbindung mit Schulungsmaßnahmen und Hilfestellungen für den ers-
+ten Kontakt mit dem digitalen Produkt. Allen Probeabonnenten wurde angeboten, leih-
+weise gratis ein iPad zur Verfügung zu erhalten. Die Probeabos verteilten sich wie folgt: 
+> 60 Leser wurden für das Probeabo persönlich bei sich zu Hause in der Nutzung des gelie-
+henen iPads und des E-Paper geschult 
+> 44 Probeabos wurden mit einem Leihgerät aber ohne Schulung abgeschlossen 
+> In 17 Fällen wurden Abonnenten in Kleingruppen (bis 5 Personen) mit der Nutzung des 
+Leihgerätes und der digitalen Zeitung vertraut gemacht 
+> 32 Probebos waren ohne Leihgerät und ohne Schulung 
+Der Umwandlungserfolg 
+Nach der Probephase konnten die Abonnenten das ausgeliehene iPad in Besitz nehmen, 
+wenn sie sich für mindestens 24 Monate Digitalabo entschieden, also einer 2-Jahres-Ver-
+pflichtung zustimmten. 
+> 49/60 (=81,6%) der persönlich geschulten Probeabonnenten wandelten ins Vollabo 
+> 35/44 (=79,5%) der ungeschulten aber mit einem Leihgerät versorgten Probeabos wan-
+delten ins Vollabo 
+> 12/17 (=70,5%) der in Kleingruppen geschulten Probeabonnenten mit Leihgerät wandelten 
+ins Vollabo  
+> Nur 9/32 (=28,1%) der Probeabos ohne Leihgerät und ohne Schulung wandelten in ein 
+Digitalabo zum Regelpreis mit 12-Monats-Verpflichtung 
+ 
+ 
+ 
+ 
+ 
+Angebot; digitales Pro-
+beabo, auf Wunsch mit 
+Schulung und/oder  
+iPad  
+ 
+153 von 308 
+Printabonnenten nah-
+men an 
+ 
+1) 60x persönliche 
+Schulung+iPad 
+2) 44x nur iPad 
+3)17x Gruppenschu-
+lung+iPad 
+4) 32x nur Probeabo 
+ 
+ 
+ 
+Vollabo-Umwandlung: 
+ 
+ 
+ 
+ 
+1) 82% 
+ 
+2)80% 
+ 
+3) 71% 
+ 
+ 
+4) 28% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 4
+Der Verlag hat das Nutzungsverhalten der Probeabonnenten detailliert analysiert. Dabei 
+zeigte sich sehr klar: Schulung und Leihgerät sind die vordergründigen Wachstumstreiber. Im 
+Hintergrund dürfte es die dadurch verursachte deutlich intensivere Nutzung sein, die die 
+Umwandlung ins Vollabo befördert. Fast zwei Drittel der nicht umgewandelten Probeabon-
+nenten nutzte das E-Paper im Probezeitraum gar nicht.  
+Kevin Hermeneit zieht hier als Fazit, dass sowohl die Schulung als auch ein Leihgerät wichtige 
+Treiber für das Probabo sind und die Schulungen außerdem ganz wichtig für den Wandlungs-
+erfolg. Da sich die Kleingruppenschulungen aufgrund der unterschiedlichen Kenntnisstände 
+der Teilnehmer oft als parallele Einzelschulungen entpuppten, seien Einzelschulungen da-
+bei die überlegene Maßnahme, die gegenüber der Gruppenschulung nur wenig mehr Auf-
+wand verursache. 
+In der Detailbetrachtung (Grafik s.o.) belegen die Nutzungsstatistiken, wie wichtig mindes-
+tens das Leihgerät für die Nutzung und damit auch die spätere Umwandlung in ein Vollabo 
+war. 
+Das Fazit des Verlages 
+Insgesamt sei das "Projekt nicht skalierfähig" sagt Kevin Hermeneit. Die Kosten für die 
+[pvd: bei den nicht umgewandelten Abos zurückgegebenen] iPads seien zu hoch; ebenso der 
+Schulungsaufwand. Bei den Schulungen seien es zunächst die Basistechniken für die Bedie-
+nung des iPads, erst danach die Eigenschaften des E-Papers, die im Vordergrund stehen. Beim 
+E-Paper werden von den neu geschulten Nutzern vor allem Basisfunktionen wertgeschätzt 
+(und oft auch zum ersten Mal verstanden): das zeitungsgleiche Aussehen, das einfache Ver-
+größern von Artikeln, auch die Text-to-Speech-Funktion wurde in den Schulungen häufiger als 
+positive Eigenschaft wahrgenommen). Gegenüber Print vermisst wurden in den Schulungen 
+ein im Digitalprodukt nicht enthaltenes Gewinnspiel und die Möglichkeit, Artikel auszuschnei-
+den und körperlich aufzubewahren. 
+ 
+Umwandlungsfaktor 
+#1: Nutzungsintensität 
+ 
+2/3 der Gruppe 4) 
+nutzte gar nicht 
+ 
+ 
+ 
+ 
+ 
+Kleingruppenschulun-
+gen ggü. Einzelschu-
+lung kaum weniger 
+aufwändig 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Verlagsfazit: Rollout 
+nicht wirtschaftlich 
+möglich 
+ 
+ 
+ 
+ 
+Schulungsinhalte v.a. 
+Basiskenntnisse zu 
+iPad und E-Paper 
+ 
+ 
+ 
+ 
+pvd meint Uns überrascht das deutliche Negativfazit "nicht skalierfähig". Wir haben den 
+Eindruck, dass diese Erfahrungswerte Basis für Optimierungsmaßnahmen und einen opti-
+mistisch gerechneten Full Run sein könnten. Rund 80% Umwandlung in ein digitales Vollabo 
+sind ein beeindruckender Wert – die 50% Annahmequote des Probeabos ließen sich ver-
+mutlich noch steigern. Die Kosten für zurückgegebene iPads würden sich in einem etwas 
+länger gestreckten Full Run mit mehr betroffenen Abonnements deutlich reduzieren, da zu-
+rückgegebene Geräte erneut verliehen werden können. Die härteste Nuss ist der Schu-
+lungsaufwand. Aber hier dürfte auch am meisten Optimierungspotenzial vorhanden sein. 
+Mit professionellen Trainern, die nach und nach Erfahrungswissen aufbauen, sollte noch 
+einige Bewegung und auch eine Senkung der Kosten pro Training möglich sein.  
+Noch unterschätztes Potenzial sehen wir in der Tatsache, dass die Lokalzeitung mit einem 
+solchen Projekt als lokaler Digitalisierungsmotor wirkt. Liegen darin, bei einem großflächi-
+gen Rollout, nicht noch viele Chancen? Welche anderen Unternehmen oder vielleicht sogar 
+staatlichen Einrichtungen, die an einer initialen Digitalisierung älterer Menschen interessiert 
+sind, könnten in die Schulungsmaßnahmen eingebunden werden und so zu deren Finan-
+zierung beitragen? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 5
+ 
+The Atlantic: >1Mio Abos und wieder in schwarzen Zahlen 
+P 
+B10 
+The Atlantic 
+ 
+The Atlantic ist dank einer radikalen Umsteuerung in Richtung Paid Content wieder wirtschaftlich tragfähig. 1Mio-
+Abo-Marke überschritten. Apple News fast so rentabel wie Verlags-Digitalabos. 
+Kann man eine über 160 Jahre alte Zeitschriftenmarke, die für intellektuelle Milieus über 
+Politik, Wirtschaft und Gesellschaft, besonders aber auch über Kunst und Kultur berichtet au-
+ßerhalb einer Mini-Nische digitalisieren? Gut drei Jahre, nachdem ausgerechnet der vorhe-
+rige Chefredakteur der Zeitschrift Wired – eine ikonische Marke für Fans der Digitalkultur – 
+den Posten des CEO übernommen hat, kann man die Antwort geben. Sie lautet 'Ja, man kann!' 
+Der Weg zu dieser Antwort war ungerade und führte über Sackgassen. Eine wesentliche Vo-
+raussetzung für den Erfolg ist, dass der damals hoch defizitäre Titel 2017 durch ein philantro-
+pisch ausgerichtetes Unternehmen der Steve Jobs-Erbin Laurene Powell Jobs übernommen 
+wurde. Der Geldgeber bewies viel Geduld und stellte das notwendige Kapital zur Verfügung, 
+um diesen Weg zu gehen. Der Auftrag an CEO Nicholas Thompson lautete: machen Sie den 
+Titel nachhaltig tragfähig! 
+Redaktionell setzt Thompson dafür auf inhaltliche Qualität. Für den Atlantic schrieben immer 
+schon und schreiben immer noch Mitglieder der ersten Garde der Top-Journalisten. Chefre-
+dakteur Jeffrey Goldberg mutet seinen mehrheitlich linksliberal verorteten Lesern ein brei-
+tes Themenspektrum zu. "Jeder, der zum Atlantic kommt, weiß, dass er mit vielem, was wir 
+veröffentlichen, nicht einverstanden sein wird. Ich selbst bin mit vielem, was wir publizieren, 
+nicht einverstanden". Kürzlich mutete The Atlantic seinen Lesern einen Essay des bei der New 
+York Times für die Veröffentlichung eines die militärische Unterdrückung der Black Lives Mat-
+ter-Bewegung befürwortenden Meinungsbeitrags gefeuerten Redakteurs zu. 
+Digital steuerte Goldberg um. Während theatlantic.com zu Hochzeiten der programmati-
+schen Werbung voll auf Traffic-Maximierung durch kurze, hochaktuelle Beiträge setzte und 
+mehrere 'Breaking News'-Redakteure beschäftigte, veröffentlicht die Website heute vor allem 
+nicht mehr aktualitätsgetriebene, ausführliche Hintergrundstücke. Werbeerlöse stammen 
+nun überwiegend aus direkt verkaufter Werbung und dem Eventgeschäft statt aus pro-
+grammatisch verkaufter Werbung. 
+Kaufmännisch startete CEO Thompson mit der Entlassung von 17% seiner Redakteure, die 
+durch ein jährliches 20Mio$-Defizit erzwungen war. Heute ist die Zeitschrift wieder profitabel 
+und baut ihre Redaktion aus. Die kaufmännische Erfolgsstrategie dafür war: weniger 
+ 
+ 
+ 
+ 
+Kann man eine 160 
+Jahre alte Magazin-
+marke digitalisieren? 
+ 
+ 
+Ja! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Atlantic gehört ge-
+meinnützigem Unter-
+nehmen. 
+ 
+Das fordert dennoch 
+Wirtschaftlichkeit 
+ 
+ 
+Erfolgshebel 1: Quali-
+tätsinhalte aus einem 
+breiten Meinungsspekt-
+rum 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Erfolgshebel 2: auch im 
+Web Hintergrundstü-
+cke, keine News; direkt 
+verkaufte Werbung 
+ 
+ 
+ 
+ 
+ 
+Erfolgshebel 3: Anteil 
+Werbeerlöse runter, 
+Anteil Aboerlöse hoch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 6
+Abhängigkeit von Werbeerlösen, mehr Einnahmen aus dem Abonnementgeschäft durch 
+höhere Preise und dennoch Wachstum bei den Digitalabos. 
+Eine Paywall gab es bei seinem Amtsantritt zwar schon. Aber die hatte für Gratisnutzer ein 
+großzügiges Meter und sie war belastet durch eine stark verzögerte Einführung (erst 2019, 
+nachdem sie schon für 2017 angekündigt war), einen niedrigen Preis und eine rund zehn Jahre 
+zuvor schon einmal gescheitete Strategie, die Webinhalte ausschließlich bezahlenden Nutzern 
+– damals Printabonnenten – zugänglich zu machen. Dazwischen hatte der Verlag auch noch 
+ein 'Mitgliedschaftsprogramm' installiert und wieder abgeräumt, das versuchte, Bezahler für 
+ein 120$ pro Jahr teures Package unterschiedlicher Extras zu gewinnen. Unter Thompsons 
+Regie wurde die Paywall deutlich verhärtet. Sie wird nun mit Hilfe einer berechneten Abon-
+nierwahrscheinlichkeit auch nutzerindividuell gesteuert. 
+Als Thompson vor drei Jahren antrat stammten weniger als die Hälfte der Erlöse von The 
+Atlantic aus dem Vertriebsmarkt. Heute stehen Abonnements für zwei Drittel des Umsat-
+zes. Der ist 2023 um 10% auf fast 100Mio$ gewachsen. 
+The Atlantic hat mittlerweile über 1 Million Abonnenten, die etwa zu gleichen Teilen digital 
+only und Print+Digital lesen. Hinzu kommen noch einmal über 100.000 Nutzer, die über die 
+Apple News-Flatrate für The Atlantic bezahlen. Laut Thompson verdient der Verlag an die-
+sen Nutzern fast so viel wie an den Digital-only-Verlagsabonnenten. 
+The Atlantic zählt rund 90Mio monatliche Visits. 500.000 Digital-only Abos bedeuten damit 
+rund 5 Digitalabos je 1.000 Visits. Das ist im Vergleich mit hiesigen Medien ein durchschnitt-
+licher Wert. Deutschsprachige Zeitungsmedien liegen im Schnitt ebenfalls bei 5 Digitalabos 
+je 1.000 monatlicher Visits. Die deutlich teureren, der Gattung nach näherverwandten 'Der 
+Spiegel' und 'Die Zeit' liegen bei 3 bzw. 4 Digitalabos je 1.000 Visits. 
+Das Mengenwachstum ist aber nur ein Faktor der Erfolgsgeschichte. Der andere Faktor ist 
+die Preisentwicklung. Begleitet von umfangreichen Tests hat sich der Preis des Atlantic-Abos 
+seit Thompsons Antritt vor drei Jahren ungefähr verdoppelt. Allein 2023 erhöhte The Atlan-
+tic den Preis des Digital only-Abos von jährlich 60$ auf 80$ und den Preis für Print+Digital von 
+70$ auf 90$. 
+ 
+Ende 2021 versuchte The Atlantic sich den Boom der 1-Autoren-Newsletter zunutze zu 
+machen. Es bot ausgewählten Newsletter-Autoren, die ein Selfpublishing-Business betrieben 
+und ihren eigenen Newsletter per Abo verkauften, ein garantiertes Grundeinkommen nebst 
+variabler Erfolgsbeteiligung, wenn sie unter das Abodach von The Atlantic schlüpfen.  
+Nach der Installation dieses sehr besonderen Programms war es um das Thema allerdings 
+sehr ruhig geworden. In einem aktuellen Interview mit dem Podcast MediaVoices spielte CEO 
+Nicholas Thompson das Projekt, das mittlerweile beendet scheint, herunter. Es sei vor allem 
+eine defensive Maßnahme gewesen, in einer Zeit, in der man befürchtet habe, allzu viele Au-
+toren an das Selfpublishing-Business à la Substack zu verlieren. "Letztlich war es etwas, in das 
+wir viel Gehirnschmalz, eine Menge Zeit und ein bisschen Geld gesteckt haben und am Ende 
+haben wir den Break Even erreicht. Und jetzt haben wir es minimiert." 
+ 
+ 
+ 
+ 
+Paywall mit langer 
+(Misserfolgs-)Ge-
+schichte) 
+ 
+ 
+ 
+ 
+ 
+zuletzt deutlich härter 
+und mit smarter Steue-
+rung 
+ 
+ 
+Erfolg: heute profita-
+bel, 2/3 der Umsätze 
+aus Abonnements 
+ 
+>1Mio Abos, davon 
+50% digital only 
+ 
+zzgl. 0,1Mio Apple 
+News Nutzer, die "fast 
+genauso" rentabel sind 
+ 
+ 
+ 
+=> 5 Digitalabos / 
+1.000 Visits 
+ 
+ 
+ 
+ 
+ 
+ 
+deutliche Preisschritte 
+in kurzer Zeit  
+ 
+ 
+Sonderthema Zusam-
+menarbeit mit freien 
+Abo-Newsletter-Publis-
+hern 
+ 
+ 
+mittlerweile beendet 
+bzw. "minimiert" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 7
+ 
+Tamedia fördert Kulturwandel mit Wegfall der kostenlo-
+sen Printabos für Mitarbeiter 
+37 
+Mitarbeiter-Abos 
+Tamedia 
+ 
+Tamedia streicht seinen Mitarbeitern die kostenlosen Printabos. Wer zukünftig den Tages-An-
+zeiger oder dessen Schwestertitel auf Papier lesen will, das muss auch als Mitarbeiter dafür 
+bezahlen, wenn auch 60% weniger als den Regelpreis. Rund 2.000 Printabos sollen davon 
+betroffen sein. 
+Motiv dieser Maßnahme sind weniger Einsparungen bei den Printkosten als vielmehr eine 
+Beförderung des Wandels zu digitalen Medien. Denn statt kostenloser Papierabos bekom-
+men die Mitarbeiter nun einen Smartphone-Gutschein in Höhe von 400 Franken (oder alter-
+nativ das Galaxy A34 Smartphone von Samsung). Alle drei Jahre sollen die Mitarbeiter dann 
+die Möglichkeit haben, auf ein dann aktuelles Smartphone-Modell zu wechseln. Die Zeitungs- 
+und Zeitschrifteninhalte stehen ihnen digital heute schon gratis zur Verfügung. 
+ 
+ 
+ 
+ 
+Für Printabos der eige-
+nen Titel müssen Ta-
+media-Mitarbeiter nun 
+bezahlen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gratis erhalten sie das 
+Digitalabo und einen 
+Smartphone-Gutschein 
+ 
+Preispolitik&Aboentwicklung bei der Badischen Zeitung 
+P 
+Paid Content-Preis-
+entwicklung 
+ 
+Detailbetrachtung zur kontinuierlichen Preisentwicklung beim Digitalabo und der parallelen Entwicklung des Abobe-
+standes der Plus-Abonnenten. 
+"Allgemein kann man sagen, dass wir im Basisbereich seit Jahren quasi jedes Jahr den Preis 
+erhöht haben. Wir liegen aktuell bei 15,50€ pro Monat und damit preislich ziemlich an der 
+Spitze in Deutschland. Unsere Zugangssituation ist auch nach Preiserhöhungen stets robust 
+gewesen." So haben wir in der letzten Ausgabe den Leiter Digitale Inhalte und stellvertreten-
+den Chefredakteur der Badischen Zeitung, Markus Hofmann, zitiert. 
+In einem Follow-Up Call hat uns Hofmann Einblick gegeben in die Details der Preis- und Be-
+standsentwicklung des Digital-Basisabos seiner Zeitung. Die folgende Grafik stellt die Zeit-
+punkte und die einzelnen Schritte bei der Preisentwicklung neben die Entwicklung des be-
+troffenen Abobestandes. 
+Laut Hofmann überwiegt in diesem Bestand seit langem der Anteil der Abonnenten, die 
+auch tatsächlichen den regulären Preis bezahlen. Je nach Marketingaktivität seien es nur je-
+weils 10-20% der Abonnenten, die von einem Promotionpreis profitierten. Zum Zeitpunkt 
+des Endes des dargestellten Verlaufs bezahlten nur 2.053 der gut 12.500 Digitalabonnenten 
+weniger als den vollen Preis von 15,50€. Nicht enthalten in diesen Zahlen sind Printabonnen-
+ten oder E-Paper-Abonnenten, die den Plusabo-Zugriff gratis erhalten. 
+ 
+ 
+ 
+ 
+Plusabo der Badischen 
+Zeitung kostet nach 
+zahlreichen Schritten 
+nun 15,50€ pro Monat 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Je nach Marketingakti-
+vität bezahlen 80-90% 
+der Abonnenten diesen 
+vollen Preis 
+ 
+ 
+pvd meint Das dürfte eine wirksame Maßnahme sein, möglichst viele möglichweise 
+noch printverliebte Mitarbeiter dazu zu bringen, sich regelmäßig mit digitalen Produkten 
+auseinanderzusetzen. Ein Samsung-, also ein Android-Gerät wäre dafür in Deutschland 
+oder Österreich ein noch besserer, weil durchschnittsbürgerrepräsentativerer Zugang als 
+das in Managerkreisen meist obligatorische Apple-Telefon. Aber ausgerechnet in der 
+Schweiz sind Apple-Smartphones in der Mehrheit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Le Monde in English 
+56 
+Le Monde in English 
+ 
+Im April 2022 hat der französische Paid Content-Leuchtturm den englischsprachigen Markt 
+in Angriff genommen (vgl. pvd #5/2022). Erklärtes Ziel waren unter anderem 30.000 bezahlte 
+'Le Monde in English'-Abos bis Ende 2023. Diese Ziel wurde laut Arnaud Aubron, Direktor 
+Geschäftsentwicklung, verfehlt. Das achtköpfige Team habe aber seine Übersetzungskosten 
+von 3Mio$ auf 2Mio$ jährlich reduziert und signifikante Fortschritte beim Versuch erzielt, 2027 
+erstmals profitabel zu sein. 
+ 
+ 
+Ziel 30.000 Abos bis 
+Ende 2023 verfehlt 
+ 
+ 
+Ziel Profitabilität bis 
+2027 im Blick 
+pvd meint Die Badische Zeitung war eine der ersten mit einer Paywall. Bei einem Mo-
+natspreis von 4€ hörte man damals bisweilen abfällige Bemerkungen nach dem Motto 'naja, 
+bei diesem Preis kann das ja nichts werden'. Mittlerweile kostet das gleiche Abo fast vier 
+mal so viel. Zum heutigen Preis des digitalen Basisabos der Badischen Zeitung hätte man 
+damals noch die eine oder andere Zeitung gedruckt abonnieren können. Dieses Echte-Welt-
+Beispiel widerlegt zahlreiche skeptische Mythen, angefangen von der vermeintlichen 10€-
+Preisschwelle über angebliche Preis-Absatz-Korrelationen bis hin zu der Befürchtung, man 
+könne sich mit einem niedrigen Preis die Zukunft verbauen. 
+Zwar hatte Markus Hofmann in der letzten Ausgabe auch angedeutet, dass in Freiburg wie 
+andernorts das Thema Churn eine zunehmend große Rolle spielt. Aber, das sagte er dazu, 
+das stehe nicht 1:1 mit der Preisentwicklung in Verbindung. Und selbst ein hoher Churn 
+lässt sich bei einem hohen Preis immer noch besser ertragen als bei einem hasenfüßigen 
+Schnäppchenpreis für tagesaktuelle digitale Qualitätsangebote. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 9
+ 
+Werbung 
+ 
+ 
+ 
+Wie gewinnt man Printleser als Digitalabonnenten? 
+ 
+Digital statt Print 
+ 
+Die wichtigste Frage zur Zukunft von Tageszeitungen ist die, wie und mit welchen digitalen 
+Formaten jene jüngeren Menschen als bezahlende und möglichst 'lebenslang' gebundene 
+Abonnenten (zurück-)gewonnen werden können, die derzeit weder eine gedruckte Zeitung 
+noch deren digitales Abbild nutzen. 
+Die dringendste Frage ist aber eine andere: wie gelingt es, die Abonnenten der gedruck-
+ten Zeitung für digitale Angebote zu gewinnen und damit aus dem teuren Druck und der 
+noch teureren physischen Zustellung auszusteigen, ohne dabei auf die Erlöse aus den Hoch-
+preis-Printabos zu verzichten? 
+Für dieses Special haben wir 11 Fallbeispiele zusammengestellt, über die pv digest in den 
+letzten Jahren – oft mehrfach – berichtet hat. Sieben der elf vorgestellten Fälle sind eindeu-
+tige Erfolgsbeispiele. Das heißt, dass entweder der Verzicht auf jegliches gedruckte Erschei-
+nen in dem Sinne gelungen ist, dass die Zeitung über ihre digitalen Kanäle wirtschaftlich er-
+folgreich publizieren kann. Oder aber es wurde der Druck nur an einzelnen Wochentagen ein-
+gestellt, während der Titel an anderen Tagen noch auf Papier erscheint – und unter den neuen 
+Verhältnissen werden nicht nur Kosten gespart, sondern auch ausreichend Erlöse generiert, 
+um dauerhaft weiter publizieren zu können. Drei Fallbeispiele sind nicht eindeutig zu bewer-
+ten. Nur ein Case handelt von einem eindeutigen Scheitern. 
+Von allen Fällen kann man lernen. Unter dem Strich vor allem, dass die forcierte Migration 
+durch einen Tag X, der das Ende der Papierausgabe bedeutet, möglich ist. Und dass eine 
+Vorgehensweise mit definierter Strategie, konsequenter Umsetzung und optimistischer 
+Durchhaltebereitschaft erfolgversprechend ist. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd Special: 
+ 
+• 11 Fallbeispiele 
+     7 Erfolgs-Cases 
+     3 unklare 
+    1 Misserfolg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 55 Seiten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 599€ für pvd Abon-
+nenten 
+• 849€ für Nicht-
+Abonnenten 
+ 
+pv-digest.de/specials 
+abo@pv-digest.de 
++49 / 40 / 308 901 09 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 10
+ 
+         
+P 
+      
+Marktentwicklung 
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im  
+April 2024, zu Anzahl und Er-
+scheinungsweise siehe "Daten 
+Cockpit Handel")  
+   
+ 
+Marktentwicklung 
+Preise
+ 
+neu eingeführte Zeitschriften 
+Print, Presse-Apps in  
+ausgewählten Stores 
+   
+ 
+Marktentwicklung 
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+Preise bei neuen  
+Zeitschriften) 
+  
+ 
+DATEN COCKPIT VERLAGE 
+QUELLEN:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 11
+ 
+ 
+ 
+ 
+ 
+Das Geld liegt auf der Straße! 
+P 
+7% vs. 19% MWSt. 
+ 
+Seit 2019 gilt in Deutschland auch für digitale Presse der ermäßigte Umsatzsteuersatz. Bei Google Play sind es häufig 
+noch immer 19%. Verlage verzichten auf bis zu 6stellige Erlöse. Dabei ist Abhilfe einfach. pv digest zeigt, wie das geht. 
+Im Rahmen der Recherchen für unseren Beitrag über die Espresso App des Economist in der 
+letzten Ausgabe hatten wir über den Google Play-Store ein Abonnement abgeschlossen. Wie 
+berichtet, wurden uns dafür 
+12,99€ berechnet. Die waren 
+inklusive 
+2,07€ 
+Mehrwert-
+steuer. 
+2,07€ 
+Steuer 
+bei 
+12,99€ brutto? Man muss kein 
+Kopfrechenmeister sein, um 
+auf den ersten Blick zu erken-
+nen, dass hier mehr als der 
+7%-Steuersatz berechnet wird, 
+der für Presseprodukte in 
+Deutschland gilt. Korrekt wäre 
+ein Steuerabzug von 85 Cent. 
+Der 
+Economist 
+verzichtet 
+hier also auf 1,22€ - und damit 
+auf mehr als 10% seiner Nettoerlöse. 
+'7% auch auf digitale Presse' – das gilt in Deutschland seit dem 17. Dezember 2019. An-
+scheinend interessieren den britischen Verlag aber die auf Deutschland entfallenden Paid 
+Content-Umsätze der Espresso App im Google Play-Store so wenig, dass er das bis heute nicht 
+zur Anwendung bringt – bzw. bringen lässt. 
+Beide Appstores – der von Apple und der von Google – hatten sich damals sehr viel Zeit 
+gelassen mit der Umsetzung des deutschen Steuerrechts. Darüber haben wir im Juni 2021 
+berichtet. Übergangsweise mussten die wenigen Verlage, die sich überhaupt um das Thema 
+kümmerten, über einen handgestrickten Prozess auf Basis einer Excel-Tabelle bei Apple um 
+die Rückerstattung der zu viel bezahlten Steuern bitten. Google ignorierte das Thema für lange 
+Zeit schlicht. Unsere Überschrift sagte schon alles: "Google klaut Verlagen über 10% ihrer 
+In-App-Umsätze. Apple auch, zahlt aber zurück. Wenn man danach fragt!". Heute können 
+Anbieter von Presseapps in eigener Regie den korrekten Steuersatz vorgeben. 
+Nur: das passiert häufig nicht. Wir haben im Anschluss an unsere 'Entdeckung' mehrere der 
+bei Google Play umsatzstärksten deutschen Presseapps verprobt. Wir sind dabei häufig 
+auf 19% Mehrwertsteuer gestoßen – auch bei beispielhaft verprobten Topp-Apps mit sie-
+benstelligen jährlichen Play Store-Umsätzen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zufallsentdeckung: 
+Economist-App führt in 
+Deutschland 12%P. zu 
+viel Steuern ab 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Google&Apple hatten 
+das deutsche Steuer-
+recht lange ignoriert 
+ 
+heute nicht mehr 
+ 
+ 
+ 
+ 
+ 
+ 
+systematische Verpro-
+bung: auch (große) 
+deutsche Presseapps 
+zahlen zu viel Steuern 
+ 
+ 
+ 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 12
+ 
+In Einzelfällen haben Verlage hier auf Nettoerlöse von mehreren hunderttausend Euro ver-
+zichtet. Wir haben mit mehreren Paid Content-Verantwortlichen von Top-Marken gesprochen 
+– alles sehr kompetente und unter dem Strich der Digitalerlösabrechnung ausgesprochen er-
+folgreiche Manager. Aber hier hatten sie einen blinden Fleck. Ihnen war das Thema schlicht 
+nicht bekannt und niemand in ihren Teams hatte sich bisher darum gekümmert. 
+ 
+SERVICE: Wie man seine Presse-App bei Google um mehr als 10% erlösträchtiger macht 
+Wir haben uns von der Firma ContentConverter, die die 
+Technik und den Service für die pv digest-App zur Verfü-
+gung stellt, den Prozess für die Einstellung des ermäßig-
+ten Steuersatzes bei Google erläutern lassen. So kompliziert ist er nicht – nur etwas um-
+ständlich, weil man den Steuersatz für jede Ausgabe einzeln anpassen muss (oder aber nach-
+träglich mit Hilfe von csv-Datenex- und -reimporten tricksen – aber das ist für diese Stelle zu 
+detailliert). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ursache: fehlende 
+'Kümmerer' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+how to… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Google 'Play Console' 
+aufrufen und  
+mit 6 Klicks >10% 
+Mehrerlöse sichern 
+ 
+pvd meint Die erste Reaktion war nicht selten: 'Google Play spielt bei uns nur eine un-
+tergeordnete Rolle'. Das ist zwar zutreffend. Aber wenn diese Einstellung zum Verzicht auf 
+Mehrerlöse führt, die ausreichend wären, einen eigenen Vollzeit-Google Play-Verantwortli-
+chen zu bezahlen, dann stimmt trotzdem etwas nicht. Hier liegt (mittlerweile vielleicht auch 
+schon lag – wir haben in den Häusern, mit denen wir gesprochen haben und die wir hier 
+nicht namentlich bloßstellen wollen – einige Bewegung erzeugt) das Geld tatsächlich auf der 
+Straße. Es muss sich nur jemand danach bücken und den richtigen Haken in Googles Play 
+Console setzen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 13
+ 
+Presseflatrate Magzter übernommen 
+3 
+Magzter 
+ 
+Daten zum vor allem in Indien erfolgreichen Readly-Pendant 
+Die Wirtschaftstageszeitung Economic Times berichtet, 
+dass der E-Paper-Flatrate-Anbieter Magzter vom in-
+dischen Medienunternehmen VerSe übernommen 
+worden ist. 
+Magzter hat ein Readly-ähnliches Geschäftsmodell. Es vertreibt seine Abos weltweit, aber 
+Magzters Kernmarkt ist Indien. Über 8.000 verschiedene Titel in über 60 verschiedenen 
+Sprachen gehören zum Sortiment. Auf Deutsch sind nur wenige SI-Titel dabei, aber mit dem 
+Economist, Vogue oder dem New Yorker sind einige englischsprachige Top-Titel im Sortiment 
+vertreten. 
+In Indien wird ein 3-Jahresabos für 3.999 Rupien angeboten, umgerechnet rund 45€. In 
+Deutschland bietet Magzter das Jahresabo zurzeit für 45€ an, ein monatliches Flexabo für 10€. 
+Ein 3-Jahresabo für 99€ wird ebenfalls angeboten. Das dürfte allerdings mit dem deutschen 
+Verbraucherrecht nicht vereinbar sein, das maximal eine Aboverpflichtung von zwei Jahren 
+zulässt. Indische Abonnenten haben für den genannten Preis von 3.999 Rupien nur im ersten 
+Jahr unbegrenzten Zugriff auf das komplette Portfolio. Ab dem zweiten Abojahr greift ein Limit 
+von maximal 5 Zeitschriften oder Zeitungen pro Monat.  
+Allein in Indien habe Magzter 1,1Mio bezahlende Abonnenten, berichtet die ebenfalls in 
+Indien beheimatete Economic Times. Weltweit seien es 87Mio [pvd: mit Sicherheit überwie-
+gend nicht bezahlende und wohl auch nicht regelmäßige] Nutzer.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Weltweit präsent, Kern-
+markt Indien 
+ 
+ 
+ 
+ 
+ 
+ 
+Angebotsform 3-Jah-
+res-Abo 
+ 
+ 
+ 
+in Indien ab Jahr 2 mit 
+Nutzungslimitierung 
+ 
+ 
+1,1Mio bezahlende 
+Abos allein in Indien 
+ 
+ 
+pvd meint Wir beobachten Magzter fast seit seiner Gründung. Zuletzt berichtet haben 
+wir allerdings im Jahr 2016 darüber. Das Unternehmen fällt immer schon durch lautspre-
+cherische Selbstvermarktung auf und gelegentlich auch mit erratischen Strategieum-
+schwüngen (inkl. einer zwischenzeitlich verkündeten, mittlerweile anscheinend aufgegebe-
+nen Reichweitenstrategie mit Fokus auf Werbeerlösen). Schwer zu sagen, wie erfolgreich 
+Magzter tatsächlich ist. Dazu ist der weltweite Markt viel zu unübersichtlich und die Infor-
+mationslage zu dünn. Aber ein Unternehmen, das schon 2011 gegründet wurde und seit-
+dem nicht nur fortbesteht, sondern auch ungekündigte Geschäftsbeziehungen zu renom-
+mierten Verlagen unterhält, kann nicht ganz falsch aufgestellt sein. Aus dem Blick verlieren 
+sollte man Magzter nicht. 
+Ein Indikator für Magzters Geschäftsvolumen könnten die In-App-Erlöse sein. Die werden 
+von Sensortower auf monatlich nur rund 80.000$ geschätzt. Für Readlys Vielleicht-dem-
+nächst-Muttergesellschaft Cafeyn liegt dieser Wert dreimal so hoch. Für Readly selbst 
+schätzt Sensortower derzeit über 600.000$ monatliche Erlöse. Aber schon die Relation zwi-
+schen den beiden letztgenannten macht deutlich, dass diese Werte nicht überinterpretiert 
+werden sollten. Gut möglich, dass Magzter mit seiner Fokussierung auf den indischen Markt 
+erfolgreich ist. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 14
+ 
+  
+ 
+    P2 
+  
+Index
+Marktentwicklung 
+Einzelhandel
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland,  
+Datenstand KW 12/24) 
+ 
+ 
+  
+ 
+Marktentwicklung 
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neuankündi-
+gungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+  
+ 
+Marktentwicklung
+digitaler Vertrieb
+ 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATEN COCKPIT HANDEL UND ABSATZ 
+QUELLEN:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 15
+ 
+ 
+ 
+ 
+ 
+Der Samstag ist DER Zeitungstag 
+P 
+TZ-Verkaufstage 
+ 
+Samstags verkaufen Zeitungen deutlich mehr Exemplare als montags bis freitags. Dieser Vorsprung wächst im Zeit-
+verlauf. Samstagsauflagen sind deutlich resilienter als Werktagsauflagen – sowohl im EV wie auch im Abo. 
+Die Kollegen des englischen Fachdienstes Pressgazette haben die Auflagen der Werktagsaus-
+gaben nationaler britischer Tageszeitungen mit denen des Erscheinungstags Samstag vergli-
+chen und sehen dabei eine 
+"wachsende Kluft". Damit 
+meinen sie, dass an Sams-
+tagen von einem Titel in 
+aller Regel nicht nur deut-
+lich mehr Exemplare ver-
+kauft werden als an den 
+Wochentagen Montag bis 
+Freitag. Sondern dass der 
+Abstand zwischen diesen 
+beiden Kennzahlen im Zeit-
+verlauf auch noch wächst. 
+Pressgazette betrachtete zu diesem Thema die an die ABC (das britische IVW-Pendant) ge-
+meldeten Auflagendaten und vergleicht die neuesten Werte mit denen von vor zehn Jahren. 
+Vier große Titel melden al-
+lerdings seit April 2020 
+keine Auflagenzahlen mehr 
+an die ABC. Für diese Titel 
+betrachtet Pressgazette die 
+jeweils letzten gemeldeten 
+Werte und vergleicht diese 
+ebenfalls mit den Werten 
+des Jahres 2014.  
+Beide Vergleiche zeigen: samstags verkaufen sich die britischen Zeitungen deutlich besser 
+als montags bis freitags. Im Schnitt sind es aktuell über 50% mehr Exemplare, die an Sams-
+tagen verkauft werden. 2014 war der Samstagsvorsprung bei allen Titeln kleiner. 
+Im Vergleich mit 2014 wird auch deutlich, dass die Samstagsauflage stabiler ist, nämlich 
+weniger stark rückläufig. Ein Titel – The Times – hat im letztmöglichen Vergleichsjahr – in die-
+sem Fall ist das aus dem oben genannten Grund das Jahr 2020 – samstags sogar mehr ver-
+kauft als 2014.  
+ 
+ 
+ 
+ 
+Zeitungen UK 
+ 
+ 
+ 
+ 
+• Samstagsverkäufe 
+rund 50%>als Mo-Fr 
+ 
+• Samstagsverkäufe 
+stabiler als Werk-
+tagsverkäufe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+ANALYSEN UND DATEN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 16
+Mehrere britische Titel erscheinen an sieben Tagen in der Woche. Auch in diesen Fällen ist 
+der Samstag der verkaufs-
+stärkste Tag. Auch der Ver-
+kauf an Sonntagen kann 
+nicht mit den Samstags-Spit-
+zenwerten mithalten und im 
+Zehnjahresvergleich ist die 
+Sonntagsauflage weniger 
+stabil als die Samstagsauf-
+lage. 
+ 
+Der Samstag vs. ROW (Rest of week) in Deutschland 
+Die Analyse von Pressgazette hat uns inspiriert, eine ähnliche Betrachtung für den deutschen 
+Markt anzustellen. Dazu haben wir eine Auswahl von 15 Zeitungstiteln analysiert, die teils 
+deutschlandweit verkauft werden, meistens aber große Regionaltitel sind. Einer flächende-
+ckend repräsentativen Stichprobe stehen einige Umstände entgegen: 
+> Anzeigenkombinationen verhindern teilweise die für unseren Zweck notwendige Detaillie-
+rung. Darum konnten wir zum Beispiel den nationalen Titel 'Die Welt' nicht berücksichti-
+gen. 
+> Im Osten Deutschlands haben wir keinen Titel gefunden, der seine Samstagsauflage ge-
+genüber der IVW detailliert ausweist. 
+> Die Bild Zeitung weist deutschlandweit ebenfalls keine detaillierte Samstagsauflage aus. Wir 
+haben stattdessen zwei regionale Bild-Teilauflagen betrachtet, für die auch Samstagsda-
+ten an die IVW gemeldet werden. 
+Im Unterschied zum britischen Markt können wir dafür noch eine spannende Unterschei-
+dung treffen, nämlich die Verkäufe im Einzelhandel und im Abonnement. In Großbritannien 
+ist der Einzelhandel auch für nationale Tageszeitungen in der Regel der wichtigste Vertriebs-
+kanal. Die oben genannten Vergleichswerte für Großbritannien fußen aber auf undifferenzier-
+ten Summen der Verkäufe im Einzelhandel und via Abonnement.  
+Mit Ausnahme der Bild-Zeitung verkaufen alle von uns für Deutschland betrachteten Titel 
+die allermeisten Exemplare im Abonnement. Und alle Titel verkaufen sich im Abo samstags 
+ein bisschen besser als montags bis freitags. Das dürfte überwiegend an nicht allzu aktiv pro-
+moteten 'Zahnlückenabos' liegen, also Abos für nur einzelne Wochentage bzw. eben speziell 
+für den Samstag. Nur die Süddeutsche Zeitung, die ein 'Wochenendabo' für die beiden Aus-
+gaben von Freitag und Samstag sehr aktiv vermarktet und die Taz, die ihre Samstagsausgabe 
+als 'Wochentaz' verkauft, verkaufen samstags wirklich deutlich mehr Abos als an den üb-
+rigen Werktagen (+28% bzw. + 52%). 
+Das prozentuale Plus an Samstagen ist im Einzelhandel um das zigfache größer. Im 
+Schnitt 164% mehr Ausgaben gehen samstags im Einzelhandel über die Theke im Vergleich zu 
+den vorherigen Wochentagen. Bei der Taz sogar 334%. Nur bei Bild ist dieser Effekt viel gerin-
+ger. Bild verkauft samstags nur wenig mehr Exemplare als montags bis freitags. 
+ 
+ 
+• Samstagsverkäufe 
+auch größer und 
+stabiler als Sonn-
+tagsverkäufe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zeitungen  
+Deutschland 
+ 
+ 
+ 
+ 
+ 
+ 
+Daten zu Samstagsver-
+käufen nicht flächen-
+deckend repräsentativ 
+verfügbar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dafür Differenzierung 
+Abo vs. EV möglich 
+ 
+ 
+ 
+ 
+ 
+ 
+selten: große Abo/EV-
+Abweichungen bei 
+Samstagsauflage 
+ 
+SZ: +28% 
+Taz: +52% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 17
+Wie auch in Großbritannien haben sich die deutschen Samstagsverkäufe über die Zeit 
+stabiler entwickelt als die Verkäufe den übrigen Wochentagen. Allerdings sind die Unter-
+schiede nicht so groß wie in Großbritannien. Der Rückgang der Aboauflagen in den letzten 
+zehn Jahren betrug samstags gerade einmal 2%-Punkte weniger als montags bis freitags. Und 
+die (überwiegend 
+geringen) 
+Ver-
+kaufsmengen im 
+Einzelhandel sind 
+an Samstagen um 
+6%-Punkte stabi-
+ler geblieben als 
+an den übrigen 
+Werktagen. 
+Wie 
+erwartbar waren 
+die 
+Aboverkäufe 
+insgesamt 
+deut-
+lich stabiler als die 
+Verkäufe im Ein-
+zelhandel.  
+Der Samstag vs. ROW (Rest of week) in Österreich 
+ 
+ 
+ 
+ 
+ 
+ 
+• Samstagsverkäufe 
+EV über 150%>als 
+Mo-Fr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Samstagsverkäufe 
+stabiler als Werk-
+tagsverkäufe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zeitungen Österreich 
+ 
+ 
+ 
+ 
+• Samstagsverkäufe 
+EV rund 150%>als 
+Mo-Fr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 18
+ 
+ 
+Auch österreichische Tagestitel verkaufen sich samstags besser als an den vorherigen Werk-
+tagen. Das Verkaufsplus an Samstagen liegt in einer sehr ähnlichen Größenordnung wie in 
+Deutschland. Andere Mel-
+deregeln für die E-Paper-
+Auflage führen allerdings 
+dazu, dass die Abover-
+käufe im Zehnjahresver-
+gleich für etliche Titel et-
+was 
+schmeichelhafter 
+geraten als in Deutsch-
+land. 
+ 
+Der Samstag vs. ROW (Rest of week) in Der Schweiz 
+Die WEMF kennt, anders als IVW oder ÖAK, keine differenzierte Ausweisung der verkauften 
+Auflagen nach Wochentagen. Für die Schweiz können wir eine analoge Analyse darum leider 
+nicht durchführen. 
+ 
+ 
+pvd meint Anfang April hat der Hamburger Traditionstitel Morgenpost den großen 
+Schritt von einer täglichen Zeitung zu einer Wochenzeitung mit Erscheinungstag Samstag 
+vollzogen. Die Taz wappnet sich seit Jahren mit der samstäglichen 'Wochentaz' für diesen 
+Schritt. Beide Titel hatten hier entweder ein gutes Gespür oder vergleichbare Analysen 
+schon vorliegend. Der Samstag ist von allen Wochentagen mit deutlichem Abstand der ver-
+kaufsstärkste Erscheinungstag.  
+Viele andere Tagestitel publizieren samstags ein Produkt, das sich zwar von den übrigen 
+Tagen mehr oder weniger abhebt, das aber vor allem eine sechste Ausgabe der jeweiligen 
+Woche ist und den Ausgaben der anderen Tage sehr verwandt. Die deutlich höhere Nach-
+frage an Samstagen ist damit ein Beweis dafür, dass das Konzept Tageszeitung ein bisschen 
+weniger aus der Mode gekommen ist, als es die durchschnittlichen Werktagsauflagen er-
+scheinen lassen.  
+Das führt zu der Frage, warum das Produktkonzept an Werktagen weniger Käufer findet. 
+Unsere These ist nach wie vor, dass abgeschlossene, Zu-Ende-lesbare, einen Anfang und ein 
+Ende aufweisende Ausgabenprodukte durchaus einen Markt haben. Nicht alle an Nachrich-
+ten und an anderen journalistisch aufbereiteten Themen interessierten Leser wollen vor 
+allem einen endlosen Zufluss an permanent aktualisierten Inhalten. Aber was wollen sie, 
+wenn sie werktags keine Zeitung (nicht gedruckt und nicht als E-Paper) wollen? 
+Produktentwicklung ist und bleibt das am wenigsten erschlossene Gebiet der Digitalisierung 
+journalistischer Produkte. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 19
+ 
+Runde Interaktionselemente effektiver als eckige?! 
+P 
+Gestaltung von Inter-
+aktionselementen 
+ 
+Die nachahmenswerte Testidee des Monats 
+Seit 50 Jahren veröffentlicht das Journal of Consumer Research wissen-
+schaftlich geprüfte ('peer reviewed') Forschungsergebnisse aus dem Be-
+reich des Marketings und der Konsumentenpsychologie. Man darf davon 
+ausgehen, dass nur wenige A/B-Tests einem so hohen methodischen 
+Standard genügen wie solche, die in dieser zweimonatlich erscheinenden 
+Zeitschrift veröffentlicht werden. 
+In der Dezember-Ausgabe des letzten Jahres berichten die drei Autoren Dipayan Biswas, An-
+nika Abell, Roger Chacko, die ersten beiden sind Professoren an US-Universitäten, über eine 
+Serie von nicht weniger als acht Experimenten und Tests zur Frage, ob rund gestaltete 
+Elemente oder eckig gestaltete Interaktions-Elemente auf Webseiten effektiver sind. 
+Zwei der Experimente waren 'Feldexperimente', echte A/B-Tests mit realen Marketingfra-
+gestellungen von Unternehmen, bei denen tatsächliche Klickraten im Rahmen regulär ge-
+buchter Werbeplatzierungen gemessen wurden. Die übrigen sechs Experimente fanden un-
+ter kontrollierten Laborbedingungen an Versuchspersonen statt. Es handelte sich dabei 
+um Befragungen, Experimente und eine Messung zur Blickdauer. 
+Die acht durchgeführten Experimente und Tests werden im wissenschaftlichen Aufsatz 
+en detail beschrieben [pv-digest.de/linkliste Link1]. In unseren Worten fassen wir sie über-
+blicksartig so zusammen:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wissenschaftler publi-
+zieren Ergebnisse einer 
+Testserie zur Frage 
+'rund oder eckig?' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+zwei echte A/B-Tests, 
+sechs Laborexperi-
+mente 
+ 
+ 
+ 
+ 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+ 
+ 
+ 
+1) A/B-Test Klickrate 
+2) A/B-Test Klickrate 
+3) Experiment Klickrate 
+4) Experiment Waren-
+korb 
+5) Befragung 
+6) Attraktivitätsbewer-
+tung 
+6f) dito, aber negativ 
+formuliert 
+7) Experiment Klickrate 
+7b) dito, aber negativ 
+formuliert 
+8) Messung Blickdauer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 20
+Damit weisen alle acht Experimente in die gleiche Richtung, und das teils sehr deutlich: 
+runde Gestaltungselemente waren durch die Bank effektiver, wenn es darum ging, einen po-
+sitiven Anreiz für eine Handlung zu setzen. Zwei Experimente variierten die Handlungsauffor-
+derung inhaltlich und unterschieden zwischen einer positiv formulierten Aufforderung ("ent-
+scheiden Sie sich für…", "geben Sie ein Opt-in") und einer spiegelgleichen Negativaufforderung 
+("vermeiden Sie…", "erteilen Sie ein Opt-out"). Nur bei diesen beiden negativ formulierten Va-
+rianten war das rund gestaltete Element nicht überlegen bzw. sogar unterlegen. 
+ 
+ 
+ 
+ 
+=> alle positiv formu-
+lierten Handlungsauf-
+forderungen im run-
+den Element stärker 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LESEEMPFEHLUNG 
+ 
+  Kennzahlen zur Marktausschöpfung einiger US-Zeitungen 
+P 
+TZ-Marktausschöp-
+fung 
+ 
+Eine Abomengen-Tabelle von Pressgazette ermöglicht Benchmarking zur Marktausschöpfung bei US-Lokalzeitungen. 
+Wir stellen den ermittelten Werten vergleichbaren Kennzahlen aus dem deutschsprachigen Raum zur Seite. 
+Die Kollegen des englischen Fachmediums Pressgazette haben zum zweiten Mal eine Tabelle 
+mit Aboeckwerten US-amerikanischer Lokalzeitungen veröffentlicht. Die Auswahl der tabel-
+lierten Titel folgt dabei dem Verfügbarkeitsprinzip, die gezeigten Daten stammen sowohl aus 
+bei der AAM (der US-IVW) gemeldeten Daten wie aus Pressgazette-eigenen Recherchen. 
+Weil Pressgazette zu den Titeln jeweils neben den Digitalabomengen auch die Printauflage 
+darstellt, ist das eine schöne Datengrundlage für einen Ausschöpfungsbenchmark. Dazu ha-
+ben wir die Pressgazette-Daten um die Webreichweite in monatlichen Visits angerei-
+chert. 
+ 
+ 
+ 
+ 
+Pressgazette veröffent-
+lich Lesermarkt-Eck-
+werte einiger US-Tages-
+titel 
+ 
+ 
+Anreicherung um mtl. 
+Visits ermöglicht Aus-
+schöpfungsbenchmark 
+ 
+ 
+pvd meint In einer Linkedin-Community rund um den Testexperten und Ex-Microsoft-
+Manager Ronny Kohavi werden die Experimente mit teils durchaus nachvollziehbaren Ar-
+gumenten kritisiert. Insbesondere aus Gründen der statistischen Aussagekraft seien die Ex-
+perimente nicht belastbar. Auch dieser Diskussion kann man mit Gewinn folgen 
+[pv-digest.de/linkliste Link2]. 
+Wir meinen aber: Die Wahrscheinlichkeit dafür, dass acht Experimente nur zufällig, also 
+ohne durch den behaupteten Effekt 'rund ist wirksamer als eckig' beeinflusst zu sein, alle 
+zum gleichen Ergebnis kommen ist sehr klein. Kleiner als 1%. Auf diesem 'Signifikanzniveau' 
+sollte man die berichteten Ergebnisse mindestens ernst nehmen und zum Anlass für eigene 
+Tests. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 21
+Wir haben die Daten aus den Tabellen von Pressgazette und die ermittelbaren Benchmark-
+kennzahlen in einer Grafik komprimiert. Unsere Grafik zeigt: 
+> die absoluten aktuellen Digitalabobestände und Printauflagen  
+> die Entwicklung beider Mengen von September 2022 bis Februar 2024 als Index von 100 
+> die Paid Content-Ausschöpfungskennzahl Digitalabos pro 1.000 monatliche Visits 
+Bemerkenswert: 
+> Während die Printauflagen im betrachteten 18-Monatszeitraum ausnahmslos zwischen 
+14% und fast 40% zurückgegangen sind, haben sich die Digitalabomengen ganz unter-
+schiedlich entwickelt. Gemessen am Digitalabowachstum ragt der Philadelphia Inquirer 
+mit +30% heraus. Die Arkansas Democrat Gazette, die aber keine reinen Plus-Abos, sondern 
+vor allem E-Paper-Abos (zusammen mit einem Gratis iPad, vgl. unseren Beitrag hierzu in pvd 
+#1/2024) zählt, hat im gleichen Zeitraum über 10% Digitalabonnenten verloren. 
+> Fast alle diese Zeitungen haben mittlerweile mehr Digitalabos als Printabos (Die Arkan-
+sas Democrat Gazette hat gar keine Printabos mehr). Sowohl die LA Times als auch der Bos-
+ton Globe haben rund 5x mehr Digitalabos als Printabos. Nur bei Newsday und der Tampa 
+Bay Times übertrifft die Printauflage noch die Menge der Digitalabos. 
+> Das führt dazu, dass die betrachteten Titel im ungewichteten Durchschnitt doppelt so viele 
+Digitalabos haben wie Printabos. Selbst wenn man die beiden Spitzenreiter aus Boston und 
+Los Angeles ausschließt, dann liegt das durchschnittliche Verhältnis der Digitalabos zur 
+Printauflage bei 120%. Das ist eine der Marktausschöpfungskennzahlen, die wir für die Ok-
+tober-Ausgabe für deutsche und österreichische Titel ermittelt hatten, die bei dieser 
+Kennzahl fast um den Faktor 6 niedriger rangieren (durchschnittlich 23%). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmark-Grafik: 
+ 
+• Printauflage und Di-
+gitalabos in 1.000 
+ 
+ 
+• Wachstums-Index 
+beider Mengen (Sept 
+2022 = 100 vs. Feb. 
+2024) 
+ 
+ 
+• Digitalabos pro 
+1.000 mtl. Visits 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n.b.: 
+ 
+ 
+• Print verliert zwi-
+schen 14% und 40% 
+ 
+• Digitalabos zwi-
+schen Rückgang um 
+10% und Steigerung 
+um 30% 
+ 
+ 
+• Die meisten der US-
+TZ haben mehr Digi-
+talabos als 
+Printabos 
+ 
+ 
+• im ø N Digitalabos = 
+N Printabos x 1,2 
+ 
+ 
+• im ø D und A N Digi-
+talabos = N Printa-
+bos x 0,23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 22
+> Pro 1.000 monatliche Visits zählen die US-Zeitungen zwischen 3 und 30 Digitalabos. Der 
+Mittelwert liegt bei 12. Das wäre im deutschsprachigen Markt immer noch ein Spitzenwert 
+(vgl. pvd #10/2023). Der Mittelwert der deutschen und österreichischen Titel mit IVW/ÖAK-
+Meldung lag bei unserer letzten Betrachtung bei nur 3,6. 
+ 
+ 
+ 
+ 
+• US-TZ mit ø 12 Digi-
+talabos pro 1.000 
+mtl. Visits 
+• Ø in D und A = 3,6 
+ 
+ 
+Fachmedien melden Rekordumsätze – Datenbasis unklar 
+P 
+Fachmedien Dtld. 
+ 
+Die deutschen Fachmedien haben gemäß der jährlichen Statistik ihres Verbandes im vergan-
+genen Jahr ein Viertel ihrer Umsätze von insgesamt 8,6Mrd€ mit dem Verkauf von digitalen 
+Inhalten an ihre Nutzer erzielt. Während der Gesamtumsatz damit um 3% gestiegen ist, ist der 
+Paid Content-Anteil daran um gut 5% gestiegen (+118Mio auf 2,17Mrd€). 
+Rückläufig sind die Einnahmen aus dem Verlagsgeschäft mit gedruckten Fachmedien. Die 
+gingen um 2% auf 3,47Mrd€ zurück. Überproportional sanken dabei die Anzeigenerlöse  
+(-4,5%), während die Einnahmen aus dem Printvertrieb fast stabil blieben (-0,6%). Dabei hat 
+der Verband der deutschen Fachpresse, der diese Zahlen veröffentlicht, für 2023 sogar mehr 
+gedruckte Fachzeitschriften gezählt als für 2022 (5.613 ggü. 5.576). Die Gesamtauflage die-
+ser Titel beträgt laut Verband 544Mio Exemplare. 
+Seit 2021 schätzt der Verband die Digitalerlöse seiner Branche höher ein als die Printerlöse. 
+Noch deutlich stärker als das Geschäft mit gedruckten oder digitalen Medien gewachsen ist 
+das Geschäft mit Veranstaltungen und Messen, nämlich um 21,4%. Es steht mittlerweile 
+für knapp 10% aller Umsätze der B2B-Medienbranche in Deutschland. 
+ 
+ 
+Verbandsstatistik 
+2023: 
+• Umsatz 8,6Mrd€ 
+ 
+• davon Paid Content: 
+2,17Mrd€ 
+ 
+ 
+• davon gedruckte 
+Fachzeitschriften: 
+3,47Mrd€ 
+• davon Vertrieb: 
+1,48Mrd€ 
+ 
+ 
+ 
+ 
+ 
+• davon Veranstaltun-
+gen&Messen: 
+850Mio€ 
+pvd meint Diese Zahlen, sowohl das Gesamtniveau als auch der erreichte Digitalisie-
+rungsgrad und der Anteil der Paid Content-Erlöse, sind sehr beeindruckend. Getrübt wird 
+dieser Eindruck durch die etwas opake Datenlage. Die Fachmedienstatistik hatte der Ver-
+band für das Jahr 2017 auf ganz neue Füße gestellt. Das führte damals von einem Jahr auf 
+das andere zu mehr als einer Verdoppelung der Gesamtumsätze. Wie sehr das eine Verbes-
+serung war oder vor allem eine Verschönerung, ist unklar.  
+Fragen zur Anzahl der Unternehmen, die ihre Daten für die Statistik zur Verfügung stellen, 
+beantwortet der Verband nicht. Ebenso wenig deren Anteil am geschätzten Gesamtumsatz. 
+Das Beratungsunternehmen PwC schätzt in seinem jährlichen Global Entertainment & Me-
+dia Outlook die Vertriebsumsätze der Fachzeitschriften in Deutschland auf nur rund 
+1,2Mrd€, von denen weniger als die Hälfte digital erlöst werden sollen. 1,2Mrd€ ist nur Drit-
+tel der in der Fachmedienstatistik ausgewiesenen Vertriebsumsätze. Auch wenn man die 
+vom Verband geschätzten 10% Auslandsumsatz noch hinzuaddiert, so klaffen diese beiden 
+Schätzungen doch ziemlich auseinander. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 23
+ 
+ 
+ 
+ 
+ 
+"Es gibt keinen Deckel für das Abowachstum" 
+94 
+Wachstumsdeckel? 
+ 
+INMA hat 50-Seiten gegen Skepsis beim Thema Wachstumspotenziale veröffentlicht. Nach Widerlegung diverser "My-
+then" präsentiert der Report wertvolle Benchmarkdaten und gute Tipps, um Wachstum wieder anzukurbeln. 
+Im Schlusskommentar der letzten Ausgabe haben wir uns kritisch mit einem behaupteten Me-
+chanismus beschäftigt, der anscheinend das Wachstum für Abomodelle fast naturgesetzlich 
+begrenzt. Zwar haben wir keine Zweifel daran, dass jedes Wachstum irgendwann an eine 
+Grenze stoßen wird. Wir bezweifeln aber, dass diese Grenze für Abonnementangebote ein-
+fach errechnet werden kann. Und wir bezweifeln noch mehr, dass diese Grenze für Paid Con-
+tent-Angebote bereits eine Rolle spielt. 
+Eine nur angebliche Wachstumsgrenze ist auch das große Thema des INMA-Digitalaboexper-
+ten Grzegorz Piechota. Der hatte schon seine Keynote auf dem Media Subscriptions Summit 
+im Februar in New York unter das Motto gestellt "Es gibt keinen Deckel für das Abowachstum". 
+Und er hat anschließend einen 50-Seiten-Report veröffentlicht, in dem er seine Behauptung 
+ausführlich und aus verschiedenen Blickwinkeln unterfüttert. Der Report ist lesenswert und 
+steht INMA-Mitgliedern gratis zur Verfügung [pv-digest.de/linkliste Link3]. 
+Was uns darin sehr gut gefallen hat, das sind vor allem die zwei Abschnitte 'Mythen versus 
+Fakten' und 'Das Wachstumsgeheimnis knacken'. 
+Mythen versus Fakten 
+Piechota identifiziert sechs Mythen, denen er widersprechende Fakten gegenüberstellt. 
+> @zurückgehende Nachrichtennutzung. Gebe es keine. Zwar sei die Nachrichtennutzung 
+seit 2020 rückläufig. Aber sie sei nur auf das Niveau zurückgegangen, das vor der Corona-
+Epidemie normal war. Die Webreichweiten einer Benchmarkstichprobe von 234 der INMA 
+angeschlossenen Nachrichtenmedien lägen heute wieder auf dem Niveau von 2019. Die An-
+zahl der durchschnittlichen monatlichen Nutzungsvorgänge ("Sessions") liege heute sogar 
+höher als damals. 
+[pvd meint: 2019 liegt schon fünf Jahre zurück. In einem Wachstumsumfeld wie der Online-
+Nutzung ist ein Wiedererreichen des damaligen Niveaus ein nur bedingt überzeugendes 
+Argument gegen rückläufige Nachrichtennutzung.] 
+> @Nachrichtenvermeidung. Gebe es. Aber vor allem in bildungsfernen, sozioökonomisch 
+schwachen Gesellschaftsschichten, die ohnehin nicht das Potenzial bildeten, aus dem Paid 
+Content-Angebote ihr Wachstum schöpfen. "So wie Eltern für Notfallsituationen in Flugzeu-
+gen angeleitet werden, zunächst selbst Sauerstoffmasken aufzusetzen, bevor sie ihren Kin-
+dern helfen, sollten sich Marketingleute auf Nachrichtenliebhaber und regelmäßige Nutzer 
+konzentrieren, die tendenziell besser gebildet sind, ein höheres Einkommen haben und ein 
+größeres Interesse an Politik". 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INMA-Report " Es gibt 
+keinen Deckel für das 
+Abowachstum" 
+ 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+nur Mythen (falsche 
+oder irreleitende Be-
+hauptungen) 
+ 
+ 
+• 'Nachrichtennut-
+zung geht zurück' 
+ 
+=> lediglich auf das 
+Vor-Corona-Niveau 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 'Nachrichten wer-
+den  gemieden' 
+ 
+ 
+=> nur von Perso-
+nen, die ohnehin 
+keine aussichtsrei-
+che Zielgruppe sind 
+ 
+ 
+QUELLEN:
+MEINUNGEN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 24
+[pvd meint: eine pragmatische aber auch zynisch wirkende Empfehlung, die obendrein 
+entgegen der Kernthese darauf fußt, dass es sehr wohl (soziodemografische) Grenzen des 
+Wachstums gibt.] 
+> @Abomüdigkeit. "Das Abomüdigkeits-Monster ist nicht zu finden". Dass die Menschen auf-
+grund der Omnipräsenz von Abonnementangeboten in allen möglichen Bereichen eine Ab-
+neigung gegen diese Vertriebsform entwickelten, sei wie das Ungeheuer von Loch Ness ein 
+häufig behauptetes aber niemals wirklich angetroffenes Phänomen. Seit 2019 habe sich 
+die Anzahl von Digital-only-Nachrichtenabos im Median-Mittel verdreifacht, die Anzahl der 
+Aboverkäufe pro Millionen Nutzer verdoppelt und die monatlichen Kündigungsquoten seien 
+stabil unter 5% geblieben. 
+[pvd meint: Hier ist 2019 als Vergleichsjahr gut gewählt. Auch in unserem Archiv taucht 
+damals erstmals der Begriff Abomüdigkeit ("Subscription Fatigue") auf. Seitdem sind auch 
+weitere relevante Paid Content-Kennzahlen munter weitergewachsen, von unserer 
+Schätzung der jährlichen Paid Content-Umsätze, die sich von 2019 auf 2024 verdreifacht hat, 
+über jeden uns bekannten Digitalpresseabobestand seit 2019 bis bin zur viel beachteten und 
+oft sogar durch unrealistisch wachstumsskeptische Werte auffälligen, im Digital News Report 
+des Reuters Institute for the Study of Journalism behaupteten Bezahlbereitschaft.] 
+> @Paywalls werden wieder abgebaut. Einige Websites haben im vergangenen Jahr ihre zu-
+vor bezahlpflichtigen Inhalte wieder gratis zugänglich gemacht. In bestimmten Kreisen wa-
+ren das bekannte Marken (Quartz, TechCrunch), in mindestens einem Fall eine der bekann-
+testen Presse-Marken überhaupt (Time Magazine). Daraus hätten machen Kommentatoren 
+"eine große Abkehr vom Abo" gemacht. Piechota meint, diesen Trend abzuleiten, sei nicht 
+möglich. Das Gegenteil sei der Fall. Die Zahl der Medien, die ein Bezahlangebot machen, 
+steige immer noch. Die Erwartungen der meisten Medienmanager an das Geschäftsmodell 
+'Abo' stiegen weiterhin, und das Anzeigengeschäft entwickele sich demgegenüber weniger 
+vielversprechend. 
+[pvd meint: Vorsicht bei dieser letzten Diagnose. Wir haben den Eindruck, dass werbeba-
+sierte Erlösmodelle in der Publishingwelt zuletzt wieder stärker forciert werden, be-
+sonders zum Beispiel beim Thema Bewegtbildwerbung.] 
+> @Junge Leute bezahlen nicht für Nachrichten. Dazu verweist Piechota auf die gleiche Ana-
+lyse, die wir schon im letzten pv digest vorgestellt hatten, und die er fast wortgleich zu 
+unserem Fazit resümiert: "Junge Leute bezahlen für Nachrichten, nur nicht für traditionelle 
+Nachrichtenmedien." 
+> @Der Deckel ist erreicht, weiteres Wachstum ist nicht möglich. Dagegen setzt Piechota 
+die Aufforderung "Es ist Zeit, größer zu denken". Gerade einmal 1% Marktdurchdringung 
+[Haushalte mit digitalen Nachrichtenabos] hätten nationale Nachrichtenmedien erreicht; re-
+gionale Nachrichtenmedien im Median-Mittel 2%. "Das sind immer noch relativ niedrige Zah-
+len mit viel Platz für Wachstum. 'Eurochampions' wie Le Monde in Frankreich (1,9%), Cor-
+riere della Serra in Italien (2,3%) und Denník N in der Slowakei (3,5%) haben bewiesen, dass 
+höhere Durchdringungsraten möglich sind.  
+Im Vergleich zur Bevölkerung seien diese Werte viel höher als die Marktdurchdringung sogar 
+der New York Times. Die größte Nachrichtenabomarke der Welt erreiche mit 9,7Mio Digital-
+ 
+ 
+ 
+ 
+ 
+ 
+• 'Abomüdigkeit' 
+ 
+ 
+=> oft behauptet 
+aber nirgendwo zu 
+beobachten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 'Paywalls werden 
+wieder abgebaut' 
+ 
+ 
+=> selten einmal 
+und viel seltener, als 
+neue eingerichtet 
+werden 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 'Junge Leute bezah-
+len nicht für Nach-
+richten' 
+ 
+=> vgl. pvd #4/24 
+ 
+ 
+ 
+'Wachstumsdeckel er-
+reicht' 
+ 
+=>Best Practices erzie-
+len 3-4x höhere Markt-
+durchdringung als ø 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 25
+only-Abonnenten nur 0,8% der US-Haushalte. Der Verleger der New York Times, A.G. Sulz-
+berger, habe gesagt: "Unsere Industrie denkt immer noch zu klein". Mit heute gerade einmal 
+30 bis 40 Millionen Zeitungs- und Zeitschriftenabos in den USA gebe es immer noch ein gro-
+ßes, unangezapftes Potenzial im Vergleich zu den 150-200 Millionen Abos vor einem halben 
+Jahrhundert. 
+[pvd meint: vor einem halben Jahrhundert gab es aber auch noch kein Internet und Fernse-
+hen fand oft noch in schwarz-weiß statt. Diese Messlatte macht keinen Sinn. Dagegen ist die 
+aktuelle Marktdurchdringung der aktuellen Paid Content-Leuchttürme ein wertvoller 
+Wegweiser und – da diese selbst noch stark wachsen – mit hoher Wahrscheinlichkeit für 
+viele weitere Medien auch erreichbar.] 
+Das Wachstumsgeheimnis knacken 
+INMA hat vor einigen Jahren ein Benchmarkpanel eingerichtet, an dem sich 234 Paid Con-
+tent-Angebote beteiligen. Um hinter 'das Geheimnis' des Wachstums zu kommen, vergleicht 
+Piechota Kennzahlen des beim prozentualen Digitalabobestandswachstum der letzten zwei 
+Jahre oberen Quartils der Panelteilnehmer (= die am schnellsten wachsenden 25%) mit den 
+25% am langsamstem wachsenden Angeboten (unteres Quartil). Vermutlich um Ausreißer-
+werte aufgrund von Effekten bei niedrigen Mengen auszuschließen, betrachtet er dabei nur 
+die Angebote, die mindestens 20.000 Digitalabos zählen. Außerdem liegen nicht für alle Pa-
+nelteilnehmer alle Daten vor. Darum beruhen die folgenden Daten auf einer Auswertung von 
+nur 110 Digitalaboangeboten. 
+Zur Demografie der Top-Performer schreibt Piechota, diese stammten zu 86% aus der EMEA-
+Region [pvd: und dort sollte die ganz große Mehrheit wiederum auf Europa entfallen] und zu 
+62% aus Ländern mit mindestens 2Mio Haushalten. Jeweils rund drei Viertel der Top-Perfor-
+mer haben Online-Reichweiten von mindestens 4 Millionen monatlichen Nutzern (72% der 
+Top-Performer) und betreiben harte Paywalls oder zumindest Premium-Paywalls, bei denen 
+einige Beiträge hinter einer harten Paywall stehen (75% der Top-Performer). Nur etwas mehr 
+als die Hälfte (56%) der Top-Performer sind vor allem nationale Medien. 
+Die Top-Performer zeigten eine klare Tendenz zur Verhärtung ihrer Paywalls. Binnen 
+12 Monaten stieg bei ihnen die Anzahl der der Nutzer, die mit der Paywall konfrontiert wur-
+den, um 40%. Möglicherweise aus diesem Grund zählten sie im gleichen Zeitraum einerseits 
+20% weniger Nutzungs-Sessions aber andererseits gleichzeitig eine Zunahme der Abo-Neube-
+stellungen um 62%. 
+Zwar konfrontieren die wachstumsstarken Medien ihre Nutzer häufiger mit der Paywall. 
+Sie setzen aber laut Piechota auch viel häufiger auf langlaufende Niedrigpreisangebote wie 
+zum Beispiel '1$ für 6 Monate' ["langlaufende Billig-Proben" im pvd-Jargon; über die zuneh-
+mende Verbreitung dieser Akquisestrategie haben wir mehrfach berichtet]. Das führt dazu, 
+dass die wachstumsstärksten Angebote auch die meisten Abonnenten mit monatlichen Erlö-
+sen (ARPU) von weniger als sechs Dollar haben. Es führt auch dazu, dass viele der mit diesen 
+Angeboten gewonnenen Abonnenten wieder kündigen und damit die Churnquote des Ge-
+samtbestandes nach oben drücken. Dennoch wachsen die Erlöse dieser Medien insgesamt 
+schneller als bei mittelwachstumsstarken oder gar wachstumsschwachen Angeboten. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Was machen die Top-
+Performer anders als 
+wachstumsschwache 
+Digitalabos-Medien? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Analyse von 110 Digi-
+talaboangeboten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Ihre Paywalls sind 
+undurchlässiger 
+ 
+ 
+ 
+ 
+ 
+ 
+• Sie bieten viel häufi-
+ger 'langlaufende 
+Billigproben' an 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 26
+In dieser Kombination aus verhärteten Paywalls und deutlich aufgeweichten Preisen sieht 
+Piechota eine Umkehr der üblichen Funnel-Logik. Statt zunächst möglichst viele Gratis-Nut-
+zer zu einem möglichst hohen Engagement zu bewegen und damit eine möglichst hohe Abon-
+nierwahrscheinlichkeit zu erzeugen, seien Billig-Proben ein Versuch, die Schwelle zum Ab-
+schluss eines Abos minimal niedrig zu machen. Erst danach werde dann versucht, das Enga-
+gement zu steigern und damit die Kundenbindung und Preisakzeptanz zu erhöhen. Weil die 
+Billig-Probanden Zugriff auf alle Inhalte haben, seien diese Ziele bei ihnen leichter zu erreichen 
+als bei Gratisnutzern mit nur eingeschränkten Nutzungsrechten. 
+ 
+Gründe für stagnierendes Wachstum 
+In einem weiteren Kapitel seiner Reports benennt Piechota sieben Gründe für stagnierendes 
+Wachstum. Nach 'Unkenntnis der Leserbedürfnisse' und 'zu wenig regelmäßige Nutzer' be-
+nennt er als Wachstumshemmnis zu seltene Kontakte mit der Paywall. Im Durchschnitt 
+des Benchmarkdatensatzes der INMA stoßen nur 23% der Nutzer innerhalb eines Monats 
+mindestens einmal auf die Paywall. Bei den 25% Medien mit am schnellsten wachsenden Abo-
+beständen ist es fast die Hälfte aller Nutzer. In der Folgen wandeln im Gesamtdurchschnitt 
+monatlich nur 0,003% aller Gratisnutzer in ein Bezahlabo. Im Schnitt der Top25% sind es drei-
+mal so viele (0,01%). 
+[In den beiden ersten Ausgaben dieses Jahres haben wir vergleichbare Kennzahlen ande-
+rer Datenpools vorgestellt. So sind es bei den Teilnehmern an der DRIVE-Initiative des Bera-
+tungshauses Schickler und der Nachrichtenagentur dpa 55% aller Nutzer, die innerhalb eines 
+Monats mit der Paywall in Kontakt kommen. Und es wandeln durchschnittlich 0,0164% aller 
+Gratisnutzer in ein Bezahlabo. 
+Bei den Kunden des französischen Paywalldienstleister Poool stoßen im Durchschnitt 38% 
+aller Nutzer innerhalb eines Monats auf die Paywall. Und durchschnittlich 0,01% der Gratis-
+nutzer wandeln in jedem Monat in ein Bezahlabo.] 
+• Umkehrung der Fun-
+nel-Logik 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  
+ 
+ 
+ 
+ 
+ 
+ 
+• höhere (!) 
+Churnquoten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Was machen Low-
+Performer anders? 
+ 
+Sie bringen zu wenige 
+Nutzer mit ihren 
+Paywalls in Kontakt 
+ 
+ 
+Paywall-KPI 
+ 
+INMA-Panel Top25% 
+• 48% der mtl. Nutzer 
+stoßen an Paywall 
+• 0,01% wandeln 
+ 
+INMA-Panel ø 
+• 23% der mtl. Nutzer 
+stoßen an Paywall 
+• 0,003% wandeln 
+ 
+DRIVE ø 
+• 55% der mtl. Nutzer 
+stoßen an Paywall 
+• 0,0164% wandeln 
+ 
+Kunden Poool ø 
+• 38% der mtl. Nutzer 
+stoßen an Paywall 
+• 0,01% wandeln 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 27
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zum vierten Quartal 2024wird Jesper Doub neuer Geschäftsführer Zeitschriften bei der 
+Funke Mediengruppe. Vorgängerin Bianca Pohlmann verlässt den Konzern laut Pressemit-
+teilung nicht vollständig, sondern soll sich weiter um Projekte wie 'Female Future Force Day' 
+oder 'yeswecan!cer' kümmern und die personalnachrichtengenretypischen Beratungsaufga-
+ben übernehmen. 
+Handelsblatt-Geschäftsführerin Andrea Wasmuth wird Anfang nächsten Jahres den Vor-
+sitz der Geschäftsführung des Gesamtkonzerns DvH Medien übernehmen. Sie folgt auf Oli-
+ver Finsterwalder, der in den Aufsichtsrat wechselt. 
+ 
+P 
+1 
+ 
+ 
+ 
+ 
+Personalien 
+QUELLEN:
+PERSONALIEN
+pvd meint im Report folgt noch ein letztes Kapitel, in dem Piechota empfiehlt, mit Nord-
+sternkennzahlen und nach der OKR-Methode (Objectives and Key Results) zu arbeiten. Das 
+bedeutet allerdings den Versuch, ein ganzes Verlagsmanagement-Handbuch auf nur weni-
+gen Seiten zu präsentieren. Das überstrapaziert die Möglichkeiten des gewählten Formats. 
+Die Stärke des INMA-Reports liegt woanders. Nämlich in der kraftvollen Argumentation ge-
+gen den teils verbreiteten neuen Pessimismus gegenüber Abomodellen für Digitalpresse-
+angebote. Der Titel "Es gibt keine Abo-Obergrenze für Nachrichtenmedien" ist eine wichtige 
+Motivationsbotschaft für alle Medien, die gerade einen 'Durchhänger' haben. Der Report 
+selbst kann viele Anregungen geben, um konkrete Maßnahmen gegen einen solchen Durch-
+hänger zu entwickeln. Das eine definitive Rezept, das immer funktioniert, das kann er nicht 
+liefen, das gibt es nicht. Aber noch weniger gibt es Gründe, die Flinte resigniert ins Korn zu 
+werfen. 'Paid Content ist ein Marathon, kein Sprint' war vor einigen Jahren eine beliebte 
+Phrase auf den Podien diverser Veranstaltungen. Nur weil sie heute abgedroschen klingt, 
+ist sie nicht falsch. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 28
+ 
+ 
+ 
+ 
+ 
+Blick zurück in die Zukunft: Datenschützer bewerten 
+PUR-Abo-Modell kritisch 
+P 
+pvd Nachhaltigkeits-
+Check 
+ 
+Pur-Abos als Alternative zu Werbe- und Datennutzungseinverständnissen verbreiten sich rasant. Das gilt aber auch 
+für die Behörden und Organisationen, die sie in Frage stellen. Verlage und Digitalriesen sitzen dabei im gleichen Boot. 
+Vor einem Jahr mussten wir berichten, dass die österreichische Datenschutzbe-
+hörde in Teilen einer Beschwerde der vom Aktivisten Max Schrems gegründeten Da-
+tenschutzinitiative noyb stattgegeben hatte. Noyb hatte 2021 solche Beschwerden ge-
+gen sieben PUR-Anbieter bei fünf nationalen Datenschutzbehörden eingereicht. Die 
+Entscheidung der österreichischen Behörde im vergangenen Jahr betraf den Erfinder des 
+PUR-Modells, die österreichische Tageszeitung Der Standard. 
+Weil die Behörde der Beschwerde nur in Teilen stattgeben hatte, konnten sich beide Seiten 
+ein bisschen als Gewinner fühlen. Der Standard hob in seiner Bewertung des Urteils heraus, 
+dass die Behörde das "Pur-Abo generell als DSGVO-konform und somit als rechtsgültig" be-
+wertet hatte. 
+Allerdings kam diese grundsätzliche Zustimmung mit einer sehr entscheidenden Einschrän-
+kung daher. Die Behörde bemängelte, dass mit der Alternative 'Zustimmung oder PUR-Abo 
+abschließen' nur ein einziges Einverständnis für ganz unterschiedliche Vorgänge eingeholt 
+werde, nämlich das Anzeigen von Werbung, die Messung des Werbeerfolgs, diverse Cookie-
+Zwecke und die Nutzung von Social-Media- Plugins. Einem so pauschalen Einverständnis fehle 
+es an der notwendigen "Granularität", meinte die Behörde. Eine solche "Pauschaleinwilli-
+gung" sei keine akzeptable Alternative zu einem Bezahlangebot. 
+Aus Sicht des Verlages wiederum wäre die Zerlegung der Einverständniserklärung in zahlrei-
+che Detail-Einverständniserklärungen nicht praktikabel. Darum hatte er eine Berufung einge-
+legt. Die wirkt bis heute. Trotz der vor einem Jahr erfolgten behördlichen Kritik am PUR-Abo 
+hat Der Standard noch nichts an seinem PUR-Mechanismus geändert. Stattessen blüht 
+das PUR-Modell europaweit, wie wir z.B. zuletzt in der März-Ausgabe berichtet haben. 
+Neu: EU-Datenschutzgremium bewertet PUR-Abo bei "Großen Plattformen" 
+Mittlerweile ist auch Facebook auf den Mechanismus 'Bezahlen oder Einverständnis ertei-
+len' umgestiegen. Seit Ende letzten Jahres müssen Facebook-Nutzer entweder ein umfängli-
+ches Einverständnis in die Datennutzung erteilen oder monatlich 9,99€ direkt an Facebook 
+oder sogar 12,99€ über die In-App-Kaufprozesse von Apple oder Google bezahlen. 
+Nun ist Facebook kein Verlag, sondern eine Plattform. Und mit 10€ bzw. 13€ ruft es für seine 
+Nutzung ohne umfangreiche Datenverarbeitung inklusive personalisierter Werbung einen 
+Preis auf, den viele Verlage sich nicht einmal für den Zugang zu ihren journalistischen Inhalten 
+aufzurufen trauen. Das hat von Anfang viel Kritik und auch Zweifel an der Zulässigkeit des 
+Facebook'schen PUR-Modells erzeugt. 
+ 
+ 
+ 
+ 
+vor 1 Jahr: Österreichs 
+Datenschutzbehörde 
+gibt Beschwerde gegen 
+PUR in Teilen recht 
+ 
+ 
+ 
+ 
+ 
+Pur-Abo sei zwar "ge-
+nerell" OK 
+ 
+ 
+ 
+ 
+ 
+aber es müsse "granu-
+larer" [=mehr Zustim-
+mungsklicks] gestaltet 
+werden 
+ 
+ 
+ 
+ 
+ 
+Verlag sagt, das sei 
+nicht machbar und 
+legte Berufung ein 
+ 
+ 
+ 
+ 
+ 
+Seit Herbst 23 hat 
+auch Facebook eine Art 
+PUR-Abo 
+ 
+ 
+ 
+Das kostet 10€-13€ 
+ 
+ 
+ 
+ 
+ 
+ 
+Branchennews 
+QUELLEN:
+BRANCHENNEWS & -RECHT
+#5/23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 29
+ 
+Mitte April legte das Datenschutzgremium der EU, das European Data Protection Board 
+(EDPB), nun eine Bewertung zum Thema PUR-Abos ("Consent or Pay Models") bei großen 
+Online-Plattformen vor, also eine Stellungnahme, die direkt Facebook aber nicht direkt Ver-
+lage betrifft, die mit ihren Angeboten keine 'großen Online-Plattformen' betreiben. 
+Die zentrale Aussage dieser Bewertung lautet: "In den meisten Fällen wird es für große On-
+line-Plattformen nicht möglich sein, die Anforderungen an ein gültiges Einverständnis mit 
+einer binären Auswahl zwischen Zustimmung zur Verarbeitung personenbezogener Daten 
+für Zwecke der verhaltensgesteuerten Werbung und dem Bezahlen einer Gebühr zu erfüllen". 
+Stattdessen solle es eine dritte Alternative geben, die eine kostenlose Nutzung ohne das Ein-
+verständnis in personalisierte Werbung ermögliche. 
+Ein weiterer Kritikpunkt des EDPB ist wie im Fall Der Standard. Das erhobene Einverständ-
+nis müsse 'granular' gestaltet sein, also die verschiedenen Formen der Datennutzung spe-
+zifizieren und jeweils differenziert dafür erhoben werden. 
+Der Bundesverband Digitale Wirtschaft (BVDW) kritisiert die Bewertung des EU-Gremi-
+ums sehr scharf. Die Differenzierung zwischen – noch dazu im betroffenen Dokument nicht 
+sauber definierten – großen Plattformen und anderen Unternehmen sei nicht rechtmäßig, die 
+Stellungnahme in Teilen ohne jede Grundlage und das Datenschutzgremium sei schlicht 
+inkompetent, wenn es um Preis- und Angebotsgestaltung geht, zu der es sich aber den-
+noch ausführlich einlässt. 
+Die Datenschutzaktivisten von noyb, denen der Tenor der Bewertung gefallen dürfte, kom-
+mentieren den Text des EDPB zurückhaltender. Er sei " wahrscheinlich nur ein Ausgangspunkt 
+für eine breitere Diskussion über 'Pay or Okay' in verschiedenen Zusammenhängen". Außer-
+dem bleibe die Grundfrage offen. "Die Kernfrage, ob ein 'Pay or Okay"-Modell die rechtlichen 
+Anforderungen einer freien Einwilligung erfüllen kann, bleibt bestehen". 
+ 
+ 
+ 
+Neu: Gutachten ('Be-
+wertung') des zentralen 
+EU-Datenschutzgremi-
+ums 
+ 
+'Große Plattformen' 
+(=Facebook et al) dür-
+fen nicht nur 2 Alterna-
+tiven anbieten 
+ 
+kostenfreie Nutzung 
+ohne personalisierte 
+Werbung muss mög-
+lich sein 
+ 
+und Einverständnisse 
+müssen 'granular' sein 
+ 
+ 
+BVDW: das ist nicht 
+rechtmäßig, ohne 
+Grundlage und inkom-
+petent 
+ 
+ 
+ 
+ 
+Datenschützer (noyb): 
+immer noch offen sei 
+grundsätzliche Zuläs-
+sigkeit von "Pay or OK" 
+ 
+ 
+ 
+ 
+pvd meint Eine Bewertung ist noch keine Verordnung und erst recht kein Gesetz. Und 
+'große Plattform' ist zwar ein sehr schwammiger Begriff, aber ziemlich sicher schließt er 
+Verlage und andere Publisher aus. Weil Forderungen zur Datenschutzregulierung schnell 
+eine Dynamik entwickeln, die nur schwer wieder eingebremst werden kann, ist es dennoch 
+wichtig, mit Mitteln der Öffentlichkeitsarbeit und auch des Lobbying auf die Bewertung des 
+EDPB zu reagieren. 
+Das PUR-Modell ist eine sehr schlanke Antwort auf die überkomplexen, lebensfernen und 
+oft kontraproduktiven europäischen Datenschutzregeln (unser Beitrag in der Vorjahresaus-
+habe spitzte das auf die Überschrift "Klicks, Klicks und noch mehr Klicks?" zu). Darum hat es 
+sich auch so schnell verbreitet wie kein anderes Abomodell zuvor. Es lohnt sich, dafür mit 
+allen Mitteln zu kämpfen. Verlage und Digitalriesen sitzen dabei ausnahmsweise einmal im 
+gleichen Boot. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 30
+Letzte Worte 
+ 
+ἐν ἀρχῇ ἦν ὁ Λόγος (Jo 1,1) 
+ 
+"Plus-Abo – was ist das?". Diese Frage 
+stellte uns jüngst der Geschäftsführer ei-
+nes marktführenden Franchise-System-
+Anbieters. Der Endfünfziger ist ein digital
+affiner, mit einem aktuellen Apple-Smart-
+phone ausgestatteter Gelegenheitszei-
+tungsleser. 
+"Was ist der Unterschied zwischen einem
+Plus-Abo und dem E-Paper-Abo?" fragte
+bei der gleichen Gelegenheit der nationale
+Vertriebsverantwortliche 
+eines 
+Lo-
+gistiksoftwareunternehmens, der neben-
+her in der gedruckten Ausgabe der Wo-
+chenzeitung Die Zeit blätterte. Das erwies
+sich dann als dem Branchenfremden ein-
+facher erklärbar als die Gemeinsamkeiten
+und die Unterschiede von Zeit+, Zeit E-Pa-
+per, Zeit App und kostenfrei aber nur mit 
+aber meistens auch ohne Registrierung
+lesbaren Artikeln im Digitalangebot 
+"Mein Digitalabo des Hamburger Abend-
+blatt kostet 40€. Aber dafür ist ja auch ein
+iPad im Preis enthalten", so der dritte Ge-
+sprächspartner, der leitender Angestellter
+im Einkauf eines großen Handelshauses 
+ist. Den hohen Preis des Abos erklärt er 
+sich mit der zugegebenen Technik. Was 
+das Abo ohne iPad kosten würde, dazu 
+kann er nur Vermutungen anstellen. 
+400 Jahre nach der ersten Zeitung, fast 30
+Jahre nach den ersten Nachrichtenweb-
+sites und der ersten Zeitungspaywall und 
+über 20 Jahre nach dem ersten E-Paper ist 
+die Verständigung über die Produkte, die 
+Presseverlage herstellen und zum Verkauf 
+anbieten, immer noch gar nicht so einfach.
+ Alle drei Gesprächspartner stammen aus
+der Traumzielgruppe der finanziell sehr gut
+gestellten Familienväter zwischen 50 und
+60 Jahren. Alle drei sind rege Nutzer diver-
+ser Apps und anderer Features ihrer
+Highend-Telefone.  
+Wie erfolgversprechend ist der Versuch, ei-
+ner vielversprechenden Zielgruppe Pro-
+dukte zu verkaufen, die diese nicht beim
+Namen nennen kann? 
+Solange es nicht einmal gelingt, in gebilde-
+ten, etablierten und kaufkräftigen Gesell-
+schaftsschichten klare Vorstellungen von
+den Produkten zu etablieren, deren ge-
+druckte Vorläufer selbstverständlicher Be-
+standteil der Lebenswelt deren Elterngene-
+ration waren, solange wird es extra schwie-
+rig sein, diese Produkte zu verkaufen. 
+Für Dinge, für die man keinen Namen hat,
+ist man blind. Menschen, bei denen der Be-
+griff 'E-Paper' nicht sofort ein Bild vor Augen
+produziert, dürften als Abonnenten dafür
+kaum in Frage kommen. Wer nicht weiß,
+was ein Plus-Abo ist, der mag zwar gele-
+gentlich beobachten, dass ihm manche Ar-
+tikel einer Website nicht zugänglich sind
+während andere problemlos zur Verfügung
+stehen. Er dürfte aber noch nicht bereit
+sein, ein Paid Content-Abo abzuschließen.  
+ἐν ἀρχῇ ἦν ὁ Λόγος – das bedeutet, 'Im An-
+fang war das Wort' – beginnt das Johannes-
+evangelium. Nicht die Zugabe, nicht der Ra-
+batt, nicht der Gratismonat, sondern der
+Name dafür und eine Vorstellung von dem,
+was damit beworben werden soll, steht am
+Anfang jedes Digitalabos. 
+ 
+… letzte Worte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUSGABE 5/2024   ׀SEITE 31
+ 
+ 
+ 
+Genutzte Quellen in pv digest sind in der vorliegenden Aus-
+gabe wie folgt codiert: 
+ 
+Quellenverzeichnis Ausgabe 5/2024 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ACHTUNG: der nächste pv digest
+erscheint am 7. Juni 2024
+pv digest - persönliches Exemplar für  Herrn Martin Weber, DVV Media GmbH

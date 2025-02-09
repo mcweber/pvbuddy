@@ -1,0 +1,8 @@
+para.txt
+apikey.py
+.env
+.myenv
+.DS_Store
+__pycache__
+
+myenv
