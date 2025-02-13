@@ -1,0 +1,3264 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Weiter-
+gabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+Ausgabe 1/2019 
+Liebe Leserinnen und Leser, 
+ich hoffe, Sie hatten einen guten Start in das neue Jahr. 
+Und ich wünsche Ihnen, dass es ein gutes Jahr werden 
+möge. Zumindest im Bereich des Vertriebs digitaler 
+Produkte kann ich Ihnen ein erstes aufmunterndes 
+Signal auf den Weg mitgeben. Wie immer habe ich für 
+die Januar-Ausgabe die Umsätze mit Paid Content-
+Angeboten der Publikumsmedien geschätzt. Ich 
+komme zu dem Schluss, dass die zuletzt wieder deut-
+lich stärker gewachsen sind (S.23ff). 
+Das gilt für die Presseumsätze insgesamt leider nicht. 
+Das Statistische Bundesamt verortet sie derzeit insge-
+samt bei rund 8Mrd€. Das ist das Doppelte der von dieser Behörde ermittelten Um-
+sätze der Buchverlage. Aus Spanien erreichte mich gleichzeitig die Information, dass 
+sich die Presseverlage dort mit einem Fünftel der privaten Buchumsätze abfinden 
+müssen. Diese Größenverhältnisse legen sowohl Dankbarkeit nahe, im hiesigen Markt 
+aktiv sein zu dürfen, wie aber auch die Einsicht, dass nach unten immer noch sehr viel 
+Luft ist (S.22f). Wer vom immer noch recht großen Kuchen im Presseeinzelhandel wie 
+große Stücke für sich vereinnahmen kann, dass zeigen Daten, die mir das Büro Bar-
+dohn zur Verfügung gestellt hat (ab Seite 20). 
+Im Dezember bin ich über einen Blogpost der amerikanischen Einzelvertriebsexpertin 
+Linda Ruth gestolpert, in dem sie sich über massive Probleme bei der Abrechnung von 
+Presseverkäufen beklagt. In den USA gilt eine Zeitschrift meistens nur noch dann als 
+verkauft, wenn eine Scannerkasse im Supermarkt einen Verkauf registriert hat. Das ist 
+im Prinzip ein höchst elegantes und effizientes Verfahren. In der Praxis ist es tückisch, 
+aber besonders für die Einzelhändler attraktiv. Darum habe ich mich einmal umgehört, 
+wie es bei uns mit dem Thema Pay-per-Scan steht (S.12).  
+Viel Aufmerksamkeit fand Ende letzten Jahres die ausführliche Analyse des Aboservice 
+im Zeitungsbereich. Auf der folgenden Seite finden Sie den ersten Teil einer Analyse 
+der Service- und Systemlandschaft bei Zeitschriften. 
+Ich wünsche Ihnen eine anregende Lektüre und ein verkaufsstarkes Jahr 2019. 
+ 
+ 
+Markus Schöberl, Herausgeber pv digest
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.  2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.12 
+Analysen und  
+Daten                 
+ 
+S.20 
+Meinungen 
+ 
+S.29 
+Personalien 
+ 
+S.30 
+Branchennews 
+& -Recht 
+ 
+S.30 
+ 
+letzte Worte 
+S.31 
+ 
+ 
+ 
+Der pv digest 
+Quick Guide 
+Das Wichtigste in 15 Minuten 
+ 
+ 
+Für Zeitschriften- 
+Verlage 
+Für Zeitungs/ 
+News-Verlage 
+Für digitale  
+Verlagsangebote 
+Für Handels- 
+Verantwortliche 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 2
+ 
+ 
+ 
+ 
+ 
+Systemlandschaft und Herausforderungen im Abonne-
+mentvertrieb der Publikumszeitschriften  
+P 
+Abosysteme 
+ 
+Fast jede Zeitung nutzt für die Verwaltung ihrer Abonnements eigene IT-Systeme und eine 
+eigene Software (meistens eine individuell angepasste Version des M/SD-Moduls von SAP). 
+Das haben wir in den Ausgaben #10 und #11 des Vorjahres herausgearbeitet. Nur ein An-
+bieter, der Madsack Verlag mit seinem VI&VA-System, versucht derzeit ernsthaft, Skalen-
+effekte durch Systemzentralisierung zu erreichen. "Die Zeitschriftenbranche ist da schon 
+viel weiter und hat ihre Vertriebssysteme bereits stark konsolidiert. Drei Anbieter verwal-
+ten 80% der Abobestände". So beurteilte der Verlagsberater Wolfgang Ernd die Situation 
+in unserem Bericht.  
+Aber stimmt das? Ist die Systemkonsolidierung bei den Zeitschriften wirklich schon so 
+weit vorangeschritten? Das ist eine der Fragen, denen wir in uns im folgenden Bericht wid-
+men. In ca. 30 Gesprächen mit Vertriebsverantwortlichen für große und kleine Zeit-
+schriftentitel haben wir uns ein fundiertes Bild gemacht, mit welchen Systemen Zeit-
+schriftenverlage ihre Abonnements verwalten, wie sie ihren Kundenservice organisiert ha-
+ben und was aus Sicht der verantwortlichen Manager die wichtigsten aktuellen Herausfor-
+derungen in diesem Themenbereich sind. 
+Dies vorweg: die Systemlandschaft im Bereich der Publikumszeitschriften ist tatsäch-
+lich deutlich konsolidierter als im Zeitungsbereich. Aber 80% der Abos bei nur drei An-
+bietern ist branchenweit nicht erreicht. Das zeigt unsere repräsentative Erhebung. 
+Um die Situation im Zeitschriftenmarkt repräsentativ darzustellen haben wir zwei Teil-
+stichproben analysiert. Zum einen haben wir Daten für die 20 Titel mit den größten 
+IVW-Abonnementbeständen erhoben. Insgesamt entfallen auf diese Titel, vom Spit-
+zenreiter TV Digital bis zur Fernseh-
+woche auf Rang 20, rund 6Mio 
+Abonnements. Das sind über 40% 
+aller Abonnements von Zeitschrif-
+tentiteln, die im Publikumsmarkt 
+verkauft werden und die ihre Zah-
+len an die IVW melden. Für diese 
+Stichprobe haben wir die Daten für 
+alle Einzelfälle erheben können. 
+Um die Situation für die rund 500 weiteren Publikums- und SI-Titel zu erheben, die 
+ihre Verkaufszahlen an die IVW melden, haben wir eine repräsentative Stichprobe von 
+ebenfalls 20 Titeln gebildet. Zwei Titel, die nach einem Zufallsauswahlverfahren in die 
+ 
+ 
+Die Systemlandschaft 
+bei Zeitungen ist klein-
+teilig 
+ 
+ 
+ 
+ 
+These: Zeitschriften zu 
+80% konsolidiert 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd-Marktanalyse 
+ 
+ 
+ 
+Unterscheidung von  
+2 Segmenten: 
+• Top20-Titel 
+• der übrige Markt 
+(vertreten durch eine 
+20er-Stichprobe) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+NACHRICHTEN AUS VERLAGEN 
+UND VERLAGSVERTRIEBEN 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 3
+Stichprobe gewählt wurden, das Kindermagazin Star Wars Rebels und der monatliche 
+Yellow-Billigheimer Freizeit Heute, haben im dritten Quartal 2018 keine Abos gemeldet 
+und wurden darum nicht weiter betrachtet. Und von zwei anderen Titeln konnten wir 
+trotz intensiver Recherche keine Daten erheben. Unsere Stichprobenausschöpfung liegt 
+damit immer noch bei mindestens 80% und sollte ein repräsentatives Bild sicherstellen. 
+Alle folgenden Analysen differenzieren zwischen diesen beiden Stichproben (Top20 
+und 20 übrige Titel). Außerdem stellen wir alle Mengenverhältnisse zweifach prozen-
+tual dar; einmal auf Basis der Einzelfälle, einmal auf Basis des Anteils an der Ge-
+samtmenge der betroffenen Abonnements. 
+Die folgenden Grafiken zeigen die Systemlandschaft. Unsere Frage war: wo (in wel-
+chem Rechenzentrum) werden die Abodaten gespeichert?  
+Hier wird die Konsolidierung in der Systemlandschaft deutlich. Bei den 20 größten Titeln 
+gibt es zwei Konsolidierer (das Kimba-System des Gruner+Jahr-Vertriebsdienstleisters 
+DPV und das Rechenzentrum dsb, dessen SAP-basiertes Aboverwaltungssystem ccb by 
+dsb von vielen Kunden, Verlagen wie Aboverwaltungsdienstleistern, genutzt wird). Aber 
+knapp 50% aller Abos der Top20-Titel werden in verlagseigenen IT-Strukturen verwaltet 
+und können damit nicht als konsolidiert gelten. 
+Überraschenderweise sehen wir die Systemlandschaft bei kleineren Titeln weniger 
+konsolidiert, obwohl gerade kleinere Titel von einer übergreifenden Systemarchitektur 
+überproportional profitieren könnten. Wiederum die Hälfte der von uns befragten Titel, 
+aber 70% der damit umfassten Aboauflage, werden in einer verlagseigenen IT-Struktur 
+vorgehalten. Dieser Befund ist allerdings trügerisch. Denn die Gruppe der vielen Titel, die 
+unterhalb der Top20 rangieren, ist sehr viel weniger einheitlich als die Gruppe der 20 Titel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Top20: 
+• rd. 50% der Aboda-
+ten liegen in zwei 
+Systemen 
+• 50% beim jeweiligen 
+Verlag 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sonstige Titel: 
+• Je nach Betrach-
+tungsweise 50%-70% 
+der Abodaten beim 
+Verlag 
+• 30%-50% bei Dienst-
+leistern 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 4
+mit den höchsten Aboauflagen. Bei den Top20 unterscheiden sich der nach Aboauflagen-
+höhe erste und der letztplatzierte Titel nur um den Faktor 5. Der größte der kleinen Titel 
+in unserer Stichprobe, der Ratgeber Frau und Familie des Weck Verlages, ist aber mit 
+67.000 Abos fast 200x größer als der Titel Motorrad News, der sich ebenfalls in unserer 
+Stichprobe findet. Dieser größte der kleinen Verlage in unserer Stichprobe verzerrt die 
+Analyse entsprechend. Ganz kleine Titel nutzen in aller Regel Dienstleister für die Abover-
+waltung, ihre Abonnements finden sich dann in den IT-Strukturen der Dienstleister. In un-
+serer Grafik oben findet sich diese Konstellation im roten, grünen und schwarzen Torten-
+stück. Mit 67.000 Abos steht aber alleine der größte Titel des Weck Verlages für rund ein 
+Viertel der Prozentanteile auf Basis der Auflage und dominiert damit die letzte Kuchen-
+grafik extrem. Der Weck Verlag bedient seine Abonnenten mit eigenen Servicekräften und 
+er nutzt zur Verwaltung ein eigenes, proprietäres (also selbsterstelltes) EDV-System 
+(graues Tortendiagrammstück). Im Telefonat mit pv digest begründete Vertriebsleiter 
+Joachim Harant das damit, dass man bisher keine alternative Software mit akzeptablen 
+Lizenz-/Betriebskosten gefunden habe.  
+Solche proprietären Software-Lösungen haben wir in beiden Stichproben gefunden. Das 
+mit Abstand dominierende Aboverwaltungssystem ist in der Zeitschriftenwelt ebenso 
+wie bei den Zeitungen 
+SAP. SAP-basierte Lö-
+sungen kommen so-
+wohl bei allen Kunden 
+des 
+Rechenzentrums 
+dsb zum Einsatz wie 
+auch bei vielen Verla-
+gen, die ihre Abonne-
+ments ohne Unterstüt-
+zung eines Dienstleis-
+ters selbst verwalten. 
+Bei Verlagen, die ihre 
+Abonnenten 
+in 
+die 
+Hände des Vertriebs-
+dienstleister DPV ge-
+ben, kommt meistens 
+dessen eigene Software 
+Kimba zum Einsatz. Der 
+Burda Verlag setzt für 
+seine Titel und für Man-
+danten ebenfalls auf 
+eine eigene System-
+landschaft. Bei kleine-
+ren 
+Titeln 
+kommen 
+darüber hinaus weitere Systeme zum Einsatz wie zum Beispiel die Navision-Software von 
+knk oder die Verlagsmanager-Software des mittlerweile von knk übernommenen 
+ 
+ 
+aber Vorsicht: der 
+Markt der sonstigen Ti-
+tel ist viel inhomogener 
+als die Top20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Top20: 
+• rd. 60% aller Abos 
+werden mit SAP ver-
+waltet 
+• je rd. 15% mit DPV- 
+oder Burda-Software 
+• 10% mit verlagseige-
+nen Systemen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sonstige Titel: 
+• SAP bei knapp 50% 
+der Titel aber nur bei 
+¼ aller Abos 
+• verlagseigene Sys-
+teme bei 12% der Ti-
+tel und für >1/4 aller 
+Abos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Der hohe Anteil von 28% proprietären Lösungen ist vor allem ein 
+Abbild des hohen Anteils der Weck Verlag Titel in unserer Stichprobe. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 5
+Systemhauses MüllerPrange. Sowohl bei den Top20-Titeln wie auch in der Stichprobe der 
+kleineren Titel finden sich außerdem Verlage, die auf eine individuelle, nur hausintern ver-
+wendete Aboverwaltungssoftware vertrauen.  
+Wir haben allen unseren Ansprechpartnern eine offene Frage gestellt: "Wenn Sie an die-
+sen Themenbereich (Aboverwaltungssystem, Organisation des Kundenservice) denken, 
+was kommt Ihnen da zuerst in den Sinn, wo sehen Sie die wichtigste Baustelle?" Die Ant-
+worten, die wir hier erhalten haben, fielen meistens in drei Kategorien, und das in folgen-
+der Häufigkeitsreihenfolge: 
+1. Die Verwaltung digitaler Angebote, die nicht in Ausgaben erscheinen, sondern zeit-
+raumbezogen abgerechnet werden 
+2. Automatisierung, sowohl um Kosten zu sparen als auch um einen zeitgemäßen 24/7-
+Kundenservice anbieten zu können 
+3. Umsetzung von Datenschutzregeln bei gleichzeitigem Wunsch, neue Geschäftschan-
+cen durch den Einsatz von CRM-Systemen zu nutzen 
+Die beiden erstgenannten Punkte sind untrennbar miteinander verwoben. Digitale Pro-
+dukte bringen neue Anforderungen aber auch ganz neue Ansprüche mit sich, die die im 
+Verlagsbereich etablierten Softwarelösungen nur schwer oder auch gar nicht bewältigen 
+können. Der im Themenbereich Zeitschriftenabonnement bestens orientierte Berater Uwe 
+Henning, Geschäftsführer Montana Medien GmbH, meint hierzu: "Die größte Herausfor-
+derung besteht darin, dass der Kundenservice der Verlage zunehmend mit 100%-On-
+line-Aboservices wie Netflix verglichen wird. Die Verlags-Organisationen kommen aber 
+aus einer Welt mit vielen Bestandskunden, die seinerzeit offline bestellt hatten und noch 
+eine dialogorientierte Kommunikation per Freitext-Mail und eine persönliche Erreichbar-
+keit im Kundenservice gewohnt sind. In dieser Schere befinden sich viele Servicemanager."  
+"Um Kunden netflixartig reibungslose Prozesse anbieten zu können, müssen sie [die Ver-
+lage] Wege finden, um die Kunden vermehrt zur Nutzung von Selfservices zu bewegen. 
+Oder man setzt auf neue, rein digitale Angebote. Hier beginnt der Prozess damit, dass der 
+Abonnent den Auftrag selbst erfasst und gleichzeitig seinen Account einrichtet. So ge-
+wöhnt er sich ab der ersten Sekunde an den Selfservice bzw. alle weiteren Kundenkontakte 
+erfolgen via Mail oder Account, und das meist fallabschließend. Die Plus-Angebote der Ver-
+lage und die dahinterliegenden Systeme gehen diesen Weg, zum Beispiel Spiegel+ oder F+ 
+[das neue Bezahlangebot der FAZ]. Schon für die Order eines kostenlosen ersten Probe-
+monats, gibt der Kunde seine Zahlart-Daten bekannt, so steht einer späteren vollautoma-
+tisierte Zahlungs-Abwicklung, egal ob per Paypal, Lastschrift oder Kreditkarte, nichts mehr 
+im Wege. Nur ein Beispiel: Papier-Rechnungen, Überweisungsformulare und Zah-
+lungserinnerungsbriefe gibt es hier nicht mehr." 
+Diese Einschätzung bestätigt auch Christoph Hauschild, Vertriebschef beim Spiegel. 
+"Wenn wir unsere traditionellen Abonnements den Flatrates von Netflix & Co gegenüber-
+stellen, dann werden große Unterschiede in Bezug auf Komplexität der Angebote und ver-
+fügbare Selfservices sichtbar. Ein modernes Verwaltungssystem muss Monats-, Wochen- 
+oder Tagespässe ohne einen EVT-Kalender, wie wir es vom Print-Abonnement kennen, 
+ 
+ 
+ 
+ 
+ 
+offene Frage an Ver-
+triebsverantwortliche 
+der Verlage 
+ 
+drei häufig genannte 
+Herausforderungen: 
+ 
+• digitale Angebote mit 
+Zeitabgrenzung statt 
+Ausgaben 
+ 
+• Automatisierung 
+ 
+ 
+• CRM mit/trotz Daten-
+schutz 
+ 
+ 
+ 
+ 
+Experte Henning: Ver-
+lage werden am Pro-
+zessstandard von Net-
+flix gemessen 
+ 
+ 
+ 
+Produkte und Kunden-
+gewohnheiten stam-
+men aber aus der Off-
+line-Welt 
+ 
+ 
+ 
+ 
+ 
+ 
+Netflix-artiger Service 
+für neue Produkte 
+möglich 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 6
+abbilden können. Es sollte ebenso möglich sein, einen digitalen Zugang auch ohne die Hin-
+terlegung einer postalischen Adresse zu erwerben. Hier tun sich die klassischen Verwal-
+tungssysteme schwer. Außerdem will der Kunde seine Stamm- und Auftragsdaten selbst 
+pflegen und sein Abo auch unkompliziert kündigen. Meine These: Je einfacher das funkti-
+oniert, umso seltener wird es in Anspruch genommen. Vorausgesetzt, Preis und Leistung 
+des Angebots stimmen. Ebenso wollen Kunden in Echtzeit kommunizieren, wenn ein Prob-
+lem bei der Bestellung vorliegt oder der Zugang nicht funktioniert. 
+Unsere Herausforderungen liegen also darin, die Mechaniken der ausgabenbezogenen 
+Print-Abonnements mit den digitalen Zeitpässen zu vereinbaren und im Idealfall auch zu 
+kombinieren. Stichwort: Upgrade. Darüber hinaus müssen ergonomische Selfservices und 
+Chatbots ausgebaut werden, um dem Kunden rund um die Uhr Hilfestellung bei der 
+Verwaltung seiner Zugänge zu geben." 
+Wie komplex die Systemlandschaft mittlerweile ist und welche Herausforderung die zahl-
+reichen Produkte jenseits des Printabonnements für Verlage darstellen, geht aus der Ant-
+wort von Christina Dohmann hervor, die als Mitglied der DPV-Geschäftsleitung vor allem 
+die Verantwortung für den Vertrieb der Gruner+Jahr-Zeitschriften trägt: "G+J arbeitet über 
+eigene und beauftragte Call Center, nutzt das eigene Abosystem KIMBA (auch bei vielen 
+Abo-Mandanten des DPV im Einsatz), daran angeschlossen sind DWH/CRM und digitale 
+Vertriebsplattformen (wie Shops, Online Service Portal, SSO), über die Abo eCommerce-
+Geschäft möglich wird. (...) Das Abo-Geschäft ist bei uns trotz des schwierigen Marktum-
+felds erfreulich stabil. Wir profitieren davon, dass wir schon lange daraufsetzen, möglichst 
+viel über unsere Leser, über ihre Interessen und Gewohnheiten zu wissen. Je personali-
+sierter und wertschätzender die Kundenansprache, umso höher ist die Umwandlung und 
+Haltbarkeit im Abo. Dies gilt für Cross- und Upselling gleichermaßen wie für alle Maßnah-
+men zur Kundenbindung. Die Basis unserer direkten Kundenansprache sind natürlich in-
+novative Abo-Systeme, Online-Shops und CRM."  
+Frau Dohmann ist sowohl für den Vertrieb der Gruner+Jahr-eigenen Titel verantwortlich 
+wie auch für das Dienstleistungsgeschäft für fremde Verlage. Ihr Zitat ist somit gleichzeitig 
+eine Rückmeldung zum Ist-Stand bei Gruner+Jahr wie auch eine Werbebotschaft an beste-
+hende und mögliche zukünftige Mandanten. Aber dass CRM und Cross-/Upselling tat-
+sächlich Themen auch für kleinere Titel sind, das zeigt die Antwort von Nicole Schwenck, 
+Leitung Strategisches Marketing und Vertrieb bei den Radsportmedien des Delius Klasing 
+Verlages, der seine Abonnenten mit eigenen Mitarbeitern und seit jüngstem mit der Navi-
+sion-Software von knk betreut. Ausschlaggebend für diese Konstellation "war die 360-
+Grad-Sicht auf den Kunden. Wir verkaufen ja längst nicht mehr nur Abonnements." Aber 
+auch für den Abonnementverkauf suchen Verlage nach mehr systemischer Unterstützung. 
+Sandra Kirschbaum, Verlagsleiterin beim ipm magazin-verlag: "Ich finde, dass sich alle Abo-
+dienstleister viel mehr Gedanken machen sollten, wie man das Neugeschäft der Verlage, 
+die Abogewinnung, voranbringen kann." Das ist ein klarer Hinweis auf die Notwendig-
+keit von CRM-Funktionalitäten in der Abosystemlandschaft auch kleinerer Titel. 
+Und es ist eine Forderung in Richtung Dienstleister. Lesen Sie in der nächsten Ausgabe, wie 
+Verlage ihren Kundenservice organisieren, welche Dienstleister eine Rolle im Markt spielen und 
+welche Themen derzeit aus Sicht der Aboserviceunternehmen dringend und wichtig sind. 
+Spiegel-Vertriebschef 
+Hauschild sieht zwei 
+Probleme etablierter 
+Systeme: 
+• Zeitraum-Angebote 
+statt Ausgaben 
+• Aufträge ohne Post-
+adresse 
+ 
+ 
+ 
+ 
+ 
+"Selfservice und Chat-
+bots" als Rund-um-die-
+Uhr-Service nötig 
+ 
+ 
+ 
+ 
+komplexe Systemland-
+schaft bei Gruner+Jahr:  
+KIMBA+DWH/CRM+ 
+Shops+Selfservice+SSO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CRM notwendige Basis 
+für Geschäftsentwick-
+lung 
+ 
+ 
+ 
+ 
+ 
+ 
+Das sagen auch klei-
+nere Häuser und Titel 
+ 
+ 
+ 
+• z.B. Delius Klasing 
+ 
+ 
+ 
+ 
+ 
+ 
+• z.B. ipm magazin-
+Verlag 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 7
+ 
+Wie eine norwegische Zeitung das höchste Abowachs-
+tum seit Jahrzehnten erreichte 
+94  
+Fædrelandsvennen 
+ 
+Manchmal erscheint es so, als seien der Kristiansandsfjord in Norwegen oder die Kanäle 
+Stockholms das neue Silicon Valley. Zumindest gemessen an der Häufigkeit, mit der Ver-
+lagsmanager dorthin pilgern und auf Erleuchtung in Sachen Digitalisierung hoffen. Im Un-
+terschied zur sehr schillernden US-Pilgerstätte macht Skandinavien aber ganz konkrete 
+Hoffnungen. Dort, so sieht es derzeit aus, haben Zeitungsverlage die richtigen Rezepte 
+in Sachen Paid Content gefunden. Allerdings ist es nicht immer ganz einfach, die dabei 
+verwendeten Zutaten und deren Mischungsverhältnis zu identifizieren.  
+Eine Ausnahme bildet ein Erfahrungsbericht von drei Schibsted-ManagerInnen über die im 
+Süden Norwegens verbreitete Zeitung Fædrelandsvennen. Silje Dagsvik, Sverre Johnsen 
+und Siri Holstad Johannessen berichten auf der INMA-Website sehr nachvollziehbar von 
+einer Kampagne, die das beste Abowachstum "seit ein paar Dekaden" generiert hat. 
+"Der Zustrom neuer Abonnenten gewann in dem Moment an Fahrt, als wir damit aufhör-
+ten, nur über 'Zugangsberechtigung', Geräte und Rabatte zu reden und stattdessen began-
+nen, die Journalisten der Publikation, die redaktionellen Inhalte und unsere Rolle für die 
+Gesellschaft al Ganzes zu betonen". Dazu gestaltete Fædrelandsvennen Werbeseiten für 
+kommende Artikelserien, auf denen die Journalisten in Videos über ihre Arbeit am jewei-
+ligen Thema berichten. Darunter wurden Links mit Empfehlungen bereits veröffentlichter 
+Artikel eingeblendet. Diese Mischung aus Ankündigung kommender Highlights und emp-
+fehlenswerten Lesestücken, die Abonnenten zur sofortigen Lektüre zur Verfügung stehen, 
+wurde mit einer durchorchestrierten Marketingkampagne beworben. Die Werbesei-
+ten wurden in einem 'Karussell' auf der Startseite von Fædrelandsvennen promotet. Dar-
+über hinaus wurden sie mit Marketinggeldern auf Facebook und über Programmatic Ads 
+gepusht. Aber auch auf physischen Plakatwänden wurde geworben. Damit habe man "ein 
+umfassendes Netz von Touchpoints, Videos und Kampagnenseiten" gestrickt. Die Kam-
+pagne lief vom 18. September bis 18. Oktober 2018 und beinhaltete auch einen bis zum 
+Jahresende limitierten Aktionsrabatt. 
+Neben dem Rekordwachstum nennen die Autoren des Blogposts weitere Erfolgswerte: 
+> 
+Bei Nutzern, die die Werbeseiten für Artikel besucht hatten, stieg die Kaufwahr-
+scheinlichkeit um 62% gegenüber Nutzern, die keine dieser Werbeseiten besucht 
+hatten. 
+> 
+Nach der Umwandlung in ein Digitalabo nutzten Abonnenten, die über diese Kam-
+pagne gewonnen wurden, ihr Abo viel intensiver als neue Abonnenten, die anders 
+gewonnen wurden (Ø19 PIs statt Ø 12 PIs pro Tag). 
+> 
+Allerdings haben die Artikelwerbeseiten bei schon bestehenden Abonnenten nicht zu 
+einem verstärkten Engagement geführt. 
+Eine nach Auswertung der Kampagne verbleibende Frage sehen die Manager in der Rolle 
+des Rabatts. Würde der Kampagnenmechanismus auch ohne Rabattangebot so gut funk-
+tionieren? Als zentrales Learning benennen sie die große Rolle einer koordinierten Zusam-
+menarbeit von Redaktion und Marketing. "Noch vor ein paar Jahren arbeiteten Redaktion 
+und Vertrieb strikt getrennt. Aber nun unternehmen wir erfolgreiche gemeinsame 
+ 
+ 
+Derzeit steht Skandina-
+vien als Paid Content-
+Vorreiter hoch im Kurs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sehr konkreter Erfah-
+rungsbericht aus Nor-
+wegen 
+ 
+Fædrelandsvennen mit 
+Rekordwachstum dank 
+Werbekommunikation 
+rund um Inhalte  
+ 
+(statt um 'Zugangsbe-
+rechtigungen', 'Geräte' 
+oder 'Rabatte') 
+ 
+ 
+ 
+kommende und beste-
+hende Inhalte auf eige-
+nen Webseiten insze-
+niert 
+ 
+ 
+Bewerbung dieser 
+Webseiten über diverse 
+Digitalkanäle und so-
+gar physische Plakate 
+ 
+Erfolgsdaten: 
+ 
+• Kaufwahrscheinlich-
+keit der Leads aus 
+dieser Kampagne: 
++62%  
+ 
+• Abonnenten aus die-
+ser Kampagne sind 
+Intensivnutzer 
+ 
+• keine Resultate bei 
+bestehenden Abos 
+ 
+ 
+noch offen: wie wichtig 
+ist ein Rabatt im Ange-
+bot? 
+ 
+wichtigstes Learning:  
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 8
+Anstrengungen. Heute ist es so, dass Redakteure und Journalisten mit Vorschlägen auf das 
+Marketingteam zugehen, wie man die eigenen Inhalte am besten präsentieren sollte." Ein 
+Hauptgrund für diesen Mentalitätswandel: "Gemeinsame Ziele, zum Beispiel Engagement 
+Metriken, statt bloß kommerzieller Zielstellungen". 
+koordiniertes Zusam-
+menspiel von Redak-
+tion und Marketing 
+ 
+gemeinsame KPIs 
+ 
+Paid Content-Pionier De Corespondent internationali-
+siert sich als The Correspondent 
+P 
+ 
+De Correspondent 
+startet The Corresp. 
+ 
+Vor gut fünf Jahren startete De Correspondent, das rein digital erscheinende, werbe-
+freie Angebot für konstruktiven Journalismus, in Holland. Dem Startup war es zuvor 
+gelungen, mit seiner Vision von einem von 'Mitgliedern' getragenen und von der täglichen 
+Nachrichtenhektik entkoppelten Angebot mehr als 1Mio€ Startkapital von etwa 15.000 Mit-
+gliedern einzusammeln. 
+De Correspondent darf als einer der Erfinder der Verwendung des Begriffes 'Mitglied-
+schaft' für eine Beziehung gelten, die vorher nur als 'Abonnement' bekannt war. Im Un-
+terschied zu vielen Angeboten, die diesen Begriff für sich übernommen haben, legt De 
+Correspondent aber großen Wert darauf, die Beziehung von Journalisten und Abonnenten 
+tatsächlich neu zu gestalten. Neben Werbefreiheit und Nicht-Aktualität ist die enge 
+Einbeziehung der Leser in Recherchen und der regelmäßige und intensiv betriebene Aus-
+tausch von Journalisten und Mitgliedern das dritte Merkmal, mit dem sich De Correspon-
+dent von konventionellen Angeboten abheben will. Seit dem Start ist De Correspondent 
+weiter deutlich gewachsen auf heute auf 60.000 pro Jahr 60€ bezahlende Mitglieder. 
+Je länger dieser Erfolg anhält, desto mehr wird weltweit die Frage gestellt, ob sich das 
+Konzept nicht in andere Märkte übertragen lässt. Auch De Correspondent selbst sieht 
+Chancen, über den holländischen Markt hinaus zu wachsen. Seit rund zwei Jahren bereitet 
+De Correspondent in den USA den Start eines englischsprachigen Angebotes vor, das den 
+nicht holländisch sprechenden Teil der Welt erreichen soll. Nun erfolgte die Nagelprobe. 
+Seit Mitte November warb thecorrespondent.com mit einer Crowdfundingkampagne um 
+'Gründungsmitglieder'. Die sollten ein Startkapital von 2,5Mio$ zur Verfügung stellen. 
+Im Unterschied zum Angebot in den Niederlanden stellte The Correspondent seinen 
+Gründungsmitgliedern frei, wie viel Ihnen die Mitgliedschaft wert ist. Empfohlen wurden 
+anfangs Beträge ab 50$/€. Das wechselte während der Kampagne auf 100$/€. Aber es war 
+auch möglich, kleinere und selbstgewählte Beträge ab nur 1$/€ zu bezahlen. Damit setzte 
+The Correspondent auf ein 'Bezahlen Sie so viel Sie wollen'-Modell. Und Gründer Rob 
+Wijnberg hat angekündigt, dieses 'Preis'modell auch für das holländische Angebot zu über-
+nehmen, wenn es sich beim Launch der englischsprachigen Ausgabe bewähren sollte. 
+Das dürfte der Fall gewesen sein. Zwar erreichte The Correspondent das selbstgesetzte 
+Ziel einer Gesamtsumme von 2,5Mio$ erst kurz vor Ende des Crowdfunding-Zeitraums. 
+Aber während der 30 Tage laufenden Crowdfundingphase schwankte der durchschnitt-
+lich pro Mitglied bezahlte Betrag nur in einem Fenster zwischen 57$ und 68$. Und 
+auch erst gegen Ende des Crowdfundings, im Rahmen eines dank TV-Berichterstattung 
+deutlich beschleunigten Mitgliederwachstums auf zuletzt fast 46.000 'Gründungsmitglie-
+der', sank der Durchschnittsbetrag gegenüber den ersten drei Wochen auf den unteren 
+Rand dieses Bereiches. [Der Median-Durchschnittswert, also der genau in der Mitte aller 
+ 
+ 
+De Correspondent seit 
+5 Jahren in Holland er-
+folgreich. Werbefrei, di-
+gital only, konstruktiv 
+ 
+ 
+ 
+ 
+(Mit)Erfinder des Be-
+griffes 'Mitgliedschaft' 
+statt 'Abonnement' 
+ 
+ 
+ 
+allerdings: De Corres-
+pondent füllt diesen 
+Begriff mit Bedeutung 
+ 
+ 
+ 
+ 
+ 
+14.11.-15.12: Crowd-
+funding für ein eng-
+lischsprachiges The 
+Correspondent 
+ 
+Ziel: 2,5Mio$ 
+ 
+ 
+ 
+ 
+ 
+ 
+Crowdfunder bezahl-
+ten 'so viel sie wollen' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Das waren im Schnitt 
+je 57$ 
+ 
+von 46.000 Bezahlern 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 9
+Bezahlbeträge liegenden Wert, lag am Ende bei 30$, berichtet Gründer Ernst Pfauth in ei-
+nem Blogpost. Das deutet daraufhin, dass es durchaus eine Reihe Mitgliedern gab, die 
+deutlich unterhalb des Wunschbetrages von 50$ blieben. Die wurden aber kompensiert 
+durch ebenso viele Mitglieder, die freiwillig mehr bezahlt haben].  
+Correspondent-Mitgründer Ernst Pfauth jubelt: "Wir haben einen neuen Weltrekord für 
+Unterstützer einer journalistischen Crowdfundingkampagne gesetzt. (Der vorherige 
+Rekord – 18.933 – wurde während der Crowdfundingkampagne unseres holländischen 
+Spiegelbildes De Correspondent im Jahr 2013 gesetzt.)" [pvd: nach Höhe der zur Verfügung 
+gestellten Summe hält den 'Weltrekord' allerdings das Schweizer Angebot Die Republik, 
+das vor seinem Start vor etwa einem Jahr mit rund 14.000 Mitliedern über 3Mio CHF, das 
+sind ungefähr genauso viele Dollars, eingesammelt hatte.] 
+The Correspondent soll Mitte 2019 live gehen. Bis dahin sind weitere neue Mitglieder 
+willkommen. In Holland seien in der Phase nach Beendigung des Crowdfundings und vor 
+dem Start von De Correspondent nochmal 3.000 bezahlende Mitglieder hinzugekommen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Verlauf der Anzahl der 
+Mitglieder, der bezahl-
+ten Summe und des 
+ØBetrages 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+'Weltrekord' nach An-
+zahl der Crowdfunder 
+ 
+ 
+ 
+[aber nicht bei der er-
+zielten Finanzierungs-
+summme] 
+ 
+ 
+ 
+ 
+ 
+pvd meint: es wäre überraschend gewesen, wenn das in der internationalen Medien-
+welt stark beachtete The Correspondent im Crowdfunding gescheitert wäre. 46.000 Mit-
+glieder sind eine ordentliche Zahl. Aber damit hat The Correspondent gegenüber dem 
+ersten Crowdfunding in Holland im rund 20x größeren US-Markt vor dem Launch nur 
+rund zweieinhalbmal so viele Mitglieder eingesammelt – ganz zu schweigen davon, dass 
+The Correspondent die gesamte englischsprachige Welt adressiert. Und obwohl mit dem 
+'Bezahlen-Sie-soviel-Sie-wollen'-Modell die Hürde für Mitglieder maximal abgesenkt war. 
+Das zeigt zweierlei: 
+a) ob The Correspondent auf Englisch einen ähnlich erfolgreichen Weg nehmen kann, 
+wie im Heimatmarkt Holland, ist mehr als fraglich 
+b) freiwilliges Bezahlen ist und bleibt ein interessantes Modell, das bei den wenigen, die 
+es wagen, regelmäßig erstaunlich gut funktioniert. Am Ende bezahlte jedes Mitglied fast 
+den gleichen Betrag, der von den holländischen Nutzern (bisher) ohne Wahlmöglichkeit 
+gefordert wird. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 10
+ 
+ 
+Werbung 
+ 
+ 
+ 
+pv digest Special: 'Newsletter als Bestandteil bezahl-
+pflichtiger journalistischer Angebote' 
+ 
+Angebot:  
+pv digest Special 
+ 
+"2019 wird das Jahr des Newsletters" – Das sagt nicht nur der bekannte Zeitungsdesigner 
+Mario R. García. Newsletter haben sich als höchst produktive Elemente im Paid Content-Öko-
+system erwiesen.  
+ 
+Wir sehen drei wesentliche Funktionen, die Newslettern in diesem Umfeld zukommen: 
+♦ Generierung und Anreicherung von Leads 
+♦ Aktivierung und Intensivierung der Beziehung zu bezahlenden Abonnenten 
+♦ Newsletter mit einem eigenen Bezahlmodell 
+ 
+Für unser Special 'Newsletter als Bestandteil bezahlpflichtiger journalistischer Angebote' 
+haben wir die pv digest-Recherchedatenbank nach relevanten Einträgen zu diesen Themen 
+durchsucht. Der erste Eintrag stammt aus dem Dezember 2014, der jüngste aus dem Novem-
+ber 2018.  
+ 
+Insgesamt haben wir in diesem Special 26 Rechercheergebnisse zusammengestellt, die auf 
+je eigene Art als Impulsgeber, Benchmark oder auch als How-to-Guide für Newsletteraktivi-
+täten dienen können. Viele der Einträge veröffentlichen wir damit zum ersten Mal. Wenn 
+unsere Recherchen in der Vergangenheit zu einem Bericht in pv digest geführt haben, dann 
+ist dieser vollständig im Anhang des Specials enthalten. 
+ 
+pv digest Special 'Newsletter als Bestandteil bezahlpflichtiger journalistischer Angebote' 
+ 
+ 
+♦ 28 Seiten, davon  
+o 2 Seiten Einführung und Management Abstract 
+o 8 Seiten strukturierte Übersicht pvd-Recher-
+cheergebnisse zu Newslettern 
+ nebst zahlreichen Linktipps 
+ und Verweisen auf den Anhang 
+'Auszüge/Reprints aus pv digest' 
+♦ 16 Seiten Auszüge/Reprints aus pv digest-Ausga-
+ben der Jahre 2014 – 2018 
+♦ Preis: für pv digest-Abonnenten 399€, sonst 549€ 
+(jeweils zzgl. MWSt.) 
+♦ Lieferung unverzüglich nach Bestelleingang per  
+E-Mail als PDF 
+ 
+ 
+Newsletter  
+& Paid Content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+überwiegend unveröf-
+fentlichte Recherche-
+ergebnisse von  
+pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PDF, knapp 30 Seiten 
+ 
+ 
+ 
+ 
+ 
+ 
+für Abonnenten nur 
+399€ zzgl. USt. 
+ 
+Bestellung: 
+pv-digest.de/specials 
+ 
+oder per Mail an 
+abo@pv-digest.de 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 11
+ 
+ 
+P 
+      
+Marktentwicklung
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im 
+Dezember 2018, zu Anzahl 
+und Erscheinungsweise siehe  
+"Daten Cockpit Handel")  
+ 
+ 
+Marktentwicklung
+Copypreise
+ 
+neu eingeführte Zeitschriften 
+Print, Verlags-Apps in ausge-
+wählten Stores 
+ 
+ 
+Marktentwicklung
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+preise bei neuen Zeitschriften) 
+ 
+ 
+ 
+ 
+QUELLEN: 
+DATEN COCKPIT VERLAGE
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 12
+ 
+ 
+ 
+ 
+ 
+Erfahrungen mit Pay per Scan im Pressehandel – unter-
+schiedliche Einschätzungen zum Hauptrisiko 'Schwund' 
+P 
+Abrechnung auf Basis 
+von Kassendaten 
+ 
+Bei Pay per Scan (PpS, auch 'Scan Based Trading', SBT oder 'Pay-on-Scan') werden (nicht 
+nur Presse-) Verkäufe ausschließlich anhand der registrierten (gescannten) Kassier-
+vorgänge abgerechnet. In der Theorie bringt das Vorteile für alle Seiten. Lagerbestände 
+können errechnet und müssen nicht durch manuelle Zählung gemessen werden. Ver-
+kaufsdaten werden in Echtzeit generiert und stehen im Prinzip allen Marktpartnern zur 
+Optimierung ihres Anteils am Geschäft zur Verfügung. Nachbestellungen können automa-
+tisiert erfolgen, was wiederum den Bedarf an Lagerfläche im Handel reduziert. Überliefe-
+rungen ebenso wie Ausverkäufe sollten deutlich verringert werden können. 
+Im Pressehandel werden Verkäufe weltweit fast immer noch dadurch gemessen, dass 
+unverkaufte Ware zum Ende der Erscheinungsperiode an die Großhändler zurückgesen-
+det und dort gezählt wird. Das in Deutschland bei einem knappen Fünftel der Händler 
+etablierte VMP-Verfahren könnte ein Schritt in Richtung PpS sein. Aber per VMP werden 
+bisher zwar Verkäufe per Scanner erfasst, statistisch ausgewertet und im besten Fall auch 
+genutzt, um Nachlieferungen zu veranlassen. VMP-Daten sind aber noch nicht die Grund-
+lage der Abrechnungen zwischen Groß- und Einzelhändler. Am Ende jedes Erscheinungs-
+zeitraums werden auch in Deutschland immer noch sämtliche Retouren gezählt.  
+Die Idee des Pay per Scan tauchte auch im hiesigen Pressevertrieb schon mehrfach auf. 
+Insbesondere die Lebensmitteldiscounter würden ihre Presseverkäufe wohl gerne auf die-
+sem Weg abrechnen. Aber sowohl Verlage wie Großhändler wollen dieses Thema so 
+lange wie möglich nicht realisiert sehen. Es gibt in Deutschland nach unseren Recher-
+chen derzeit keine Initiativen und keine Tests in diese Richtung. Zwar zitierte Horizont erst 
+kürzlich den Springer-Vertriebschef Michael Fischer: "Wir führen erste Gespräche mit 
+Presse-Grosso und IVW mit dem Ziel, ein vereinfachtes Remissionsverfahren für Kleinst-
+verkaufsstellen zu entwickeln". Fischer denke dabei zum Beispiel an den Einsatz von 
+Smartphones anstelle von Formularen und täglichen Abrechnungen. Er gebe sich optimis-
+tisch, dass im Laufe des 1. Quartals 2019 eine solche Lösung gefunden werden könne, 
+berichtete Horizont. Aber auf pv digest-Nachfrage mochte Fischer nicht öffentlich ausfüh-
+ren, welche Idee er hat, um per Smartphone den Remissionsprozess zu vereinfachen. Und 
+mit Pay-per-Scan hat Fischers Idee nichts zu tun. 
+In den USA ist das anders. Das dort als Scan Based Trading bezeichnete Thema ist seit 
+mindestens 15 Jahren Realität. Schon 2013 sollen über 60% des Presseumsatzes in den 
+USA auf dieser Basis abgerechnet worden sein, berichtete damals der englische Fach-
+dienst Wessenden Briefing. Noch fünf Jahre vorher seien es nur 25% gewesen. Vorantrei-
+ber der SBT-Abrechnung waren die großen Einzelhandelsketten der USA. In den ersten 
+Jahren praktizierten die US-Großhändler noch eine doppelte Buchführung. Sie rechneten 
+ 
+ 
+ 
+ 
+ 
+Pay per Scan (PpS) 
+bringt theoretisch ganz 
+viele Vorteile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Im Pressehandel welt-
+weit ist es noch eine 
+Ausnahme 
+ 
+ 
+ 
+ 
+ 
+ 
+Der Einzelhandel hätte 
+es gerne 
+ 
+Sowohl Grosso als 
+auch Verlage stemmen 
+sich dagegen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In den USA ist PpS 
+(dort SBT) seit Anfang 
+der 2000er im Einsatz 
+ 
+ 
+mittlerweile ist es dort 
+das dominierende Ab-
+rechnungsverfahren 
+ 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 13
+mit den Einzelhändlern auf Basis der Kassendaten ab. Aber die Verlagsabrechnungen be-
+ruhten weiterhin auf der Zählung der Remissionsware. Differenzen zwischen beiden Ver-
+fahren gingen zulasten der Großhändler. Mittlerweile gibt es dieses Doppel-System nicht 
+mehr. Auch die Verlagsabrechnungen in den USA beruhen heute nur noch auf den 
+Scannerkassendaten. 
+Das erleichtert die Arbeit der Pressegrossisten (Wessenden Briefing nannte 2013 eine 
+Summe von 10Mio$ Administrationskosten alleine für den Betrieb des doppelten Zähl-Sys-
+tems). Aber auch der große Nationalvertrieb Comag sei ein aktiver Vorantreiber des aus-
+schließlich scannerkassendatenbasierten Systems gewesen, berichtet Linda Ruth, die viel-
+leicht die bekannteste Expertin und Beraterin im nordamerikanischen Presseeinzelhan-
+delsmarkt, auf unsere Nachfrage. Die Verlage seien dafür mit dem Versprechen gewon-
+nen worden, zukünftig viel bessere Daten bis auf Einzelhandelsebene zur Verfügung 
+zu haben. Linda Ruth: "Information war die Karotte, mit der man die Verlage auf diese 
+Straße gelockt hatte." In den letzten zwei Jahren habe das Thema so richtig Fahrt aufge-
+nommen und mittlerweile würden die Verkäufe in 70% aller Presseverkaufsstellen per SBT 
+ermittelt. (Die übrigen Verkaufsstellen erfüllen die Standards für die Teilnahme am System 
+noch nicht.) 
+Das Versprechen auf mehr und bessere Informationen dagegen wurde bisher nicht ein-
+gelöst. "Alle SBT-Systeme sind unterschiedlich und es ist ein Alptraum, die Daten in einen 
+einzigen Report zusammenzuführen", mailt uns Linda Ruth. Vor allem aber bezweifelt sie 
+die Validität der Daten. Warum, das hat sie kürzlich in einem Blogpost für den Fachdienst 
+Publishing Executive ausgeführt. 
+"Wir hatten gehofft, dass SBT uns ein aktuelleres, besser verwertbares Bild dessen zeich-
+nen würde, was im Einzelhandel passiert. Bisher ist das aber nicht eingetreten." Die Re-
+mission wird nicht mehr gezählt, teilweise entsorgen die Händler die nicht verkauften 
+Hefte selbst. Alle Risiken, insbesondere der 'Schwund', also fehlerhafte Prozesse oder 
+Diebstahl, gehen zu Lasten der Verlage, die Geld nur mit den Heften verdienen, die von 
+den Supermärkten tatsächlich über die Kassenscanner gezogen wurden.  
+Da die Verlage zunehmend am Verkauf der Hefte verdienen und weniger Refinanzie-
+rungsmöglichkeiten im Anzeigenmarkt durch notfalls auch kostenlos verteilte Hefte ha-
+ben, ist das ein unerwünschtes Risiko. Und je mehr die Verlage auf sehr teure Magazine  
+setzen, desto größer ist das Risiko. Ruth berichtet, dass sie für Verlagskunden Stichproben 
+durchgeführt habe, bei denen in angeblich ausverkauften Geschäften nur für 20% der 
+gelieferten Ware ein Kassiervorgang registriert worden war. Dafür seien teure Maga-
+zine aus zweifelhafter Quelle bei Ebay aufgetaucht.  
+Das wären allerdings Extremwerte. Wessenden Briefing nannte 2013 in seinem Bericht 
+zum Thema SBT in den USA eine durchschnittliche umsatzbemessene Schwundquote 
+über alle US-Konsumgütersortimente hinweg von nur 1,5%. Und speziell für Zeitschrif-
+ten in den USA habe KPMG damals einen Wert von 2-3% ermittelt, die allerdings auch Pro-
+zessfehler auf Seiten der Verlage (z.B. fehlerhafte Barcodes) einschlossen. Im August 2016 
+berichtete Wessenden Briefing über eine Studie von ECR Europe, das Schwundquoten im 
+englischen Lebensmittelhandel ermittelt hatte. Bei fünf großen Handelsketten hatte die 
+durchschnittliche Schwundquote über alle Sortimente hinweg bei 0,8% gelegen. Bei Presse 
+ 
+ 
+anfangs gab es manu-
+elle Kontrollzählungen; 
+heute nicht mehr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Verlage wurden mit 
+dem Versprechen bes-
+serer Daten geködert 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Expertin Ruth: das 
+funktioniert aber nicht 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dafür leiden die Ver-
+lage unter Schwund 
+aus Prozessfehlern 
+und Diebstahl 
+ 
+ 
+ 
+ 
+ 
+Ruth berichtet von  
+Extremwerten beim 
+Schwund (80%!) 
+ 
+ 
+ 
+ 
+Systematische Unter-
+suchungen sehen den 
+Schwund bei Presse bei 
+bis 3% 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 14
+(die in England wie bei uns per Großhändler ausgeliefert und remissionsbasiert abgerech-
+net wird) aber bei 3,5%. Die Prozesse im Pressevertrieb scheinen definitiv anfälliger für 
+unerklärte Differenzen zu sein, als Prozesse in anderen Sortimentsbereichen. 
+Dass zwischen Praxis und Theorie Lücken klaffen, das zeigt die Einzelhandelspraxis auch 
+in Deutschland. In der Ausgabe 11/2017 hatten wir über eine Studie der Professoren Hein-
+rich Kuhn und Andreas Holzapfel von den Universitäten Eichstätt-Ingolstadt und Geisen-
+heim berichtet. Für diese Studie beobachteten 50 Studenten in zehn Supermärkten eines 
+großen Handelskonzerns fast zwei Monate lang die Bestände von 600 repräsentativ aus-
+gewählten Produkten und verglichen die tatsächlich vorgefundenen Mengen der Pro-
+dukte mit den in den Warenwirtschaftssystemen der Händler registrierten Beständen. 
+In über einem Drittel aller Fälle (35%) stellten die Studenten dabei Abweichungen zwi-
+schen den aus Kassiervorgängen theoretisch ermittelten Beständen und den tatsächlichen 
+Beständen fest. Dabei waren die tatsächlichen Mengen in der Hälfte der Fälle kleiner, in 
+der anderen Hälfte aber größer als die per System errechneten Mengen. Ladendiebstähle, 
+eine im Handel schnell gefundene Erklärung für Bestandsabweichungen, können also nur 
+einen Teil derartiger Abweichungen erklären. Übrige Gründe für Ungenauigkeiten in au-
+tomatisierten Dispositionssystemen fanden sich entlang der gesamten Prozess-
+kette, von der fehlerhaften Auslieferung beim Hersteller, an etwaigen Zwischenlager-
+standorten oder auch vor Ort im Laden durch Fehler beim Kassiervorgang oder vom Kun-
+den in die falschen Regalfächer zurückgestellte Produkte. 
+Für Linda Ruth ist im Pressebereich beim Thema Schwund das finanzielle Risiko nur 
+die Spitze des Eisbergs. Weil die Disposition vollständig auf den SBT-Daten beruhe, wür-
+den die Vertriebssysteme der Großhändler in Extremfällen nur ein Fünftel des tatsächlich 
+möglichen Absatzes registrieren und die Bezugsmengen entsprechend herunterregulie-
+ren. Zwar wisse niemand, wie viele Hefte in diesen Läden hätten verkauft werden können. 
+Aber klar sei, dass ein Geschäft, dem zehn Hefte geliefert wurden, das aber nur zwei Ver-
+käufe registriert hat, beim nächsten Mal als eine Verkaufsstelle behandelt werde, bei der 
+für die Disposition nur 2 Verkäufe zugrunde gelegt werden können. 
+Die Pressegroßhändler, so berichtet Ruth, sehen das Problem nicht ganz so gravierend. 
+Sie argumentieren, die Zahlenverhältnisse, die Ruth in Stichproben vorgefunden hat, seien 
+anomal. Man habe eigene Funktionsbereiche aufgebaut, die die Integrität des SBT-Verfah-
+rens sicherstellen sollen. Ruth überzeugt das aber nicht. Gegenüber pv digest sagt sie, sie 
+habe ihren Bericht sogar entschärft, um die Handelspartner nicht zu sehr zu verärgern. 
+"Ich weiß, dass alle ihr Bestes geben. Aber ich habe so viele Probleme mit SBT. Und 
+Schwund ist ein sehr großes." 
+Ruths Blogpost bestätigt in weiten Teilen die Befürchtungen, die Verlage und Großhänd-
+ler dem Thema Pay per Scan ablehnend gegenüberstehen lassen. Auch in Großbritan-
+nien fordern Einzelhändler immer wieder einmal die Einführung der scannerkassendaten-
+basierten Abrechnung. Großhändler und Verlage haben es bisher aber abwehren oder 
+zumindest durch die Bildung von Arbeitsgruppen herauszögern können, mailt uns Wes-
+senden Briefing-Herausgeber Jim Bilton. Es habe lokale Tests gegeben, die aber mittler-
+weile beendet sind. In Irland gebe es eine Handelskette, die PpS-basiert abrechne. Für die 
+Zukunft glaubt Jim Bilton, dass das Thema auf Betreiben und eventuell auch durch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+deutsche Untersu-
+chung in 10 Super-
+märkten: in 1/3 der 
+Fälle Abweichungen 
+ 
+zu gleichen Teilen nach 
+oben und nach unten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Expertin Ruth: 
+Schwund ist bei Presse 
+vor allem ein Problem 
+für die Disposition 
+ 
+ 
+ 
+ 
+ 
+US-Grossisten sagen: 
+'alles halb so schlimm' 
+ 
+ 
+ 
+ 
+Ruth sagt: 'die Realität 
+ist noch schlimmer' 
+ 
+ 
+ 
+ 
+ 
+ 
+In Großbritannien gab 
+es erste Tests, aber bis 
+heute keine praktische 
+Umsetzung von PpS 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 15
+einseitige Entscheidung einer der großen Handelsketten wiederaufkommen wird. "Aber 
+im Moment haben die Leute andere Dinge im Kopf – Pay on Scan wäre ein großer und 
+kontroverser Schritt, die Verlage würden Widerstand leisten und für die Händler würde 
+das zwar bedeutenden aber nur begrenzten Nutzen bringen. Die sind derzeit mehr um 
+die abnehmenden Verkaufszahlen [bei Presse] besorgt." 
+In Österreich gibt es seit Anfang 2017 einen Verlag, der anhand von Scannerkassendaten 
+abrechnet. Mediaprint, das kaufmännische Joint Venture der Kaufzeitungen Krone und 
+Kurier, bezieht seit Anfang 2017 die Kassendaten aus dem filialisierten Lebensmittelhan-
+del über das dort etablierte EDI-System und rechnet auf dieser Basis die Verkäufe und 
+Remissionen ab. Ein Grund für die Einrichtung des Systems zu diesem Zeitpunkt war die 
+Einführung der Registrierkassenpflicht. Auch von anderen Händlern werden Daten elekt-
+ronisch an Mediaprint übermittelt (z.Z. von etwa 60% aller Händler. Nicht alle diese Daten 
+stammen aus Kassiervorgängen. Sie beruhen bei den meisten Händlern auf manuellen 
+Zählungen, deren Ergebnis elektronisch übertragen wird). Mediaprint rechnet seit seiner 
+Gründung 1988 direkt mit den Händlern ab. Darüber haben wir erstmals in pv digest 
+#4/2017 berichtet. Nun haben wir uns erkundigt, wie die Erfahrungen sind. Vertriebsleiter 
+Laszlo Szupper stellt der elektronischen Abrechnung insgesamt ein gutes Zeugnis aus und 
+ist insbesondere von der Qualität der Scannerkassendaten aus dem Lebensmittelhandel 
+überzeugt. "Wir machen regelmäßige Stichprobenkontrollen plus mehrmals jährlich zäh-
+len wir die komplette Ware zur Kontrolle. Die Abweichungen sind minimal und stehen 
+in keinem Verhältnis zu den eingesparten Kosten der Remissionszählung. Die Gründe 
+für Abweichungen kennen wir praktisch alle und arbeiten daran. Betrug spielt bei uns 
+keine große Rolle." [pvd: freilich sind die beiden preisgünstigen Kaufzeitungen von Medi-
+aprint keine repräsentativen Stellvertreter für das gesamte Pressesortiment.] 
+ 
+ 
+Experte Bilton: PpS 
+perspektivisch nicht 
+vermeidbar, aber zur 
+Zeit keine Priorität 
+ 
+ 
+ 
+ 
+ 
+In Österreich ist PpS 
+bei Mediaprint für die 
+großen Supermarkt-
+ketten im Einsatz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vertriebsleiter Szupper: 
+minimale Abweichun-
+gen, große Ersparnisse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint: Hefte, die teilweise nur ein paar Dutzend Cent kosten, werden ausgeliefert 
+und wieder abgeholt. Beim Grossisten läuft diese überwiegend zur Vernichtung vorge-
+sehene Ware über archaisch anmutende Förderbandstrecken und zur Zählung der Men-
+gen ist Handarbeit meistens noch unverzichtbar. Der Warenwirtschaftskreislauf für 
+Presse sieht nicht immer nach 21. Jahrhundert aus. 
+Pay-on-Scan wäre da ein Riesenschritt nach vorne. Allerdings einer, bei dem der Einzel-
+handel nur gewinnt, Verlage und Grossisten dagegen eingesparte Prozesskosten mit 
+dem Schwundrisiko teuer bezahlen.  
+Andererseits ist absehbar, dass die großen Handelsketten ihre Forderungen zunehmend 
+werden durchsetzen können. Vielleicht wäre es kein Fehler, Tests und Gespräche zu PpS 
+noch zu einem Zeitpunkt zu initiieren, zu dem Verlage und Grosso noch Gestaltungs-
+möglichkeiten haben. Echtzeitdaten und On-Demand-Lieferung sowie Einsparungen im 
+Remissionsprozess wären in einer Zeit, in der das Grossosystem vor allem durch Kos-
+tendruck 'weiterentwickelt' wird, immerhin echte Visionen, hinter denen man sich guten 
+Gewissens versammeln kann. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 16
+ 
+Neue Automaten bei Real machen 90 Cent aus 1€ 
+5 
+Convenience 
+ 
+In Real-Märkten können Kunden jetzt Münzgeld in einen Automaten geben und 90% da-
+von als Gutscheinbon wieder herausnehmen. Dazwischen zählen und sortieren die Ma-
+schinen des amerikanischen Anbieters Coinstar das Kleingeld des Kunden und behalten 
+es ein. Auch Edeka interessiert sich für diesen neuen Kundenservice und experimentiert 
+in der Region Minden-Hannover mit den Maschinen, für die ein Supermarkt 1qm Platz zur 
+Verfügung stellen muss. Die Wartung und Logistik rund um die Maschinen übernimmt 
+Coinstar. Die Händler bekommen von der 10%-Marge etwas ab und sollen im Übrigen da-
+rauf hoffen, dass die Kunden das zu Papier gewordene Kleingeld als ein Extra-Budget für 
+ungeplante Zusatzkäufe verwenden. In den USA ist Coinstar schon eine große Nummer. 
+Dort stehen landesweit 17.000 seiner Maschinen, unter anderem bei Walmart. 
+ 
+ 
+Coinstar-Maschinen 
+zählen Kleingeld und 
+drucken Wertbons 
+(90% der Münzsumme) 
+ 
+flächendeckend bei 
+Real, Tests bei Edeka 
+ 
+ 
+ 
+ 
+17.000 Automaten in 
+den USA 
+ 
+ 
+ 
+Blick zurück in die Zukunft: Was wurde aus der erstaun-
+lichen Kinoflatrate Moviepass? 
+P 
+ 
+pvd Nachhaltigkeits-
+Check 
+ 
+Vor zwölf Monaten bezeichneten wir den nur in den USA erhältlichen Moviepass als "die 
+vielleicht erstaunlichste 'Inhalteflatrate' der Welt". Die versprach damals ihren Kun-
+den, für nur 9,95$ pro Monat bis zu täglich einen Film in einem beliebigen Kino ansehen 
+zu können. Weil Moviepass nicht mit den Kinoketten kooperierte – die größte Kinokette 
+AMC versuchte sogar, den Anbieter mit rechtlichen Mitteln auszuschalten – musste es die 
+Tickets für seine Kunden zum regulären Preis kaufen. Wie dieses Geschäftsmodell funkti-
+onieren können sollte, das war eine der großen Fragen unseres Berichts. Ted Farnsworth, 
+CEO von Helios and Matheson, dem Hauptgesellschafter von Moviepass, erläuterte da-
+mals, dass das Unternehmen viel Geld damit verdiene, Kundendaten an die Filmindustrie 
+zu verkaufen. Moviepass "ist ein sehr nachhaltiges Modell, das [Verluste schreiben] ist kein 
+Thema für uns", behauptete er damals.  
+Mittlerweile ist offenkundig, dass er damals die Unwahrheit gesagt hat. Moviepass ist im 
+vergangenen Jahr nur knapp an einer Pleite vorbeigeschrammt. Bis zu 3Mio Abonnenten 
+soll das Angebot zwischenzeitlich gehabt haben. Wahrscheinlich hat jeder zusätzliche 
+ 
+ 
+vor 12 Monaten ver-
+sprach Moviepass: je-
+den Tag ins Kino für 
+9,95$/Monat 
+ 
+ 
+dafür musste Movie-
+pass die Tickets für 
+seine Kunden zum 
+Normalpreis kaufen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Das funktioniert nicht 
+ 
+#1/18 
+pvd meint: Convenience ist Trumpf. Angeblich sollen sich auch schon Discounter für 
+diesen Service interessieren. Aber was für ein irrer mentaler Spagat ist es, wegen des 
+Preisvorteils bei Aldi einzukaufen aber dann 10% Kosten zu akzeptieren, um die Cent-
+stücke aus dem Rückgeld nicht selber zählen und ausgeben zu müssen!  
+Das ist ein wunderbares Beispiel für die Komplexität des Konsumenten, dem mit Bau-
+ernregeln wie 'Kunden bezahlen nur für Inhalte, die es nicht anderswo auch umsonst 
+gibt' einfach nicht beizukommen ist.  
+Esso-Tankstellen verkaufen übrigens sogar Luft. Seit 2016 tauscht der Konzern die kos-
+tenlos nutzbaren aber immer schrabbeligen Reifenluftdruckgeräte gegen einen schicken 
+Automaten mit Münzeinwurfschlitz. Sechs Minuten Luftnachfüllzeit kosten 1€ – nur die 
+Messung des Luftdrucks ist bei Esso (noch) gratis. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 17
+Abonnent für zusätzlichen Verlust gesorgt. Helios&Matheson hat den Verlustbringer mitt-
+lerweile in eigene Tochterfirma ausgegliedert. Regelmäßig war im letzten Jahr von massi-
+ven Kundenbeschwerden über nicht funktionierenden Service zu lesen. Und mehrfach 
+hat das Unternehmen im Jahr 2018 Preise erhöht oder sein Leistungsversprechen ein-
+geschränkt. Aktuell bezahlt man für ein 3 Monatsabo von Moviepass 44$ und kann dafür 
+maximal drei Filme pro Monat sehen, darunter nicht jeden aktuellen Blockbuster. 
+Wenn man die Berichte über Moviepass in den letzten 12 Monaten verfolgt hat, dann 
+erscheint es als ein Wunder, dass das Angebot immer noch besteht. Das dürfte vor allem 
+daran liegen, dass die Idee einer Kinoflatrate offensichtlich bei den Endkunden gut 
+ankommt. "Moviepass sollte ein kleiner Puzzlestein im großen, unfertigen Panorama der 
+Meinungsbildung zu Flatrateangeboten und deren wirtschaftlicher Tragfähigkeit sein", ha-
+ben wir damals kommentiert. Dieses Puzzle setzt sich mittlerweile aus weiteren Teilen zu-
+sammen. Es gibt in den USA nunmehr noch andere Kinoflatrates, unter denen ein An-
+gebot besonders herausragt. Die größte Kinokette AMC hat im Juni ein Angebot gelauncht, 
+das für 19,99$ pro Monat maximal 3 Filme in den eigenen Häusern umfasst. Nur drei Mo-
+nate nach dem Start hatte 'AMC Stubs A-List' bereits 400.000 Abonnenten gewonnen. Ende 
+2018 waren es 600.000. Das AMC-Management ist ganz begeistert über das vom unge-
+liebten Moviepass inspirierte neuen Vertriebsmodell.  
+Auch in Deutschland gibt es vergleichbare Angebote. Mit 399€ kostet die Cinemaxx 
+Goldcard fast doppelt so viel wie das AMC-Angebot in den USA. Dafür verspricht die deut-
+sche Kette einen völlig unbegrenzten Kinogenuss: "Egal, ob 3D, 2D oder spezielle Events, 
+mit der Cinemaxx Goldcard kannst du ein Jahr lang ins Kino so oft du willst." 
+ 
+ 
+Pleite nur knapp ver-
+mieden; Leistungen 
+eingeschränkt und ver-
+teuert 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+andere Kinoflatrates 
+sind entstanden 
+ 
+ 
+Kinokette AMC erfolg-
+reich mit einem eige-
+nen Angebot: 600.000 
+bezahlen 20$/Monat 
+ 
+ 
+Cinemaxx Goldcard für 
+399€/Jahr. 
+ 
+ 
+Readly UK verliert prominente Titel 
+26 
+P 
+Readly UK 
+ 
+Die Gerüchte kursierten schon länger. Nun ist es amtlich: Readly verliert in England einige 
+prominente Zeitschriftentitel. Zu den Titeln, die sich Mitte Dezember aus dem Flatratean-
+gebot zurückgezogen haben, gehören so bekannte Zeitschriften wie BBC Good Food, Top 
+Gear [Immediate Media] oder Lonely Planet [Lonely Planet Publications Ltd]. Zumindest 
+die beiden letztgenannten rangierten regelmäßig weit vorne in den von Readly veröf-
+fentlichten Listen der meistgelesenen Magazine. [pvd: aber nicht in einer praktisch zeit-
+gleich zur Rückzugsmeldung von Readly veröffentlichen Liste der im Jahr 2018 meistgele-
+senen zehn Magazine]. Eine Readly-Sprecherin spielt den Vorgang herunter: "Jeder Verlag 
+hat seine titelspezifischen Marketingziele und entscheidet, welche Magazine er auf der 
+Readly Plattform haben will."  
+Unzufriedenheit dürfte aber auf jeden Fall auch hinter der Rückzugsentscheidung stehen. 
+Die muss nicht unbedingt auf zu geringen monetären Erträgen beruhen. Aus Insiderkrei-
+sen hören wir, dass verlagskonzerninterne Querelen einerseits aber auch unabge-
+stimmte Marketingalleingänge (Preistests) auf Seiten Readly eine Rolle spielen könnten. 
+ 
+ 
+ 
+ 
+ 
+einige bekannte Titel 
+verlassen Readly in 
+England 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gründe unklar bzw. 
+mehrschichtig 
+ 
+ 
+ 
+pvd meint: Das muss nichts heißen. Es kann aber schon etwas bedeuten. Und leider 
+helfen weder Readly noch die englischen Verlage dabei, in dieser Frage Klarheit zu ge-
+winnen. Beim Einzelartikelkiosk Blendle, der zwar nichts mit Readly zu tun hat, der aber  
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 18
+ 
+ 
+kommender Relaunch bei Apple News: Einzelartikel 
+statt Ausgaben; mit Zeitungsinhalten? 
+B8 
+Apple News+Texture 
+ 
+Bloomberg berichtet erneut über Apples Pläne zu einem Relaunch der im letzten Frühjahr 
+übernommenen Zeitschriftenflatrate Texture. Der stehe kurz bevor (eventuell schon im 
+Frühjahr, beruft sich Bloomberg auf anonyme Insider). Darstellungstechnisch sei eine 
+große Veränderung zu erwarten. Einzelne Artikel sollen nicht mehr im Rahmen der Optik 
+einer Printseite dargestellt werden, sondern eher wie digitale Artikel im Web oder in ande-
+ren mobilen Angeboten. Texture-Inhalte sollen dann zu Premium-Inhalten innerhalb 
+von Apples News-App werden. Und das Texture-Angebot wolle Apple auch um Zeitungs-
+inhalte erweitern. Angeblich bemühe sich der Konzern intensiv um Flaggschiffe wie die 
+New York Times oder das Wall Street Journal. Dabei stoße er aber auf große Bedenken 
+wegen des geringen Flatratepreises. Die knapp 10$/€, die Apple wohl weiterhin für das 
+Angebot in Rechnung stellen will, lägen unterhalb der meisten Abopreise auch nur eines 
+dieser Medien. Die Zeitungen würden stattdessen auf jeweils eigene Paywalls innerhalb 
+der App drängen. Apple hält dagegen: die große Menge an Kunden, die zu erwarten sei, 
+werde den niedrigen Preis überkompensieren. Es verwies auf seinen Musik-Service, der 
+mittlerweile 50-60Mio Nutzer haben soll. 
+ 
+ 
+schon bald soll die Tex-
+ture-Flatrate ein Ange-
+bot innerhalb von 
+Apple News werden 
+ 
+vorher plant Apple 
+zwei deutliche Verän-
+derungen an Texture: 
+ 
+• Einzelartikelstream 
+statt E-Paper-Optik 
+ 
+• neben Magazin- 
+auch Zeitungsinhalte 
+ 
+ 
+ 
+pvd meint: letztlich führt Apple mit den Verlagen die gleiche Diskussion wie Readly. Mit 
+zwei Unterschieden: Apple kann glaubhaft mit dem Versprechen riesiger Abonnenten-
+zahlen locken. Und Readly hat Zeitungen bereits mehrfach testweise in sein Angebot 
+aufgenommen und scheint diese Mediengattung mittlerweile links liegen zu lassen.  
+Worüber Bloomberg nicht berichtet, was aber ein Ausweg sein könnte: schon als Texture 
+noch selbstständig war, gab es zwei Preisstufen. Für 10$ konnte man nur fast alle teil-
+nehmenden Zeitschriften lesen. Aber um auch teure Wochenmagazine lesen zu können, 
+mussten knapp 15$ bezahlt werden. Apple könnte ebenfalls ein zweistufiges Preismo-
+dell mit/ohne Zeitungsinhalten anbieten. Dagegen spricht allerdings, dass eine der ers-
+ten Maßnahmen nach Apples Übernahme von Texture darin bestand, die teurere Preis-
+stufe abzuschaffen. Der designverliebte Technikkonzern sprengt gerne die Grenzen der 
+Vorstellungskraft bei der Erfindung neuer Produkte. Aber womöglich scheitert er an der 
+notwendigen Phantasie, um die vor allem behauptete (also vermeintliche) unüberwind-
+liche Preisschwelle von 10$ zu überschreiten. 
+gerne in einem Atemzug damit genannt wird, ist das sich permanent ausdünnende An-
+gebot in Deutschland wohl ein Zeichen für dessen schleichenden Untergang. Bei Readly 
+Deutschland beobachten wir bisher praktisch nur Zugänge. Vor drei Jahren hatte Bauer-
+Geschäftsleiter Hausendorf einmal angekündigt, das Engagement bei Readly (wo Bauer 
+einer der ersten Kunden war) zu prüfen. Bis heute nach unserer Beobachtung ohne er-
+kennbare Folgen. Bauer ist weiter dabei, stellt sogar einige der meistgenutzten Titel. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 19
+ 
+ 
+ 
+P2 
+  
+Index
+Marktentwicklung
+Einzelhandel
+ 
+ 
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland) 
+ 
+  
+ 
+Marktentwicklung
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neueinfüh-
+rungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+ 
+ 
+Marktentwicklung
+digitaler Vertrieb
+Top-Presse-Angebote  
+in wichtigen Digitalkiosken 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+DATEN COCKPIT HANDEL UND ABSATZ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 20
+ 
+ 
+ 
+ 
+ 
+Presse im Einzelhandel: Umsätze & Umsatzmarktanteile P 
+Umsatzmarktanteile 
+Presse Einzelhandel 
+ 
+In der November-Ausgabe berichteten wir ausführlich über den Zeitschriftenmarkt mit 
+Blick auf die Charakteristika einzelner Titel und Segmente. Unsere Datenquelle waren Sta-
+tistiken des Beratungsunternehmens Büro Bardohn, das die Daten aus öffentlich zugäng-
+lichen Quellen erhoben und anschließend für unseren Bericht strukturiert hatte. Durch 
+Verknüpfung der Zeitschriftentitel mit 
+den Auflagen laut IVW, aktuellen Copy-
+preisen und den jeweiligen Verlagen 
+kommt das Büro Bardohn auch zu ei-
+ner Abschätzung der Umsätze und 
+Umsatzmarktanteile im deutschen 
+Presseeinzelhandel. Für die großen 
+Verlagsgruppen schätzt das Unterneh-
+men die jährlichen Endkundenumsätze 
+im Einzelverkauf von Zeitschriften und 
+Zeitungen in Deutschland so ein:  
+Demnach ist Axel Springer immer 
+noch mit Abstand der wichtigste Lieferant im deutschen Presseeinzelhandel. Das 
+liegt natürlich vor allem an der Bild Zeitung, die mit 435 Mio€ Umsatz (inkl. Fußball Bild 
+und B.Z.) im Presseeinzelhandelt auch ohne die übrigen Springer-Titel an Platz eins dieser 
+Liste stünde. Auch Springers zweiter großer Vertriebstitel, Bild am Sonntag, wäre mit ge-
+schätzten 83Mio€ (VJ 85Mio€) in dieser Liste platziert. Hier ist die Zurechnung allerdings 
+problematisch, denn ein großer Teil dieser Summe resultiert aus Heften, die von Sonntags-
+zustellern regelmäßig in die Privathaushalte gebracht werden, und die trotzdem dem Ein-
+zelverkauf und nicht der Aboauflage zugerechnet werden.  
+Insgesamt summieren sich die diesjährigen Einzelverkaufsumsätze der IVW-gelisteten 
+Titel auf 2,2Mrd€. Im Vorjahr (vgl. pvd #11/2017) betrug diese Summe noch 2,3Mrd€. 
+Der Gesamtumsatz im deutschen Presseeinzelhandel ist allerdings noch einmal 
+größer. Denn bei Weitem nicht alle Zeitschriften, die in Deutschland verkauft werden, mel-
+den ihre Auflagen an die IVW. Für das Gesamtjahr 2017 meldeten die Pressegrossisten 
+einen 'Umsatz zu Abgabepreisen an den Einzelhandel' von 2Mrd€. Daraus lassen sich jähr-
+liche Umsätze zu Copypreisen von ganz grob 2,6Mrd€ ableiten, die allerdings bis zum Ende 
+des dritten Quartals 2018 (Datenstand der IVW-Meldungen für die Umsatzschätzungen des 
+Büro Bardohn) wieder auf etwa 2,5Mrd€ gefallen sein dürften. 
+Für eine Gesamtmarktbetrachtung müssen auch noch die Umsätze der Bahnhofsbuch-
+händler hinzugerechnet werden, deren Absätze ununterscheidbar in den IVW-Auflagen 
+enthalten sind. Zu den 2,6 Mrd€ jährlicher Endkundenumsatz mit Presse im grosso-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sieben Verlage erzielen 
+mit ihren bei der IVW 
+gemeldeten Titeln fast 
+1,8Mrd€ EH-Umsatz 
+ 
+ 
+ 
+ 
+ 
+Alle übrigen bei der 
+IVW gemeldeten Titel 
+kommen auf weitere 
+440Mio€ EH-Umsatz 
+ 
+ 
+ 
+ 
+ 
+Jeder fünfte Umsatz-
+Euro im Presseeinzel-
+handel kommt von Bild 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+ANALYSEN UND DATEN 
+(die Vergleichswerte 2017 stammen aus unserem 
+Bericht in pvd #11/2017) 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 21
+belieferten Einzelhandel kamen 2017 noch einmal rund 220Mio€ jährlicher Presseumsatz 
+an Bahnhöfen und Flughäfen hinzu (laut Angaben des Verbandes Deutscher Bahnhofs-
+buchhändler). Das ergibt ein geschätztes Gesamtmarktvolumen für den Einzelhandel 
+mit Presseprodukten von 2,8Mrd€, die bis zum dritten Quartal 2018 auf 2,7Mrd€ abge-
+schmolzen sein dürften. Die Anteile der Verlagsgruppen daran verteilen sich wie folgt: 
+In der Diskussion rund um die Organisation und Lastenverteilung im deutschen Presse-
+vertrieb wird seit Jahren der im Handel erzielte Umsatz als zentrales Kriterium gesehen. 
+Für große Titel beinhalten die Handelsspannenverabredungen große Rabatte. Betrachtet 
+man den Markt nach Größenklassen, dann wird deutlich, wie sehr sich einzelne Zeitschrif-
+ten nach dem Kriterium der Einzelhandelsumsätze unterscheiden.  
+Auch die vielen Titel mit weniger als 10.000 verkauften Exemplaren erzielen selbstverständlich einen 
+Durchschnittsumsatz. Der liegt aber nur bei gut 40.000€ und verschwindet darum in dieser Grafik im 
+mikroskopischen Bereich. Der ØWert für Titel bis 20.0000 Auflage ist knapp 94.000€. Dieser Wert ist in 
+der Grafik eher als schmaler grauer Streifen denn als 'Säule' erkennbar. 
+ 
+ 
+Gesamtumsatz Presse 
+im EH (grossobelie-
+fert+BB): 2,7Mrd€ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+367 Titel mit EV laut 
+IVW < 10.000 Ex erzie-
+len im Ø damit gut 
+40.000€ Umsatz 
+ 
+ 
+ 
+ 
+5 Titel mit EV laut IVW 
+> 500.000 Ex erzielen 
+im Ø damit gut 
+120Mio€ Umsatz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 22
+Von den in dieser Grafik berücksichtigten 2,2Mrd€ Copypreisumsatz von 717 bei der IVW 
+gelisteten Pressetiteln entfällt mehr als ein Viertel, nämlich hast 600Mio€, auf nur fünf Titel. 
+Unter diesen fünf Titeln befinden sich die beiden Solitäre Bild und Bild am Sonntag. Für 
+beide Titel sind eigene Grossokonditionen verabredet. Und Bild am Sonntag wird zwar laut 
+IVW überwiegend im Einzelhandel verkauft; aber nur ein kleinerer Teil dieser Umsätze wird 
+traditionell über den gross-
+obelieferten Handel gene-
+riert. Schließt man diese 
+beiden Titel aus der Analyse 
+aus, dann sieht die Grafik 
+der Umsätze je Absatzmen-
+gencluster so aus: 
+Hier wird deutlich: von die-
+sen 715 betrachteten Titeln 
+mit IVW-Meldung ihrer Ein-
+zelverkäufe verteilen sich 
+348 relativ gleichmäßig (vgl. rote Linie) auf die Absatzmengencluster über 10.000 ver-
+kauften Exemplaren. Ungleichmäßig verteilen sich die Umsätze. Der größte Teil der Um-
+sätze wird in den Gruppen erzielt, die auch die höchsten Absatzmengen erreichen.  
+Das erste Cluster (die erste Säule), das alle 367 Titel mit EV-Verkäufen unter 10.000 
+Exemplaren beinhaltet, steht für knapp 150Mio€ Presseumsatz. Die mit Abstand größte 
+Gruppe gemessen an der Anzahl der gehandelten Titel steht damit erst an fünfter Stelle 
+nach der Umsatzbedeutung und letzter Stelle nach Durchschnittsumsatz. Die drei Ti-
+tel mit Einzelverkäufen oberhalb einer halben Mio Exemplare (TV Direkt, TV 14, TV Pur) 
+erzielen mit Verkäufen in Deutschland durchschnittlich jeweils 27Mio€ jährlichen Copy-
+preisumsatz. Nach Gesamtumsatz erzielen Zeitschriften mit Verkaufsmengen zwischen 
+100.000 und 200.000 Exemplaren den höchsten Wert (361Mio€). Dieser Gesamtumsatz 
+verteilt sich allerdings auf 48 Titel – das sind 7,5Mio€ pro Titel. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ohne Bild und BamS 
+sind es 3 Titel mit  
+im Ø 27Mio€ Umsatz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pressekauf und -umsatz lt. Statistisches Bundesamt 
+P 
+Presseumsätze 
+ 
+Im Rahmen der 'Laufenden Wirtschaftsrechnungen' hat das deutsche statistische Bun-
+desamt hat für 2017 ermittelt, dass der durchschnittliche Haushalt in Deutschland mo-
+natlich 17,73€ für Zeitungen und Zeitschriften ausgibt. Knapp 72% aller Haushalte sol-
+len 2017 Geld für Presse ausgegeben haben. Berücksichtigt man nur diese Käuferhaus-
+halte, dann lag der durchschnittliche Monatswert sogar bei 24,81€. 
+Diese Daten beruhen auf einer Befragung von über 7.500 Haushalten [pvd: bis maximal 
+18.000€ Nettoeinkommen. Darüber sollen immer noch nicht weniger als 1Mio Haushalte 
+liegen, deren Konsumverhalten mit dieser Statistik nicht erfasst wird]. Die Stichprobe soll 
+repräsentativ für fast 37,7Mio Haushalte sein. Damit lassen sich private Ausgaben für 
+Presse im Jahr 2017 von 8,0Mrd€ ableiten.  
+In ihrer Öffentlichkeitsarbeit hat die Behörde allerdings Daten zum Buchkauf herausge-
+stellt, die mehrfach zitiert wurden. Für 2017 wurde ermittelt, dass 20,2Mio Haushalte Bü-
+cher (inkl. E-Books) gekauft haben. Fünf Jahre vorher waren das noch 23,4Mio Haushalte. 
+ 
+(lt. Stat. Bundesamt) 
+ 
+ 
+Der ØHaushalt be-
+zahlte 2017 
+17,73€/Monat für 
+Presse 
+ 
+ 
+ 
+ 
+d.s. sind bei knapp 
+38Mio Haushalten rd. 
+8Mrd€ jährlich 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 23
+Gestiegen ist die Zahl der Haushalte, von denen E-Books gekauft wurden. 2017 waren es 
+1,6Mio; für 2014 werden 1,1Mio genannt. 
+Vor zehn Jahren gaben die Käuferhaushalte im Durchschnitt monatlich 19€ für Bücher 
+aus. 2017 waren es noch 17€. Umgelegt auf alle Haushalte, also inklusive der Nichtkäufer, 
+sind das durchschnittlich 9€ pro Haushalt. Aus diesen Werten kann ein deutschlandwei-
+ter Gesamtumsatz mit Büchern für den privaten Gebrauch von 4,1Mrd€ im Jahr 2017 
+abgeleitet werden. 
+Fast zeitgleich veröffentlichten die spanischen Statistikbehörden vergleichbare Zahlen. 
+Dort geben die Haushalte pro Jahr 105,60€ für Bücher aus, also 8,80€ pro Monat. Pro 
+Person waren es 42,40€ pro Jahr – 7,20€ weniger als 2016. Das entspricht 15% des in Spa-
+nien als Kulturausgaben klassifizierten Konsums. Für E-Books ["und andere Services"!?] ga-
+ben die spanischen Haushalte 2017 im Schnitt 2,30€ aus, also 2,2% der Buchumsätze. 
+Für Presse gaben die spanischen Haushalte im gleichen Jahr nur 39,60€ aus. In Deutsch-
+land sind der Buchmarkt und der Zeitungs- oder der Zeitschriftenmarkt bezogen auf den 
+privaten Konsum eher gleichgroß und die letzten beiden zusammen doppelt so groß wie 
+der Buchmarkt.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jährliche Buchumsätze 
+in D rund 4,1Mrd€ 
+ 
+ 
+ 
+In Spanien sind die 
+Buchumsätze pro 
+Haushalt vergleichbar 
+ 
+ 
+die Presseumsätze da-
+gegen über 80% kleiner 
+ 
+Deutsche Publikumspresse mit fast 400Mio€ jährlichem 
+Paid Content Umsatz 
+P 
+Paid Content (Publi-
+kumsmedien) in D 
+ 
+Die deutschen Publikumsmedien scheitern mit ihren Paid Content-Angeboten derzeit nur 
+knapp an der 400 Mio€-Jahresumsatz-Grenze. Das zeigt die sechste Markteinschätzung 
+von pv digest zum Endkundenumsatz mit bezahlpflichtigen digitalen Journalismus-
+Angeboten. Neben Digitalversionen der Printausgaben von Zeitungen und Zeitschriften 
+(E-Paper) berücksichtigt unser Modell auch Paywalls, Apps, andere bezahlpflichtige Ange-
+bote und Vertriebsplattformen von dritter Seite. Insgesamt geben die Konsumenten der-
+zeit für diese Angebote auf ein Jahr hochgerechnet 396Mio€ aus. 
+ACHTUNG: Diese Umsatzwerte sind als Schätzungen eines 12-Monatsumsatzes zu lesen, den wir auf 
+Basis eines jeweils aktuellen Monatswertes hochgerechnet haben. Bezugsgröße unserer Kalkulation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aktuell 396Mio€ End-
+kundenumsatz p.a. 
+ 
+ 
+ 
+ 
+ 
++24% zum Vorjahr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Entwicklung der  
+geschätzten  
+12-Monatsumsätze  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 24
+war stets der für den November des dargestellten Jahres geschätzte Monatsumsatz mit digitalen 
+Bezahlangeboten. Diesen haben wir jeweils linear auf 12 Monate projiziert, um einen Jahreswert zu 
+generieren. Die Schätzwerte bilden damit kein Kalenderjahr ab, wie vielfach falsch wiedergegeben, 
+sondern ein fiktives Jahr auf Basis des gerade aktuellen Marktniveaus. Unsere Schätzung ist ein 
+realitätsnaher Indikator für die Entwicklung von Paid Content und vermittelt einen guten Eindruck der 
+jeweiligen Größenordnungen.  
+Realitätsnahe Werte für die jeweiligen Kalenderjahre sind in den Zwischenräumen der obenstehenden 
+Grafik zu finden. Für das Kalenderjahr 2018 bedeutet das, dass der Paid Content-Umsatz zwischen dem 
+im Vorjahr genannten Jahreswert (320Mio€) und der vorliegenden Hochrechnung (396Mio€) liegen 
+sollte. Realistisch könnte ein Wert im Bereich von 360Mio€ sein. Aufgrund unregelmäßiger 
+Entwicklungen und der teils nur jährlich erfolgenden Aktualisierung unserer Daten nennen wir diesen 
+Wert aber nur mit Vorbehalt. 
+Das vielleicht bemerkenswerteste Ergebnis unserer jüngsten Analyse ist die Wachstums-
+geschwindigkeit. Mit +24% sind die Umsätze in den letzten 12 Monaten stärker gewach-
+sen, als in den vorangegangenen zwei Jahren. Bei den Tageszeitungen trieben im letzten 
+Jahr wie auch schon im Jahr davor die erfolgreichen Regionaltitel das Wachstum besonders 
+stark an. Bei den Zeitschriften ragt in unseren Kalkulationen der Spiegel heraus, der dank 
+seiner neuen Flatrate Spiegel+ nach unserer Schätzung auf dem aktuellen Niveau rund 
+50% mehr Paid Content-Umsatz generiert als noch vor 12 Monaten. 
+Das bei den regionalen Zeitungen zuletzt größere Wachstum spiegelt sich auch in unserer 
+Kuchendarstellung der Paid Content-Umsätze. Während im Vergleich zum Vorjahr der An-
+teil der überregionalen Tageszeitungen um 1%-Punkt auf 22% zurückgegangen ist, ist der 
+Anteil, den die regionalen Tageszeitungen mit ihren Digitalaboangeboten erzielen, 
+um 2%-Punkte auf 40% gestiegen. Das Wachstum bei allen Angeboten in diesem Segment 
+resultiert aus dem kombinierten Effekt einer deutlichen Zunahme der Verkäufe und höhe-
+rer Preise als im Vorjahr. Für die überregionalen Zeitungen schätzen wir die Paid Content-
+Erlöse derzeit auf 87Mio€. Bei 
+den regionalen Tageszeitun-
+gen sehen wir die Paid Con-
+tent-Umsätze aus Vollpreis-
+abonnements 
+bei 
+knapp 
+157Mio€. Hinzu kommen die 
+rabattierten 
+Digitalabonne-
+ments, die zu einem Printabo 
+hinzugekauft werden (IVW-Ka-
+tegorie sonstiger Verkauf), und 
+die für weitere 34Mio€ Umsatz 
+stehen. 
+Insgesamt addieren sich die 
+Paid Content-Umsätze der 
+Tageszeitungen auf knapp 
+304Mio€. Im Vergleich zum 
+vom BDZV geschätzten gesam-
+ten 
+Jahresvertriebsumsatz 
+2017 von 4,7Mrd€ wären das 
+6,5%. 
+Achtung: das ist keine 
+Kalenderjahres- 
+betrachtung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+zuletzt wieder deut- 
+liches Wachstum der 
+Paid Content-Umsätze 
+ 
+ 
+ 
+ 
+z.B. beim Spiegel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Verteilung: 
+ 
+ 
+• überreg. TZ: 87Mio€ 
+• reg. TZ Abo: 157Mio€ 
+• reg. TZ SV: 34Mio€ 
+• PZ: 93Mio€ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 25
+Die Paid Content-Umsätze der Publikumszeitschriften (inklusive Wochenzeitungen) 
+veranschlagen wir derzeit bei jährlich 93Mio€. Das sind 34% mehr als im Vorjahr. Die Paid 
+Content-Umsätze der Zeitschriftenverlage sind demnach ebenfalls überdurchschnittlich 
+gewachsen. Der Vergleich zu den gesamten Vertriebsumsätzen in diesem Pressesegment 
+ist schwieriger. Denn für die Vertriebsumsätze im Zeitschriftenmarkt in Deutschland gibt 
+es nach wie vor keine belastbaren Daten. Nach pvd-Schätzung dürfte dieser Wert aber 
+mindestens bei 4Mrd€ liegen. 93Mio€ Paid Content entsprächen daran einem Anteil von 
+2,3%. 
+Insgesamt generieren Regio-
+nal und Lokalzeitungen mit der 
+Summe ihrer Abos und sonsti-
+gen digitalen Verkäufe derzeit 
+fast die Hälfte aller deutschen 
+Paid 
+Content-Umsätze. 
+Die 
+überregionalen 
+Tageszeitun-
+gen liegen gleichauf mit den 
+Publikumszeitschriften. 
+Inte-
+ressant ist ein Vergleich mit 
+der Verteilung aus unserer 
+ersten Schätzung vor fünf-
+Jahren. Seitdem hat sich das 
+Marktvolumen von 140Mio€ 
+auf 396Mio€ nicht ganz aber 
+beinahe 
+verdreifacht. 
+Am 
+stärksten gewachsen ist dabei 
+der Anteil der überregionalen 
+Tageszeitungen. Die regiona-
+len Zeitungen, bei denen wir 
+damals noch nicht zwischen Abo- und SV-Umsätzen unterschieden hatten, haben seitdem 
+Umsatzmarktanteile verloren. Besser gesagt, Zeitschriften und überregionale Zeitun-
+gen haben deutlich aufgeholt.  
+Für das Paid Content-Angebot von Bild liegt unser aktueller Schätzwert bei 26Mio€. Das 
+ist etwas weniger als im Vorjahr. Das bedeutet allerdings nicht, dass die Paid Content-Um-
+sätze des Springer-Flaggschiffs tatsächlich rückläufig waren. Sie sind gewachsen. Wir ha-
+ben aber unser Kalkulationsmodell etwas konservativer justiert und für alle im IVW-Mel-
+deverfahren 'Paid Content' gemeldeten Produkte nur die in Frage kommenden Mindest-
+preise unterstellt. In den Vorjahren hatten wir hier noch versucht, realitätsnahe Misch-
+preise aus unterschiedlichen von uns im Markt angetroffenen Angebotspaketen zu bilden. 
+Der Anteil von Bild an den Paid Content-Umsätzen in Deutschland lag in unseren 
+Schätzungen der letzten 6 Jahre konstant in einem Fenster zwischen 7% und 10%. Da-
+mit haben sich die Paid Content-Umsätze der Boulevardzeitung mehr oder weniger stets 
+parallel zum Gesamtmarkt entwickelt. Bild ist ein Paid Content-Indikator für die gesamte 
+Branche. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vergleich mit 2013: 
+überregionale TZ und 
+PZ haben zulasten der 
+regionalen aufgeholt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anteil von Bild blieb 
+mehr oder weniger 
+gleich 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 26
+Aufgrund der Anpassung am Schätzmodell muss der nachfolgende Vergleich der ge-
+schätzten jährlichen Paid Content-Erlöse überregionaler Tageszeitungen für Bild mit 
+Vorsicht gelesen werden. Für die übrigen Titel haben wir die Paid Content-Umsätze auf 
+Basis der IVW-Meldungen für E-Paper und Paid Content-Produkte sowie der aktuellen 
+Preise nach dem gleichen Verfahren wie in den letzten Jahren ermittelt. 
+Vergleicht man unsere Schätzwerte für die einzelnen Titel, dann haben im vergangenen 
+Jahr wie schon im Jahr davor die Süddeutsche Zeitung und das Handelsblatt die größten 
+Wachstumsschritte gemacht. Weniger gewachsen sind nach unserer Schätzung die Paid 
+Content-Erlöse bei FAZ, Welt und Taz. In absoluten Zahlen dürfte die FAZ allerdings bald 
+auf Augenhöhe mit den Digitalvertriebserlösen bei Bild liegen. Insgesamt ist bemer-
+kenswert, dass die Zahlen für alle Titel mit Ausnahme der Taz in einem nicht allzu breiten 
+Korridor zwischen 20Mio€ und 26Mio€ liegen. Die Vertriebsumsätze der Printausgaben 
+von Handelsblatt und FAZ, Süddeutscher Zeitung und Die Welt liegen prozentual deutlich 
+weiter auseinander als die Digitalvertriebserlöse.  
+ 
+ 
+Insgesamt fußt unsere Marktschätzung auf einer Vielzahl von Annahmen und Durch-
+schnittswerten. Wir haben immer schon darauf hingewiesen, dass dabei die Werte für die 
+Publikumszeitschriften gegenüber den Werten für die Tageszeitungen als deutlich unsi-
+cherer einzustufen sind. Das liegt vor allem am sehr viel breiteren Spektrum der digitalen 
+Bezahlangebote der Magazinverlage. Wir schätzen, dass etwa 85% der Paid Content-Er-
+löse der Zeitungen aus dem Verkauf von Angeboten inklusive E-Paper stammen, de-
+ren Mengen in den IVW-Meldungen detailliert veröffentlicht werden. 
+Bei den Zeitschriften beruht unsere Umsatz-Kalkulation nur zu zwei Dritteln auf Men-
+gen, die wir der IVW-Statistik entnehmen. Für die Vielzahl bisweilen kleinteiliger digita-
+ler Bezahlangebote, die keinen Niederschlag in IVW-Zahlen finden, arbeiten wir mit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Entwicklung Paid Con-
+tent bei den überreg. 
+TZ (2018 für Bild nur 
+bedingt vergleichbar) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+85% der Paid Content-
+Umsätze der TZ basie-
+ren auf Angeboten inkl. 
+E-Paper 
+ 
+ 
+bei PZ nur rund 2/3 
+der Paid Content-Um-
+sätze 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 27
+pauschalen Annahmen, die wir permanent gegen unsere jeweils aktuellen Recherchen ver-
+proben. Beispielsweise haben wir in der letzten Ausgabe berichtet, dass Readly im Jahr 
+2018 weltweit über 30Mio€ Endkundenumsatz erreicht haben könnte. Da etwa ein Drittel 
+davon auf Deutschland entfallen dürfte, macht alleine Readly mehr als 10% der Paid 
+Content-Umsätze der hiesigen Zeitschriften aus. Allerdings gilt es da wiederum Über-
+schneidungen zu bedenken, da einige aber längst nicht alle bei Readly erhältlichen Titel 
+ihre Zahlen als SV- und teils sogar als EV-Stücke bei der IVW melden. Umgekehrt beinhalten 
+die Readly-Umsätze in Deutschland auch Erlöse, die nicht-deutschsprachigen Titeln zu-
+gutekommen. 
+Ein anderes Beispiel für Paid Content bei Zeitschriften, der nicht über IVW-Daten abgelei-
+tet werden kann, ist die Stiftung Warentest. Die meldet keine Daten an die IVW, berichtet 
+aber für 2017 über 4,3Mio€ Vertriebserlöse mit ihren digitalen Angeboten. Das alleine sind 
+rund 5% der von uns geschätzten Paid Content-Umsätze bei den Zeitschriften. 
+Und auch viele kleine Angebote können sich zu nennenswerten Beträgen aufaddieren. 
+So dürften alleine die Blogs und Digitalangebote, die den in diesem Bereich spezialisierten 
+Bezahldienstleister Steady nutzen, mittlerweile deutlich über 1Mio€ pro Jahr erzielen. Viele 
+davon und vor allem die größeren Angebote sind eindeutig als zeitschriftenähnlicher Jour-
+nalismus einzuschätzen (zB Krautreporter) oder stammen sogar von Zeitschriften (Titanic). 
+ 
+Unser Kalkulationsmodell beruht auf folgenden Parametern und Annahmen. 
+> 
+Für die überregionalen Zeitungen, für Bild und für ausgewählte regionale Zeitungen 
+haben wir anhand der IVW- Daten (E-Paper-Auflagen und bei Bild und Welt auch IVW-
+Daten zu den digitalen Bezahlangeboten) und weiterer uns bekannter Digitalprodukte 
+eine auf den Details der Auflagenstruktur und der jeweiligen individuellen Angebots-
+preise beruhende Abschätzung vorgenommen. 
+> 
+Die E-Paper-Erlöse der übrigen regionalen (inkl. lokalen) Tageszeitungen haben wir 
+entsprechend der IVW-Angaben (Auflagen, Anteil Abo vs. SV Tageszeitungen gesamt 
+abzgl. Mengen einzeln betrachteter Titel) und angenommenen Durchschnittspreisen 
+(monatlich 22,60€ für E-Paper-Abos und 5,37€ für E-Paper Sonderverkäufe) kalkuliert. 
+> 
+Mittlerweile hat die Mehrheit aller Tageszeitungen in ihren Webangeboten eine 
+Paywall installiert. Aber nicht alle diese Titel generieren Paywall-only-Erlöse. Bei vielen 
+Titeln berechtigt ein E-Paper-Abo auch zur Nutzung der bezahlpflichtigen Webinhalte, 
+so dass die Paywall keine zusätzlichen Erlöse generiert. Wir unterstellen, dass im Bran-
+chenschnitt ein Drittel aller Zeitungen ein separates Webabo anbietet, und dass dabei 
+ein Webabo-Kundenbestand in Höhe von 1,5% der verkauften Zeitungsauflage er-
+reicht wurde. Für diese reinen Paywall-Abos sehen wir einen Durchschnittspreis von 
+rund 6,20€ (In einer unklar bestückten Stichprobe bei 50 Tageszeitungen sah der DNV 
+im Herbst den Preis für ein durchschnittliches Webabo bei 9,47€. Ein durchschnittli-
+ches Print+ Upgrade lag in der DNV-Analyse bei 5,23€.) 
+> 
+Auch für digital herausragende Zeitschriften und Wochenzeitungen haben wir anhand 
+der IVW- Daten und weiterer uns bekannter Digitalprodukte eine auf den Details der 
+Auflagenstruktur und der jeweiligen individuellen Angebotspreise beruhende Einzel-
+Abschätzung vorgenommen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Erläuterungen zum 
+Schätzmodell 
+ 
+ 
+• individuelle Betrach-
+tung großer TZ 
+ 
+ 
+ 
+ 
+• ØBetrachtung für 
+restliche TZ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Zusätzliche Paywall-
+erlöse angenommen 
+bei 1/3 aller 
+Zeitungen 
+ 
+ 
+ 
+ 
+ 
+ 
+• individuelle Betrach-
+tung großer PZ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 28
+> 
+Für die Abschätzung der Paid Content Erlöse der übrigen Zeitschriften (inkl. Wochen-
+zeitungen und Special Interest Magazine aber keine Fachzeitschriften) haben wir die 
+Erlöse aus dem Verkauf von E-Papern auf Basis der IVW-Zahlen und mit Durchschnitts-
+preisen ermittelt. Die per Abonnement als E-Paper verkauften betroffenen Zeitschrif-
+ten erscheinen zu sehr unterschiedlichen Preisen und unterschiedlich häufig. Für die 
+Kalkulation haben wir einen repräsentativen Mittelwert herangezogen. Basis für des-
+sen Berechnung sind Durchschnittswerte, die wir aus einem proportional gewichteten 
+Mix der Zeitschriften mit den meisten E-Paper-Verkäufen (die alleine für 70% der IVW-
+Aboauflage exkl. Mitgliederstücke stehen) und einer Stichprobe aus allen übrigen Ti-
+teln berechnet haben. Unser 'Durchschnitts-E-Paper' kostet 6,70€ pro Monat im regu-
+lären Abo und 0,96€ im sonstigen Verkauf.  
+> 
+Für die unübersichtlichen Paywall-, App- und sonstigen Angebote von Zeitschriften so-
+wie für E-Paper ohne IVW-Meldung haben wir pauschal einen Jahreserlös von 30Mio€ 
+angenommen. 
+ 
+Zum Vergleich weitere Schätzungen zum Vertriebsumsatz digitaler Angebote:  
+Wir verproben auch unterjährig unsere Schätzungen permanent gegen weitere Angaben 
+und Analysen, sowohl zum Gesamtmarkt als auch zu einzelnen Teilbereichen (bis hin zu 
+Werten einzelner Titel). Bisher sind uns dabei keine Daten begegnet, die unsere Schätzung 
+bezüglich der Größenordnung oder des Zeitreihentrends ernsthaft in Frage stellen. Auch 
+der Vergleich mit Daten zu benachbarten Märkten (thematisch-inhaltlich wie geogra-
+fisch) ermöglicht eine Plausibilisierung unserer Werte. 
+> 
+Im Februar 2018 veröffentlichte das DCI-Institut zusammen mit der Hochschule 
+Fresenius eine Studie, nach der der Anteil der Deutschen, die für digitale News bezah-
+len, um rund 50% auf 15,6% gestiegen sein soll. In unterschiedlichen Szenarien ver-
+suchte auch diese Studie eine Umsatzschätzung. Unterstellt man für die 15,6% Käufer 
+einen in der Studie genannten "unteren Bereich" (Low Case-Szenario) der Digitalpro-
+duktpreise von 5€ pro Monat und geht man von rd. 60Mio deutschen Internetnutzern 
+aus, dann läuft das auf 60Mio*15,6%*12*5€=561,6Mio€ jährlichen Paid Content 
+Umsatz hinaus. 
+> 
+Laut Börsenverein des deutschen Buchhandels wurden 2017 186Mio€ mit E-Books 
+im deutschen Publikumsmarkt umgesetzt. Im ersten Halbjahr 2018 sollen es 100Mio€ 
+gewesen sein. Bei etwa 4,1Mrd€ Umsatz aus privaten Buchkäufen (2017, lt. Stat. Bun-
+desamt) wäre der Digitalanteil an den Buchvertriebsumsätzen damit bei rund 4,5%. 
+> 
+Die deutschen Fachverlage, die ihre Branchenstatistik im letzten Jahr deutlich über-
+arbeitet haben, berichten von insgesamt 1,4Mrd€ Paid Content-Umsatz, von denen 
+über 1Mrd€ auf Deutschland entfallen dürfte, da die Verlage 80% ihrer Umsätze im 
+Heimatmarkt erzielen. 
+> 
+Die New York Times alleine erzielt in etwa genauso viel Paid Content Umsatz wie 
+alle deutschen Publikumsmedien zusammen. Für das Kalenderjahr 2017 wies die 
+Zeitung 340Mio$ Erlöse aus Digitalabos aus. Im dritten Quartal 2018 erreichte die Zei-
+tung 100Mio$ Digitalaboerlöse. 
+ 
+ 
+ 
+• ØBetrachtung für 
+restliche PZ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• zzgl. Pauschale für 
+nicht via IVW ableit-
+bare Umsätze 
+ 
+ 
+Benchmarks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Studie DCI/Fresenius: 
+561,6Mio€ Umsatz 
+mit digitalen News 
+ 
+ 
+ 
+ 
+ 
+ 
+• 186Mio€ E-Book-Um-
+satz (4,5% der Buch-
+umsätze) 
+ 
+ 
+ 
+• Fachverlage berich-
+ten über 1,4Mrd€ 
+Paid Content-Umsatz 
+ 
+ 
+ 
+• alle deutschen Publi-
+kumsmedien = Paid 
+Content-Umsatz der 
+NYT 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 29
+ 
+ 
+ 
+ 
+ 
+ 
+Der (nicht nur US-)Pressemarkt 2018 in 6 Trends  
+93 
+6 Thesen zu Presse 
+ 
+Der US-Fachdienst Publishing Executive lässt den fiktiven Brancheninsider D. Eadward 
+Tree [also etwa P. Rint-Sterben] sechs widersprüchliche Großtrends zum Pressemarkt  
+diagnostizieren. [pvd: Es ist bemerkenswert, wie viele Parallelen sich darin zwischen 
+der Diagnose eines vor allem auf die USA fokussierten Experten und dem hiesigen Markt 
+zeigen]. D. Eadward Trees Thesen: 
+> 
+Man liebt uns (Milliardäre zumindest, für die der Besitz renommierter Printmarken 
+zum Statussymbol geworden ist) 
+> 
+Man liebt uns nicht mehr (die großen Industriepartner zumindest. Papierproduzen-
+ten verlegen sich zunehmend auf Kartonagen, so dass es das ganze Jahr über zu einem 
+Engpass bei Papier in Zeitschriftenqualität gekommen ist. Postmanager, die früher 
+Presse als das zentrale Produkt in der Zustellung gesehen hatten, verärgern die Ver-
+lage mit Preiserhöhungen. Druckereien suchen aktiv nach Nicht-Zeitschriften-Kun-
+den.) 
+> 
+Der Niedergang von Print (brutale Einbrüche im Werbegeschäft. Ehemals begeis-
+terte Printkunden wie Calvin Klein verschieben alle ihre Budgets in Richtung digital. 
+Der Einzelvertrieb befindet sich in einer Abwärtsspirale. Grossisten pressen Verla-
+gen bessere Konditionen ab, nur um dann an fragwürdige Investoren verkauft zu wer-
+den.) 
+> 
+Print im Aufwind (Das Jahr war hart für digital only erscheinende Startup-Publisher. 
+Aber lange etablierte Printmarken erleben auf ihren Websites steigende Nutzerzah-
+len. Automatisierte Marktplätze zum Verkauf von Printanzeigen sorgen für die Hoff-
+nung, dass das byzantinisch anmutende Anzeigenverkaufsgeschäft endlich moderni-
+siert wird. Verlage, die sich auf Nischenzielgruppen und eine geografisch und/oder de-
+mografisch fokussierte Werbevermarktung ausrichten, erleben Wachstum). 
+> 
+Schrumpfende Giganten (Das Google-Facebook-Duopol erscheint nicht mehr un-
+erschütterlich. Facebook wird von Skandalen gebeutelt. Google erlebt ein Fiasko bei 
+seinem Social Media-Angebot Google+). 
+> 
+Ein dritter Gigant (Amazon erobert mit hoher Geschwindigkeit Anteile im Werbe-
+markt. "Kann man von einem Triopol sprechen?") 
+ 
+ 
+[bezogen auf den US-
+Markt, aber mit ver-
+blüffenden Parallelen] 
+ 
+ 
+ 
+ 
+• Presse wird geliebt 
+ 
+ 
+ 
+ 
+• Presse wird nicht 
+mehr geliebt 
+ 
+ 
+ 
+ 
+ 
+ 
+• Mit Print geht es 
+bergab 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Print im Aufwind 
+ 
+ 
+ 
+ 
+ 
+ 
+• Die Giganten haben 
+Probleme 
+ 
+ 
+• Ein neuer Gigant ent-
+steht 
+ 
+ 
+QUELLEN:
+MEINUNGEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 30
+ 
+ 
+ 
+ 
+ 
+Walter Hitziger, Briefpostvorstand bei der österreichischen Post, verlässt das Unterneh-
+men Ende des Jahres. Sein Vorstandbereich wird in den Bereich Paket&Logistik integriert. 
+Beim Weser-Kurier sind Moritz Döbler und David Koopmann als Vorstände der Bremer 
+Tageszeitungen AG auf Eric Dauphin und Jan Leßmann gefolgt. 
+Ab Februar ist Andreas Marggraf weiterer Geschäftsführer der Taz. Ab Ende 2019 wird 
+dafür Geschäftsführer Karl-Heinz Ruch in den Ruhestand gehen. 
+Computech Media Group-Geschäftsführer Hans Ippisch wechselt in die Geschäftsleitung 
+des Mutterkonzerns Marquard Media. Bei Computech rückt dafür Christian Müller in 
+die Geschäftsführung auf. 
+Bei der Schweizer Zeitungshaus AG hat Martina Barth die Geschäftsführung von Marcel 
+Geissbühler übernommen. 
+Markus Gotta ist zum zweiten Geschäftsführer der Matthaes Verlag GmbH berufen wor-
+den. Er bleibt auch Geschäftsführer der dfv Mediengruppe. 
+Michael Plasse wird am 1. Februar Geschäftsführer der Oldenburgischen Volkszeitung. 
+Matthias Nieswandt ist neuer Chief Commercial Officer bei der Weimer Media Group. 
+Gruner+Jahrs PR-Chef Frank Thomsen wird zusätzlich Publisher für die Stern- und Geo-
+Titel. Er folgt in dieser Rolle auf Alexander von Schwerin. 
+Nancy Klatt ist jetzt Verlagsleiterin bei der Braunschweiger Zeitung. 
+ 
+P 
+1 
+2 
+10 
+14 
+16 
+17 
+37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wer bringt den Müll weg? Verlage & Verpackungsgesetz 
+3 
+Verpackungsgesetz 
+ 
+Ein großes Thema der letzten Ausgabe war das Verpackungsgesetz. Unter anderem hat-
+ten wir festgestellt, dass sowohl die meisten Verlage wie auch der VDZ viel zu spät (wenn 
+überhaupt) auf das Thema aufmerksam geworden sind. Der Südwestdeutsche Zeitschrif-
+tenverlegerverband SZV hat dann aber am Versandtag der letzten Ausgabe einen ausführ-
+lichen How-to-Guide online gestellt. Der ist sehr lesenswert, wenn Sie konkreten Rat su-
+chen, was in dieser Sache für Sie zu tun ist [pv-digest.de/linkliste Link1] 
+ 
+ 
+ 
+ 
+ 
+ausführlicher Leitfaden 
+des SZV 
+ 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+QUELLEN:
+PERSONALIEN
+QUELLEN:
+BRANCHENNEWS & -RECHT
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 31
+Vorsicht: Die Zukunft heißt Vollsicht  
+Zum Jahresanfang sei eine Prognose ge-
+wagt: In einigen Jahren (5? 10? 15?) wird
+Presse im Supermarkt nur noch in Vollsicht
+präsentiert und anhand der beim Händler 
+registrierten Verkäufe abgerechnet. 
+Dabei ist die letztgenannte Prognose nicht 
+allzu gewagt. Wenn Pay-per-Scan nicht 
+heute schon viel weiter verbreitet ist, dann
+liegt das vor allem an der relativ geringen 
+Bedeutung von Presse im Gesamtsortiment 
+eines Lebensmittelhändlers. Edeka, Rewe 
+und Aldi können derzeit bei anderen The-
+men schlicht viel mehr bewegen, als wenn
+sie ihre Energie auf die Durchsetzung neuer 
+Prozesse im Pressebereich verwenden wür-
+den.  
+Der Supermarkt der Zukunft allerdings 
+wird keine Kassen und keine Kassierer 
+mehr haben. Das ist dann der letzte Schritt
+in der Umgestaltung des Lebensmittelhan-
+dels, die mit der Abschaffung individueller
+Verkaufsportionen und dem Ende der Be-
+dientheken vor über 100 Jahren beim US-
+Supermarktpionier Piggly Wiggly eingeleitet
+wurde. 
+Noch ist nicht entschieden, mit welcher 
+Technik die Wegrationalisierung der Kassen 
+umgesetzt werden wird. Unsere Glaskugel
+tippt hier, wie viele Experten derzeit, auf ein 
+System, das entweder Amazon Go heißt 
+oder aber von Amazon Go inspiriert ist. Eine 
+Vielzahl unterschiedlichster Sensoren und 
+Kameras erfasst das Verhalten der Käufer 
+ im Laden. Künstliche Intelligenz interpre-
+tiert die Daten in Echtzeit, stellt fest, wel-
+ches Honigglas gegriffen wurde und wel-
+ches nicht, unterscheidet zwischen Nur-An-
+fassen, Herausnehmen und Zurücklegen
+und bucht am Ende exakt die Waren als ver-
+kauft, die der Kunde tatsächlich aus dem La-
+den trägt. "Alle Versuche, das System wäh-
+rend des Besuchs auszutricksen, waren er-
+folglos", schrieb kürzlich die Neue Zürcher
+Zeitung über die Erfahrungen in den ersten
+Amazon Go-Läden. 
+Allerdings wurde das System noch nicht
+an einem Zeitschriftenregal erprobt. Die In-
+telligenz, die auf einer auf 8cm geschuppten
+Präsentationsfläche zwischen einer blau-
+gelben Freizeit X und einer blaugelben Frei-
+zeit Y mit gleichem Format und identischem
+Gewicht zu je 0,69€ unterscheiden könnte,
+die ist noch nicht erfunden. 
+Sofern also Amazon bei seiner Expansion
+in Richtung stationärer Handel nicht auf
+Presse verzichten will – und diese Hoffnung
+ist berechtigt; auch in seinen stationären
+Buchläden ist Presse ein essentieller Be-
+standteil – wird es darauf bestehen, dass
+Presse so angeboten wird, dass sie auch
+ohne menschliches Zutun unterscheidbar
+und verkäuflich ist. Und das bedeutet: in
+Vollsicht. 
+Die Zukunft der Supermärkte ist kassen-
+los. Es ist unerheblich, wie sich Verlage und
+Grossisten in dieser Frage positionieren.  
+ 
+ 
+… letzte Worte 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt.  
+Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: abo@pv-digest.de 
+AUSGABE 1/2019 ׀ SEITE 32
+ Über pv digest 
+ 
+ 
+pv digest ist ein Informationsdienst auf Expertenniveau für das Top-Management 
+rund um das Thema Pressevertrieb und Vertrieb journalistischer Inhalte. pv digest 
+beruht auf eigenen Recherchen und auf Zusammenfassungen an anderer Stelle ver-
+öffentlichter Informationen und bietet einen einzigartigen Überblick über alle stra-
+tegisch relevanten Vertriebsthemen. pv digest unternimmt in der Regel keine Prü-
+fung wiedergegebener Inhalte und übernimmt keine Garantien für die inhaltliche 
+Korrektheit von Informationen. Genutzte Quellen in pv digest sind in der vorliegen-
+den Ausgabe wie folgt codiert: 
+ 
+Quellenverzeichnis Ausgabe 1/2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum und 
+Kontaktdaten 
+ 
+HERAUSGEBER: 
+Markus Schöberl (v.i.S.d.P.) 
+Doverkamp 5 
+22335 Hamburg 
+Telefon: 040 308 901 09 
+e-mail: schoeberl@pv-digest.de 
+www.pv-digest.de 
+ 
+pv digest erscheint 11x jährlich,  
+in der Regel am fünften Werktag 
+eines Monats, als personalisiertes  
+PDF-Dokument 
+ 
+PREISE: 
+Regulärer Bezug Deutschland:  
+pro Ausgabe 65€ zzgl. USt., Aus-
+landspreise auf Anfrage 
+ 
+Sonderpreise für Mengen- oder 
+Firmenabos auf Anfrage 
+ 
+BESTELLUNGEN UND  
+SERVICEFRAGEN:  
+e-mail: abo@pv-digest.de 
+Telefon: 040 308 901 09 
+Post: Doverkamp 5,  
+22335 Hamburg 
+ 
+Bankverbindung: 
+Hamburger Sparkasse 
+BIC:  
+HASPDEHHXXX 
+IBAN:  DE82 2005 0550 1237 1348 10 
+ 
+USt-IdNr.: DE287625264 
+ 
+COPYRIGHT: 
+pv digest ist ein empfängerge-
+bundener Informationsservice 
+ 
+ 
+Vervielfältigung und elektroni-
+sche Weitergabe sind untersagt. 
+ 
+der nächste pv digest 
+erscheint am 7. Februar 2019
+ACHTUNG: das nächste pv digest 
+erscheint am 8. Januar 2019 

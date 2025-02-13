@@ -1,0 +1,3105 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+Ausgabe 1/2022 
+Liebe Leserinnen und Leser, 
+willkommen im neuen Jahr. Dank der 
+Weihnachtsfeiertage und dem auf ei-
+nen Donnerstag gefallenen Dreikö-
+nigstag habe ich die Wochen vor die-
+ser Ausgabe als für unsere Themen 
+wenig ergiebig erlebt. 
+Da ist es praktisch, dass ich diese 
+Ausgabe gerne nutze, um zwei The-
+men aufzuarbeiten, die das ganze 
+letzte Jahr betreffen. Das ist einer-
+seits meine jährliche Abschätzung 
+der Paid Content-Umsätze von Publikumsmedien in Deutschland (ab Seite 20). 
+Und das ist zum anderen meine Analyse der Daten zur Struktur der Presseeinzel-
+händler in Deutschland (S.10). Die geht diesmal allerdings weit über die Betrach-
+tung der aktuellen Ehastra-Daten hinaus. Fast zeitgleich zur Ehastra haben VDZ und 
+Grossoverband eine 'Käufermarktstudie' vorgelegt. Die ist eigentlich nur ein Marke-
+tinginstrument für den Verkauf von Presse im Einzelhandel. Sie steckt aber voller 
+Daten. Und gleich mehrere dieser Daten haben für mich eine sehr bedeutende Frage 
+aufgeworfen. Mehr als das: sie legen den Eindruck nahe, dass im Presseeinzelhan-
+del seit Jahren eine nicht nur umstrittene, sondern eine verfehlte Verknappungs-
+strategie gepusht wird (S.11ff). 
+Ich kann aber auch praktische Themen aus der Publishing-Welt in dieser Ausgabe 
+empfehlen. Besonders das Interview mit dem Paid Content-Verantwortlichen bei 
+Zeit Online ab der folgenden Seite. Sascha Bossen hat alle meine Fragen sehr offen 
+und nicht selten auch überraschend beantwortet. Überrascht hat mich auch die Er-
+folgsgeschichte, als die sich der digitale Lesezirkel Sharemagazines darstellt (S.14ff). 
+Ich wünsche Ihnen einen gutes und verkaufsstarkes Jahr 2022. 
+ 
+Markus Schöberl, Herausgeber pv digest 
+PS: Unterstützen Sie mich und pv digest mit Feedback oder Hinweisen? In der Versand-
+E-Mail dieser Ausgabe oder hier finden Sie einen Link zu einem 1-Minute Online-
+Fragebogen zu dieser Ausgabe. 
+Der pv digest 
+Quick Guide 
+ 
+Das Wichtigste in 15 Minuten 
+ 
+ 
+Für Zeitschriften- 
+Verlage 
+Für Zeitungs/ 
+News-Verlage 
+Zu Paid Content 
+ 
+Für Handels- 
+Verantwortliche 
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.  2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.10 
+Analysen und  
+Daten                 
+ 
+S.20 
+Personalien 
+ 
+S.28 
+Branchenews- 
+&Recht 
+ 
+S.28 
+letzte Worte 
+S.31 
+Editorial 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 2
+ 
+ 
+ 
+ 
+ 
+Wie blickt DIE ZEIT auf das Thema Churn? 
+P 
+Churn bei DIE ZEIT 
+ 
+Das Thema 'Churn' dominierte im vergangenen Jahr die Diskussionen rund um das Ge-
+schäftsmodell Paid Content wie kein zweites.  
+[pvd: Wir würden sogar einen neuerlichen Paradigmenwandel diagnostizieren. Noch im-
+mer die längste Zeit seit Start der ersten Bezahlmodelle für digitale Presse dominierte die 
+Skepsis, oft gesteigert bis in kompromisslose Vorhersagen wie 'niemals werden Menschen 
+für digitalen Journalismus bezahlen'. Ca. seit 3-5 Jahren hat sich der Wind gedreht. Heute 
+findet sich kaum noch jemand, der in Paid Content nicht die wichtigste und auch erfolg-
+versprechendste Geschäftsstrategie für digitalen Journalismus sieht. Unerwartete Phäno-
+mene wie der starke Anstieg der Digitalabomengen bei zahlreichen Medien im Rahmen 
+des 'Trump-Bump' oder des 'Corona-Booms' befeuerten noch den nun plötzlich verbreite-
+ten Bezahl-Optimismus. Der ist nach wie vor vorhanden. Aber – und das wäre das dritte 
+Paradigma – im letzten Jahr häuften sich teils frustrierte Äußerungen über die (vermeint-
+lich/tatsächlich/befürchtete) schlechte Haltbarkeit von Digitalabos.] 
+Überhaupt keinen äußerlichen Anlass darüber zu klagen hat die deutsche Wochenzei-
+tung Die Zeit. Die eilt nach wie vor von 'Auflagen'rekord zu 'Auflagen'rekord, wobei zur 
+'Auflage' mittlerweile in sehr hohem Maß digitale Abos beitragen. Im Rahmen der letzten 
+IVW-Meldung berichtete die Zeit über nicht weniger als 165.000 Digitalabos, rund ein Drit-
+tel der gesamten Abomenge. Dabei kostet ein Digitalabo der Zeit nicht weniger als ein 
+Printabo. Wie geht dieser Leuchtturm unter den deutschsprachigen Paid Content-Angebo-
+ten mit dem Thema Churn um? Dazu haben wir mit einem der verantwortlichen Zeit Ma-
+nager gesprochen. 
+Interview mit Sascha Bossen, Head of 
+Product Management Paid Content, 
+ZEIT ONLINE GmbH 
+Sascha, beim Thema Churn gehen derzeit in 
+vielen Häusern die Alarmlampen an. Mein 
+Eindruck ist, dass das Thema manchmal so-
+gar dramatischer gesehen wird, als es sach-
+gerecht wäre. Wie blickt Ihr bei Die Zeit im 
+Moment auf das Thema Churn?  
+"Ich denke auch, dass beim Thema Churn 
+manchmal zu viel Alarmismus herrscht. 
+Natürlich vergrößert sich die Anzahl der 
+Kündiger, wenn der Bestand größer wird. 
+Aber die Quote der Kündiger, der Churn, ist bei uns sehr stabil. Ein Thema wird das vor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nach a) Skepsis und b) 
+Euphorie  
+ 
+ 
+ 
+ 
+ 
+nun das dritte Paid 
+Content-Paradigma c): 
+die Angst vor Churn 
+ 
+ 
+ 
+ 
+ 
+ 
+(anscheinend) noch 
+unbelastet davon ist 
+die Zeit 
+ 
+ 
+ 
+ 
+ 
+Was denkt Die Zeit 
+über Churn? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"derzeit noch kein gro-
+ßes Thema" 
+ 
+ 
+ 
+QUELLEN:
+NACHRICHTEN AUS VERLAGEN
+UND VERLAGSVERTRIEBEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 3
+allem in der Zukunft, weil unser Bestand so groß ist, dass auch die Anzahl der Kündiger 
+groß wird. Und umgekehrt werden dann selbst Maßnahmen, die den Churn vielleicht nur 
+ein bisschen verbessern, spürbare Wirkungen haben. Wir kümmern uns vor allem mit 
+Blick auf die mittelfristige Zukunft zunehmend um dieses Thema." 
+Wie messt Ihr Churn? Da fangen für mich viele Missverständnisse an. Dass Probeabonnenten, 
+oder sogar Gratis-Probeabonnenten, zu einem sehr hohen Anteil wieder kündigen, das liegt in 
+der Natur der Sache, das ist für mich kein 'Churn'. 
+"Bei ZEIT ONLINE zählen wir als Churn nur Kündigungen von solchen Abos, die die Pro-
+bephase verlassen haben und danach mindestens vier Wochen zum vollen Preis be-
+zahlt wurden. Die Churnquote ist dann die Anzahl dieser Kündigungen geteilt durch die 
+Menge der aktiven Abos, die diese Kriterien erfüllen. Diese Quote ermitteln wir auf Mo-
+natsbasis, also die Kündigungen eines Monats geteilt durch den in diesem Monat aktiven 
+Bestand. 
+Außerdem zählen wir die Kündigungen bereits am Tag des Kündigungseingangs (und nicht 
+erst am Tag des tatsächlichen Abgangs) in die Quote rein. So sieht man mögliche Trends 
+deutlich früher." 
+Und wie hoch ist diese Churnquote bei Euch? 
+"Unsere Churn-Quote liegt bei Digital-Abos in den letzten Monaten – nach der oben be-
+schriebenen Definition – im niedrigen einstelligen Bereich pro Monat. Wir sind mit der 
+Churn-Quote bisher zufrieden – vor allem, da sie trotz des massiven Anstiegs des Bestands 
+in den letzten Monaten stabil ist. Durch die steigenden Bestände sehen wir aber natürlich 
+die Potentiale." 
+Was kann man gegen Churn tun? 
+"Da muss ich zunächst auf mein Eingangsstatement zurückkommen. Die schiere Menge 
+der Kündigungen unserer Z+ Abos ist noch nicht so groß, dass wir viele verschiedene Maß-
+nahmen systematisch testen können. Da stehen selbst wir, obwohl DIE ZEIT ja schon ein 
+recht großes Medium ist, noch ziemlich am Anfang. 
+Was ich erzählen kann ist aber, dass wir uns sicher sind, dass man mit Anti-Churn sehr 
+früh anfangen sollte. Bevor wir in die Analysen eingestiegen sind, hatten wir unausge-
+sprochen die Erwartung, dass ein Kündiger sich mit Scoringverfahren dadurch identifizie-
+ren lässt, dass er irgendwann im Lauf seines Abo sein Verhalten ändert, dass er zum Bei-
+spiel weniger liest als vorher. 
+Tatsächlich ist es aber so, dass die späteren Kündiger sich von Anfang an von den Abon-
+nenten unterscheiden, die nicht kündigen. Wir – also die Analyse-Kollegen – haben 120 
+Merkmale untersucht, um potenzielle Kündiger zu identifizieren. Und wir haben dabei fest-
+gestellt, dass die Unterschiede von Anfang an vorhanden sind. Von Anfang an lesen spä-
+tere Kündiger weniger und zeigen andere Muster beim Bezahlverhalten, zum Beispiel 
+beim Bezahlrhythmus oder dem Zahlweg. 
+Wenig kündigungsgefährdete Kunden zeigen manchmal von Anfang an weitere typische 
+Nutzungsmuster. Wer sich eine Artikelmerkliste anlegt, wer bestimmte Inhalte wie bspw. 
+unsere Wochenmarkt-Kochrezepte liest, wer unser Angebot von Anfang auch über die 
+Apps nutzt, kündigt viel seltener. Die frühe Appnutzung ist übrigens ein sehr starkes 
+ 
+ 
+ 
+ 
+ 
+ 
+Wie messt Ihr Churn? 
+ 
+ 
+ 
+ 
+ 
+"Nur Abgänge aus 
+Abos, die mindestens 4 
+Wochen voll bezahlt 
+wurden" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eure Churnquote? 
+ 
+ 
+"niedrig einstellig" 
+ 
+ 
+ 
+ 
+Was tut Ihr gegen 
+Churn? 
+ 
+ 
+"noch zu wenig harte 
+Daten 
+ 
+ 
+ 
+klar ist: Anti-Churn 
+muss sehr früh begin-
+nen 
+ 
+ 
+ 
+ 
+ 
+zukünftige Kündiger er-
+kennt man schon in 
+den ersten Tagen 
+ 
+ 
+ 
+ 
+ 
+ 
+(nur!) frühe Appnut-
+zung = geringes Churn-
+Risiko" 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 4
+Merkmal für eine stabile Kundenbeziehung. Im späteren Verlauf eines Abos ist die Nut-
+zung der Apps dagegen kein so deutlicher Indikator mehr." 
+Überspitzt heißt das, man wird als Kündiger 'geboren', man wird nicht erst im Lauf des Abos 
+dazu? 
+"Das ist sehr überspitzt. Für uns heißt das, dass Maßnahmen, die eine Kündigung verhin-
+dern sollen, praktisch von Anfang eines Abos an stattfinden müssen." 
+Kannst Du vielleicht ein paar Beispiele nenne, welche Maßnahmen Ihr hier auf dem Zettel habt, 
+selbst wenn die noch nicht perfekt ausgetestet sind? 
+"Wir starten jetzt erste Maßnahmen. Durch unsere Analysen wissen wir, dass bspw. die 
+Nutzung der Merkliste oder des Wochenmarkts einen positiven Effekt auf die Haltbarkeit 
+haben. Deshalb versuchen wir nun in Testgruppen Abonnenten gezielt in den Wochen-
+markt zu führen und Ihnen die Funktion der Merkliste näher zu bringen. Spannend 
+wird es hier sein, ob wir durch das proaktive Führen in diese Haltbarkeits-Faktoren auch 
+tatsächlich Churn reduzieren." 
+Was habt Ihr im Rahmen Eurer Analysen noch gelernt? 
+"Wir glauben tatsächlich, dass wir ein neues Nutzungsmuster identifiziert haben: hopp-
+on-hopp-off-Abonnenten. Damit meine ich Kunden, die ein Abo bestellen, es wieder kün-
+digen, später wieder bestellen und so weiter. Solche Kunden gibt es immer mehr. 2019 
+hatten 15% aller Abobesteller eine Vorgeschichte, also mindestens schon mal ein Abo ge-
+habt. In diesem Jahr trifft das schon auf 25% zu. Und diese hopp-on-hopp-of-Abonnenten 
+haben im Durchschnitt schon drei Abos gehabt, davon zwei erst in der jüngeren Vergan-
+genheit, im letzten halben Jahr." 
+Da hätte ich spontan die These, dass das eine Folge Eurer sehr aktiven Kündigerrückgewinnung 
+ist. Die Zeit ist sehr großzügig mit Probemonaten. Und Ihr verschickt Werbemails mit diesem 
+Angebot in sehr hoher Frequenz. 
+"Das stimmt. Aber bitte nicht vergessen: als Churn, also auch im Rahmen dieser Analyse, 
+zählen wir nur solche Kunden, die mindestens auch einen voll bezahlten Monat haben. 
+Reine Probeleser habe ich hier also gar nicht betrachtet." 
+Zweite spontane These: Von Videostreaminganbietern ist bekannt, dass dort viele Kunden ihre 
+Abos schlicht nach Bedarf ein- und ausschalten. Man schaut sich eine Serie an und hat so lange 
+ein Abo und dann beendet man das Abo und schaut bei einem anderen Anbieter weiter. Und 
+dann kommt man wieder zurück. Wenn man einmal seine Abodaten hinterlegt hat, dann geht 
+das ja auch ganz einfach. Da muss man oft wirklich nur einen An/Aus-Schalter im Kundenkonto 
+betätigen. 
+"So ist das bei uns aber noch nicht. Wer ein Zeit-Abo bestellt, der muss immer seine kom-
+pletten Daten, Adresse und Bezahldaten, neu eingeben. 
+Ich glaube auch nicht, dass so ein Nutzungsmuster bei unseren Produkten häufig ist. Wir 
+glauben, dass es evtl. zwei andere Unter-Gruppen der hopp-on-hopp-of-Abos gibt, näm-
+lich einmal Leser, die wir einfach noch nicht für ein dauerhaftes Abo gewonnen haben, 
+weil die noch unsicher sind. Und dann gibt es sicher auch solche, die ihre Abokosten 
+dadurch optimieren wollen, dass sie immer wieder das günstige Probeabo bestellen. Das 
+kostet bei uns jetzt immerhin 1€. Den Gratismonat haben wir auf der Paywall im Juni 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beispiele für Maßnah-
+men? 
+ 
+ 
+ 
+"Nutzung von Merkliste 
+und Wochenmarkt 
+[pvd: Kochrezepte] för-
+dern" 
+ 
+ 
+ 
+Was habt Ihr noch ge-
+lernt? 
+ 
+ 
+"Es gibt 'hop-on-hop-
+off-Abonnenten" 
+ 
+ 
+ 
+ 
+ 
+ 
+Weil Ihr so häufig  
+Probeabos anbietet?! 
+ 
+ 
+"Nein, Probeabos zäh-
+len nicht dazu" 
+ 
+ 
+ 
+Weil manche Nutzer 
+nur befristet lesen wol-
+len?! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"Wir glauben an 2 an-
+dere Typen 
+ 
+• Smartshopper 
+• Zögerliche" 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 5
+abgeschafft. Durch die Abschaffung des Gratismonats verlieren wir Conversions, die Halt-
+barkeiten steigen aber überproportional. Interessanterweise sehen wir, dass wir aber 
+keine Conversion-Verluste bei Mehrfach-Bestellern haben." 
+Ich tippe darauf, dass es schon einige Nutzer gibt, die tatsächlich, wie bei den Videoabos, für 
+eine überschaubare Periode bei Euch lesen wollen, danach vielleicht beim Spiegel oder der FAZ 
+oder, oder, oder. Aber bestimmt sind das noch nicht viele.  
+Wie wollt Ihr mit den beiden Gruppen, die Ihr vor Augen habt, weiter umgehen? 
+"Differenziert. Den Kostenoptimierern schieben wir, wie die meisten Medien, derzeit einen 
+Riegel vor. Mehr als 3 Probebestellungen lassen wir nicht zu. Smarter wäre es natürlich, 
+wenn wir denen schon an der Paywall gar kein Probeabo mehr anbieten würden, sondern 
+direkt nur noch ein Abo zum regulären Preis. 
+Der zweiten Gruppe, den Unsicheren, sollten wir dagegen vielleicht einen längeren Pro-
+bezeitraum anbieten, damit sie mehr Zeit haben, zu treuen Lesern zu werden." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wie geht Ihr damit um? 
+ 
+"Smartshoppern einen 
+Riegel vorschieben, 
+später Paywall intelli-
+genter machen 
+ 
+Zögerlichen vielleicht 
+längere Proben anbie-
+ten" 
+ 
+ 
+Blick zurück in die Zukunft: Geräte-Limits, Account-
+Sharing, Familienabos 
+P 
+pvd Nachhaltigkeits-
+Check 
+ 
+"Zattoo macht es. Spotify tut es. Und Netflix sowieso". So begann der erste Artikel in der 
+pv digest-Ausgabe vor einem Jahr. Aktuell ergänzen könnten wir dazu nun "und Horizont 
+auch". Von der Fachzeitschrift für die 
+Werbe- und Medienindustrie erhielten 
+wir kürzlich die abgebildete E-Mail. 
+Natürlich haben wir keine Accountda-
+ten weitergegeben. Und wir haben 
+auch in Rücksprache mit Horizont 
+nicht herausfinden können, wie Hori-
+zont zu seinem Verdacht gekommen 
+ist. Aber dieses Beispiel zeigt: das 
+Thema Mehrfachnutzung von Digitala-
+bos ist angekommen und Verlage ent-
+wickeln Mechanismen, um uner-
+laubte Mehrfachnutzung ihrer digi-
+talen Angebote zu unterbinden.  
+Außerdem finden sich nun auch im 
+deutschen Markt erste Beispiele für 
+Abopakete, die explizit für die Nutzung durch mehrere Personen gestaltet sind. Erst 
+in der Novemberausgabe haben wir berichtet, dass sowohl die Frankfurter Allgemeine Zei-
+tung als auch die Zeitungen der Schweizer TX Group jeweils sowohl ein 'Familienabo' neu 
+ins Angebotsportfolio aufgenommen haben als auch ein B2B-Angebot, über das Unterneh-
+men Abos für ihre Mitarbeiter abschließen können. 
+Ein Publisher, der die Mehrfachnutzung in seinen AGB zwar beschränkt, der aber noch 
+keine technischen Vorkehrungen getroffen hat, diese auch tatsächlich zu unterbinden, ist 
+der Spiegel [pvd: das war ein wichtiges Fazit unseres Berichts vor einem Jahr. Eine Mehrheit 
+der von uns untersuchten Paid Content-Angebote limitierte die Nutzung in ihren 
+ 
+Limitierung der Mehr-
+fachnutzung von Digi-
+talabos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beispiel Horizont zeigt: 
+auch Verlage beginnen, 
+das Thema wirksam 
+anzugehen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Außerdem (FAZ, TX 
+Group) werden erste 
+Multi-User-Abos offe-
+riert 
+ 
+ 
+ 
+Der Spiegel beschränkt 
+die Mehrfachnutzung 
+bisher nicht effektiv 
+(nur per AGB) 
+ 
+#1/21 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 6
+Vertragsbedingungen. Aber ein tatsächlich technisch implementiertes, effektives 
+Mehr-Nutzer-Limit war selten].  
+Der Fall des Spiegel ist bemerkenswert, weil anscheinend gar nicht wenige Nutzer sich 
+mit der Frage auseinandersetzen, mit wie vielen Personen sie ein Spiegel plus-Abo teilen 
+können. Unser Beitrag in der Vorjahresausgabe ist mit Abstand der am häufigsten 
+aufgerufene Artikel auf der pv digest-Website. Hinter der – für unsere Verhältnisse – 
+großen Anzahl von Klicks dürften vor allem private Internetnutzer stecken. Denn diese 
+Klicks resultieren ganz besonders aus Suchanfragen wie "Spiegel plus Abo teilen" oder 
+"Spiegel plus Abo wie viele Geräte", "…mehrere Geräte", "…Geräte verwalten" und sogar 
+"Spiegel plus Familienabo" [Aufgrund der harten Paywall von pv digest dürften die Google-
+Nutzer mit dem Klick auf unseren Beitrag ihre Fragen aber nicht beantwortet sehen]. 
+Der Spiegel selbst bekomme nur "vereinzelt Anfragen" zu diesem Thema, teilt uns ein 
+Sprecher mit. Man sehe aber "die Bewegung des Marktes und die Anfragen unserer Nut-
+zerinnen und Nutzer. Daher beschäftigen wir uns mit dem Gedanken, ein Familiena-
+bonnement einzuführen und prüfen die dafür notwendigen Schritte." 
+ 
+ 
+ 
+ 
+ 
+Dennoch scheint es in 
+Nutzerkreisen großes 
+Interesse am Themq zu 
+geben 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"Wir beschäftigen uns 
+mit dem Gedanken, ein 
+Familienabo einzufüh-
+ren" 
+ 
+ 
+ 
+ 
+New York Times kauft The Athletic 
+26 
+P 
+The Athletic 
+ 
+Kurz vor Reaktionsschluss dieser Ausgabe mussten wir die Überschrift dieses Beitrags än-
+dern. Sie lautete eigentlich 'Wie geht es dem Sport Paid Content-Anbieter wirklich?' Der 
+Beitrag sollte sich um die seit Monaten kursierenden Übernahmegerüchte drehen und 
+auf ein wiedererwachtes Übernahmeinteresse bei der New York Times. 
+Nun ist es aber bestätigt. Die New York Times kauft tatsächlich The Athletic für 550Mio$. 
+"Strategisch wird diese Akquisition unsere Fähigkeit beschleunigen, die Beziehungen zu 
+unseren Abonnenten zu vergrößern und zu vertiefen", zitiert Bloomberg die Chefin der 
+Zeitung, Meredith Kopit Levien. 
+550Mio$ ist weniger, als sich die Athletic-Gesellschafter erhofft hatten. Es ist aber mehr, 
+als viele Branchebeobachter in den letzten Monaten für möglich hielten. In der letz-
+ten Finanzierungsrunde wurde The Athletic mit 500Mio$ bewertet. Das bedeutet, das auch 
+die zuletzt in das Unternehmen investierten Summen wenigstens nicht verbrannt worden 
+sind. 
+Unklar ist, welche Alternativen zum Verkauf The Athletic hatte. Der Mediendienst Variety 
+spekulierte im letzten Juli schon, anlässlich einer Abopreiserhöhung, dass dem 
+ 
+ 
+ 
+seit Monaten Übernah-
+megerüchte 
+ 
+ 
+jetzt bestätigt: NYT be-
+zahlt 550Mio$ für The 
+Athletic 
+ 
+ 
+ 
+ 
+immerhin ohne Ver-
+luste selbst für späte 
+Investoren 
+ 
+ 
+ 
+unklar: war es ein 'Not-
+verkauf'? 
+ 
+ 
+pvd meint Das Thema kommt langsam. Unser Tipp: es wird aber gewaltig kommen. 
+Möglicherweise sind die Nutzer hier im Kopf schon weiter als die Verlage. Eventuell ver-
+ursacht durch eine zunehmend restriktivere Politik bei den großen Streamingplattfor-
+men. 
+Die Nutzer lernen zunehmend, dass ein Digitalabo nicht von unbegrenzt vielen Nutzern 
+oder mit endlos vielen Geräten in Anspruch genommen werden kann. Daraus ergeben 
+sich Chancen für höherpreisige Multi-User-Abopakete. Geteilte Abos sind außerdem 
+Abos, die weniger schnell gekündigt werden als 1-Nutzer-Abos. Das ist bisher im Digital-
+pressebereich sogar ein noch größerer Hebel als das Upselling zum Multi-User-Abo. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 7
+kapitalintensiven Geschäft von The Athletic das Geld von Seiten der Investoren aus-
+gehen könnte und darum der Verkauf, sozusagen als Notverkauf, auf der Agenda stünde. 
+Das Abonnenten-Wachstum – soweit man die dazu verfügbaren Zahlen für belastbar 
+hält – erschien bisher ungebremst aber 'nur' linear; zuletzt erkauft mit teils massiv ver-
+günstigten Abos. Im Zuge der Übernahme wurde nun sogar bekannt, dass die Abonnen-
+tenzahl immer noch auf dem in der Grafik dargestellten Niveau von April 2021 stagniert. 
+The Athletic hatte den Break Even 
+im Jahr 2020 angestrebt. Verschie-
+dene Berichte lassen für das Jahr 
+2020 stattdessen auf einen Umsatz 
+von gut 40Mio$ tippen bei sogar 
+über 40Mio$ Verlust. Kopit Levin 
+nannte für 2021 einen Umsatz von 
+65Mio$ bei operativen Verlusten 
+von 55Mio$. Das will sie nun suk-
+zessive verbessern. Ein positives 
+Ergebnis erwartet sie erst ab 
+2025. 
+Ein ausführlicher Bericht von Frontofficesports [pv-digest.de/linkliste Link1] macht deut-
+lich, dass die wirtschaftliche Lage von The Athletic von außen kaum eingeschätzt werden 
+kann. Wie oben berichtet, glauben nicht wenige Beobachter, die Investoren hätten kurz 
+vor einem Notverkauf gestanden, weil The Athletic das Geld auszugehen gedroht hatte. 
+Das wäre nicht unplausibel. Aber andere Beobachter, die sich ebenso auf angebliche ano-
+nyme interne Quellen beziehen, glauben, dass The Athletic, das derzeit einen ziemlich 
+radikalen Sparkurs fährt, schon in diesem Jahr hätte profitabel werden können. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lange Zeit starkes (aber 
+nicht exponentielles) 
+Wachstum 
+ 
+aber: Stagnation seit 
+April 2021 
+ 
+ 
+ 
+2020: 40Mio$ Umsatz, 
+40Mio$ Verlust 
+ 
+2021: 65Mio$ Umsatz, 
+55Mio$ Verlust 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LINKTIPP 
+ 
+wirtschaftliche Lage 
+von The Athletic von 
+außen kaum zu beur-
+teilen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint angesichts des stark von der Corona-Krise beeinträchtigten Geschehens 
+im Profisport ist es nicht überraschend, dass The Athletic die Latte der hochgesteckten 
+Zielwerte reißt. Das Problem ist, dass The Athletic auch ohne Corona eine sehr riskante 
+Wette ist. Die 600 Mitarbeiter und auch das Marketing für den Aufbau des Kundenstam-
+mes erfordern gewaltige Finanzmittel. Ob sich das refinanzieren lässt, ist ungewiss. Die 
+bisherigen Investoren wollten diese Unsicherheit nicht länger ertragen. 
+Für die New York Times ist die Transaktion die zweitgrößte Übernahme ihrer Ge-
+schichte. 1993 hatte sie einmal den Boston Globe für 1,1Mrd$ gekauft. Den verscher-
+belte sie 2013 für nur noch 70Mio$ wieder. 
+Ob es diesmal ein besseres Geschäft wird, das wird die Zukunft zeigen. Die Chancen 
+stehen aber nicht so schlecht. Mit Sportinhalten erreicht die Zeitung noch einmal eine 
+neue Zielgruppe. Womöglich erleichtert es ihr auch das Wachstum in Europa, denn The 
+Athletic ist in England mit seiner Berichterstattung rund um die Premier League bereits 
+ein bedeutender Player. 
+Hinzu kommt, dass The Athletic bisher kaum Werbegeschäft entwickelt hat. "Von uns 
+würde ich denken, dass wir schon gezeigt haben, wie man das richtige Werbegeschäft 
+für ein Abonnementgeschäftsmodell baut", sagt Kopit Levien dazu. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 8
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 9
+ 
+        
+P 
+      
+Marktentwicklung
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im 
+Dezember 2021, zu Anzahl 
+und Erscheinungsweise siehe  
+"Daten Cockpit Handel")  
+   
+ 
+Marktentwicklung
+Preise
+ 
+neu eingeführte Zeitschriften 
+Print, Presse-Apps in ausge-
+wählten Stores 
+   
+ 
+Marktentwicklung
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+Preise bei neuen Zeitschriften) 
+  
+ 
+DATEN COCKPIT VERLAGE 
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 10
+ 
+ 
+ 
+ 
+ 
+EHASTRA 21: mehr Geschäfte mit 'zu vollen' Regalen. 
+Käufermarktstudie: gibt es 'zu volle' Regale überhaupt? 
+P 
+Presse-Einzelhandel 
+ 
+Der Gesamtverband Pressegroßhandel hat die Daten der diesjährigen Einzelhandels-
+strukturanalyse (Ehastra) veröffentlicht. Danach gab es in Deutschland zum Erhebungs-
+zeitpunkt (KW39/2021) 89.212 Presseverkaufsstellen. Das sind fast 5% weniger als in der 
+gleichen Woche im Vorjahr. Die Zahl ist das Saldo aus rund 6.600 Einzelhändlern, die keine 
+Presse mehr verkaufen [pvd: meistens Ladenschließungen, manchmal auch nur der Aus-
+tausch des Presseregals gegen andere Warenangebote] und immerhin gut 2.200 neuen 
+Presseverkaufsstellen. Im Unterschied zur letzten Ehastra, die eine beinahe stabile Anzahl 
+reiner Zeitungsverkaufsstellen ausgewiesen hatte, ging die Anzahl dieser Geschäfte in den 
+letzten 12 Monaten um über 9% auf 17.569 zurück. Die Anzahl der Verkaufsstellen, die 
+sowohl Zeitungen wie Magazine anbieten, entwickelte sich im Vergleich dazu deutlich 
+stabiler, nämlich nur um -4% auf 70.035. 
+Innerhalb der Vollverkaufsstellen entwickeln sich aber gerade die Verkaufsstellen wei-
+terhin stark rückläufig, die eine besonders breite Auswahl anbieten. Von einer Trend-
+wende bei dieser lang-
+jährigen Entwicklung ist 
+nichts zu sehen.  
+Es ist auch erklärtes 
+Ziel der Pressegrossis-
+ten, dafür zu sorgen, 
+dass, je nach vorhande-
+ner Regalfläche, nicht 
+'zu viele' verschiedene 
+Titel angeboten wer-
+den. Diese Politik forcie-
+ren die Grossisten seit 
+ 
+Ehastra 2021 
+ 
+Strukturanalyse der 
+grossobelieferten Pres-
+sehändler 
+ 
+ 
+89.212 (-5% z. VJ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+immer weniger Händ-
+ler mit breitem und 
+sehr breitem Angebot 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sortimentsstrategie der 
+Grossisten: nicht 'zu 
+viele' Titel anbieten 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 11
+2014. Im Rahmen der Ehastra wird sogar eine entsprechende Kennzahl erhoben, die 
+'Präsentationsauslastung'. Die sieht pro Regalbrettmeter (Bord) ein Angebot von durch-
+schnittlich 12,5 Titeln vor. In der Ehastra wird ausgewiesen, ein wie großer Anteil der Ein-
+zelhandelsgeschäfte mehr verschiedene Magazine in seine Regale packt, als damit vorge-
+geben. 
+29% aller Händler überschreiten diese Zielzahl. Und 11% aller Händler überschreiten 
+sie sogar um mehr als 20%. Gegenüber 2020 haben sich diese beiden Werte vergrößert – 
+die Anzahl der Händler, in deren Regalen mehr Titel stehen, als es die 2014 beschlossene 
+"Sortimentsoptimierung" vorsieht, ist also wieder gestiegen. 
+Vielfalt fördert Umsatz (wie passt das zusammen?) 
+Das muss aber keine schlechte Nachricht sein. Ob es wirklich erstrebenswert ist, pau-
+schal weniger Zeitschriftentitel anzubieten in der Hoffnung, dass ein weniger 'überfüll-
+tes' Regal mehr Verkäufe stimuliert, war immer schon umstritten. Kürzlich hat der VDZ 
+in Kooperation mit dem Gesamtverband Pressegrosso sogar Daten veröffentlicht, die eine 
+gegenteilige Annahme nahelegen. 
+Laut aktueller Käufermarktstudie erzielen Pressehändler, die ein "sehr breites", also viele 
+Titel umfassendes Sortiment anbieten, die höchsten Presseumsätze pro Quadratmeter 
+Presseregalfläche. Und auch pro angebotenem Titel fällt der Umsatz desto höher aus, je 
+mehr verschiedene Zeitschriften angeboten werden. Die Ergebnisse dieser Studie sind 
+in einem sehr plakativen "Factbook 2021. Alles über Presse im Handel" veröffentlicht. 
+An dieser Studie beteiligte Personen betonen, dass die zugrundeliegende Fragestel-
+lung bestmöglich und ergebnisoffen analysiert wurde. Insbesondere habe man Wert 
+darauf gelegt, tatsächlich nur miteinander vergleichbare Einzelhandelsgeschäfte einzube-
+ziehen. 
+Führen diese Daten nicht die seit Jahren verfolgte Sortimentsstrategie ad absur-
+dum? Der beim VDZ für Vertriebsfragen verantwortliche Geschäftsführer Lutz Drüge 
+sagt dazu: "Je nach Lage und Struktur des Einzelhändlers kann sich eine höhere Präsenta-
+tionsauslastung der Regalflächen positiv auf den Umsatz, der je Presseobjekt erzielt wird, 
+auswirken. Das Umsatzplus bei im Rahmen der Analyse festgestellten 14 Prozent der 
+ 
+ 
+Zielwert: 12,5 Titel/Me-
+ter (= 100% 'Präsenta-
+tionsauslastung') 
+ 
+ 
+Fast ein Drittel aller 
+Händler bietet mehr Ti-
+tel an 
+ 
+Tendenz: wachsend 
+ 
+Käufermarkt- 
+studie 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trend: je mehr Titel, 
+desto mehr Umsatz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wie passt das zur Sor-
+timentsstrategie? 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 12
+Einzelhändler, bei denen eine sehr hohe Präsentationsauslastung umsetzbar ist, liegt ge-
+genüber einer mittleren Präsentationsauslastung bei 25 Prozent. Hinzu kommt das Thema 
+Sortimentspflege, dass sich mit Unterstützung bei der Gestaltung und Pflege des Presse-
+sortiments durch das Presse-Grosso ebenfalls positiv auf den Umsatz auswirkt. Die Sorti-
+mentsoptimierung und die Hamburger Beschlüsse zielten hier auf eine optimale Präsen-
+tationsauslastung, die aber in der Praxis individuell und fallbezogen umgesetzt werden 
+muss." 
+[pvd: mit 'Hamburger Beschlüsse' gemeint sind die 2014 von den Pressegrossisten ver-
+abschiedeten Grundsätze für die Belieferung des Einzelhandels mit Presse. Darüber haben 
+wir damals (#3/2014) ausführlich berichtet. Aus unserem damaligen Bericht: "Im Detail zie-
+len die neuen Grosso-Regeln auf die Verringerung der Anzahl der angebotenen Titel 
+(…) Zur Frage, ob diese Regeln geeignet sind, das Ziel der Umsatzoptimierung zu erreichen, 
+gibt es keine Einigkeit und nur eine 
+dünne und widersprüchliche Daten-
+lage".] 
+Was Drüge formuliert, steht fast 
+wortwörtlich auch im 'Factbook'. Aber 
+der Verweis auf "14 Prozent der Ein-
+zelhändler, bei denen eine sehr hohe 
+Präsentationsauslastung umsetzbar 
+ist", übermalt die Tatsache, dass aus-
+weislich der Daten von VDZ und 
+Grosso der Trend ausnahmslos alle in 
+der Käufermarktstudie betrachteten 
+Einzelhändler betrifft, nicht etwa nur 
+eine Spitzengruppe. Es gilt: je höher 
+die Präsentationsauslastung, desto 
+höher der durchschnittliche Umsatz 
+(vgl. Grafik). 
+ 
+Fragen an Grossoverbandsvorstand Frank Nolte 
+Wir haben auch den Vorstandsvorsitzenden des Gesamtverbandes Pressegrosso zu 
+diesem Thema befragt. Frank Nolte ließ uns folgende Antworten per E-Mail zukommen: 
+Teilen Sie meinen Eindruck, dass diese Daten aus der aktuellen Käufermarktstudie der in den 
+letzten Jahren verfolgten Strategie der 'Regaltentlastung' zuwiderlaufen? 
+"Nein, den Eindruck teilen wir nicht. Die Ergebnisse belegen vielmehr, dass Marktre-
+geln wie zum Sortimentsmanagement dazu beitragen, konsumentengerechte Sorti-
+mente auf bestehenden Präsentationsflächen sicherzustellen." 
+Wie interpretieren Sie diese Befunde vor dem Hintergrund der Strategie der Sortimentsoptimie-
+rung (SOP)? 
+"Das Presse-Grosso greift mit SOP anhand klarer Regeln je nach EH-Standort, Nachfrage 
+und Händler kundenindividuell mehr oder minder ein. Ziel ist es, den Konsumenten eine 
+ 
+ 
+ 
+VDZ: "Ziel ist optimale 
+Präsentationsauslas-
+tung… individuell… 
+fallbezogen…" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trend ohne Ausnahme 
+über alle untersuchten 
+Gruppen: mehr Auslas-
+tung = mehr Umsatz 
+ 
+beste Gruppe: mehr als 
+120% Auslastung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grossoverbandschef 
+Nolte: 
+ 
+ 
+ 
+ 
+"Marktregeln tragen zu 
+konsumentengerech-
+ten Sortimenten bei" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 13
+Auswahl aus einem vielfältigen und ansprechend präsentierten Sortiment zu bieten. Brei-
+tere Sortimente setzen sich aus den Top-Sellern und eben auch aus vielen weiteren gut-
+verkäuflichen und hochpreisigen Titeln zusammen. Mit zunehmender Sortimentsbreite 
+wächst deshalb der durchschnittliche Umsatz je Presseprodukt und die Flächenpro-
+duktivität. In der Praxis sehen wir auch Einzelhändler mit einer Präsentationsauslastung 
+über 100% bis 120% [pvd: in der Grafik oben ist die Gruppe der Händler mit "sehr hoher 
+Präsentationsauslastung" sogar definiert als '>120%'!]. Diese Händler können dennoch 
+gute Umsätze generieren. Denn diese Auslastung ist keine verfehlte Dispopolitik, sondern 
+bewusste und oft in Abstimmung mit dem EH-Partner getroffene Entscheidung, wenn die-
+ser mit etwas mehr Ware sorgsam umgehen kann, der Standort selbst wegen hoher Kun-
+denfrequenz und die Nachfrageseite dies ohne negative Folgen auf den Umsatz zulassen." 
+Sind Sie weiterhin davon überzeugt, dass die Kennzahl 'Regalauslastung' und die dabei aktuell 
+angestrebten Zielwerte sinnvoll sind? 
+"Ja, SOP ist nach wie vor ein wichtiges Instrument. Die Kennzahl und die Zielwerte müssen 
+allerdings mit Fingerspitzengefühl standortspezifisch gesteuert werden. Dafür stehen wir 
+als Category Manager für Presse. (…) Es gibt trotz SOP immer noch sehr erfolgreiche Ein-
+zelhändler mit einer Auslastung von 120% und mehr, bei denen das wegen der dazugehö-
+rigen Standortfaktoren (Kaufkraft, Frequenz, Lage) und wegen des großen Engagements 
+des Einzelhändlers so funktioniert. Man kann das aber nicht generalisieren. Es gibt eben 
+leider auch viele andere Fälle, wo eine Regalüberauslastung nicht zu guten Umsätzen 
+führt, sogar zu mangelnder Übersichtlichkeit, und daher zu vermeiden ist." 
+ 
+ 
+ 
+ 
+ 
+ 
+"hohe Auslastung keine 
+verfehlte Dispopolitik, 
+wenn EH mit mehr 
+Ware umgehen kann" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"Ja, Regalentlastung ist 
+wichtig… 
+ 
+ 
+ 
+Es gibt Fälle, wo eine 
+Regalüberlastung nicht 
+zu guten Umsätzen 
+führt". 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint Wer könnte hier widersprechen? Jedem Händler nach seinen individuellen 
+Bedürfnissen und Möglichkeiten das richtige Sortiment zusammenstellen ist natürlich 
+der Königsweg. Die Frage ist nur: wie kommt man dahin? Und unsere These wäre: nicht 
+über eine Zielzahl, die ohne empirische Grundlage ein Idealmaß beziffert (100%), das 
+sich nun als keinesfalls optimal herausstellt. 
+Es ist schon viel Gras über die 'Hamburger Beschlüsse' gewachsen und die damals ent-
+flammten heftigen Auseinandersetzungen zwischen Vertretern der Pressegrossisten, 
+der Großverlage und Vertretern kleinerer Verlage und Titel. Trotzdem ist erstaunlich, wie 
+beiläufig nun Erkenntnisse veröffentlicht werden, die zeigen, dass die damals behaup-
+tete Verbesserung für die Einzelhändler in der Regel gar nicht eintritt, wenn man die 
+Regale 'entlastet'. Sondern im Gegenteil: auch der Einzelhandel scheint mit einem viel-
+fältigen Sortiment im Regelfall besser bedient zu sein, als mit allzu auf- bzw. ausgeräum-
+ten Regalen, in denen sich die 'Top-Seller' den verfügbaren Platz mit weniger anderen 
+Titeln teilen müssen. Natürlich gilt das nicht für jeden einzelnen Händler. Aber es scheint 
+im Durchschnitt, tendenziell zu gelten. 
+Die branchenweite Strategie sollten nicht länger auf eine Begrenzung abzielen, sondern 
+volle und sehr volle Regale lieber als Ausweis eines im Wortsinne überbordend vielfälti-
+gen Angebotes feiern. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 14
+ 
+Sharemagazines. Digitale Lesezirkel gibt es doch!  
+P 
+Sharemagazines 
+ 
+"Digitale Lesezirkel gibt es nicht", hat ein Veteran der Lesezirkelbranche 2014 einmal be-
+hauptet. Konkret begründete er das zwar damit, das zum Lesezirkel wesentlich die Logistik 
+des Auslieferns und Wiederabholens gehöre. Aber zum Ausdruck brachte er damit die 
+weitverbreitete Skepsis gegenüber digitalen Modellen in etablierten Lesezirkel-Krei-
+sen. 
+Damals arbeitete eine ganze Reihe, nicht nur junger, Unternehmen daran, die wohl be-
+kannteste Leistung von Lesezirkel-Unternehmen, nämlich Zeitschriften zur kosten-
+losen Lektüre in Wartebereichen zur Verfügung zu stellen, zu digitalisieren. Sogar die 
+deutsche Post hatte 2016 unter dem Namen 'Appwarten' ein vergleichbares Projekt getes-
+tet. Und die digitalskeptischen Unternehmen der bestehenden Lesezirkelbranche hatten 
+sich immerhin darauf verständigt, testweise eine Digitalisierung ihres Angebotes zu pro-
+bieren. 
+Die Geschichte dieser Verbandsinitiative verlief allerdings zu zäh, zu umständlich, zu lang-
+sam und letztlich auch zu erfolglos. Auch viele der damaligen Startups existieren nicht 
+mehr oder haben sich neu orientiert. 
+Eine, vermutlich sogar DIE große Ausnahme von dieser Beobachtung ist Sharemagazines. 
+Das Unternehmen war eines von zehn oft sehr kleinen und sehr jungen Startups, die pv 
+digest in einem Special zum Thema in den Ausgaben #10 und #11 2014 vorgestellt hatte. 
+Aber Sharemagazines hat seitdem wohl als einziges Digitallesezirkelunternehmen ein 
+tragfähiges und immer noch deutlich wachsendes Geschäft aufgebaut. 
+Sharemagazines ist mittlerweile, laut Auskunft von Mitgründer Jan van Ahrens, zu einer 
+20köpfigen Firma herangewachsen (etwa 15 FTE). Das acht Jahre alte Unternehmen ver-
+sorgt nun 2.500 bezahlende Kunden, die wiederum ihren Kunden und Besuchern auf 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mitte der 2010er Jahre 
+versuchten viele Unter-
+nehmen, digitale Lese-
+zirkel zu begründen 
+ 
+z.B. sogar auch die 
+Deutsche Post 
+ 
+ 
+ 
+und (vergeblich) der 
+Lesezirkel-Verband 
+ 
+ 
+ 
+ 
+übrig geblieben ist vor 
+allem Sharemagazines 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.500 Locations bezah-
+len dafür, ihren Kun-
+den Zugang 650 E-Pa-
+per-Titeln anzubieten 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 15
+diesem Weg den Zugang zu rund 650 verschiedenen digitalen Zeitungen und Zeitschriften 
+von etwa 130 Verlagen zur Verfügung stellen können. 
+[pvd: der Verband der Lesezirkelunternehmen hat es aufgegeben, Eckdaten über seine 
+Branche zu veröffentlichen oder auch nur systematisch zu erheben. Insofern sind Verglei-
+che schwierig anzustellen. Mit 2.500 bezahlenden Kunden wäre Sharemagazines aber mit 
+Sicherheit eines der größeren Unternehmen, wenn es sich den etwa 100 Unternehmen 
+dieser Branche zugehörig fühlen würde.]  
+Überwiegend ist das angebotene Titelportfolio deutschsprachig. Viele Titel finden sich 
+auch bei Readly und anderen digitalen Vertriebsplattformen. Aber sowohl in deutscher 
+Sprache (z.B. FAZ am Sonntag, NZZ) als auch unter den 30 englischsprachigen Titeln (z.B. 
+The New Yorker) finden sich hochpreisige und nicht 'überall' verfügbare Objekte. 
+Die größte Kundengruppe von Sharemagazines sind Krankenhäuser. 250 von etwa 2.000 
+deutschen Krankenhäusern seien Sharemagazines-Kunden, sagt Jan van Ahrens. Nach 
+den Krankenhäusern die wichtigsten Kundengruppen seien Hotels, Ärzte, Autohäuser aber 
+auch Frisörgeschäfte. Die hatten bekanntermaßen im Lockdown große wirtschaftliche Ein-
+bußen; aber auch viel Zeit, sich mit dem Thema Digitalisierung zu beschäftigen und um 
+Alternativen für das zwischenzeitlich hygienisch umstrittene Angebot einer Zeitschriften-
+auslage zu kümmern. 
+Je nach Größe/Nutzerfrequenz der Location bezahlt diese ab 50€ pro Monat für den 
+Sharemagazines-Service. Dafür kann sie ihren Kunden/Besuchern kostenlose Lektüre an-
+bieten und auch eigene Kommunikation auf der Startseite der App platzieren, angefangen 
+bei der Speisekarte eines Restaurants über Hotel-Informationen bis zum Shampoo-Pro-
+dukt, das ein Frisörsalon an seine Kunden verkaufen möchte. 
+Sharemagazines ist deutlich in den 7stelligen Umsatzbereich vorgedrungen. Die aktuelle 
+Wachstumsrate gibt Mitgründer Jan van Ahrens als "100% pro Jahr" an. Man habe "aktuell 
+mehrere 100tausend Aufrufe / Monat". Corona habe – nach einer anfänglichen Delle, eher 
+noch für einen Schub neuer Kunden gesorgt. [pvd: "100% pro Jahr" klingt nach einer PR-
+Übertreibung. Aber die letzte uns bekannte Zahl stammt aus dem Herbst 2018. Damals 
+waren es 'über 300' Locations. Und wenn man diese Zahl 3x verdoppelt, dann kommt man 
+ziemlich genau auf die 2.500 Locations, über die Sharemagazines derzeit berichtet.] 
+Sehr niedrig sei die Kündigungsquote. Im Durchschnitt nur 3% aller zur Verlängerung 
+anstehenden Verträge – das seien in 98% der Fälle Jahresverträge – würden gekündigt. Im 
+Lockdown habe sich hier eine sehr kulante Handhabung der Rechnungstellung bewährt. 
+Vielen Kunden wurde eine Zahlpause gewährt – nicht bezahlte Monate wurden einfach an 
+das ursprüngliche Vertragsende angehängt. 
+Im Durchschnitt etwa die Hälfte der Aboeinnahmen gibt Sharemagazines an die Ver-
+lage weiter. Konkreter wollte van Ahrens das im Gespräch mit pv digest nicht machen. Die 
+Verteilung auf die verschiedenen Titel erfolge proportional zur Lesezeit. 
+Sharemagazines ist vor allem in Deutschland, nicht zuletzt dank einer Vertriebskoopera-
+tion mit Morawa aber auch in Österreich und auch in der Schweiz aktiv [pvd: Morawa hatte 
+bis ins Frühjahr 2019 einen eigenen digitalen Lesezirkel, der dann durch Sharemagazines 
+ersetzt wurde]. Selbst in ersten Urlaubsregionen außerhalb des deutschen Sprachraums 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rangfolge der Sha-
+remagazines-Locations 
+nach Anzahl: 
+• Krankenhäuser 
+• Hotels 
+• Ärzte 
+• Autohäuser 
+• Frisöre et al 
+ 
+ 
+Locations bezahlen 
+50€+X pro Monat 
+ 
+Locations können ei-
+gene Infos/Werbung 
+einbinden 
+ 
+ 
+>1MIo€ Umsatz p.a. 
+ 
+ 
+Zahl der Locations ver-
+doppelt sich jährlich 
+ 
+ 
+ 
+ 
+nur 3% Kündigungs-
+quote 
+ 
+ 
+ 
+ 
+ 
+rund 50% der Einnah-
+men gehen an die Ver-
+lage 
+ 
+ 
+Sharemagazines ist in 
+D/A/CH präsent und 
+zunehmend auch in 
+weiteren Ländern 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 16
+finden sich mittlerweile Sharemagazine-Locations, zum Beispiel auf Campingplätzen 
+in Italien oder beim Frisör auf Mallorca. 
+Das Unternehmen ist immer noch weitgehend im Besitz der drei Gründer. Mittlerweile 
+sind aber weitere Gesellschafter hinzugestoßen, die überwiegend sowohl Geld aus auch 
+vor allem Kontakte in ihre jeweiligen Branchen mitgebracht haben sollen. 
+Beim Vertrieb helfen auch vielfältige Partnerschaften. Unternehmen, die ihren Kun-
+den einen Telekom-Hotspot zur Verfügung stellen, können mit einem einfachen Klick im 
+Backend das Sharemagazines-Angebot einbinden. Krankenhäuser, die ein bezahlpflichti-
+ges Wlan-Angebot betreiben, können ihre Tarife für die Patienten dadurch attraktiver ge-
+stalten, dass digitale Presse von Sharemagazines inkludiert ist. Hotels, die 'digitale Gäs-
+temappen' von Betterspace oder Gastfreund anbieten, können diese mit Sharemagazines 
+aufwerten. Und Hotels, die sich mit dem Greensign-Verfahren als besonders nachhaltig 
+ausweisen wollen, sammeln Pluspunkte, wenn sie Presse statt auf Papier über Sharema-
+gazines digital anbieten. 
+Die nächsten großen Schritte (neben dem weiteren Wachstum der Kunden-Locations) will 
+Sharemagazines im technischen Bereich gehen. Möglichst Anfang des zweiten Quartals 
+soll die E-Paper-Darstellung um eine Artikel-Ansicht bereichert werden. Perspekti-
+visch möchte van Ahrens auch multimediale Verlagsangebote aus den Bereichen 
+Podcasts/Audio und Bewegtbild aufnehmen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vertriebserfolg dank 
+diverser Kooperations-
+modelle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In Planung: Usability 
+verbessern, Content-
+Portfolio erweitern 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rund 30 Cent Umsatz pro 'gelesenem' Readly-Magazin? 
+Readlys Trends Report 2021  
+P3 
+Daten zur Readly-
+Nutzung 
+ 
+Seit Readly börsennotiert ist, gibt es quartalsweise detaillierten Einblick in seine Geschäfts-
+entwicklung. Schon deutlich länger, dafür aber in stark aufgehübschter Manier, stellt 
+der Flatrateanbieter gelegentlich teils mehr, teils weniger relevante Daten zum Verhal-
+ten der Readly-Nutzer zur Verfügung. 
+Auch wenn das ein Marketinginstrument ist, finden wir darin durchaus wertvolle Infor-
+mationen, die Aussagekraft bezüglich Paid Content-orientierter Geschäftsmodelle 
+haben. Damit meinen wir nicht Analysen wie 'Die meistgelesenen Kochrezepte je Land'. 
+Wen 
+das 
+interessiert, 
+den 
+verweisen 
+auf 
+die 
+Charts 
+von 
+Readly 
+[pv-digest.de/linkliste Link2]. 
+ 
+ 
+ 
+Readly Trends Report 
+2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LINKTIPP 
+pvd meint Die Idee, das Lesezirkelkonzept zu digitalisieren und sich dabei zunutze 
+zu machen, dass mehr oder weniger in jeder Situation wartende Menschen ohnehin die 
+Zeit mit ihren Smartphones verbringen, ist überzeugend. Die wartenden Menschen aber 
+tatsächlich zu bewegen, die Smartphones für die Lektüre von Digitalpresse zu verwen-
+den und die 'Betreiber' der Wartezonen dafür zu gewinnen, einen solchen Service gegen 
+Entgelt anzubieten, ist harte Arbeit, die Marketinggeschick und auch Durchhaltevermö-
+gen erfordert. Der Lohn am Ende könnte sein, dass Sharemagazines sich mehr oder we-
+niger als Monopolist durchsetzt. Lediglich im Bereich von Fluggesellschaften und der 
+Hotellerie sehen wir noch relevante Marktmitgestalter wie z.B. PressReader, Goldkey 
+oder MediaCarrier. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 17
+Stattdessen lesen wir aus darin verteilt dargebotenen Datenhäppchen (alle bezogen auf 
+den Zeitraum November 2020 bis Oktober 2021; alle Daten nur bezogen auf Zeitschriften): 
+> Auf Back Issues und ausländische Magazine entfällt ein guter Teil der Readly-Nut-
+zung. Das ist relevant, weil diese Form der Nutzung des Flatrateangebotes zumindest auf 
+Ebene des einzelnen Titels keinesfalls zu Lasten des eigenen Geschäfts geht. 
+Mit alten Ausgaben verdient kaum eine Zeitung oder Zeitschrift relevante Summen. Aber 
+rund ein Fünftel der über Readly erwirtschafteten Auszahlungen an die Verlage 
+kommt durch die Lektüre nicht aktueller Ausgaben zustande. 
+Diese Form der Nutzung wächst. In Deutschland waren vor gut anderthalb Jahren nur 
+12% aller bei Readly gelesenen Magazine solche Back Issues. Im aktuellen Report gibt 
+Readly deren Anteil mit 20% an. In Großbritannien ist deren Anteil von 16% auf 22% ge-
+stiegen. 
+Deutlich weniger Wachstum finden wir beim Anteil der Zeitschriften aus anderen 
+Ländern. Aber immerhin 14% der gelesenen Magazine in Deutschland entfallen auf 
+nichtdeutsche Titel. 10% von englischen Readly-Kunden gelesene Ausgaben entfallen auf 
+Titel, die nicht in Großbritannien verlegt werden; 16% beträgt der Anteil ausländischer 
+Ausgaben in Schweden. 
+> Die Anzahl der gelesenen Magazine (also ohne Berücksichtigung gelesener Zeitungs-
+ausgaben!) gibt Readly mit 120Mio an. Im März 2020, als der letzte Report veröffentlicht 
+wurde, der die Daten des Jahres 2019 darstellte, waren das 83Mio. Die Anzahl der gele-
+senen Magazine ist also seitdem um rund 50% gewachsen. Readlys Umsatz dürfte 2021 
+dagegen rund 70% über dem des Jahres 2019 liegen. 
+> Legt man die Umsätze (laut Geschäfts- und Quartalsberichten, ca. umgerechnet von SKR 
+in Euro), die Readly je Land erwirtschaftet, neben die Anzahl gelesener Magazine, dann 
+ergibt sich im internationalen Durchschnitt ein Wert von rund 36Cent pro gelesenem 
+Magazin. In Deutschland sind es nur 30Cent, in Großbritannien 47 Cent. Das ist für ein 
+Flatrateangebot und angesichts der Tatsache, dass Readly jeden Vorgang als 'gelesen' 
+zählt, bei dem ein Magazin nur angeklickt und mindestens eine Seite geblättert wird, ein 
+ordentlicher Erlös. 
+Zeitungen bei Readly 
+> Der Haken dabei ist, dass Readly eben nur über Zeitschriften berichtet, nicht über die 
+zunehmend auch angebotenen Zeitungen. Das dürfte daran liegen, dass Readly hier eine 
+andere Vergütungspraxis verfolgt, die nicht oder anders als bei den Zeitschriften – nichts 
+Genaues weiß man nicht – an die Anzahl gelesener Ausgaben gekoppelt ist. Jedenfalls 
+schmälern die Auszahlungen an die bei Readly präsenten Tageszeitungen die o.g. 
+Werte signifikant. Aber um wie viel? 
+Auf pv digest-Nachfrage hat uns Readly zusätzliche Informationen zur Zeitungsnut-
+zung zur Verfügung gestellt: 
+"Weltweit waren in der Periode 1.1.20 – 31.10.21 20% aller geöffneten Ausgaben Zei-
+tungsausgaben. Wenn wir unsere Kernmärkte betrachten, variieren diese Zahlen, natür-
+lich auch abhängig von der Menge angebotener Zeitungen und wie lange diese im 
+ 
+relevante Facts daraus: 
+ 
+• Rund ein Fünftel der 
+Zeitschriftenlektüre 
+bei Readly entfällt 
+auf Back Issues 
+ 
+ 
+Dieser Anteile wächst 
+deutlich 
+ 
+ 
+ 
+Gut ein Zehntel ent-
+fällt auf ausländische 
+Titel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Vom 1.11.20 bis 
+31.10.21 wurden 120 
+Mio Magazin-E-Paper 
+'gelesen'  
+ 
+ 
+ 
+ 
+ 
+• Readly-Umsatz pro 
+Magazin E-Paper: 36 
+Cent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• aber Achtung: dabei 
+sind Zeitungen nicht 
+berücksichtigt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zeitungen je Land 
+zwischen 15% (D) & 
+34% (Schweden) aller 
+gelesenen Ausgaben 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 18
+jeweiligen Markt verfügbar waren. In Schweden beispielsweise haben wir seit 2014 Zei-
+tungen im Angebot und heute machen Zeitungsausgaben dort 34% aller geöffneten Aus-
+gaben aus. Die entsprechenden Werte sind in Großbritannien 20% und 15% in Deutsch-
+land. Wir sind happy, so eine große Zahl für Deutschland in so kurzer Zeit zu sehen, wo 
+erst im Januar 2021 Axel Springer hinzugekommen ist. Das illustriert, wie sehr unser Pub-
+likum es schätzt, Zugang zu Zeitungen zu haben." 
+PS: neu im digitalen Zeitungsregal von Readly finden sich die nationalen Flaggschiffti-
+tel Neue Zürcher Zeitung und Die Presse aus der Schweiz und Österreich sowie die Stutt-
+garter Zeitung nebst Tochter Eßlinger Zeitung und der Schwarzwälder Bote. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+neu bei Readly: NZZ, 
+Die Presse, deutsche 
+Regionalzeitungen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint Readly vergütet Zeitungen anders als Magazine. Es ist zu vermuten, dass 
+die Anzahl gelesener Ausgaben bei Zeitungen nicht ganz so stark ins Gewicht fällt, wie 
+bei Zeitschriften. Aber selbst, wenn Zeitungen genauso vergütet würden wie Magazine, 
+dann würde sich der an die Verlage ausgeschüttete Erlös pro Ausgabe nur um rund 20% 
+mindern. In Deutschland würde Readly dann ca. im Durchschnitt für jedes mindestens 
+einmal aufgeblätterte E-Paper rund 17 Cent ausschütten (nach anzunehmendem 30%-
+Einbehalt von Readly). Das ist oft mehr, als dieselben Titel im sonstigen Verkauf erwirt-
+schaften oder über den Print-Lesezirkel einnehmen. Das alles ohne Kosten für Druck, 
+Papier und Logistik. Und oft als Gegenleistung dafür, dass ein E-Paper lediglich einmal 
+angeklickt und mindestens eine Seite geblättert wurde.  
+Diese Relationen sollte man im Kopf haben, wenn man sich mit dem Geschäftsmodell 
+Readly beschäftigt. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 19
+ 
+         
+ 
+    P2 
+  
+Index
+Marktentwicklung
+Einzelhandel
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland) 
+ 
+  
+ 
+Marktentwicklung
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neueinfüh-
+rungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+  
+ 
+Marktentwicklung
+digitaler Vertrieb
+ 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATEN COCKPIT HANDEL UND ABSATZ 
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 20
+ 
+ 
+ 
+ 
+ 
+Paid Content-Umsätze in Deutschland wachsen auf 
+881Mio€. Ein Jahr des Übergangs?! 
+P 
+Paid Content (Publi-
+kumsmedien) in D 
+ 
+Zu Endkundenpreisen berechnet summieren sich die Paid Content-Umsätze der deut-
+schen Publikumsverlage aktuell auf gut 880Mio€ pro Jahr. Das ist das Ergebnis der jährli-
+chen Markteinschätzung von pv digest. Gegenüber der letzten Schätzung aus dem Januar 
+2021 ist diese Summe um 25% gewachsen. Gegenüber den beiden Vorjahren schätzen 
+wir die Wachstumsrate damit etwas geringer ein. In absoluten Zahlen lag das Wachstum 
+mit +178Mio€ nahezu exakt auf dem Vorjahreswert (+175Mio€). 
+Diese Umsatzschätzung versteht sich als 'Run Rate', als Hochrechnung jeweils aktu-
+eller Schätzwerte für die Monatsumsätze verschiedener Paid Content-Segmente (auf dem 
+Stand November/Dezember 2021). Für schnell wachsende Märkte ist eine solche Kennzahl 
+sinnvoller und zumindest in diesem Fall auch einfacher ermittelbar als eine rückwirkende 
+Kalenderjahresbetrachtung. Daraus folgt allerdings, dass der Gesamtumsatz im Jahr 2021 
+unterhalb unseres Schätzwertes lag und im laufenden Jahr 2022 deutlich oberhalb dieses 
+Wertes liegen wird. 
+Das skizzierte Umsatzwachstum resultiert vor allem aus einer Steigerung der Digi-
+talabo-Mengen. 2021 haben weitere Titel ihre vorher noch gratis nutzbaren Websites hin-
+ter eine Paywall gestellt. Insbesondere bei den Tageszeitungen sind vollständig gratis nutz-
+bare Websites mittlerweile seltene Ausnahmen. Die Anzahl der Paywall-Abos deutscher 
+Zeitungen dürfte um rund 30% gewachsen sein. 
+ 
+ 
+881Mio€ Jahresumsatz 
+mit digitalem Publi-
+kumsjournalismus 
+ 
++25% zum Vorjahr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+881Mio€ = 'Run Rate' 
+mit Stand Novem-
+ber/Dezember 2021 
+ 
+ 
+ 
+ 
+ 
+Umsatzwachstum vor 
+allem wegen Steige-
+rung der Mengen der 
+Digitalabos 
+ 
+ 
+ 
+ 
+ 
+QUELLEN: 
+ANALYSEN UND DATEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 21
+Die Absatzmengen für reine E-Paper-Abos sind bei den Tageszeitungen deutlich weniger 
+gestiegen, nämlich nur noch um 5% gegenüber Vorjahr. Die Absatzmengen von gegen Auf-
+preis zusätzlich zu einem Printabo verkauften E-Paper-Abos waren sogar rückläufig. Der 
+'Sonstige Verkauf' 
+von E-Papern hat 
+um fast 7% abge-
+nommen. 
+Immer 
+häufiger 
+bündeln 
+Zeitungen ihre ge-
+druckte 
+Ausgabe 
+zusammen 
+mit 
+dem E-Paper in ein 
+einziges 
+Abo, 
+in 
+dem das E-Paper 
+dann 
+keinen 
+zu-
+sätzlichen Umsatz 
+mehr erwirtschaf-
+tet.  
+Bei den Zeitschriften sehen wir dagegen ungebremstes E-Paper-Wachstum. Um 45% ist 
+die relevante Menge der E-Paper-Abos bei Zeitschriften und Wochenzeitungen ange-
+stiegen. Auch die (noch nicht sehr zahlreichen) Paywallangebote in diesem Bereich dürf-
+ten meistens deutlich mehr Kunden zählen als vor 12 Monaten. Und das gilt auch für An-
+bieter, die nicht aus dem Kreis der Verlagsunternehmen stammen, wie beispielsweise 
+Readly oder die Steady. Letztere Abomanagementplattform für 'Creator' dürfte die 10Mio€ 
+Jahresumsatz-
+grenze 
+deutlich 
+überschritten ha-
+ben. 
+Insgesamt ist der 
+Anteil der Zeit-
+schriftenmedien 
+(in den wir aller-
+dings 
+für 
+diese 
+Auswertung 
+die 
+Nicht-Verlagsan-
+gebote hineinrech-
+nen) 
+im 
+letzten 
+Jahr von 28% auf 
+32% 
+gewachsen. 
+Die übrigen hier 
+gezeigten 
+Seg-
+mente 
+mit 
+Aus-
+nahme des Paid 
+Content-Angebotes von Bild haben dafür 1%-2%-Punkte 'Marktanteil' verloren.  
+E-Paper-Abos bei Zei-
+tungen wachsen aber 
+kaum noch; SV ist so-
+gar rückläufig 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Umsatzwachstum fußt 
+zu 80% auf Mengen-
+wachstum, zu 20% auf 
+höheren Preisen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zeitschriften mit deutli-
+chem Wachstum der  
+E-Paper-Abos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anteil der PZ wächst, 
+alle anderen Segmente 
+mit weniger oder stabi-
+lem (Bild) Anteil 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 22
+Für Bild sehen wir zum dritten Mal in Folge einen Marktanteil von 6%. Bei unserer ersten 
+Schätzung im Jahr 2014 lag dieser Wert sogar bei 10%. Seitdem wächst der Paid Content-
+Kuchen insgesamt etwas stärker als die Paid Content-Umsätze der Boulevardzeitung. Das 
+resultiert sowohl aus dem Wachstum aller übrigen Paid Content-Angebote wie auch aus 
+der beständig größer werdenden Anzahl solcher Angebote.  
+Zwei Drittel der Paid Content-Umsätze entstehen derzeit noch im Bereich der Tageszei-
+tungen. Und hier ist das E-Paper immer noch die Haupterlösquelle. Zumindest bei den 
+überregionalen Zeitungen ist aber absehbar, dass Paywall-Abos das E-Paper als 
+größte Umsatzquelle im digitalen Lesermarkt ablösen werden. Bemerkenswert ist, 
+dass bereits in diesem 
+Jahr die Verkäufe über 
+die Appstores etwa 
+den gleichen (Endkun-
+den!-) Umsatz erzielt 
+haben wie die sonsti-
+gen Verkäufe des E-Pa-
+pers, also meistens die 
+Erlöse aus dem zusätz-
+lichen Verkauf eines E-
+Paper-Abos an einen 
+Print-Abonnenten.  
+Besonders bei den 
+überregionalen Tages-
+zeitungen 
+verändert 
+sich diese Verteilung 
+schnell, wie der Blick 
+auf die Grafiken aus 
+den beiden Vorjahren 
+deutlich macht. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Überregionale TZ gene-
+rieren fast 40% ihrer 
+Paid Content-Umsätze 
+mit Paywalls 
+ 
+Apps bei diesen Zeitun-
+gen gleichauf mit E-Pa-
+per-SV 
+ 
+ 
+regionale TZ mit fast 
+80% E-Paper-Abo-An-
+teil an Paid Content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anteil der Paywall-Um-
+sätze wächst unüber-
+sehbar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 23
+ 
+Zur Datengrundlage dieses Beitrags: 
+Unsere Marktschätzung beruht auf einer Vielzahl von Annahmen und Durchschnittswer-
+ten. Dank des hohen Anteils der E-Paper-Erlöse und der weit verbreiteten Meldung der E-
+Paper-Auflagen an die IVW sowie des jüngsten Trends, auch Paywallabos über die Paid 
+Content-Statistik der IVW offen auszuweisen, fußt ein großer Teil unser Marktschät-
+zung bei den Zeitungen auf öffentlich verfügbaren Mengenangaben. Hier müssen also 
+'nur' die zugehörigen durchschnittlichen Preise geschätzt werden. 
+Das Segment der Zeitschriften ist um einiges weniger transparent. Viele Titel melden gar 
+keine Auflagendaten an die IVW. Und die Produktvielfalt im Bereich digitaler Bezahlange-
+bote ist deutlich größer als bei den Zeitungen – auch wenn dabei unter dem Strich viel  
+weniger erlöst wird. Noch unsicherer ist die Schätzung der Paid Content-Umsätze mit 
+innovativen, nicht aus dem Bereich etablierter Verlage stammender digitaler Bezahl-
+angebote. Aber auch hier stehen teilweise mehr oder weniger belastbare Informationen 
+zur Verfügung, von Geschäftsberichten (z.B. Readly, Stiftung Warentest) über Selbstaus-
+künfte (z.B. Steady) bis hin zu punktuellen Beobachtungen und Aussagen im Rahmen von 
+Medienberichten und Konferenzen oder Daten aus eigenen Recherchen. 
+Unser Kalkulationsmodell beruht auf folgenden Parametern und Annahmen. 
+> Für die überregionalen Zeitungen, für Bild und für ausgewählte regionale Zeitungen haben wir an-
+hand der IVW-Daten (E-Paper-Auflagen, soweit vorhanden Paid Content-Meldungen an die IVW) und weite-
+rer uns bekannter Daten zu übrigen Digitalprodukten eine auf den Details der Auflagenstruktur und 
+der jeweiligen individuellen Angebotspreise beruhende Abschätzung vorgenommen. 
+> Die E-Paper-Erlöse der übrigen regionalen (inkl. lokalen) Tageszeitungen haben wir entsprechend der 
+IVW-Angaben (Tageszeitungen gesamt abzgl. Mengen einzeln betrachteter Titel) und per repräsentativer 
+Stichprobe ermittelten Durchschnittspreisen (monatlich 28,10€ für E-Paper-Abos und 6,48€ für E-Paper 
+Sonderverkäufe) kalkuliert. 
+> Mittlerweile hat die Mehrheit aller Tageszeitungen in ihren Webangeboten eine Paywall installiert. Aber 
+nicht alle diese Titel generieren Paywall-only-Erlöse. Bei vielen Titeln berechtigt ein E-Paper-Abo auch zur 
+Nutzung der bezahlpflichtigen Webinhalte, so dass die Paywall keine zusätzlichen Erlöse generiert. Wir un-
+terstellen, dass im Branchenschnitt 80% aller Zeitungen ein separates Webabo anbieten, und dass da-
+bei ein Webabo-Kundenbestand in Höhe von 5% der verkauften Zeitungsauflage erreicht wurde. Für 
+diese reinen Paywall-Abos sehen wir einen Durchschnittspreis von 8,34€. 
+> Auch für digital herausragende Zeitschriften und Wochenzeitungen haben wir anhand der IVW- Da-
+ten eine auf den Details der Auflagenstruktur und der jeweiligen individuellen Angebotspreise beruhende 
+Einzel-Abschätzung vorgenommen. Hinzu kommen Umsatzwerte, die sich aus öffentlich gemachten Aus-
+sagen aus einzelnen Verlagen und auch aus Hintergrundinformationen für pv digest ergeben. 
+> Für die Abschätzung der Paid Content Erlöse der übrigen Zeitschriften (inkl. Wochenzeitungen und Spe-
+cial Interest Magazine aber keine Fachzeitschriften) mit IVW-Meldung haben wir die Erlöse aus dem Verkauf 
+von E-Papern auf Basis der IVW-Zahlen und mit Durchschnittspreisen ermittelt. Die per Abonnement als 
+E-Paper verkauften betroffenen Zeitschriften erscheinen zu sehr unterschiedlichen Preisen und unter-
+schiedlich häufig. Für die Kalkulation haben wir einen repräsentativen Mittelwert herangezogen. Basis für 
+dessen Berechnung sind Durchschnittswerte, die wir aus einem proportional gewichteten Mix der nach E-
+Paper-Auflage größten Zeitschriften und einer Stichprobe aus allen übrigen Titeln berechnet haben. Unser 
+'Durchschnitts-E-Paper' einer Zeitschrift kostet 8,48€ pro Monat im regulären Abo und 1,28€ im sonstigen 
+Verkauf. 
+ 
+ 
+Erläuterungen zum 
+Schätzmodell 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• individuelle Detailbe-
+trachtung für große 
+Zeitungen 
+ 
+ 
+• restliche TZ: Kalkula-
+tion über Gesamt-
+summe und ØWerte 
+ 
+ 
+ 
+• Annahme: 80% aller 
+regionalen TZ mit 
+Paywall-Erlösen 
+ 
+ 
+ 
+ 
+• individuelle Detailbe-
+trachtung für große 
+Zeitschriften 
+ 
+ 
+ 
+ 
+ 
+• restliche IVW-PZ:  
+Kalkulation über Ge-
+samtsumme und 
+ØWerte 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 24
+ 
+ 
+> Für die E-Paper von Zeitschriften (inkl. Romanhefte!) ohne IVW-Meldung haben wir einen Betrag von gut 
+35Mio€ (20% der E-Paper-Umsätze der Titel mit IVW-Meldung) pauschal angenommen. Für alle übrigen 
+Paywall-, App- und sonstigen Angebote für bezahlpflichtigen digitalen Publikumsjournalismus haben wir 
+pauschal weitere 30Mio€ angenommen. Beide Positionen können wir zu mehr als der Hälfte mit konkre-
+ten Beispielfällen belegen. Etwas weniger als die Hälfte dieser Beträge steht für die nicht im Detail berück-
+sichtigten oder uns unbekannten anderen Publishing-Produkte mit publikumsjournalistischem Inhalt. 
+> Für Readly haben wir einen deutschen 12-Monatsumsatz von 8Mio€ angenommen. Readly berichtet 
+mittlerweile quartalsweise über seine Geschäftsentwicklung. Die gesamten deutschen Umsätze sind zwar 
+noch deutlich höher. Allerdings melden einige Verlage ihrer über Readly abgesetzten Mengen an die IVW. 
+In diesen Fällen sind die Readly-Umsätze indirekt bereits über die mit Hilfe der IVW-Mengen geschätzten 
+Umsätze erfasst. 
+ 
+ 
+ 
+ 
+• Pauschalannahmen 
+für PZ ohne IVW-Mel-
+dung und sonstige 
+Angebote 
+ 
+ 
+ 
+• 8Mio€ für Readly-
+Umsätze ohne IVW-
+Meldung 
+ 
+ 
+ 
+ 
+pvd meint +25% bedeuten starkes Wachstum. Nach zwei Vorjahren, in denen diese 
+Quote noch einmal um ein Drittel höher lag, kann dieser Wert aber keine Euphorie ent-
+fachen. Der Schwellenwert zu 1Mrd€ Paid Content-Umsatz wird erst im kommenden 
+Jahr erreicht sein. Das hatten einige Marktteilnehmer schon früher erwartet. 
+Hauptgrund für diese Entwicklung ist, dass der Boom bei der E-Paper-Auflage der Tages-
+zeitungen zu Ende ist. Das E-Paper hat sich seinen wichtigen Platz im Produktportfolio 
+der Publisher erobert. Aber mit E-Papern werden vor allem mittelflexible Leser mit Print-
+Sozialisierung angesprochen. Diese Zielgruppe wird nicht größer sondern kleiner. Für 
+jüngere Menschen brauchen die Verlage andere Produkte. Gut gesteuerte Paywallange-
+bote sind eines davon. In Ausgaben gebündelte Angebote – also regelmäßig, zu festste-
+henden Terminen aktualisierte Produkte, die einen erwartbaren Umfang haben, mit de-
+nen man 'fertig' werden kann, die aber nicht so aussehen, wie ein gedrucktes Produkt, 
+sind ein weiteres Konzept, von dem pv digest glaubt, dass es noch große Perspektiven 
+bietet. Das ist allerdings schon eine Überzeugung, die bei weitem nicht jeder teilt. 
+Sicher ist, dass großes Wachstum zukünftig nur mit Produkten geschaffen werden kann, 
+die sich vom Printvorbild lösen. Das starke Wachstum der Paywallabos zeigt, dass es hier 
+tatsächlich Potenzial gibt. Viel Potenzial liegt auch in der Preisgestaltung. Wie viel Poten-
+zial höhere Preise bieten, das haben praktische alle Verlage erst in der Auflagenkrise 
+gelernt. Dort sorgten sie trotz eines massiven Mengenrückgangs oft sogar für wach-
+sende Umsätze. Es ist aber kein Gesetz, dass man Preise erst dann erhöhen darf, wenn 
+die Mengen rückläufig sind. Wachstum+Preissteigerungen wären eine Turbo-Formel. 
+2021 war in diesem Sinne ein Jahr des Übergangs. Dem massiven Wachstumsboom im 
+Jahr 2020 folgte in vielen Fällen eine Katerstimmung, als man nämlich bemerkte, dass 
+nicht alle neuen Abonnenten auch dauerhaft bei der Stange bleiben. Das ist zwar ganz 
+normal. Aber viele am Paid Content-Erfolg beteiligte Personen, die über keinen Back-
+ground im Lesermarkt-Geschäft verfügen, müssen das erst noch lernen. 'Churn' war das 
+Wort des Jahres 2021. 2022 sollten sich die Begriffe Engagement, Produktentwicklung 
+und auch Preisgestaltung um diesen Titel bewerben. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 25
+ 
+pv digest Daten Cockpits – Jahreswerte 2021 
+P 
+pvd Jahresstatistiken 
+ 
+In jeder Ausgabe veröffentlicht pv digest aktuelle Kennzahlen zum Vertriebsmarkt. Das 
+'Daten Cockpit Verlage' finden Sie in dieser Ausgabe auf Seite 9. Das Daten Cockpit Handel 
+und Absatz auf Seite 19. An dieser Stelle werfen wir einen Blick auf die Gesamtdaten für 
+das Jahr 2021. 
+Unsere Analysen stützen sich überwiegend auf Stichproben, nicht zuletzt auf die Aus-
+wertung der wöchentlichen Informationsschreiben von Pressegroßhändlern an deren Ein-
+zelhandelskunden. Im in seiner Gesamtheit gar nicht überblickbaren, vielfältigen und im-
+mer noch kleinteiligen Pressemarkt in Deutschland gilt für die folgende Darstellung wie 
+immer: absolute Zahlen sind stets nur als Größenordnungen zu begreifen. Verlässliche 
+Informationen bieten vor allem relative Vergleiche, Mittelwerte und Trends. 
+Titelneuankündigungen 
+Im vergangenen Jahr haben wir 2.023 Titelneuankündigungen gezählt (neue Einzel- und 
+Sonderhefte, neue Periodika, aber auch z.B. neue Bundlings). Für die jeweils auf die erste 
+Erscheinung folgenden 12 Monate würden aus diesen Ankündigungen 3.298 Erstver-
+kaufstage resultieren (wenn die neu angekündigten Periodika nicht schon vor Ablauf von 
+12 Monaten das Erscheinen wieder einstellen). Erstmals seit wir diese Statistik führen wur-
+den weniger als 
+200 – nämlich nur 
+187 – neue Perio-
+dika angekündigt. 
+Über 90% der Neu-
+ankündigungen 
+entfallen damit auf 
+nur einmal erschei-
+nende Objekte.  
+Die Gesamtanzahl neu angekündigter Presseobjekte entwickelt sich im Zeitverlauf ohne 
+deutlichen Trend. Weil neue Objekte aber immer seltener als regelmäßig erscheinende 
+Titel angekündigt werden, ist die Anzahl der Erscheinungen, die für die neuen Titel über 
+den Zeitraum von 12 Monaten zu erwarten sind (=Erstverkaufstage, EVTs) seit Jahren 
+rückläufig. Nur im letzten Jahr zeigte sich bei dieser Kennzahl ein plötzliches Plus, sogar 
+gegenüber beiden vorangegangenen Auswertungen. 2021 ist dagegen der langjährige 
+Trend zu weniger EVTs wieder fortgeschrieben worden.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+jährliche Analyse der 
+monatlichen Daten-
+Cockpits 
+ 
+ 
+ 
+ 
+ 
+absolute Zahlen sind 
+Größenordnungen, be-
+lastbar sind Trends 
+ 
+ 
+ 
+ 
+ 
+über 2.000 Titelneuan-
+kündigungen 
+ 
+aber weniger als 200 
+davon mit periodischer 
+Erscheinung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anzahl Neuankündi-
+gungen im Zeitverlauf 
+relativ stabil 
+ 
+ 
+Anzahl resultierender 
+EVTs sinkt (beinahe) 
+kontinuierlich 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 26
+Die meisten neuen angekündigten Titel sind Hefte für junge Menschen – das ist nicht neu. 
+Genauso wenig wie die Tatsache, dass die meisten periodisch erscheinenden neuen Ob-
+jekte aus der Gattung der Roman- und Rätselzeitschriften stammen. 
+Mehr als zwei Drittel aller neuen Objekte wurden für einen der drei Tage Mittwoch, Don-
+nerstag und Freitag angekündigt. Das Wochenende inklusive Montag nutzen nur 14% aller 
+neuen Titel für ihre erste Er-
+scheinung. Die Präferenzen 
+für die Wochentage schwan-
+ken zwar im Zeitverlauf, aber 
+im Großen und Ganzen ist 
+die Verteilung bemerkens-
+wert stabil [bemerkenswert 
+angesichts der Tatsache, dass 
+in der Vergangenheit immer 
+wieder einmal auch promi-
+nente Titel mit einer Verle-
+gung ihrer Erstverkaufstage 
+experimentiert haben].  
+Für neue Titel haben die Verlage Lieblingspreise. Betrachtet man die beiden folgenden 
+Grafiken, dann fällt entlang der Y-Achse, die die Anzahl der Fälle anzeigt, jeweils ein (rot 
+markierter) Punkt besonders auf. Neue Periodika kosteten 2021 am häufigsten 3,99€. 
+Alle anderen Preise wurden deutlich seltener gewählt. 2020 war der am häufigsten ge-
+wählte Preis für eine neue regelmäßig erscheinende Zeitschrift fast 1€ höher (4,95€). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die meisten Neuankün-
+digungen adressieren 
+junge Leser 
+ 
+ 
+Die meisten neuen Pe-
+riodika sind Romane 
+oder Rätselhefte 
+ 
+ 
+ 
+ 
+ 
+69% aller neuen Ob-
+jekte erscheinen an ei-
+nem Mittwoch, Don-
+nerstag oder Freitag 
+ 
+ 
+ 
+ 
+ 
+ 
+Die bevorzugten Er-
+scheinungswochentage 
+änderten sich seit 2013 
+kaum 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Neue Periodika kosten 
+am häufigsten 3,99€ 
+ 
+ 
+neue Einmalerschei-
+nungen 4,50€ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 27
+Nicht regelmäßig erscheinende Titel hatten die Verlage 2020 und auch schon 2019 am 
+häufigsten sogar mit 9,95€ bepreist. Im vergangenen Jahr waren sie diesbezüglich weniger 
+ehrgeizig, Der häufigsten Preis für Einmalerscheinungen war 4,50€.  
+Im Durchschnitt aller neuen Titel haben sich die Preise allerdings nicht gravierend be-
+wegt.  
+Bei bestehenden Titeln sind die Verlage bei einer forcierten Preispolitik geblieben. Um 
+16% im Durchschnitt verteuerten sich Zeitschriften (wenn sie sich denn verteuerten). 
+Tageszeitungen, die ihre Preise angehoben haben, verteuerten sich im Schnitt um 12%. 
+Beide Gattungen sind im Lauf der Jahre bei ihren bestehenden Objekten erkennbar preis-
+aggressiver geworden. 
+ 
+Beim Blick auf die Seg-
+mente fällt eine große 
+Spreizung auf. Frauen-
+zeitschriften, aber auch 
+viele Special Interest-Ti-
+tel, wurden im Schnitt 
+um rund ein Viertel teu-
+rer. Im Segment der Rät-
+sel- und Romanhefte, für 
+das allein wir über 200 
+Preissteigerungen 
+regis-
+triert haben, stiegen die 
+Preise 
+nur 
+um 
+durch-
+schnittlich 6%.  
+ 
+ 
+Die häufigsten Preise 
+lagen im Vorjahr deut-
+lich höher 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aber im Durchschnitt 
+haben sich die Neuti-
+telpreise kaum verän-
+dert 
+ 
+ 
+ 
+ 
+ 
+ 
+Preise bei etablierten-
+Zeitschriften wurden 
+im Ø um 16% erhöht 
+ 
+Zeitungen verteuerten 
+sich um Ø 12% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Preiserhöhungen bei 
+Zeitschriften fallen je 
+Segment im Ø sehr un-
+terschiedlich aus 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 28
+ 
+ 
+ 
+ 
+ 
+Sandra Becker ist im Dezember als Geschäftsführerin des Täglichen Anzeigers Holz-
+minden auf Constanze Mahnkopf gefolgt. 
+Verlagsleiterin Nora Kopplin verlässt den Tagesspiegel. 
+Janina Süss ist neue Verlagsleiterin für Bild der Frau und Funkes Eat Club. Sie verlässt 
+dafür ihre ähnliche Position bei der Bauer Media Group (Verlagsleiterin junge Frauentitel). 
+ 
+P 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+Weltweit im Trend: verbraucherfreundliche Regulierungen 
+für die Ausgestaltung von Aboverträgen 
+P 
+20 
+Verbraucherschutz & 
+Abomodelle 
+ 
+Es ist noch nicht so lange her, da überraschte ein regionaler Zeitungsverlag die meisten 
+Kollegen mit einer radikalen Abkehr von der Praxis, Kündigungen nur in Schriftform zu 
+akzeptieren. In pvd #12/2018 berichteten wir ausführlich über den Erfolg, den die West-
+deutsche Zeitung damit hatte, dass sie als bevorzugten Weg einer Kündigung das Te-
+lefon empfahl. Weil die kündigungswilligen Abonnenten dabei auf geschulte Mitarbeiter 
+trafen, denen es häufig gelang, die Kunden von der Kündigung abzubringen, verringerten 
+sich die Kündigungsquoten bzw. verbesserte sich die durchschnittliche Abo-Haltbarkeit 
+der WZ-Abos signifikant. 
+Wir haben das Thema in der Folge noch mehrfach aufgegriffen und nachgehalten. Die 
+Westdeutsche Zeitung fand etliche Nachahmer. Aber auch nicht wenige Verlage und 
+auch Abowerbeunternehmen der WBZ-Branche blieben skeptisch und beharren wei-
+ter darauf, dass die Pflicht zum Verfassen eines Textes gegenüber einem [vermeintlich] 
+spontanen Anruf der effektivere Weg sei, um Kündigungen wenn nicht zu vermeiden, dann 
+doch wenigstens herauszuzögern. Freilich müssen die Verlage mittlerweile auch Kündigun-
+gen in Textform, also nicht auf Papier, sondern auch per E-Mail oder wohl gar per SMS und 
+Whatsapp akzeptieren. Das war eine der Neuregelungen im hiesigen Verbraucherrecht der 
+letzten Jahre. Sie ist seit Oktober 2016 in Kraft. 
+Auch Medien in anderen Ländern wissen um die Effektivität auf Kündigungsverhinde-
+rung geschulter Telefonagenten. Nicht wenige Medien, von der französischen Zeitung Le 
+Monde bis zum Wall Street Journal akzeptieren Kündigungen ausschließlich per Anruf. 
+ 
+ 
+ 
+ 
+ 
+pvd 12/2018: WZ hat 
+gute Erfolge mit der 
+Umleitung von Kündi-
+gungen auf das Telefon 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Das fand einige Nach-
+ahmer, aber auch 
+zahlreiche Skeptiker 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Weltweit ist 'Kündigung 
+nur (!) per Telefon' gar 
+nicht so selten 
+ 
+BRANCHENNEWS & -RECHT
+QUELLEN:
+Personalien 
+QUELLEN:
+PERSONALIEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 29
+ 
+ 
+In den USA hat die Verbraucherschutzbehörde FTC nun klargestellt, dass sie der dort 
+nicht seltenen Praxis 'Kündigung nur per Telefon' sehr kritisch gegenübersteht. Das 
+sei häufig nur eine Verschleierung für das künstliche Erschweren von Kündigungen, eine 
+Abofalle und schlicht illegal. In einem offiziellen 'Agency Statement' machte die FTC klar, 
+dass Aboangebote von Anfang an transparent sein müssen bezüglich der Folgekosten, der 
+Kündigungsfristen und im Zeitverlauf möglicher Veränderungen der Abobedingungen.  
+Transparent bedeute, "dass diese Informationen auf den ersten Blick, wenn der Konsu-
+ment das Angebot erstmals sieht, zur Verfügung gestellt werden müssen und grundsätz-
+lich genauso auffällig wie das Angebot selbst". Negativoptionen, die eine spätere Zahlungs-
+verpflichtung nach sich ziehen, müssen die Verbraucher explizit und separat zustimmen. 
+Sie dürfen nicht in andere Aspekte "der ganzen Transaktion" eingebunden sein. Und 
+schließlich müssen "Marketer Kündigungsmechanismen anbieten, die wenigstens ge-
+nauso einfach zu nutzen sind, wie die Methoden, die der Nutzer im ersten Schritt ge-
+brauchte, um das Produkt oder den Service zu bestellen". 
+Damit ist die FTC wesentlich detailfreudiger als der hiesige Gesetzgeber. Der verfolgt al-
+lerdings vergleichbare Ziele. Ab Mitte dieses Jahres (1.7.22) müssen Verlage in Deutsch-
+land in Folge des 'Faire Verbraucherverträge Gesetz', einen Selfservice-Kündigungspro-
+zess auf der Website installieren, wenn sie dort auch eine Abo-Bestellmöglichkeit anbie-
+ten. Bis auf Weiteres ist damit aber nicht vorgegeben, wie 'einfach' der Prozess hinter dem 
+im Gesetz genannten "Kündigungsbutton" zu gestalten ist und wie prominent er angebo-
+ten werden muss.  
+ 
+ 
+ 
+ 
+Nun intervenierte die 
+US-Verbraucherschutz-
+behörde.  
+ 
+ 
+Die FTC stellte klar, 
+Abos müssen 
+ 
+• alle wesentlichen Ge-
+schäftsbedingungen 
+von Anfang an auf-
+fällig vorstellen 
+• Negativoptionen 
+müssen separat be-
+stätigt werden 
+• Kündigen muss min-
+destens so einfach 
+sein, wie Bestellen 
+ 
+ 
+Sogar das deutsche 
+Verbraucherrecht ist 
+da noch etwas weniger 
+rigide 
+ 
+aber ab 1.7.22 Pflicht: 
+Kündigungsbuttons 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Das 'Gesetz für faire 
+Verbraucherverträge' 
+ist kein eigenes Gesetz 
+ 
+sondern eine Samm-
+lung komplexer Ände-
+rungen an den Details 
+anderer Gesetze 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Über das 'Gesetz für faire Verbraucherverträge' 
+Das 'Gesetz für faire Verbraucherverträge' ist in Franziska Giffey-Manier super einfach betitelt. 
+Es ist aber, wie viele Gesetze, äußerst kompliziert zu lesen, weil es gar kein eigenständiges 
+Gesetz ist, sondern ein Konvolut von Änderungen des BGB und anderer Gesetze. Beispiel gefäl-
+lig? Im so simpel betitelten Gesetz steht äußerst kompliziert (und hier deutlich gekürzt): 
+"§ 309 Nummer 9 [pvd: des BGB] wird wie folgt geändert: a) Die Buchstaben a und b werden 
+wie folgt gefasst a) … b) eine Bestimmung, die aa)… bb) eine den anderen Vertragsteil bindende 
+stillschweigende Verlängerung des Vertragsverhältnisses um jeweils mehr als drei Monate bis 
+zu einem Jahr vorsieht, es sei denn, …. aaa)… bbb)… ccc)… b) In Buchstabe c werden die Wörter 
+'drei Monate' durch die Wörter 'einen Monat' ersetzt." 
+Diese Regelung hat zur Folge, dass in AGB die Kündigungsfrist für eine Verlängerung um ein 
+oder gar zwei Jahre Vertragslaufzeit maximal einen Monat betragen darf statt bisher drei Mo-
+nate. Außerdem muss zukünftig auf eine solche Verlängerung vorab "in Textform" hingewiesen 
+werden, "spätestens zwei Monate, jedoch frühestens vier Monate" bevor die Verlängerung ein-
+tritt und verpflichtend unter Nennung von aaa) dem Zeitpunkt des Endes der bisherigen Ver-
+tragslaufzeit, bbb) dem Zeitraum, um den sich der Vertrag verlängern wird und ccc) dem spä-
+testmöglichen Kündigungszeitpunkt. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 30
+PS: Im FTC-Statement geht es ja nicht nur um die Ausgestaltung der Kündigungsprozesse. 
+Es geht auch um die Praxis, ohne vorherige explizite Zustimmung Zahlungsverpflich-
+tungen einzuführen oder Preise zu erhöhen. Das zu verhindern ist ein Anliegen, das 
+weltweit zunehmend zum Thema wird. Sogar aus Indien hören wir, dass die dortige Zent-
+ralbank seit 1. Oktober verlangt, dass Konsumenten über fällige Kreditkartenzahlungen 
+vorab informiert werden müssen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+auch Praxis automati-
+sierter Abbuchungen 
+und von Preiserhöhun-
+gen auf dem Prüfstand 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint Es ist absehbar, dass in Deutschland früher oder später eine andere weit 
+verbreitete Abo-Praxis der Verlagswelt regulatorisch oder juristisch in Frage gestellt wer-
+den wird. Nämlich das mehr oder weniger stillschweigende Erhöhen der Abopreise.  
+Üblich ist zwar das Veröffentlichen eines entsprechenden Hinweises in der jeweiligen 
+Publikation, die ihre Abopreise erhöht. Aber vor Gericht dürften Abonnenten sehr gute 
+Chancen haben, sich darauf zu berufen, dass das nicht ausreicht und auch keinesfalls 
+durch die gar nicht oder nur vermeintlich verabredeten AGB abgedeckt ist. 
+Eine sehr vergleichbare Erfahrung haben in den letzten Monaten die deutschen Banken 
+gemacht, die nun teilweise gezwungen werden, vereinnahmte Kontoführungsgebühren 
+zurückzuzahlen. Es ist nicht absurd, sich ein Szenario auszumalen, in dem auch ein Pres-
+seanbieter dazu verurteilt wird, über unrechtmäßig erfolgte Preiserhöhungen verein-
+nahmte Gelder an die Abonnenten zurückzuzahlen. Sehr vorsichtigen Unternehmen 
+könnte man hierfür die Bildung von Rückstellungen empfehlen. 
+pvd meint Die Ausgestaltung des Prozesses, der hinter dem 'Kündigungsbutton' liegt, 
+ist (bisher!) nicht konkretisiert. Darin könnte eine Chance liegen. Wir empfehlen allen 
+Aboverantwortlichen, sich dieses Themas anzunehmen. Der Gesetzgeber, Verbraucher-
+schützer und gar nicht wenige Verlagsmanager selbst haben vermutlich eine Art An-
+/Aus-Schalter vor Augen, der mit nur einem Klick ein Abo beendet. 
+Allerdings sollte man davon ausgehen, dass Abonnenten von einem solchen Schalter 
+auch Gebrauch machen – und zwar womöglich viel mehr, als man sich das vor dessen 
+Einrichtung vorgestellt hat. Wenn wir die stark aufgehübschten Selbst-Erzählungen des 
+großen Paid Content-Pioniers The Economist in den letzten zwei Jahren richtig deuten, 
+dann ist der britischen Wochenzeitschrift eine dramatische Verbesserung der Abo-Halt-
+barkeiten gelungen. Durch die Wieder-Abschaffung eines Kündigungsbuttons! 
+Umgekehrt berichtet der norwegische Amedia-Verlag, dass er seine Kündigerquoten sig-
+nifikant damit verringert hat, dass er in den vollautomatisch ablaufenden Kündigungs-
+prozess einige wenige 'Hürden' (nämlich 'Warum Sie nicht kündigen sollten'-Botschaf-
+ten) eingebaut hat. 
+Der im deutschen Gesetz genannte Kündigungsbutton muss kommen. Aber was pas-
+siert, wenn man darauf klickt, das ist im Detail noch nicht festgeschrieben. Hier sollte es 
+möglich sein, einen Prozess zu installieren, der Kündigungen nicht schicksalsergeben als 
+optimierte Serviceleistungen maximal erleichtert, der aber gleichzeitig auch nicht so 
+konstruiert ist, dass er sofort wieder die Verbraucherschützer auf den Plan ruft. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 31
+Mehr fordern fürs Fördern 
+ 
+Ende Dezember hat das französische Kul-
+turministerium in einem Kommuniqué klar-
+gestellt, dass die staatlichen Hilfen für Pres-
+severlage in Frankreich nur von Medien in 
+Anspruch genommen werden können, die
+auf der Arbeit von professionellen Journa-
+listen beruhen. 
+Natürlich werden die Fragen, was profes-
+sionelle Journalisten sind und was die Krite-
+rien für professionellen Journalismus, zu 
+Meinungsverschiedenheiten führen. Dass 
+Frankreich diese Pandorabüchse öffnet, ist 
+dennoch beneidenswert. 
+Es ist schon sehr diskussionswürdig, wel-
+che Produkte mit einer ermäßigten Umsatz-
+steuer bevorteilt werden. Kriterien für di-
+rekte Hilfs-Zahlungen gehören noch kriti-
+scher hinterfragt. 
+Mit formalistischen Argumenten gegen 
+eine dann notwendige, zugegebenermaßen
+nicht unproblematische Einrichtung einer 
+Schiedsstelle, die über die Förderungswür-
+digkeit einzelner Medien entscheidet, aus
+Angst vor den resultierenden Diskussionen 
+und den sicher erwartbaren Einzelfall-Zwei-
+felsfällen, nimmt man bisher lieber die För-
+derung journalismusfreier Trittbrettfahrer 
+in Kauf. 
+Seine Forderung, dass der Staat sich an 
+den Zustellkosten für Zeitungen beteiligen
+soll, hat BDZV-Präsident Döpfner zum Jah-
+resauftakt aktualisiert. Dass die in seinem 
+Verband reichlich vertretenden Anzeigen-
+blattverleger erwarten, dass er damit auch
+die Förderung weitgehend journalismus- 
+ freier Werbeblättchen zuwege bringt, ge-
+hört zum Hintergrundrauschen der plakati-
+ven Formulierung "Zeitungen sind system-
+relevant für unsere Demokratie". 
+In der Welt der Zeitschriften sieht es noch 
+ärger aus. Ein großer Teil der dort publizier-
+ten Produkte entsteht komplett ohne die 
+Beteiligung von Journalisten. Stattdessen 
+füllen 
+Romanautoren. 
+Rätsel-Gestalter,
+Adels-Geschichten-Erfinder oder PR-Agen-
+turen unzählige Zeitschriftenseiten. 
+Weil deren Verlage im zuständigen Ver-
+band sehr mächtig sind, sind Diskussionen 
+zu förderungswürdigen Inhalten im VDZ 
+völlig undenkbar.  
+Hinzu kommt, dass die Pressgrossisten ih-
+ren Beitrag zur Systemrelevanz nur in abge-
+setzten Stück und umgesetzten Euro be-
+messen. So ist vor einigen Jahren die Strate-
+gie der sogenannten Sortimentsoptimie-
+rung entstanden, die nichts anderes bein-
+haltet, als knappe Ressourcen mit zweifel-
+haften Um- und Absatzidealen weiter zu
+verknappen – im angeblichen Interesse der 
+Einzelhändler (vgl. S. 10ff). 
+Ihr Auftritt, Claudia Roth! Die neue Kultur-
+staatsministerien sollte sich ein Beispiel an 
+ihren französischen Kollegen nehmen und 
+Mathias Döpfner entgegnen: 'Gerne. Aber 
+wir fördern nur förderungswürdige Medien. 
+Auch rein digitale Medien, die nicht zuge-
+stellt werden müssen. Lassen Sie uns ge-
+meinsam einen Weg finden, um Medien zu 
+identifizieren, die eine Förderung verdie-
+nen. Und welche nicht.' 
+ 
+ 
+… letzte Worte 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Bitte beachten Sie die Anzeige auf Seite 8 
+ 
+AUSGABE 1/2022 ׀ SEITE 32
+  
+ 
+Über pv digest 
+ 
+pv digest ist ein Informationsdienst auf Expertenniveau für das Top-Management 
+rund um das Thema Lesermarkt und Vertrieb journalistischer Produkte. pv digest 
+beruht auf eigenen Recherchen und auf Zusammenfassungen an anderer Stelle ver-
+öffentlichter Informationen und bietet einen einzigartigen Überblick über alle stra-
+tegisch relevanten Vertriebsthemen. pv digest unternimmt in der Regel keine Prü-
+fung wiedergegebener Inhalte und übernimmt keine Garantien für die inhaltliche 
+Korrektheit von Informationen. Genutzte Quellen in pv digest sind in der vorliegen-
+den Ausgabe wie folgt codiert: 
+ 
+ 
+Quellenverzeichnis Ausgabe 1/2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum und 
+Kontaktdaten 
+ 
+HERAUSGEBER: 
+Markus Schöberl (v.i.S.d.P.) 
+Doverkamp 5 
+22335 Hamburg 
+Telefon: 040 308 901 09 
+e-mail: schoeberl@pv-digest.de 
+www.pv-digest.de 
+ 
+pv digest erscheint 11x jährlich,  
+in der Regel am fünften Werktag 
+eines Monats, als personalisiertes  
+PDF-Dokument 
+ 
+PREISE: 
+Regulärer Bezug Deutschland:  
+pro Ausgabe 71€ zzgl. USt., Aus-
+landspreise auf Anfrage 
+ 
+Sonderpreise für Mengenabos  
+oder Firmenlizenzen auf Anfrage 
+ 
+BESTELLUNGEN UND  
+SERVICEFRAGEN:  
+e-mail: abo@pv-digest.de 
+Telefon: 040 308 901 09 
+Post: Doverkamp 5,  
+22335 Hamburg 
+ 
+Bankverbindung: 
+Hamburger Sparkasse 
+BIC:  HASPDEHHXXX 
+IBAN: DE82 2005 0550 1237 1348 10 
+ 
+ 
+ 
+COPYRIGHT: 
+pv digest ist ein empfängerge-
+bundener Informationsservice 
+ 
+ 
+Vervielfältigung und elektroni-
+sche Weitergabe sind untersagt. 
+ 
+ACHTUNG: der nächste pv digest 
+erscheint am 9. Februar 2022 

@@ -1,0 +1,3152 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Weiter-
+gabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: 
+abo@pv-digest.de 
+Ausgabe 4/2020 
+Liebe Leserinnen und Leser, 
+ich hoffe, wenn Sie das lesen, dann sind Sie, Ihre Familie 
+und auch Ihre Mitarbeiter gesund. Mit hoher Wahrschein-
+lichkeit befinden Sie sich gerade im Homeoffice. Jeden-
+falls habe ich in den letzten Wochen beinahe jeden Tele-
+fon-Gesprächspartner dort angetroffen. 
+Das Thema Corona ist eine Herausforderung für einen 
+Fachdienst, der sich gerade nicht als Nachrichtenmedium 
+versteht, sondern als in die Tiefe recherchierendes, ana-
+lytisches und kritisches Informationsmedium. Ehrlich ge-
+sagt hatte ich sogar mit dem Gedanken gespielt, das Corona-Thema komplett auszu-
+sparen. Aber das wäre an der Lebenswirklichkeit vorbei gegangen. Stattdessen finden 
+Sie ab Seite 24 nun eine Sammlung ganz unterschiedlicher Beobachtungen, die ich in 
+diesem Zusammenhang gemacht habe. Dass ich es in die Rubrik 'Vermischtes' einsor-
+tiert habe, das liegt keinesfalls daran, dass ich Corona als ein 'buntes' Thema sehe. Es 
+ist nur ein Thema, dass schlicht alle Bereiche tangiert. 
+Bitte übersehen Sie aber nicht die vielen anderen spannenden Berichte. Zum Beispiel 
+über die Erfahrungen der NOZ mit einer Werbevideo-Kostenlosalternative zur 
+neuen harten Paywall (S.2). Oder den Rückblick auf das Schweizer Bezahlstartup Die 
+Republik und dessen grenzwertige, aber sehr erfolgreiche Werbekampagne (S.5). 
+Einmal mehr habe ich bei Influencern einen interessanten Ansatz gefunden, wie man 
+aus Social-Media-Beziehungen bei den Followern Geld schöpfen kann (S.11f). 
+Schließlich lege ich Ihnen die Ergebnisse einer Studie ans Herz. Seit Jahren verzweifle 
+ich an unglaubwürdigen Ergebnissen des Digital News Reports. Nun habe ich eine ver-
+gleichbare Studie gefunden, die viele Zahlen der Oxforder Forscher bestätigt, und die 
+gleichzeitig zu deren unplausibelste Daten sinnvollere Werte liefert (S.18). In Deutsch-
+land bezahlen demnach 13%, nicht 8% aller Internet-Nutzer für Paid Content. 
+Ich wünsche Ihnen Gesundheit, eine anregende Lektüre und einen verkaufsstarken 
+Monat. 
+ 
+ 
+Markus Schöberl, Herausgeber pv digest 
+Der pv digest 
+Quick Guide 
+ 
+Das Wichtigste in 15 Minuten 
+ 
+ 
+Für Zeitschriften- 
+Verlage 
+Für Zeitungs/ 
+News-Verlage 
+Für digitale  
+Verlagsangebote 
+Für Handels- 
+Verantwortliche 
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.  2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.14 
+Analysen und  
+Daten                 
+ 
+S.18 
+Meinungen 
+ 
+S.21 
+Personalien 
+ 
+S.21 
+Branchennews- 
+& Recht 
+ 
+S.22 
+Vermischtes 
+ 
+S.24 
+letzte Worte 
+S.30 
+Editorial 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 2
+ 
+ 
+ 
+ 
+ 
+NOZ nun mit harter Paywall aber Gratis-Hintertür für 
+Werbevideo-Anseher 
+P 
+Werbung ansehen 
+statt bezahlen 
+ 
+Die Neue Osnabrücker Zeitung ist unter den deutschen Zeitungen eine, die schon lange 
+besonders aktiv, innovativ und konsequent daran arbeitet, ihr Angebot zu digitalisieren 
+und das digitale Angebot wirtschaftlich tragfähig zu machen.  
+Im März hat die NOZ ihre Paywall vollständig ausgehärtet. Seitdem ist der Zugang zu 
+allen Artikeln nur noch für Abonnenten möglich. Der Zugang zu allen Artikeln für jeder-
+mann? Nein! Eine Hintertür wird die Zeitung in den nächsten Tagen öffnen. Wer 30 Se-
+kunden Zeit mitbringt, um ein Werbevideo anzusehen, der kann danach für begrenzte 
+Zeit auch kostenlos lesen. 
+Die Idee, den Zugang zu eigentlich bezahlpflichtigen Inhalten kostenlos im Tausch gegen 
+Werbenutzung anzubieten, ist nicht neu. Aber die NOZ scheint hier einen Weg gefunden 
+zu haben, der nachhaltig funktioniert. Die Zeitung arbeitet dabei mit dem Dienstleister 
+Welect zusammen, den wir nach ausführlichen Recherchen an dieser Stelle ohne Vergü-
+tung oder Absprache zu einem wesentlichen Akteur dieses Beitrags machen. Denn Welect 
+bietet nicht nur die [wenig komplexe] Technologie für das Management der alternativen 
+Zugangsoptionen an. Sondern Welect vermarktet auf Wunsch auch die Werbeplätze und 
+soll dabei attraktive TKPs erzielen. 
+Unser Gesprächspartner Jan Golka, Product Lead Digital Subscriptions bei NOZ Digital 
+GmbH, berichtet, dass in den ersten Tests vor ca. anderthalb Jahren eine zuvor mit ei-
+genen Mitteln erstellte Werbevideoplatzierung durch die Welect-Technologie und von We-
+lect vermarktete Werbung abgelöst wurde. Dabei seien vorherige TKPs von rund 4,50€ 
+auf 20€ gestiegen. Es ging dabei zunächst nicht um die Alternative 'Bezahlen oder Werbe-
+video ansehen'. Sondern zunächst waren die Werbefilme auf noz.de nur eine Alternative 
+zur ansonsten obligatorischen Registrierung. 
+Seitdem hat die NOZ ausführlich sowohl unterschiedliche 'Werbevideo ansehen oder…'-
+Angebote getestet als auch die eigene Vermarktung der Werbeplätze deutlich verbes-
+sert. Mittlerweile erzielen die Werbeverkäufer der Zeitung einen Video-TKP von 120€. We-
+lect ist für die NOZ von einem Werbevermarkter zu einem Technik-Dienstleister geworden, 
+der mit einem Anteil an den selbst generierten Werbeerlösen vergütet wird. 
+Parallel hat die Zeitung in den letzten Jahren mehrfach getestet, ob oder wie sehr die 
+Alternative 'Werbevideo ansehen' jeweils den Erfolg des regulären Angebotes be-
+schränkt. Wenn die NOZ nun mit einer harten Paywall eindeutig die Monetarisierungs-
+strategie Paid Content gegenüber der Werbefinanzierung priorisiert, und wenn sie gleich-
+zeitig aber die Werbevideoalternative beibehält, dann geschieht dies in der Überzeugung, 
+dass die Gratisoption den Erfolg des Bezahlangebotes nicht kannibalisiert. Diese Überzeu-
+gung beruht auf Testergebnissen. 
+ 
+ 
+ 
+ 
+ 
+harte Paywall bei  
+Osnabrücker Zeitung 
+ 
+dennoch Gratisoption 
+'oder Werbevideo an-
+sehen' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dienstleister Welect 
+bietet Technik und 
+Werbevermarktung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mittlerweile vermarktet 
+die NOZ selbst.  
+ 
+120€ TKP 
+ 
+ 
+ 
+zuvor mehrere Tests 
+zur Kannibalisierungs-
+frage 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+NACHRICHTEN AUS VERLAGEN
+UND VERLAGSVERTRIEBEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 3
+Tests der Alternative 'Registrieren oder Werbevideo ansehen' 
+Zunächst testete die NOZ die Vi-
+deoalternative bei Beiträgen zu 
+den lokalen Fußballclubs VfL Osn-
+abrück, SV Meppen und SF Lotte, 
+die hinter einer Registrierungs-
+Wall standen. Wer diese Beiträge 
+lesen wollte, der musste sich kos-
+tenlos registrieren. Nur im Klein-
+gedruckten fand sich das Alterna-
+tivangebot: "Oder einen Werbe-
+spot ansehen".  
+In allen drei Testfällen war die Werbevideo-Alternative der meistgenutzte Zugangsweg. 
+Danach folgten die Klicks auf den 'Anmelden'-Button und erst an letzter Stelle Klicks auf 
+'Kostenfrei registrieren'. Tatsächliche Neuregistrierungen wurden nur im Verhältnis 
+1:1.000 Einblendungen des oben gezeigten Layers generiert. Die NOZ hat uns die Detail-
+daten des Tests zur Verfügung gestellt. 
+Im nächsten Schritt nutzte die 
+NOZ die Werbevideoalternative 
+als Monetarisierungsoption für 
+Nutzer mit aktiviertem Adblo-
+cker [pvd: das scheint bis heute 
+mit Abstand die häufigste Vari-
+ante für den Einsatz der Welect-
+Technologie bei Publishern aus 
+dem Verlagsbereich zu sein]. Mit 
+aktivem Adblocker kann das Web-
+angebt der NOZ nur von Abon-
+nenten genutzt werden. Oder aber, für jeweils 5 Minuten, nach dem Ansehen eines Wer-
+bespots. Gut 20% der Einblendungen der hier gezeigten Botschaft führten zum Ansehen 
+eines Werbevideos. Bei den übrigen Nutzern gelang eine deutliche Verminderung der 
+Adblockernutzung. Der Abschluss eines Abonnements war auch in diesem Zusammen-
+hang nur in Ausnahmefällen die Option der Wahl für die Nutzer. 
+Schließlich testete die NOZ auch an der eigentlichen Paywall. Wer einen bezahlpflichtigen 
+Text lesen wollte, der konnte alternativ zum Aboabschluss ein Werbevideo ansehen. 
+Außerdem wurden unterschiedliche Probeabovarianten verprobt ('1. Monat gratis' vs. '1. 
+Monat für 99Cent'). Gemessen an den generierten Umsätzen (Werbeerlöse plus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Test: 'Registrierung 
+oder Werbevideo'  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ergebnis: Werbevideo 
+meistgenutzte Option 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Test: 'Werbevideo oder 
+Adblocker deaktivieren' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ergebnis: 20% Werbevi-
+deo, restliche Nutzer 
+mit deutlich weniger 
+Adblockernutzung 
+ 
+ 
+Test: 'Bezahlpflicht vs. 
+bezahlen oder Werbe-
+video' 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 4
+hochgerechnete Abo-Erlöse) waren die Varianten, bei denen das Werbevideo als Op-
+tion angeboten wurde, jeweils erfolgreicher. 
+Die NOZ testete auch an einzelnen Premium-Artikeln im A/B-Design das übliche Angebot 
+(Weiterlesen nur mit Probeabo) versus ein Angebot inklusive Werbevideo-Gratisoption 
+zum Zugang zum jeweils konkret aufgerufenen Artikel. In zwei Testzeiträumen war die Um-
+wandlungsquote bei der alternativlosen Paywallvariante nicht besser. Für Manager 
+Jan Golka zeigt das: "Mit der Option 'Werbevideo ansehen' sprechen wir eine andere Ziel-
+gruppe an. Die damit erzielten Werbeerlöse sind zusätzliche Erlöse; sie gehen nicht zulas-
+ten des Abogeschäfts. Welect bietet uns die Möglichkeit, den Zugang zu Inhalten viel rest-
+riktiver zu gestalten, viel mehr Kunden in Kontakt mit unseren Inhalten zu bringen, ohne 
+dabei 
+Reaktanzen 
+zu 
+erzeugen 
+und 
+ohne unser Kernge-
+schäft zu kannibali-
+sieren". 
+Diese Tests an der 
+Paywall führte die NOZ nur außerhalb ihrer norddeutschen Kernregion durch. Wer eine IP-
+Adresse im Heimatmarkt der Zeitung besitzt, dem wurde die Kostenlosalternative nicht 
+angeboten. Bis zur nun erfolgten Einführung der harten Paywall galt diese Regelung an-
+schließend für sämtliche Premium-Artikel. Nun hat die NOZ diesen Split beendet. Wenige 
+Wochen nach Einführung der harten Paywall wird noz.de für sämtliche Nutzer und 
+alle Bezahlartikel die Alternativoption 'oder Werbevideo ansehen' installieren. 
+Erfahrungen bei LigaInsider 
+Ein Welect-Kunde, der nicht aus dem Kreis der traditionellen Verlage stammt, ist LigaInsi-
+der. Das nur digital publizierte Angebot ist ein Special Interest-Medium für Fantasy-
+Sport-Spieler. Unter Fantasy-Sport werden Spiele verstanden, bei denen der Spieler in die 
+Rolle eines Sportmanagers schlüpft. Er 'kauft' und 'verkauft' Spieler, stellt Mannschaften 
+auf, gibt Taktiken vor und organisiert das Training. In der Fantasie gehandelt, aufgestellt 
+und trainiert werden dabei tatsächliche Sportler. Der Erfolg des Fantasy-Sport-Spielers ist 
+gekoppelt an die tatsächliche Performance der Sportler auf den realen Sportplätzen. Fan-
+tasy-Sport ist ein Millionen-Spieler-Phänomen. Ende vergangenen Jahres gelang es dem 
+(realen) Schachweltmeister Magnus Carlsen, sich an die Spitze der nach eigenen Angaben 
+6 Millionen Spieler der englischen Fantasy Premier League zu setzen. Zum Zeitpunkt der 
+Recherche für diesen Beitrag stand Carlsen auf Platz 17. 
+Man kann davon ausgehen, dass der Erfolg im Fantasy-Sport durchaus nicht nur von 
+Glück, sondern auch von Verständnis und Wissen rund um das reale Sportgeschehen ab-
+hängt. LigaInsider deckt den Wissensbedarf der Fantasy-Sportler, informiert über aktuelle 
+Formkurven, Marktwerte, Verletzungen. Es ist ein extrem datenorientiertes, faktenbasier-
+tes Special Interest-Medium. Im Schnitt zählt das Angebot pro Monat gut eine halbe Mil-
+lion Unique User, in Spitzenmonaten bis zu 900.000. 
+Bisher finanziert sich LigaInsider fast ausschließlich durch Werbung. Nur ein sehr kleiner 
+Teil der Umsätze kommt über ein 'werbefrei für 2,99€ pro Monat'-Angebot zustande. Ein 
+Ergebnis: mehr Umsatz 
+mit 'bezahlen oder 
+Werbevideo ansehen' 
+ 
+ 
+ 
+Test an einzelnen Arti-
+keln: 'bezahlen oder 
+Werbevideo ansehen' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ergebnis: trotz Option 
+'oder Werbevideo' glei-
+che UQ; Mehrumsätze 
+durch Werbeerlöse 
+ 
+ 
+ 
+ 
+ 
+Folge der Tests: neue 
+Paywall bietet jedem 
+Nutzer die Alternative 
+'oder Werbevideo' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LigaInsider: SI-Angebot 
+für Fantasysport-Spie-
+ler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+im Ø 0,5Mio UU, in der 
+Spitze bis zu 0,9Mio 
+ 
+ 
+rein werbefinanziert 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 5
+großes Problem waren über lange Zeit Nutzer mit aktiviertem Adblocker. In der Gamer-
+Community ist die Adblockernutzung deutlich überdurchschnittlich verbreitet. Zeitweise 
+hatten 45% der stationären LigaInsider-Nutzer einen Adblocker aktiviert. 
+Dagegen setzte LigaInsider im August letzten Jahres die Welect-Technologie. Die stellte 
+adblockende Nutzer vor die Wahl, entweder den Adblocker auszuschalten oder für je 30 
+Minuten werbefreier Nutzung ein Werbevideo anzusehen oder 2,99€/Monat zu bezahlen. 
+Auf mobilen Geräten, wo Adblocker in der Regel kein großes Thema sind, bietet LigaInsider 
+den Nutzern unter jeder Werbeeinblendung an, stattdessen einmal pro 30 Minuten wer-
+befreie Nutzung ein Video anzusehen. Rund 5% aller Nutzer entscheiden sich für diese 
+Option, berichtet Geschäftsführer Samir Chaturvedi im Telefonat mit pv digest. 
+Anfangs sei die Option 'Video ansehen' sehr häufig gewählt worden. Auf die Dauer 
+scheint das aber für die Nutzer zu umständlich zu sein. Nach und nach wurde auf statio-
+nären Rechnern die Option 'Adblocker deaktivieren' die Option der Wahl und auf dem 
+Smartphone die Nutzung mit Werbung. Die Adblocker-Nutzung wurde so deutlich redu-
+ziert. Heute misst LigaInsider nur noch einen Anteil von 5% Nutzern mit aktiviertem Ad-
+blocker. Darum bewertet Chaturvedi den Welect-Einsatz als sehr erfolgreich.  
+Die Option, ein bezahltes Werbefrei-Abo abzuschließen, wurde kaum gewählt. Insge-
+samt bezahlen nur etwa 100 LigaInsider-Nutzer für die werbefreie Nutzung. Dennoch be-
+reitet der Dienst ein Bezahlangebot mit Premium-Inhalten vor, um sich vom Werbe-
+markt weniger abhängig zu machen. 
+ 
+früher Problem: 45% 
+Adblocker 
+ 
+ 
+seit August 2019: 
+• entweder Adblocker 
+deaktivieren 
+• oder 1 Werbevideo 
+pro 30 Minuten 
+• oder 2,99€/Monat 
+ 
+ 
+anfangs häufige Nut-
+zung der Werbevideo-
+Option 
+später v.a. Adblocker-
+Deaktivierung (heute 
+nur noch 5% Adblo-
+cker-Nutzer) 
+ 
+nur wenige bezahlen 
+ 
+ 
+Blick zurück in die Zukunft: mit der Pistole auf der eige-
+nen Brust ins dritte Jahr 
+p 
+pvd Nachhaltigkeits-
+Check 
+ 
+"Für einen Abgesang auf die Die Republik ist es viel zu früh. Sie ist nach wie vor mit Ab-
+stand das größte digital only Bezahlangebot im deutschsprachigen Raum. … Sie 
+dürfte immer noch genauso viel Geld einsammeln, wie der weltweit bewunderte Muster-
+knabe De Correspondent. Die Republik muss damit allerdings Schweizer Gehälter finan-
+zieren. Und sie hat sich in kaufmännischen Dingen zum Aufbau eines zu großen Kosten-
+apparates verleiten lassen." 
+So haben wir in der März-Ausgabe des Vorjahres unseren Bericht über das Schweizer 
+Paid Content-Angebot republik.ch kommentiert, das damals eine große Ernüchterung er-
+lebte, weil ein erheblicher Teil der 'Verleger' (so nennt die Republik ihre bezahlenden Leser) 
+ihr Abo nicht ins zweite Jahr verlängert hatte. Nun geht es für Die Republik bereits ins 
+dritte Jahr. Wieder war die Frage, wie viele bezahlende Kunden aus dem Winter ins Früh-
+jahr mitgenommen werden können, eine entscheidende Hürde. Und obwohl diese Hürde 
+nun erfolgreich gemeistert wurde, würden wir den Kommentar des Vorjahres entweder 
+wortwörtlich wiederholen oder sogar noch kritischer formulieren. 
+Denn trotz eines Budgets, das mancher Zeitungsredaktion gut zu Gesicht stünde (die 
+meisten der rund 23.000 'Verleger' bezahlen jeweils 240CHF, also in etwa 225€, für den 
+Journalismus von Die Republik. Hinzu kommen über 2MioCHF von 'Investoren') und trotz 
+mittlerweile zwei Jahren Erfahrung auch mit Betrieb und Vermarktung des Angebotes 
+scheint Die Republik von einem nachhaltigen Geschäftsmodell beinahe so weit 
+ 
+ 
+Die Republik 
+ 
+größtes Digital only-Be-
+zahlangebot im 
+deutschsprachigen 
+Raum 
+ 
+ 
+ 
+zum zweiten Mal große 
+Hürde: Verlängerung 
+der auslaufenden Jah-
+resabos 
+ 
+ 
+zwar: erfolgreich ge-
+meistert! 
+ 
+ 
+aber: erst auf den letz-
+ten Drücker, unterjäh-
+rig komplette Stagna-
+tion 
+ 
+ 
+ 
+#3/19 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 6
+entfernt, wie zum Start im Januar 2018. Praktisch über das gesamte Jahr 2019 hinweg 
+gelang es republik.ch kaum, die unterjährigen Abgänge auch nur zu kompensieren. Im 
+Sommer erreichte der Kundenbestand einen Tiefstwert, Anfang Dezember war die Anzahl 
+bezahlender Kunden gerade einmal um 500 höher als Ende März 2019. Das war ein be-
+sonders großes Alarmsignal, weil Anfang Dezember nur ein gutes Drittel der Abonnenten 
+bereits zugesagt hatte, auch nach der anstehenden Verlängerung ihrer Abos weiter zu be-
+zahlen.  
+Daraufhin startete Die Republik eine bemerkenswerte Kampagne. In typischen längli-
+chen E-Mails teilte die Republik ihren Verlegern mit, dass am 31.3.2020 mindestens 
+19.000 Bezahler/Verleger an Bord sein müssten. Wenn man das erreiche, dann "haben 
+wir eine gute Chance, in vernünftiger Frist wirtschaftlich stabil zu sein. Schaffen wir es 
+nicht, werden wir am Nachmittag des 31. März für sämtliche Mitarbeitenden der Re-
+publik die Kündigung aussprechen. Und danach das Unternehmen geordnet auflösen." 
+Dringlicher kann man einen Bezahl-Appell nicht formulieren. [pvd: weil der Stichtag auf 
+den 31. März gelegt wurde, können wir erst in dieser Ausgabe unseren 'Blick zurück in die 
+Zukunft' auf den Beitrag in der März-Ausgabe des Vorjahres präsentieren.]  
+Das hat zwar sehr gut 
+funktioniert. Am 31. März 
+2020 zählte die Republik 
+22.278 Verleger. Wie die 
+Grafik zeigt, gelang nach 
+dem Start dieser drasti-
+schen 
+Kampagne 
+ein 
+merklich beschleunigtes 
+Wachstum; die Abgänge 
+aus 
+nicht 
+verlängerten 
+Abonnements 
+wurden 
+überkompensiert. 
+Aber die grenzwertige Form des Marketings wurde in der Schweiz teils heftig kritisiert. 
+Der Medienjournalist René Zeyer, der allerdings ein überpointierter Kritiker der Republik 
+ist, meint, auch unter den 'Verlegern' breite sich Unmut aus: "Die 'Republik'-Macher zahlen 
+sich einen satten Fixlohn [pvd: tatsächlich gilt bei Die Republik ein Basis-Einheitslohn von 
+monatlich 7.750CHF ohne Unterscheidung der Position. Lediglich nach dem Alter der Be-
+schäftigten gestaffelt gibt es kleine Aufschläge und pro Kind einen weiteren Zuschlag von 
+250CHF], aber als vermeintliche Unternehmer betteln gesättigte Arbeitnehmer um mehr 
+Geld", schrieb er in der Medienwoche. In die gleiche Kerbe haut Roger Schawinski in einem 
+sehr hörenswerten Podcast-Beitrag. Seine Kritik an der Marketingstrategie erreicht ih-
+ren Höhepunkt im Vergleich mit unseriösen Pyramidensystemen "Mich erinnert das an 
+ein Ponzi-Scheme, wo man so etwas aufbaut, so kettenbriefartig, wo man einzahlt und am 
+Schluss merkt man dann, 'hei, es hat ja gar nicht gelangt und das Geld ist gar nicht mehr 
+da'" [HÖREMPFEHLUNG, wenn auch auf Schweizerdeutsch. Einen in kaufmännischen Din-
+gen so hartnäckigen Medienjournalismus würde man sich in Deutschland auch einmal 
+wünschen! pv-digest.de/linkliste Link1].  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Erfolg mit der 'Dro-
+hung', das Unterneh-
+men sonst aufzulösen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+zum Stichtag fast 
+23.000 Abos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+harsche Kritik: statt un-
+ternehmerisch zu agie-
+ren (=sparen) zweifel-
+hafter Bezahl-Aufruf 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HÖREMPFEHLUNG 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 7
+Beide Journalisten kritisieren also, dass Die Republik ihre Kosten nicht ihren Einnahmen 
+angepasst hat. Zwar hat die Republik 2019 Abstriche bei ihren Kostenplanungen vorge-
+nommen. Aber mit Blick auf ein drohendes Ende wirkten die tatsächlich äußerst moderat. 
+Die Republik-Macher verteidigen ihren Unwillen, die Kosten den unter Plan laufenden 
+Abonnentenzahlen deutlicher anzupassen, mit der Behauptung, mit weniger Geld sei den 
+journalistischen Ambitionen ihres Projektes nicht gerecht zu werden. Laut Mitgeschäfts-
+führerin Miriam Walter waren per Ende Januar 44 Personen angestellt, überwiegend in 
+Teilzeit, so dass die Kopfzahl nur 34 Vollzeitstellen entspricht. Davon seien 16,3 Vollzeit-
+stellen (21 Köpfe) "schreibende Journalisten und Journalistinnen". Weitere 7 Personen 
+(5 Vollzeitstellen) arbeiteten im redaktionellen Umfeld als Chefin vom Dienst, in Bildredak-
+tion, Textproduktion und Korrektorat. 5 Software-Entwicklerinnen (4,5 FTEs) würden au-
+ßerdem "graphische, interaktive publizistische Beiträge produzieren".  
+Das wäre keine Überbesetzung für ein umfangreiches tagesaktuelles Angebot. Tatsäch-
+lich veröffentlicht die Republik aber nur 1-3 Artikel täglich; die allerdings in der Regel 
+ausführlich recherchiert und teils originell und interaktiv aufbereitet. 
+tatsächlich wurden die 
+Kosten nur sehr mode-
+rat angepasst 
+ 
+ 
+ 
+ 
+Die Republik sagt: mit 
+weniger Geld können 
+wir unseren Standards 
+nicht gerecht werden 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+44 Mitarbeiter bei nur 
+1-3 Artikeln täglich  
+ 
+ 
+ 
+ 
+Mediapart – einzigartig erfolgreich mit digital only und 
+Paid Content only 
+P 
+Mediapart 
+ 
+Über Mediapart, das im linken politischen Spektrum zu verordnende, digital only erschei-
+nende französische Tageszeitungsangebot, berichtet pv digest regelmäßig seit 2014. Zu-
+letzt hatten wir in der Septemberausgabe des Vorjahres über den auch im kapitalistischen 
+Sinne durchaus erfolgreichen Ausstieg der Gründungsgesellschafter berichtet, die mit 
+ 
+ 
+nur im Lesermarkt fi-
+nanzierte, rein digitale 
+Tageszeitung 
+ 
+ 
+pvd meint: es bleibt dabei; im deutschsprachigen Raum gibt es kein anderes digital 
+only gedachtes journalistisches Unternehmen, das so groß denkt wie Die Republik. Man 
+muss diesem Projekt politisch nicht nahestehen, um ihm Erfolg zu wünschen. Es wäre 
+ein Leuchtturm für die Suche nach nachhaltigen Geschäftsmodellen für Qualitätsjour-
+nalismus, wenn es hier gelänge, ein ausschließlich leserfinanziertes neues Nicht-Ni-
+schen-Medium zu etablieren. Denn mit bald 20.000 Digital-Bezahlern bewegt sich Die 
+Republik auf Augenhöhe mit etablierten Schweizer Medien. In Deutschland entsprächen 
+das rund 200.000 Abonnenten – und das bei einem Preis von über 200€ pro Jahr! 
+Aber klar ist auch, dass Die Republik kaufmännisch schlecht geführt wurde. "Linke kön-
+nen in den Medien nicht mit Geld umgehen" hat der rechte Medienjournalist Kurt W. 
+Zimmermann hierzu geurteilt. Das ist Unfug, wenn man auf den französischen Muster-
+fall Mediapart schaut, auf den Guardian oder auf die deutsche Taz. Aber Die Republik 
+hat teuer dafür bezahlt, dass sie in den ersten 2 Jahren das Ruder praktisch ausschließ-
+lich idealistischen und auch selbstverliebten Journalisten überlassen hat. Sie hat nun ein 
+weiteres Jahr, um Früchte aus der Erkenntnis zu ziehen, dass selbst der beste Journalis-
+mus kaufmännisch vernünftig produziert und verkauft werden muss. Und dass es dafür 
+Spezialisten gibt, die weitaus mehr beherrschen sollten, als lange E-Mails mit dramati-
+schen Appellen zu verfassen. Die Drohung 'Geld oder (unser) Leben' taugt nicht als dau-
+erhafte Marketingstrategie. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 8
+einer kreditfinanzierten Transaktion das Eigentum an ihrem Unternehmen mit ordentli-
+cher Investorenrendite in eine Stiftung überführt haben. 
+Nun hat Mediapart – wie in jedem Frühjahr – über sein Geschäft berichtet. 2019 war mit 
+Abstand das beste 
+Jahr in einer mittler-
+weile langen Reihe 
+guter 
+Geschäfts-
+jahre. 
+Mediapart 
+zählt nunmehr fast 
+170.000 Abos, die im 
+letzten 
+Jahr 
+fast 
+17Mio€ Umsatz ge-
+neriert haben (Medi-
+apart ist werbefrei).  
+Hier unsere schon 
+bekannte 
+Zusam-
+menfassung 
+der 
+wichtigsten betriebs-
+wirtschaftlichen Eck-
+daten:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+170.000 Abos, 17Mio€ 
+Umsatz, 4,3Mio€ ope-
+ratives Ergebnis 
+ 
+ 
+Boston Globe großes Wachstum trotz hoher Preise 
+3 
+Boston Globe 
+ 
+Über den Boston Globe haben wir in der Februar-Ausgabe 2018 schon einmal ausführlich 
+berichtet. Die nach der Auflage gemessen drittgrößte nicht nationale Qualitätstages-
+zeitung der USA ist gleich in mehreren Aspekten ein ganz bemerkenswerter Fall: 
+> Der Boston Globe ist sowohl gedruckt wie auch digital sehr teuer. 
+> Er hat seit langem eine harte Paywall und verfolgt eine konsequent auf Paid Content 
+ausgerichtete Strategie. 
+> Diese Strategie hat sich im internen Wettbewerb gegen das vom gleichen Verlag betrie-
+bene Kostenlosangebot globe.com durchgesetzt. Extern konkurriert der Globe mit der 
+deutlich kleineren Zeitung Boston Herald. 
+> Dem bezahlpflichtigen Angebot bostonglobe.com gelang es Ende 2018 als erstem nicht 
+nationalem Zeitungsangebot in den USA, die Wegmarke von 'mehr Digitalabonnen-
+ten als Printabonnenten' zu erreichen. 
+ 
+drittgrößter Metropol-
+titel der USA 
+ 
+ 
+• Print und Digital un-
+gewöhnlich teuer 
+• stringente Strategie 
+für digitalen Leser-
+markt 
+• trotz Gratiswettbe-
+werber 
+ 
+ 
+• erster nicht nationa-
+ler Titel mit Digitala-
+bos>Printabos 
+ 
+ 
+ 
+pvd meint: es ist fast keine Nachricht mehr, dass dieses rein Paid Content-finanzierte 
+Projekt weiterhin hoch profitabel und sogar beschleunigt wächst. Wenn Gründer Edwy 
+Plenel sagt, "200.000 Abonnenten ist kein Traum mehr, das ist möglich", dann muss das 
+als Understatement verstanden werden. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 9
+Ausweislich der jüngsten ABC-Auflagendaten hat der Boston Globe mittlerweile fast 
+150.000 Digitalabonnen-
+ten. Bizjournals.com be-
+richtet, dass sich die 
+Wachstumsrate 
+beim 
+Digitalabobestand ge-
+genüber 2018 mehr als 
+verdoppelt habe. Un-
+sere eigenen Daten rei-
+chen im Fall dieser Zei-
+tung bis kurz nach Errich-
+tung der Paywall zurück. 
+Auch hier zeigt sich, dass 
+das Bezahlangebot tendenziell mit zunehmendem Alter immer schneller wächst. 
+Das schnelle Wachstum gelingt dem Boston Globe trotz der weiterhin beibehaltenen 
+Hochpreispolitik. Nach einem Probemonat für 99 Cent berechnet die Zeitung derzeit 28$ 
+pro Monat für das Digitalangebot. Dieser Preis wird nur durch den extrem hohen Preis des 
+Printabos relativiert, das mittlerweile 1.300$ pro Jahr kostet. Zum Vergleich: Der Boston 
+Herald verkauft sein Digitalabo (wie viele andere lokale und regionale Titel) mit 10$ pro 
+Monat für ein Drittel des Preises. [Allerdings bietet der Globe auch regelmäßig deutlich 
+rabattierte Sonderangebote für sein Digitalabo.]  
+Der extrem hohe Preis des Printabos, das etwa doppelt so viel kostet wie die Printabos 
+vergleichbar großer Metropoltitel in den USA, dürfte ein Grund für den Erfolg des Digital-
+aboangebotes sein. Dennoch zählt der Globe immer noch über 90.000 Printabonnen-
+ten – 15% weniger als im Vorjahr aber, s.o., immer noch genügend, um auch für die USA 
+ein weit überdurchschnittlich großer Titel zu sein.  
+ 
+ 
+ 
+ 
+ 
+aktuell 150.000 Digital-
+abos; 2019 starkes 
+Wachstum 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Digitalabo ist rund 3x 
+teurer als bei vergleich-
+baren Titeln 
+ 
+ 
+ 
+ 
+ 
+ 
+Print ebenfalls extrem 
+teuer 
+ 
+ 
+ 
+ 
+Independent als 'Digital only'-Zeitung auf gutem Kurs 
+26 
+p 
+The Independent 
+ 
+Die nationale britische Tageszeitung The Independent erscheint seit vier Jahren (seit 
+April 2016) nur noch digital. Bisher ist der radikale Schritt augenscheinlich erfolgreich. 
+Aus einer Zeitung mit sinkenden Umsätzen, negativen Ergebnissen und Kostenspar-Stra-
+tegie (rund 100 von 160 Journalisten verloren damals ihre Anstellung) ist eine Zeitung mit 
+deutlich wachsender Redaktion, wachsender Reichweite (zuletzt +22% auf 95Mio Unique 
+User) und zuletzt sogar mehreren fremdsprachigen Lizenzprodukten geworden. Sämtliche 
+seit dem radikalen Schnitt veröffentlichten Jahresberichte wiesen wachsende Umsätze 
+und schwarze Zahlen aus.  
+Allerdings wuchs der Gewinn in den letzten beiden Geschäftsjahren nicht mehr, sondern 
+ging zurück. Im letzten Geschäftsjahr von 3,1Mio£ auf immer noch 2,3Mio£ (während der 
+Umsatz von knapp 25Mio£ auf 27Mio£ gestiegen ist). The Independent begründet den 
+Gewinnrückgang mit einem deutlichen Ausbau der Redaktion, deren Kopfzahl um 
+12% auf über 100 gestiegen ist. Wenn man stattdessen wollte, dann hätte man leicht auch 
+den Gewinn verdoppeln können, sagt CEO John Paton.  
+ 
+erscheint seit 2016 nur 
+noch digital 
+ 
+ 
+anfangs erstellt von 60 
+der vorher 160 Redak-
+teure 
+ 
+ 
+seitdem Turnaround 
+ 
+ 
+Umsätze wachsen wie-
+der, die Redaktion 
+auch 
+ 
+ 
+zuletzt 27Mio£ Umsatz; 
+Ziel 2024: 100Mio£ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 10
+Der Independent forciert mit dem Personalaufbau unter anderem seine internationale 
+Expansion. Der seit September 2019 verantwortliche CEO zielt auf starkes Wachstum 
+und 100Mio£ Umsatz in vier Jahren.  
+Insbesondere in den USA hat independent.co.uk viele Nutzer, sogar mehr als im Heimat-
+markt Großbritannien. [In ihrem 'Media Voices' Podcast spekulieren Esther Kezia Thorpe 
+und Peter Houston, dass ein Teil des Erfolgs auf die vordere Platzierung des Angebotes in 
+der Google Suchtrefferliste zurückgeht, wenn englischsprachige Nutzer nach 'unabhängi-
+gen Nachrichten', 'independent news', suchen.]  
+100 Mio£ Jahresumsatz wären immer noch nicht einmal halb so viel, wie der Guardian im 
+letzten Geschäftsjahr ungesetzt hat (224Mio£) und nur ein wenig mehr als ein Drittel des 
+Umsatzes des Telegraph. Die Financial Times betont indes, dass der Gewinn des Inde-
+pendent heute schon den des umsatzseitig bisher noch 10x größeren (und nach wie vor 
+auch gedruckt erscheinenden) The Telegraph ("einst eine der profitabelsten Zeitungs-
+gruppen auf der Fleet Street") übertroffen hat. 
+Der nur noch digitale Independent finanziert sich vor allem aus dem Werbegeschäft. Das 
+ist im letzten Jahr um 10% gewachsen. Da der Umsatz insgesamt nur um 9% angestiegen 
+ist, dürfte das Geschäft im Lesermarkt weniger gewachsen sein. Im laufenden Jahr 2020 
+will der Independent rund 22Mio£ mit dem Werbegeschäft erlösen und nur 2Mio£ im 
+Lesermarkt. Weitere 6Mio£ sollen Syndication und die Lizenzausgaben einspielen.  
+Vor dem Hintergrund dieser Relationen mag es nicht verwundern, dass CEO Paton sich 
+auf den Werbemarkt konzentriert und für Paid Content vor allem skeptische Bemerkungen 
+über hat. Er sieht die Zukunft im Affiliate-Marketing und im Lesermarkt nur eine Nische für 
+'werbefrei'-Angebote.  
+Einen großen Teil der Werbeerlöse erzielt der Independent mit programmatischer Wer-
+bung. Laut Paton kommen davon nur 50% aus Werbung bei aktuellen Artikeln. Die andere 
+Hälfte der programmatischen Werbeerlöse generiere seine Zeitung mit Archivinhal-
+ten, die den Lesern abhängig vom individuellen Nutzungsverhalten angeboten werden. 
+Im Lesermarkt bietet The Independent ein Webabo für 10,99£ monatlich an, das die 
+werbefreie Nutzung ermöglicht, das aber auch Zugang zu exklusiven Bezahlinhalten 
+freigibt. Über dieses Angebot, das ein vorher bestehendes 'Mitgliedschaftsmodell' abgelöst 
+hat, haben wir in pvd #11/2019 berichtet (damals kostete das Abo noch 8,99£). Für 14,99£ 
+monatlich (im letzten Herbst noch 12,99£) bekommt man zusätzlich eine tägliche digitale 
+Zeitungsausgabe. 
+Es lohnt sich, die Erfolgsgeschichte der nur noch digital erscheinenden Qualitätszeitung 
+vor dem Hintergrund einer weltweit aufmerksam verfolgten 'Studie' der Münchner Lud-
+wig-Maximilians-Universität und der Londoner City Universität wahrzunehmen, die 2018 
+zu dem Ergebnis kam, dass die Umstellung von Print auf Digital zumindest publizistisch 
+ein Desaster gewesen sei, weil digitale Angebote viel weniger intensiv genutzt würden. 
+Unseren Bericht dazu und auch eine Kritik dieser überspitzen und einseitigen Diagnose 
+finden Sie in pvd #10/2018. Unternehmerisch gesehen ist die Strategie des Independent 
+auf jeden Fall ein Erfolg. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+weiterhin gedruckt er-
+scheinende Zeitungen 
+in UK erzielen viel 
+mehr Umsatz 
+ 
+aber weniger Gewinn 
+ 
+ 
+ 
+ 
+ 
+90% der Independent-
+Umsätze kommen 
+nicht aus dem Leser-
+markt 
+ 
+ 
+ 
+ 
+ 
+ 
+Archivinhalte mit pro-
+grammatischer Wer-
+bung erfolgreich mo-
+netarisiert 
+ 
+ 
+ 
+Paid Content: werbe-
+frei&Premiuminhalte 
+für 11£ 
+ 
++4£ für tägliche Digi-
+talausgaben 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 11
+ 
+ 
+(Ex-) Tamedia: neues Preismodell für Digitalabos 
+P 
+TX Group: neues 
+Preismodell 
+ 
+Die TX Group AG, so nennt sich der Schweizer Zeitungsverlag Tamedia nun, hat ein durch-
+wachsenes Ergebnis für das letzte Geschäftsjahr vorgelegt. Insbesondere die 'Bezahl-
+medien', das sind die landesweit erscheinende Qualitätszeitung Tages-Anzeiger und die 
+regionalen Tageszeitungen des Verlages, verloren Umsatz und EBIT. Das begründet der 
+Verlag vor allem mit dem stark rückläufigen Werbegeschäft. Vertriebsseitig setzt Tamedia 
+auf Paid Content und Digitalabos. Deren Anzahl soll im vergangenen Jahr konzernweit 
+um 19% auf über 87.000 gestiegen sein. Zum Umsatz mit Paid Content macht das Unter-
+nehmen keine Angaben. 
+Für Mitte 2020 kündigt der Verlag ein differenziertes Angebotsmodell für seine Digi-
+talabos an, das zunächst für den Tages-Anzeiger umgesetzt wird und dann "sukzessive auf 
+alle unsere Tageszeitungen in der Deutschschweiz wie in der Romandie ausgerollt" werden 
+soll, wie uns Pressesprecher Michele Paparone mitteilt. 
+Das Digitalabo soll dabei in einer Basisversion für 15 Franken monatlich den Zugriff 
+auf die Bezahlinhalte im Web und in der App für bis zu drei verschiedene Geräte ermögli-
+chen. Zu diesem Grundpreis können dann hinzugebucht werden: 
+>  Die Nutzung auf bis zu 10 Geräten für weitere 3CHF/Monat 
+>  Werbe- und Trackingfreiheit für weitere 4CHF/Monat 
+>  Das E-Paper für 10CHF pro Monat 
+ 
+ 
+ 
+ 
+2019 Rückgang bei 
+Umsatz und EBIT 
+ 
+ 
+ 
+87.000 Digitalabos 
+(+19%) 
+ 
+ 
+ 
+Ab Mitte 2020 konzern-
+weit neues Preismodell 
+für Digitalabos 
+ 
+Basispreis 15CHF, opti-
+onal zuzüglich 
+ 
+ 
+• 3CHF für Nutzung 
+auf bis zu 10 Geräten 
+• werbe- und tracking-
+frei für 4CHF 
+• E-Paper für 10CHF 
+ 
+Influencer mit Bezahlinhalten statt Werbe-Postings 
+ 
+Influencer monetari-
+sieren Beziehungen  
+ 
+In pv digest #2/2020 berichteten wir über die Plattform OnlyFans, die es Selfpublishern  
+erotischer Inhalte ermöglicht, ihren Content nur gegen Bezahlung zur Verfügung zu stel-
+len. Dabei scheint sich das Geschäftsmodell zumindest eines Teils der Pornoindustrie so 
+gewandelt zu haben, dass Geld nicht mehr mit 'harten' Inhalten, sondern mit (dem 
+professionellen Betrieb von) sozialen digitalen Beziehungen verdient wird. Den Ansatz, 
+nicht mehr Inhalte, sondern die digitale Beziehung und ihre möglichst individuelle, persön-
+liche Gestaltung zum Gegenstand einer Bezahl-Beziehung zu machen, haben wir auch 
+journalistischen Publishern als mögliches Monetarisierungsmodell nahegelegt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint: ob es dagegen auch ein publizistischer Erfolg und ein Branchen-Leucht-
+turm wird, bleibt abzuwarten. Ein gutes Maß dafür ist die Anzahl der Journalisten, die 
+das neue Geschäftsmodell finanziert. Der Verlag investiert hier in Wachstum – das ist ein 
+gutes Zeichen. Aber noch ist die Redaktion rund 40% kleiner als in den letzten Tagen der 
+gedruckten Zeitung. 
+Spannend ist auch, ob der Verlag seine Haltung zu Paid Content beibehalten wird. John 
+Paton ist da sehr skeptisch. Paton verantwortete bis 2015 den tief gefallenen, ebenfalls 
+Paid Content-Abstinenten US Regionalzeitungskonzerns Digital First Media. Dort sagte 
+er 2013 "Ich glaube nicht, dass Paywalls eine Lösung sind". Bei der Digitalisierung wür-
+den aus Vertriebserlösen nur "ein Häufchen Pennies". Diesem Verlag hatte Paton jeden-
+falls keinen tragfähigen Weg in eine 'Digital first'-Zukunft gebahnt. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 12
+Nun sind wir auf einen Bericht des B2B-Ablegers der Modezeitschrift Vogue gestoßen, 
+der über Influencer berichtet, die ihre Instagram-Fans mit Bezahlangeboten monetari-
+sieren. Während der Beitrag von voguesbusiness.com [pv-digest.de/linkliste Link2] sich im 
+Kern mit der Frage beschäftigt, ob hier für Markenartikler das Risiko besteht, dass ihnen 
+die Werbepartner abspringen, weil die ein alternatives Geschäftsmodell entdecken, lohnt 
+der Beitrag auch als Bericht über die Möglichkeit, Social Media-Präsenzen außerhalb der 
+Erotikwelt mit Zahlungen der Nutzer zu monetarisieren. 
+Der Bericht nennt eine ganze Reihe von mehr oder weniger prominenten Instagram-
+Persönlichkeiten, die für bezahlende Follower den Zugang zu besonders exklusiven 
+Beiträgen versprechen. Weil Instagram selbst keine Bezahlmonetarisierung ermög-
+licht, nutzen sie dafür Umwege, vor allem die von uns mehrfach schon vorgestellte Platt-
+form Patreon (vgl. hierzu zuletzt pvd #3/2019). Dort bieten sie die Aufnahme in ihre 'Close 
+Friends'-Liste an, ein Feature, mit dem es Instagram ermöglicht, bestimmte Inhalte nur mit 
+ausgewählten Freunden zu teilen. 
+So bietet die (laut Selbstdarstellung) Autorin, Kunstgeschichtlerin und Künstlerin Caroline 
+Calloway, der auf Instagram über 700.000 Menschen folgen, bei Patreon die Aufnahme in 
+ihre 'Enge Freunde'-Liste für 2$ pro Monat an. Gut 450 Bezahler hat sie dafür bisher 
+gewonnen. Für 100$ pro Monat (!) bietet sie eine noch engere 'Beziehung', unter anderem 
+einen monatlichen Austausch per Skype, an. Wie viele ihrer Fans sich dazu haben bewegen 
+lassen, ist unklar. 
+Der Künstlerin Gabi Abrão folgen auf Instagram gut 100.000 Personen. Gut 400 davon 
+bezahlen monatlich 3,33$ für die Aufnahme in die Enge-Freunde-Liste oder noch mehr 
+Geld für zusätzliche Leistungen, zum Bespiel 9$ pro Monat für den Zugriff auf Video-Logs, 
+55$ für ein Abo aller Merchandisingartikel oder 222$ für eine 'wöchentliche E-Mail-Brief-
+freundschaft' (wobei unklar ist, ob oder wie oft diese Optionen gebucht wurden).  
+Die Instagram-Produkttesterin Jenny Gyllander hat ihren rund 43.000 Followern die Auf-
+nahme in die Enge-Freunde-Liste zum Einmalpreis von 100$ angeboten – bisher haben 
+300 das Angebot in Anspruch genommen, berichtet Vogue Business. Die Astrologin Aliza 
+Kelly soll 300 ihrer nicht ganz 30.000 Follower zum Bezahlen bewegt haben. 
+Nicht nur Instagram-Selfpublisher monetarisieren Inhalte entgeltlich. Auf der in China 
+extrem populären Plattform Wechat verkaufen Influencer Inhalte. Dort scheinen aller-
+dings Einmalzahlungen ein besonders populärer Weg zur Monetarisierung zu sein. So 
+soll der chinesische Selfpublisher Li Hanxin einen Beitrag über die Wechat-Paywall 5.000 
+Mal unter seinen 500.000 Followern verkauft haben (zum Preis von umgerechnet rund 15 
+Cent). Li Jianqu publiziert vor allem über Politik und Geschichte, hat fast 35.000 Follower, 
+und er hat 700 Leser zum Bezahlen von umgerechnet rund 40 Cent für einen Beitrag über 
+das aktuelle Geschehen im Iran gewonnen. 
+ 
+Vogue Business be-
+fürchtet, dass In-
+fluencer nicht mehr 
+werben wollen 
+ 
+LESEEMPFEHLUNG 
+ 
+sondern: sie verkaufen 
+Social Media-Beziehun-
+gen 
+ 
+ 
+ 
+Umweg über Patreon, 
+weil Instagram [bisher] 
+keine Bezahlangebote 
+zulässt 
+ 
+ 
+ 
+ 
+Bsp. @carolinecallo-
+way: 2$/Monat für Auf-
+nahme in 'Enge 
+Freunde'-Liste 
+ 
+100$ für noch engere 
+Beziehung 
+ 
+Bsp. @gabi.abrao; 
+3,33$/Monat für Auf-
+nahme in 'Enge 
+Freunde'-Liste 
+ 
+222$ für Brieffreund-
+schaft per E-Mail 
+ 
+Bsp: @gyllanderjenny: 
+einmalig 100$ für 
+'Enge Freunde'-Liste 
+ 
+ 
+ 
+ 
+ 
+Auf Wechat verkaufen 
+Influencer einzelne 
+Postings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint: Das sind noch keine großen Zahlen. Aber es ist ein weiterer Hinweis, dass 
+die 'Social'-Komponente in 'Social Media' sich monetarisieren lässt. Und nachdem dieser 
+Trend gerade erst entsteht, ist es unmöglich zu sagen, wie weit er sich entwickeln wird. 
+Es könnte lohnen, eine gute Idee zu entwickeln und sich in diesem Feld zu erproben. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 13
+ 
+ 
+P 
+      
+Marktentwicklung
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im 
+März 2020, zu Anzahl und Er-
+scheinungsweise siehe  
+"Daten Cockpit Handel")  
+  
+ 
+Marktentwicklung
+Copypreise
+ 
+neu eingeführte Zeitschriften 
+Print, Verlags-Apps in ausge-
+wählten Stores 
+   
+ 
+Marktentwicklung
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+Preise bei neuen Zeitschriften) 
+  
+ 
+DATEN COCKPIT VERLAGE
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 14
+ 
+ 
+ 
+ 
+ 
+Hinweis: Wer finanziert den Pressevertrieb in pvd #5 
+ 
+Pressevertrieb 
+ 
+In der letzten Ausgabe hat pv digest die Frage analysiert, ob es wirklich die umsatzstarken 
+Titel sind, die das Pressevertriebssystem vor allem finanzieren. Wir haben dabei zunächst 
+nur den Einzelhandel betrachtet. Noch offen ist eine Antwort auf die gleiche Frage mit 
+Blick auf den Pressegroßhandel. Wir haben zu diesem Thema bereits intensiv recher-
+chiert. Aufgrund der Corona-Thematik haben wir die Recherchen aber nicht abschließen 
+können. Unser Bericht zum Thema folgt vorrausichtlich in der kommenden Ausgabe. 
+ 
+ 
+ 
+Analyse der Bedeutung 
+umsatzstarker Titel für 
+das Grosso erst in 
+pvd#5 
+ 
+ADAC MotorWelt: im LEH erhältlich, aber nicht käuflich 
+P 
+10 
+Vertrieb Motorwelt 
+ 
+Die Mitgliederzeitschrift des ADAC war immer schon eine Art siamesischer Zwilling für 
+traditionell vertriebene Zeitschriften. Denn obwohl eigentlich etwas ganz anderes 
+(nämlich ein für die Empfänger kostenloses Magazin) war sie untrennbar mit dem Ver-
+triebsökosystem verbunden. Mit rund 13Mio Stück Auflage pro monatlichem Erschei-
+nungstag soll alleine die Motorwelt für rund 
+10% der Post-Umsätze im Bereich Pressever-
+sand gestanden haben. Auch wenn davon aus-
+zugehen ist, dass der ADAC sich dafür sehr 
+gute Konditionen gesichert hatte, so dürfte 
+der Wegfall dieses Großauftrags eine erhebli-
+che Lücke in der Pressepost-Bilanz hinterlas-
+sen und einer der Gründe für die jüngsten saf-
+tigen Preisanhebungen bei den Pressepostta-
+rifen sein. 
+Seit 5. März liegt die Auflage der MotorWelt, 
+wie sie nach einem Relaunch nun heißt, bei 
+nur noch 5Mio und sie erscheint nur noch vier-
+teljährlich (rund 100 Seiten, Klebebindung). 
+Sie wird im Regelfall nicht mehr als Abostück 
+versendet. Und sie teilt sich dennoch wieder 
+einen Vertriebskanal mit den traditionell ver-
+triebenen Zeitschriften, nämlich den Lebens-
+mitteleinzelhandel. ADAC-Mitglieder können 
+sich ihr Clubmagazin nun kostenlos bei 
+Edeka und Netto abholen. Dort wird es nicht im normalen Presseregal, sondern in einem 
+Extraständer angeboten; weiterhin kostenlos, aber erhältlich nur für ADAC-Mitglieder, die 
+sich an der Kasse als solche ausweisen müssen, wenn sie das Heft mitnehmen wollen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die ADAC Clubzeit-
+schrift wird über Edeka 
+und Netto vertrieben – 
+aber nicht verkauft 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+Nicht im, aber doch direkt neben dem regulären 
+Pressesortiment findet sich die Motorwelt in 
+diesem Netto-Markt. Foto: pvd.  
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 15
+Obwohl kostenlos, ist das Magazin im Warenwirtschaftssystem der Supermärkte erfasst, 
+so dass notwendige Neubestellungen automatisiert erfolgen können. Dass die neue Mo-
+torwelt – obwohl im Einzelhandel angeboten – nicht käuflich zu erwerben ist, hat laut 
+Kress Pro einen steuerlichen Hintergrund. Der ADAC habe hier die Befürchtung gehabt, 
+im Falle eines parallelen Einzelverkaufs vorab große Mehrwertsteuersummen entrichten 
+zu müssen. 
+ADAC-Mitglieder, die das Heft lieber zugesendet erhalten möchten, müssen für diese 
+Extraleistung 9,80€ jährlich bezahlen. Laut Chefredakteur Martin Kuntz rechne man hier 
+nur mit einer "überschaubaren" Anzahl "im fünfstelligen Bereich". 
+ 
+ 
+ 
+ 
+kein paralleler Verkauf 
+wegen Mehrwert-
+steuer-Risiken 
+ 
+ 
+Abo-Option: 9,80€ 
+jährlich 
+ 
+Substack: Paid Newsletter-Dienstleister wächst schnell 
+P 
+Paid Content 
+Newsletter 
+ 
+Bezahlpflichtige Newsletter sind eine stark wachsende Paid Content-Kategorie. Insbeson-
+dere für Selfpublisher sind dabei Kundenverwaltung, Versand und Rechnungsabwick-
+lung eine Herausforderung. Hier bietet Substack eine Paketlösung an und hat damit 
+offensichtlich eine Marktlücke gefunden. Die bisher veröffentlichten Daten zum eigenen 
+Markterfolg und zu den Erfolgen einzelner Substack-Publisher geben Einblick in ein schnell 
+wachsendes Paid Content-Segment.  
+Das Unternehmen wurde 2017 als Dienstleister für Paid Content-Angebote gegründet. 
+Zunächst mit der Absicht, Selfpublishern mit Ambitionen im Lesermarkt eine bezahlbare 
+und einfach zu nutzende Paywalltechnologie anzubieten. Schon Anfang 2018 rückten be-
+zahlpflichtige Newsletter in den Fokus. Mit Hilfe von Substack können Newsletter-Publis-
+her ihre Versände organisieren und das Verhalten ihrer Nutzer analysieren. Die Publisher 
+haben dabei jederzeit Zugriff auf ihre Nutzerdaten. Solange sie ihre Newsletter kostenlos 
+versenden, entstehen ihnen dafür keine Kosten. Erst wenn sie ein bezahlpflichtiges Ange-
+bot machen, behält Substack 10% der Umsätze zur Deckung seiner eigenen Kosten ein. 
+Von Anfang an war zu beobachten, dass der neue Dienstleister auch solche Selfpublisher 
+für sich gewinnen konnte, die bereits mit anderen Mitteln ein erfolgreiches Angebot be-
+trieben. So wechselte noch im Herbst 2017 der bereits seit 2011 publizierende China-
+Newsletter Sinocism China zu Substack. Bei dieser Gelegenheit führte er ein Bezahlange-
+bot ein. Kurze Zeit später berichtete Publisher Bill Bishop über hunderte Abonnenten, die 
+monatlich 15$ oder 168$ pro Jahr für den Empfang des Dienstes bezahlten. Auch der pv 
+digest-Lesern bereits bekannte tägliche Kuratierungsservice The Browser (vgl. zuletzt pvd 
+#12/2018) wechselte 2018 zu Substack, obwohl er bereits seit 2013 ein wirtschaftlich trag-
+fähiges und mit eigenen Mitteln betriebenes Bezahlangebot hatte. 
+Im Mai 2019 sollen die 12 umsatzstärksten Publisher via Substack bereits im Durchschnitt 
+160.000$ jährlich fakturiert haben. Im November 2019 soll der erfolgreichste rund 
+500.000$ jährlich erzielt haben. Ende 2019 soll Substack über alle Publisher hinweg 3Mio$ 
+jährliche Gesamterlöse ausgezahlt haben. 
+Die neueste Erfolgsmeldung kommt vom konservativen Politikmagazin The Dispatch. 
+Das im Oktober 2019 von mehreren erfahrenen Politikjournalisten gestartete und mit 
+6Mio$ finanzierte Angebot ist nach Einschätzung eines Niemanlab-Beitrags der erste 
+wirkliche Verlag, der sich für seine von einer mehrköpfigen Redaktion erstellten 
+ 
+ 
+ 
+Substack bietet Kun-
+denverwaltung, Ver-
+sand, Faktura, Analy-
+tics 
+ 
+ 
+ 
+ 
+ 
+ 
+Nutzung für Gratis-
+newsletter gratis 
+ 
+ 
+ 
+Bezahlnewsletter be-
+zahlen mit 10% ihrer 
+Umsätze 
+ 
+ 
+ 
+Unternehmen erst 
+Ende 2017 gegründet 
+ 
+von Anfang an Erfolg 
+auch bei schon vorher 
+erfolgreich bestehen-
+den Angeboten 
+ 
+ 
+ 
+ 
+Publisher erzielen mitt-
+lerweile jährlich rd. 
+3io$ via Substack 
+ 
+ 
+ 
+ 
+The Dispatch: erster 
+'Verlag' der über  
+Substack publiziert 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 16
+Produkte auf Substack stützt. Mit derzeit 12 Mitarbeitern bietet The Dispatch sechs ver-
+schiedene Newsletter und drei Podcasts an. Rund ein halbes Jahr nach dem Start hat The 
+Dispatch mit Werbung 1Mio$ Umsatz erzielt. Und für den erst im Februar gelaunchten 
+Bezahlnewsletter seien bereits 10.000 Abonnenten gewonnen. Die mussten sich zwischen 
+einer 'Mitgliedschaft auf Lebenszeit' für einmalig 1.500$, dem Jahresabo für 100$ oder ei-
+nem Monatsabo für 10$ entscheiden.  
+In 
+diesem 
+Zusammenhang 
+wurde auch bekannt, dass alle 
+Substack-Publisher 
+insgesamt 
+mittlerweile über 100.000 be-
+zahlende Abonnenten haben. 
+Diese Zahl ist in der kurzen Zeit 
+seit dem Start des Dienstes 
+schnell größer geworden.  
+Auf Nachfrage von pv digest 
+versichert Gründer und CEO 
+Chris Best, dass auch europäi-
+sche Publisher seine Dienste in 
+Anspruch nehmen können. Auf 
+unsere Frage, ob er dabei auch 
+die europäischen Datenschutz-
+standards einhält, antwortete er wenig verbindlich 'wir versuchen, die Anforderungen 
+von GDPR zu erfüllen. Zum Beispiel haben wir Prozesse, Nutzern ihre Daten zur Verfügung 
+zu stellen und ihre Daten zu löschen, wenn sie danach fragen". 
+ 
+ 
+4 Wochen nach Launch 
+eines Paid Newsletters 
+10.000 Bezahler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+via Substack abonnie-
+ren mittlerweile 
+100.000 bezahlende 
+Leser 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scroll: Werbefrei-Abo überzeugt nur mäßig 
+20 
+Scroll 
+ 
+In der Februar-Ausgabe haben wir über den Launch von Scroll berichtet. Der Dienst be-
+rechnet seinen Nutzern 5$ monatlich und schüttet 70% davon nutzungszeitproportio-
+nal an die teilnehmenden Verlage aus. Im Gegenzug bieten diese den Webnutzern eine 
+werbe- und trackingfreie Nutzung an. 
+Wie bei vielen Angeboten starten auch neue Scroll-Nutzer mit einem Gratis-Probemonat. 
+Nun berichtet Scroll, dass 18,5% der Gratisnutzer nach 30 Tagen in das Bezahlangebot 
+umwandeln (das allerdings immer noch rabattiert ist: 2,49$/Monat für das erste halbe 
+Jahr). Laut Gründer Tony Haile erzielen die teilnehmenden Publisher über Scroll einen TKP 
+von 30$-40$, "doppelt so viel wie diese Websites mit den Visits im Werbegeschäft erzielt 
+hätten". 
+ 
+ 
+ 
+Im Februar startete der 
+'werbefrei surfen für 
+5$/Monat-Dienst' 
+ 
+ 
+ 
+ 
+18,5% der Gratisprobe-
+nutzer wandeln bisher 
+in ein immer noch ra-
+battiertes Bezahlabo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint: Mit nur 18,5% Umwandlern von der Gratisphase in ein immer noch nicht 
+zum regulären Preis verkauftes Abo beeindruckt Scroll nicht. Aber wie alle Publisher-
+übergreifenden Bezahlangebote leidet der Dienst unter dem Henne-Ei-Problem. So-
+lange Scroll nur auf einigen Dutzend Websites eingebunden ist, ist es für die Nutzer we-
+nig attraktiv. Solange es nur wenig bezahlende Nutzer anzieht, lockt es andere Websites 
+nicht aus der Reserve. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 17
+ 
+   
+ 
+    P2 
+  
+Index
+Marktentwicklung
+Einzelhandel
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland) 
+ 
+  
+ 
+Marktentwicklung
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neueinfüh-
+rungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+ 
+ 
+Marktentwicklung
+digitaler Vertrieb
+Top-Presse-Angebote  
+in wichtigen Digitalkiosken 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATEN COCKPIT HANDEL UND ABSATZ 
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 18
+ 
+ 
+ 
+ 
+ 
+Digital News Report vs. AudienceProject: Studien- & Län-
+dervergleich zu Paid Content 
+P 
+Paid Content-Nut-
+zung 
+ 
+Studien zu Paid Content gibt es mittlerweile in großer Zahl. Soweit wir die Ergebnisse für 
+relevant und belastbar halten, berichten wir darüber. Die bekannteste und auch in ande-
+ren Medien am häufigsten zitierte Studie ist der Digital News Report, der in jedem Jahr 
+von Forschern des Reuters Institute for the Study of Journalism in Oxford publiziert wird. 
+Die prominenteste Kennzahl darin ist der Anteil der Personen, die für digitalen Journalis-
+mus bezahlen. 
+Wir sehen diese mit großem Aufwand für dutzende Staaten generierten Daten mit Skep-
+sis. Denn sie passen nicht zur Realität des digitalen Lesermarktes. Für viele Länder 
+entwickelt sich die in den jährlichen Reports des Reutes Institutes veröffentlichte Prozent-
+zahl der Paid Content-Nutzer erratisch. Statt, was plausibel wäre, von einem unbekannten 
+(und niedrigen) Niveau ausgehend zu wachsen, zeigen die Reuters-Daten unerklärliche 
+Schwankungen, die ganz und gar nicht zu den übrigen Berichten und Datensammlungen 
+zu Paid Content passen, die belegen, dass immer mehr Menschen für digitalen Journalis-
+mus bezahlen. So stagnieren die Reuters-Zahlen für Deutschland, seit wir im Jahr 2013 
+erstmals darüber berichtet haben. In Italien soll die Zahl seit Jahren sogar deutlich rück-
+läufig sein, in Frankreich tendenziell sinkend. In Großbritannien geht es auf und ab, und in 
+den USA ging es bis 2016 bergab und dann steil nach oben. [Entsprechende Berichte fin-
+den sich in pv digest-Ausgaben aller Vorjahre; für 2019 in der Ausgabe #7/2019.] 
+Da eine solche Entwicklung mit Sicherheit nicht die Realität widerspiegelt, stellen wir die 
+Gültigkeit der Daten auch mit Blick auf das absolute Niveau in Frage. Das ist bedeutsam, 
+weil die häufig sehr niedrigen Werte der Reuters-Studie immer wieder dazu genutzt 
+werden, um die Behauptung zu unterfüttern, dass Paid Content kein erfolgverspre-
+chendes Geschäftsmodell ist. 
+Nun aber sind wir über eine Studie gestolpert, die nahezu die gleiche Frage beantwor-
+tet, wie der Digital News Report: prozentual wie viele Menschen bezahlen für Paid Con-
+tent? Diese Studie stammt von der dänischen Marktforschungsfirma AudienceProject. Es 
+wurden dafür angeblich die Antworten von 14.000 Online-Panel-Befragten ausgewertet 
+und so gewichtet, dass sie repräsentativ für die Bevölkerung sind. Die Studie präsentiert 
+Daten zu sieben Ländern und aus zwei Erhebungszeiträumen (2017 und 2019).  
+Da die Reuters Studie und diese Studie voneinander unabhängig sind, und weil beide 
+Studien annähernd die gleiche Frage beantworten, lohnt sich ein Nebeneinanderstellen 
+der Daten. Dort, wo beide Studien zu ähnlichen Werten kommen, dürften diese Werte 
+nah an der Wirklichkeit liegen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+bekannteste Studie 
+zum Thema: Digital 
+News Report mit (teils) 
+unplausiblen Daten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+neue Studie von Audi-
+enceReport erforscht 
+fast die gleiche Frage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN: 
+ANALYSEN UND DATEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 19
+Die folgende Grafik zeigt Werte beider Studien im Vergleich: 
+Bemerkenswert ist, dass die für 2019 genannten Werte von AudienceProject und die des 
+Reuters Institutes meist nahe beieinander liegen. Große Abweichungen gibt es nur bei 
+den Ländern Schweden und Deutschland, 2017 auch in Großbritannien. Das könnte da-
+rauf hindeuten, dass das absolute Niveau für den Anteil der Paid Content-Nutzer je Land 
+von beiden Studien oft wirklichkeitsnah angezeigt wird – wenn auch ausgerechnet nicht 
+für Deutschland (und ohne Vergleichsmöglichkeit für Österreich und die Schweiz, weil 
+beide Länder in der Studie von AudienceReport nicht enthalten sind). 
+Die AudienceReport-Studie enthält einige weitere bemerkenswerte Befunde. 
+> In allen Ländern bezahlen mehr Männer als Frauen für Paid Content. Der Bezahler-Anteil 
+unter den Männern ist in den USA beinahe doppelt so hoch wie bei den Frauen, in Finn-
+land dagegen nicht einmal ein Fünftel größer. Für Deutschland gibt die Studie Bezahler-
+anteile von 16% (Männer) und 10% (Frauen) an. 
+> Die Studie versucht sich auch an einer Differenzierung der Digitalprodukte, für die in den 
+verschiedenen Ländern am meisten bezahlt wird. Dabei liegen in den USA und in Groß-
+britannien 'News' [gemeint sein dürften Webseiten hinter einer Paywall] deutlich vor 
+'E-Paper/E-Magazines'. In Deutschland, Dänemark, Norwegen und Finnland liegt diese 
+Produktgattung vor 'News'. 
+> "In allen Ländern zählen viel weniger Leute Facebook zu ihren Lieblingswebsites", resü-
+miert die Studie einen Vergleich der Daten von 2017 mit der neuesten Erhebung. Für 
+Deutschland werden diese Daten aber nicht im Detail präsentiert. In den übrigen Ländern 
+ist der Rückgang des Anteils der Befragten, die Facebook als eine ihrer drei 
+Studienvergleich: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• für die meisten Län-
+der ähnliche Ergeb-
+nisse 
+• aber nicht für Schwe-
+den und Deutschland 
+(und GB 2017) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+weitere Befunde der 
+AudienceReport-Studie: 
+ 
+• Männer bezahlen viel 
+häufiger als Frauen 
+ 
+ 
+ 
+ 
+• In USA/UK v.a. für 
+Paywallabos, in ROW 
+v.a. für E-Paper 
+ 
+ 
+ 
+ 
+• Facebook verlor zu-
+letzt massiv an 
+Beliebtheit 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 20
+Lieblingswebsites nennen, tatsächlich deutlich (z.B. von 27% auf 22% in den USA, von 
+30% auf 19% in Großbritannien, von 27% auf 21% in Dänemark). Gleichzeitig steht in allen 
+Ländern mit Ausnahme von Norwegen Google an erster Stelle der Liste mit den Lieblings-
+websites. Google scheint auch von 2017 auf 2019 viel weniger an Popularität eingebüßt 
+zu haben als Facebook. In Norwegen steht an erster Stelle der beliebtesten Websites mit 
+VG.no eine Zeitungswebsite. Und unter den Top10 finden sich zwei weitere Zeitungs-
+websites. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Buch- & Pressemarkt laufen im Digitalen auseinander 
+P 
+E-Book-Markt 
+ 
+Laut Daten der GfK in Kooperation mit dem Börsenverein des deutschen Buchhandels 
+sind die E-Book-Umsätze 2019 um 0,6% auf rund 203Mio€ gestiegen. 3,6Mio in 
+Deutschland lebende Personen sollen mindestens ein E-Book gekauft haben, im Durch-
+schnitt 8,9 E-Books. Im Vorjahr waren es 1,9% weniger Käufer, die aber im Schnitt 9,2 E-
+Books gekauft hatten. Insgesamt wurden laut GfK 32,4Mio E-Books zu einem Durch-
+schnittspreis von 6,32€ verkauft. Die Zahlen beruhen auf der Befragung eines Panels mit 
+20.000 Personen und sollen alle E-Book-Käufe ab 49Cent Verkaufspreis erfassen. 
+ 
+ 
+ 
+Umsatz mit E-Books 
+2019: +0,6% auf 
+203Mio€ 
+ 
+Anzahl Käufer +2% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IPPT (Index Presseprodukte auf Tablets) 
+P 
+IPPT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-App-Umsätze von 
+Presse-Apps in Relation 
+zu den IAPs anderer 
+Apps 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint: Den gesamten Buchhandelsmarkt schätzt der Börsenverein auf rund 
+9,1Mrd€ Umsatz zu Endkundenpreisen ein, den 'Publikumsmarkt' (ohne Schul- und 
+Fachbücher) auf etwa die Hälfte davon. Damit wäre der gesamte Buchmarkt etwas grö-
+ßer als der Markt der Publikumspresse, die rund 8Mrd€ jährlich umsetzt, der Publikums-
+buchmarkt etwa halb so groß. Die Publikumspresseverlage erzielen mit ihren digitalen 
+Angeboten über 500Mio€ Umsatz, die Buchverlage im Publikumsmarkt nur 200Mio€. 
+Das Geschäft mit E-Books stagniert seit Jahren oder wächst höchstens ganz leicht. Die 
+Umsätze mit digitaler Presse wachsen stark. Obwohl beide Produkte (Buch und Presse) 
+viel gemeinsam haben, zeigt sich hier ein großer Unterschied. Digitale Ausgaben sind für 
+die Buchverlage bisher nur ein Zubrot, Presseverlage sehen darin die Zukunft. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 21
+ 
+ 
+ 
+ 
+ 
+Bedroht der Erfolg der NY Times den Journalismus? 
+B3 
+Walzt die NYT alle an-
+deren platt? 
+ 
+Ben Smith war einmal Chefredakteur beim Journalismus-'Disruptor' Buzzfeed. Die New 
+York Times erschien damals als Paradefall eines etablierten Mediums, dessen Geschäfts-
+modell von Startups wie Buzzfeed mit neuen Formen und neuen Distributions- und Finan-
+zierungsmodellen für Journalismus in Frage gestellt war. Heute ist Ben Smith der Medien-
+redakteur der New York Times. Und gleich in seinem ersten Beitrag für den neuen Ar-
+beitgeber stellt er die Frage, ob der große Erfolg der New York Times in den letzten Jahren 
+nicht seinerseits eine Bedrohung für den Journalismus wäre. 
+Er selbst sei keine Ausnahme. "Die ehemaligen Top-Redakteure von Gawker, Recode und 
+Quartz sind nun alle bei der Times, genauso wie viele der Reporter, die vorher Politico zu 
+einem Must-Read in Washington gemacht haben". Inmitten eines Umfelds, in dem landes-
+weit journalistische Arbeitsplätze abgebaut werden – es gebe deren nur noch zwischen 
+20.000 und 38.000 in den USA – sei die Redaktion der Times auf 1.700 Köpfe gewachsen. 
+Mit Kreuzworträtseln und Kochrezepten zeige die New York Times ihre Fähigkeit, auch 
+Nischen zu besetzen und vorherige Platzhalter daraus zu verdrängen. Aktuell sei die 
+New York Times dabei, das Podcast Studio Serial Productions zu übernehmen, um ihren 
+Erfolg mit dem Podcast The Daily zu einem Bezahlprodukt weiterzuentwickeln, das eines 
+Tages das "HBO der Podcasts" werden könnte. 
+Mittlerweile habe die Times so viele unterschiedliche Köpfe zu sich geholt und in allen 
+Bereichen (Meinungsjournalismus, Investigation, auch Klatschreportagen) ein so breites 
+Angebot, dass sich die Frage stelle, wo andere Angebote noch Platz haben sollten. 
+ 
+ 
+ 
+ 
+Einst haben Startups 
+das etablierte Medium 
+in Frage gestellt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Heute arbeiten viele 
+der ehemaligen Start-
+upler für die NYT 
+ 
+ 
+ 
+Die ehemalige Nur-Ta-
+geszeitung drängt in 
+viele Nischen 
+ 
+ 
+ 
+ 
+Bleibt genug Platz für 
+andere? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Geschäftsführer Philipp Magnus Froben hat DuMont verlassen. 
+Bei CH Media ist Mathias Meier nun Chief Product Officer. 
+Aline Lüllmann kehrt spätestens im Juni als Geschäftsführerin zur Taz zurück. 
+Geschäftsführer Bernd Herzberger ist bei der Heilbronner Stimme ausgeschieden. 
+Tim Hager ist neuer und ab Ende August, nach der Pensionierung von Thomas Scherf-
+Clavel, auch alleiniger Geschäftsführer der Südwest Presse Neckar-Alb. 
+Bild Süd General Manager Petra Polley verlässt Axel Springer, Bild Ost General Manager 
+Andreas Conradt übernimmt mit. 
+P 
+1 
+2 
+17 
+21 
+ 
+ 
+Personalien 
+QUELLEN:
+PERSONALIEN
+QUELLEN:
+MEINUNGEN
+Branchennews 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 22
+ 
+ 
+ 
+ 
+ 
+Grosso-HSP: neue Malusregel findet breite Akzeptanz  
+P 
+Neue Regelung für 
+HSP-Malus 
+ 
+Ab 1. März 2021 greift eine neue Malusregelung bei den Grosso-Handelsspannen. Die 
+ursprüngliche Regelung hatten Grossoverband und Verlagsallianz zum Ende des letzten 
+Jahres ausgesetzt, weil das Bundeskartellamt darin eine Diskriminierung kleinerer Ver-
+lage erkannt hatte.  
+Wie in unserem Bericht in der Ausgabe #1/2020 prognostiziert, stützt sich die neue Re-
+gelung ausschließlich auf bereits bestehende und branchenweit anerkannte Regeln zur 
+Pressedisposition. Allerdings werden nicht nur zu hohe Remissionsquoten mit einem 
+Handelsspannenaufschlag bestraft, sondern auch die Überschreitung der im KVM de-
+finierten Höchstgrenzen für den Anteil belieferter Einzelhändler, die gar keine Verkäufe 
+der jeweiligen Ausgabe erzielen (Nullverkaufsquote). Für beide Werte gilt: je stärker ein 
+Titel die zulässigen Höchstmarken überschreitet, desto größer ist der Aufschlag auf seine 
+Handelsspanne.  
+Die Überschreitung der Nullverkaufsquoten wird sogar viel stärker sanktioniert, im 
+Höchstfall, bei einer Überschreitung der zulässigen Nullverkaufsquote um mehr als 5-Pro-
+zentpunkte, erfolgt ein Aufschlag von 3%-Punkten auf die Handelsspanne. Bei einer Über-
+schreitung der zulässigen Remissionsquoten erfolgt maximal (ab 10%-Punkten Über-
+schreitung) ein Aufschlag von 0,36%-Punkten. Insider gehen davon aus, dass der Malus 
+für zu breite Verteiler deutlich schwerwiegender ist, als der Malus für zu hohe Lie-
+fermengen. 
+AMV-Geschäftsführer Manfred Sinicki wollte die Gewichtung der beiden Parameter ge-
+genüber pv digest nicht kommentieren. Für den Einführungszeitraum neuer Titel gelte 
+die Malusregelung nicht und sie gelte auch nur für periodische Titel. Diese beiden Klar-
+stellungen habe der Interessenverein der kleineren Verlage noch erreichen können. Er 
+wird gegen die Neuregelung keine weitere Beschwerde einlegen. "Die neue Malusregelung 
+orientiert sich an den im KVM und der SQR++ Regel festgelegten Branchenstandards. Da-
+rum haben wir unser grundsätzliches Einverständnis gegeben." 
+Keinen Erfolg hatte der AMV mit dem Versuch, weitere Ausnahmenregelungen zu 
+erwirken, nämlich zum einen für Titel mit steigenden Absätzen und zum anderen eine 
+Bereinigung der Nullverkaufsquoten um Händler, die die Ware gar nicht erst ins Regal stel-
+len, sondern sofort remittieren. Hier argumentiert die Grossoseite, dass eine Ausnahme 
+für Titel mit steigenden Absätzen geradezu motivieren könnte, viel zu große Mengen aus-
+zuliefern. Und eine Nicht-Berücksichtigung der Händler, die gelieferte Hefte sofort zurück-
+schicken, sei nicht möglich, weil die dafür notwendigen Daten gar nicht im Grosso-Data-
+warehouse zur Verfügung stünden. 
+Die Zustimmung zur neuen Regelung dürfte dem AMV deswegen etwas leichter fallen, 
+weil die neuen Malusregeln erst im kommenden Jahr in Kraft treten. Bis dahin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ab 1.3.2021 werden zu 
+breite Verteiler und zu 
+hohe Liefermengen mit 
+Malus sanktioniert 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Malus für Verteiler-
+breite deutlich schwer-
+wiegender als für zu 
+hohe Remissionen 
+ 
+ 
+ 
+ 
+AMV ist mit der Neure-
+gelung einverstanden 
+ 
+Ausnahmen für neue 
+Titel und Begrenzung 
+auf Periodika 
+ 
+ 
+ 
+ 
+keine Ausnahmen für 
+Titel mit steigenden Ab-
+sätzen oder bei Früh-
+/Sofortremis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BRANCHENNEWS & -RECHT
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 23
+profitieren kleine Titel vom für sie Wegfall der vorherigen Malusregel. Besonders größere 
+Titel betrifft dagegen die Nicht-Anpassung der Klassengrenzen der Handelsspannen-
+regelung in diesem Jahr, die im Zuge der Neuregelung zwischen G7 und Grossoverband 
+verabredet wurde. Das soll die Grossisten für die ihnen nun entgehenden Mindererlöse 
+aus der ursprünglichen Regelung entschädigen. Die Nicht-Anpassung hat zur Folge, dass 
+die Auflagenhürden für geringere Handelsspannen und die Hürden für Umsatzboni nicht 
+wie geplant gesenkt werden. 
+Aus Sicht des AMV noch offen ist der Umgang mit den bereits vom Grosso einbehal-
+tenen Maluszahlungen aufgrund der nun gekippten Regelung. Die war nach Auffassung 
+des AMV diskriminierend. Darum fordert er Rückzahlungen und will im Bedarfsfall Mit-
+gliedsverlage dabei unterstützen, diese gerichtlich durchzusetzen. Die Grossisten dürften 
+sich allerdings darauf berufen, dass zumindest pro forma weder das Kartellamt noch gar 
+sie selbst oder die G7-Verlage eine Diskriminierung eingestanden haben. Die Aussichten 
+vor Gericht sind also mindestens vage. 
+Titel mit wenig Umsatz 
+sind de facto bis Feb-
+ruar 2021 vom Malus 
+befreit 
+ 
+große Titel werden we-
+niger stark begünstigt 
+als ursprünglich verab-
+redet 
+ 
+ 
+ 
+ 
+AMV fordert Rückzah-
+lung der bisherigen 
+Malusgelder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint: warum nicht gleich so? Die neue Gestaltung der Malusregelung ist nicht 
+nur deswegen sinnvoll, weil sie sich auf branchenweit bestehende Verabredungen stützt 
+und darum auch branchenweite Akzeptanz findet. Es werden nun auch zu breite Vertei-
+ler und zu hohe Liefermengen mit einem direkten Mechanismus sanktioniert, statt mit 
+einer bestenfalls indirekt wirkenden Regelung auf Basis von Umsätzen. Die schiere Höhe 
+der Umsätze ist ein in vielen Zusammenhängen dysfunktionales Steuerungskriterium 
+für den Pressevertrieb. Das haben wir in der letzten Ausgabe am Beispiel des Einzelhan-
+dels gezeigt, und wir bereiten eine entsprechende Analyse zum Pressegroßhandel für 
+die nächste Ausgabe vor. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 24
+ 
+ 
+ 
+ 
+ 
+Der Lesermarkt in der Corona-Krise 
+P 
+Corona-Krise 
+ 
+(Bemerkenswertes aus ausführlichen Recherchetelefonaten, spontanen Kontakten per 
+Mail und Telefon und internationalen Fachmedien) 
+Folgen 
+Welche mittel- und langfristigen Folgen die Krise einmal haben wird, ist noch nicht abzu-
+sehen. Zum jetzigen Zeitpunkt weit verbreitete Folgen sind: 
+Der Einbruch der Anzeigenmärkte. Besonders lokale und regionale Tageszeitungen be-
+richten von Stornierungen und Buchungsrückgängen. Manche von bis zu oberhalb von 
+80%, die meisten aber wohl irgendwo deutlich darunter. Gratiszeitungen und Anzeigen-
+blätter stellen ihre Erscheinung teils komplett ein. Events finden gar nicht mehr statt. Sie 
+fallen als Gegenstand der Berichterstattung, als Anzeigenkunden und auch als ein in 
+den letzten Jahren zunehmend entwickeltes Geschäftsfeld der Presseverlage vollständig 
+aus. Publikumszeitschriften scheinen im Werbemarkt etwas weniger gebeutelt. Vielleicht 
+ist der Effekt bei Medien mit geringerer Erscheinungsfrequenz aber auch nur verzögert. 
+Der Lesermarkt zeigt sich unter dem Strich deutlich widerstandsfähiger, aber mit ge-
+genläufigen Entwicklungen in unterschiedlichen Segmenten. 
+> Der Einzelverkauf gedruckter Presseerzeugnisse ist vor allem von der sozialen Isolierung 
+und den Aufenthaltsbeschränkungen betroffen. Durch den weitgehenden Wegfall des 
+Flugverkehrs und erheblicher weniger Bahnreisen trifft es ganz besonders die Bahnhofs-
+buchhändler. Die berichten dnv gegenüber von Umsatzrückgängen im Bereich 50%. Viele 
+Filialen werden geschlossen. Die börsennotierten Unternehmen Valora und WH Smith 
+haben Gewinnwarnungen herausgegeben. "Ein mittlerer einstelliger Prozentsatz der 
+Händler muss wegen Betriebsverboten schließen – darunter gut verkaufende Shops 
+in Innenstädten und Einkaufszentren, Buchhandlungen, Tabakwarenfachgeschäfte sowie 
+Kantinen", zitiert horizont.at Grossoverbandsgeschäftsführer Kai-Christian Albrecht. Da-
+mit Einzelhändlern durch kurzfristige Ladenschließungen keine Nachteile entstehen, ha-
+ben die deutschen Grossisten die maximale Frist für die Vergütung von Spätremissionen 
+von 3 auf 6 Monate verlängert. In Frankreich sind nach verschiedenen Erhebungen 12-
+14% aller Presseverkaufsstellen geschlossen. Die unabhängigen ('fragmentierten') Händ-
+ler in Frankreich hätten in der KW12 gegenüber der KW11 im Schnitt 13% weniger Umsatz 
+erzielt, berichtet der Händlerverband Culture Presse. 
+> Weil sich Käuferströme im Lebensmittelhandel konzentrieren, steigen die Verkäufe 
+hier deutlich an. Da der LEH ganz überproportional am einzigen deutschen Echtzeit-Ver-
+kaufsdaten-Informationssystem des Pressehandels (VMP) teilnimmt, sind seriöse Ab-
+schätzungen zur Gesamtwirkung auf den Einzelverkauf bisher meistens nicht möglich. 
+Die Verkäufe in anderen Handelsformen sind schlicht meist noch unbekannt. Beim Bauer 
+Verlag ist das anders. Der behauptet in einer Pressemitteilung sogar: "Aktuell verzeichnet 
+ 
+ 
+ 
+ 
+Die momentanen Fol-
+gen der Krise 
+ 
+ 
+ 
+Einbruch der Werbe-
+märkte 
+ 
+ 
+Totalausfall von Events 
+(als Werbekunden, Ge-
+genstand der Bericht-
+erstattung, 3.-Geschäft) 
+ 
+ 
+Lesermarkt mit ge-
+genläufigen Entwick-
+lungen 
+ 
+ 
+• Einzelverkauf: 
+ 
+  
+Bahnhofsbuchhand-
+lungen massiv getrof-
+fen 
+ 
+ 
+übrige EH rückläufig, 
+zu 5-10% geschlos-
+sen 
+ 
+ 
+ 
+ 
+in Frankreich 14% 
+geschlossen, 13% we-
+niger EV-Umsatz in 
+KW12 
+ 
+ 
+• Verlagerung zum LEH  
+ 
+VMP-Daten lassen 
+sich nicht hochrech-
+nen 
+ 
+ 
+ 
+VERMISCHTES 
+Vermischtes 
+Vermischtes 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 25
+Bauer keinerlei Einbußen im Einzelverkauf". Das liege daran, dass 60-70% der Verkäufe 
+auch in normalen Zeiten über den Lebensmittelhandel laufen. Auch Burdas Vertriebschef 
+Tobias Mai spricht gegenüber dnv von möglichen positiven Verkaufseffekten im Bereich 
+Kinderzeitschriften und bei den wöchentlichen Zeitschriften. Allerdings sei das nur eine 
+Momentaufnahme. 
+> Bis hin zum teilweise vollständigen Ausfall betroffen ist der Export von Presse und 
+der Verkauf in Feriengebieten. 
+> Für gedruckte Presse optimistisch stimmt, dass Verlage und Werbefirmen von einer deut-
+lichen Steigerung bei Abobestellungen berichten. Das gilt sowohl für Initiativbestellun-
+gen seitens der Kunden als auch für deutlich verbesserte Erfolgsquoten bei vielen Wer-
+bemaßnahmen. In der telefonischen Werbung profitieren Anrufer von einer ungekann-
+ten Erreichbarkeit bei gleichzeitiger großer Offenheit der Konsumenten für Aboangebote.  
+> Wer einen bedeutsamen Teil seiner Abos an Firmenkunden verkauft, ist negativ betrof-
+fen. Im B2B-Bereich kommt es zu massenhaften Kündigungen, teils wegen Einspar-
+maßnahmen; teils auch schlicht, weil die Empfänger der Abos in den Unternehmen gar 
+nicht mehr anzutreffen sind, weil sie im Homeoffice arbeiten. Gerade Kleinunternehmer 
+befürchten schlicht eine Verstopfung ihrer Firmenbriefkästen, die derzeit nicht oder nur 
+selten geleert werden. 
+> Alle digitalen Informationsangebote verzeichnen eine Rekordnachfrage. 
+Für Produktion und Logistik in Verlagen und Grossounternehmen wurden allerorten 
+Notfallpläne erstellt. Bis Redaktionsschluss dieser Ausgabe ist uns aber nirgendwo ein 
+großflächiger Ausfall bekannt geworden. Die Post informiert nach wie vor: "Bisher gibt 
+es keine wesentlichen Einschränkungen unserer Dienstleistungen in Deutschland." Auch 
+bei der Abozustellung der Tageszeitungen wurde bis zuletzt kein großflächiger Ausfall be-
+kannt.  
+Weltweit scheint Konsens zu bestehen, dass Presse als Angebot der Grundversor-
+gung von Beschränkungen auszunehmen ist. Selbst in den besonders betroffenen Re-
+gionen Italiens und Spaniens dürfen Pressehändler weiterhin öffnen und Journalisten dür-
+fen auch dort ihrer Arbeit nachgehen. Der französische Einzelhändlerverband Culture 
+Presse stellt seinen Mitgliedern Plakate für ihre Läden und Berechtigungsausweise für ihre 
+Fahrzeuge zur Verfügung, mit denen sie gegenüber Bevölkerung und Polizei ihre Sonder-
+stellung dokumentieren können. In Italien können Pressehändler einen Extrabetrag von 
+bis zu 4.000€ als Kosten für Miete, Strom, Telefon oder auch Zustellleistungen von ihrer 
+Steuerschuld absetzen. 
+Die ganz große Mehrheit unserer Recherche-Gesprächspartner haben wir im Home-
+office angetroffen. Heimarbeit ist nun auch in Unternehmen möglich, in denen das vorher 
+kulturell undenkbar war oder bei denen Denkblockaden das vorher unmöglich erscheinen 
+ließen. Grossounternehmen verlagern alle Disposition und andere Büroaufgaben ins 
+Homeoffice. QS Quality Service GmbH, die Kundenservice-Tochter des Spiegel-Verlages, 
+hat laut Geschäftsführerin Britta Booms ihre Aktivitäten in nicht einmal vier Tagen kom-
+plett in die Privathaushalte ihrer Mitarbeiter verlegt. Fast 80% der Servicetelefonate beim 
+Bauer Verlag ohne 
+Einbußen 
+ 
+Burda sieht teils po-
+sitive Effekte 
+ 
+ 
+ 
+• Export, Feriengebiete 
+teils Totalausfall 
+ 
+• Abogeschäft zieht an 
+ 
+mehr Bestellungen, 
+bessere Erfolgsquo-
+ten bei Werbung 
+ 
+ 
+ 
+• B2B-Abos leiden 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Riesen-Nachfrage 
+nach Digitalabos  
+ 
+ 
+bisher keine Ausfälle in 
+Produktion und Logis-
+tik 
+ 
+ 
+ 
+ 
+ 
+ 
+praktisch weltweit wer-
+den Presse und presse-
+nahe Unternehmen 
+privilegiert 
+ 
+ 
+ 
+ 
+ 
+ 
+Home-Office mit Ab-
+stand der häufigste Ar-
+beitsort der Leser-
+marktverantwortlichen 
+ 
+sogar Kundenservice 
+teils komplett aus dem 
+Homeoffice  
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 26
+großen Aboserviceunternehmen Intan werden derzeit von Mitarbeitern zuhause durchge-
+führt.  
+Der Spiegel registriert eine leichte Zunahme der Servicenachfragen. Britta Booms führt 
+das auf einen erhöhten Erklärungsbedarf im Zusammenhang mit der erstmaligen Nutzung 
+der digitalen Angebote zurück. Bei Intan dagegen ist die Anzahl der Kundenanrufe gesun-
+ken. Und nicht nur Intan-Geschäftsführer Daniel Beljan berichtet, dass die Kunden beim 
+Reklamieren höflicher und verständnisvoller sind als zuvor. 
+Digitalabo-Boom 
+Für das Digitalabogeschäft dürfte die Corona-Krise einen noch größeren Push bedeuten 
+als seinerzeit die Wahl Donald Trumps zum Präsidenten. Insbesondere überregionale Me-
+dien in den USA, aber auch die politischen Medien weltweit, profitierten damals immens 
+vom sogenannten 'Trump-Bump'. Vom aktuellen Boom im Digitalabogeschäft profitie-
+ren besonders auch Lokalzeitungen [pvd: entgegen anfänglicher Unkenrufe haben sich 
+die im Zusammenhang der Präsidentschaft Donald Trumps zahlreich gewonnenen Abos 
+übrigens nicht als besonders kurzlebig erwiesen. Die Unkenrufer sind aber mindestens 
+genauso langlebig wie diese Abos und warnen heute schon vor einer hohen Churnquote 
+bei den 'Corona-Abos'. Aufgrund der absehbaren Entwicklungen am Arbeitsmarkt und er-
+wartbarer Folgen für die privaten Haushalte könnten sie diesmal Recht behalten].  
+'Anfangs' (d.h. ca. bis Mitte März) wurde der Abo-Boom eher noch verschämt registriert. 
+"Niemand möchte sich in diesen Tagen mit Krisengewinnler-Nachrichten brüsten", berich-
+tete Medienjournalist Roland Pimpl in Horizont über ein Gespräch mit Manager Magazin-
+Chefredakteur Steffen Klusmann. Aber schon am 20.3. irritierte dessen Gesellschafter mit 
+einer Pressemitteilung: "Deutschland liest: Gruner + Jahr verzeichnet starke Verkäufe im 
+Einzelhandel", war die Meldung überschrieben, mit der der Verlag sich als 'Krisengewinn-
+ler' nicht nur im Einzelhandel präsentierte. 
+Mittlerweile sind die Hemmungen weltweit gefallen. Und im Digitalabogeschäft sind die 
+Corona-Effekte nicht nur zweistellig prozentual. Sie werden ganz überwiegend in der 
+Dimension 'x-fach' beschrieben. 
+> Bei den US-Kunden des Paywalltechnikanbieters Piano ist die Zahl der Neuabos in der 
+KW12 im Durchschnitt um 63% gestiegen, bei den europäischen Kunden sogar um 
+267%. 
+> Bei Bloomberg hat sich die tägliche Bestellmenge der Plus-Abos verdreifacht. 
+> Über nun 150 bis 200 Neuabos täglich statt 30 vorher berichtet die französische Regio-
+nalzeitung Dauphiné Libéré. Bei der italienischen Zeitung La Repubblica soll sich der Ge-
+samtbestand der Digitalabonnenten um mehr als 50% auf nun über 110.000 gestei-
+gert haben [pvd: allerdings zum Schnäppchenpreis von 1€ für 3 Monate]. 
+> Manager deutscher Zeitungen und Zeitschriften sprechen gegenüber pv digest von 
+"verdreifachten", "verfünffachten" und in einem Fall sogar von "acht Mal mehr" Neu-
+abos als im Februar. FAZ-Vertriebschef Stefan Buhr nennt gegenüber dnv eine Zahl von 
+12.000 Neuzugängen in nur 7 Tagen. 
+ 
+ 
+teils mehr, teils weni-
+ger Vorfälle 
+ 
+aber 'überall': Kunden 
+geduldiger, freundli-
+cher 
+ 
+ 
+Digitalabo-Boom 
+ 
+ 
+Corona-Boom stellt 
+'Trump-Bump' in den 
+Schatten 
+ 
+ 
+ 
+ 
+ 
+ 
+[beim Trump-Bump 
+hatten die Neu-Abos 
+ØHaltbarkeit!] 
+ 
+ 
+ 
+Corona-Boom wurde 
+anfangs nur verschämt 
+registriert 
+ 
+ 
+ 
+ 
+ 
+Jetzt viele Erfolgsmel-
+dungen: 
+ 
+ 
+• +267% Neuabos bei 
+den EU-Kunden von 
+Piano 
+ 
+• Bloomberg: 3fache 
+Bestellmenge 
+ 
+ 
+• La Repubblica: +50% 
+Abobestand (!) 
+ 
+ 
+ 
+• deutsche Presse mit 
+3x, 5x, 8x mehr Be-
+stellungen 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 27
+> In einem Webinar des Weltnachrichtenverbandes inma beichtete der Leserverantwortli-
+che des für sein Digitalabogeschäft weltweit bewunderten norwegischen Verlages 
+Schibsted, Tor Jacobsen, dass er in den letzten zwei bis drei Wochen nicht nur einen stei-
+len Wiederanstieg bei den Digitalabos beobachtet habe, nachdem das Wachstum zuvor-
+ziemlich abgeflacht sei. Auch die Kündigungsquoten gingen zurück. Über weniger Kün-
+digungen berichteten auch mehrere Gesprächspartner von pv digest. 
+> Steady, der Bezahldienstleister für digitale Mitgliedschaftsangebote, verzeichnete den 
+Monat mit den meisten neuen Mitgliedschaften bei seinen rund 750 Publishern. Das 
+Wachstumstempo im März hat sich verdoppelt, berichtet Gründer und Geschäftsfüh-
+rer Sebastian Esser gegenüber pv digest. Pro Monat wurden schon vor Corona rund 
+300.000€ Umsatz mit Steady generiert. Und im März wuchs dieser Betrag prozentual im 
+zweistelligen Bereich. 
+Angebotspolitik 
+Alle Paid Content-Anbieter stellen sich die Frage, ob sie die Corona-Berichterstattung 
+kostenlos vor die Paywall stellen sollten. In der Journalismus-Blase wird das als ethische 
+Frage diskutiert. Für Lesermarktverantwortliche ist es vor allem eine pragmatische Frage: 
+Nutzt man Corona-Inhalte besser hinter einer Paywall als Incentive zum Abschluss eines 
+Abos? Oder ist es effektiver, sie kostenlos, womöglich immerhin mit Registrierungspflicht, 
+anzubieten und auf diesem Weg maximal viele 'Leads' zu gewinnen, die erst im Anschluss 
+für ein Digitalabo gewonnen werden?  
+Der Weltverband der Nachrichtenmedien, inma, berichtet von einer Analyse der 48 
+Websites mit den weltweit meisten Digitalabos. Von denen hätten 16 im Rahmen der 
+Corona-Berichterstattung ihre Paywallsteuerung verändert. Und sogar 20 hätten ihre 
+Digitalabopreise angepasst, drei Viertel von ihnen nach unten, der Rest nach oben. 
+Unser Eindruck: die meisten US-Medien entscheiden sich bei ihren Paywalls für kos-
+tenlose Corona-Berichterstattung. Der Zeitungskonzern McClatchy hat aber für den Ap-
+ril schon wieder eine Abkehr von dieser Gratisstrategie verkündet. Man lasse damit zu viele 
+Chancen aus, das Digitalabogeschäft zu befördern. 13% aller Aufrufe der ausnahmsweise 
+vor die Paywall gestellten Artikel hätten normalerweise zu einem Paywallkontakt geführt. 
+In Europa und besonders im deutschsprachigen Markt ist die Gratis-Strategie nicht 
+weit verbreitet. Ohne das in Zahlen belegen zu können, ist unser Eindruck, dass die meis-
+ten hiesigen Medien ihre digitale Corona-Berichterstattung nach den gleichen Kriterien vor 
+oder hinter ihre Paywalls stellen, wie alle anderen Berichte auch. 
+Dagegen bieten viele Verlage ihre digitalen Ausgaben freizügig(er) an. Zahlreiche Tages-
+zeitungen (aber zum Beispiel auch der Zeitschriftenverlag Heise) machen ihre eigentlich 
+nur gegen Aufpreis zugänglichen E-Paper für alle Printabonnenten kostenlos, um eventu-
+ellen Ausfällen in der Zustellung zu begegnen. Einige Zeitschriftenverlage verschenken 
+ihre digitalen Ausgaben an jedermann [was in Deutschland zu bemerkenswert öffentli-
+cher Kritik von Managern anderer Großverlage an Gruner+Jahr geführt hat]. 
+> Bis Mitte Juni öffnet die italienische Vogue ihr Digitalarchiv kostenlos für jedermann, 
+der sich für die Nutzung registriert.  
+ 
+ 
+• Schibsted et al: Kün-
+digungen gehen zu-
+rück 
+ 
+ 
+ 
+ 
+ 
+• Doppelt so viele neue 
+Mitgliedschaften bei-
+Steady-Publishern 
+ 
+ 
+ 
+ 
+Angebotspolitik 
+ 
+ 
+ 
+Corona-Berichte vor 
+(gratis) oder hinter (be-
+zahlpflichtig) die 
+Paywall? 
+ 
+ 
+ 
+ 
+16 der 48 nach Digital-
+abos größten News-
+Websites haben Pay-
+wallregeln verändert 
+ 
+20 haben Preise geän-
+dert 
+ 
+Die meisten US-Medien 
+bieten Corona-Infos 
+gratis an 
+ 
+ 
+In Europa und D/A/CH 
+überwiegend unverän-
+derte Paywalleinstel-
+lungen 
+ 
+häufig: E-Paper kosten-
+los für Printabonnen-
+ten 
+ 
+einige Magazinverlage 
+machen ihre E-Paper 
+für jedermann gratis, 
+zB.: 
+ 
+• Vogue Italien 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 28
+> Hearst bot in Spanien bis Ende März die digitalen Ausgaben aller seiner 19 Titel kos-
+tenlos an. Dabei ging der Digitalkiosk Kioskoymas in die Knie. Aufgrund der großen Nach-
+frage fiel die Registrierungspflicht und an die Nutzer wurde appelliert, nicht allzu viele 
+Magazine auf einmal herunterzuladen. 
+> Auch die spanische Tochter von Condé Nast verschenkte ihre Digitalausgaben. Die-
+ser Verlag dachte dabei allerdings auch an die stationären Pressehändler. Condé Nast 
+Spanien verspricht den Kioskbetreibern eine Kompensation und garantiert "die glei-
+chen Verkaufserlöse wie im vorangegangenen Monat, unabhängig davon, wieviel sie tat-
+sächlich verkaufen". 
+> Gruner+Jahr verschenkt bis Ende April alle seine digitalen Ausgaben (und alle Plus-
+Inhalte) an Nutzer, die sich dafür nur registrieren müssen. 
+Einen ganz eigenen Weg geht Voici, das ist in etwa die französische Entsprechung für die 
+deutsche Zeitschrift Gala. Voici wechselt von der wöchentlichen auf eine monatliche 
+Erscheinungsweise. 
+Auch da wo weiterhin bezahlt werden muss, zeigen sich die Verlage flexibel. Es finden 
+sich sowohl verdichtete Paywalls und Preiserhöhungen als auch Sonderangebote. 
+> Bildplus kostet derzeit nur 3,99€ statt 7,99€ pro Monat im ersten Jahr. FAZ plus kostet in 
+den ersten vier Monaten nur 1€/Woche (vorher 2,95€/Woche). Bei La Repubblica kostet 
+das Digitalabo in den ersten drei Monaten nur 1€/Monat. Die New York Times dagegen 
+hat den Preis ihres auf dem iPhone in-App angebotenen Abos von 5€ auf 13€ erhöht. 
+> Der britische Regionalzeitungsverlag Archant führt für alle seine rund 50 Titel die Auf-
+forderung zum freiwilligen Bezahlen ein. Vorbild ist der Guardian. Bezahldienstleister 
+ist der neuseeländische Dienstleister Press Patron [mehr dazu in der kommenden Aus-
+gabe]. 
+> Das spanische Digitalangebot El Diario (vgl. zuletzt pvd #7/2019), das rund zwei Drittel 
+seines Umsatzes mit Werbung erzielt und darum massiv getroffen ist, erhöhte "nach in-
+tensiven Debatten" den Preis seiner Mitgliedschaft von 60€ auf 80€ und begründete das 
+seinen Lesern gegenüber ausführlich. "Die Reaktionen unserer Mitglieder waren über-
+wältigend positiv. Über 90% haben den neuen Jahrespreis akzeptiert. An nur einem Tag 
+gewannen wir 1.000 neue Mitglieder und über 1.600 haben nach eigener Wahl mehr be-
+zahlt. In nur wenigen Stunden stiegen die Zahlen so sehr, dass wir uns doppelt und drei-
+fach versichern mussten, dass sie stimmen. Bei dieser Geschwindigkeit werden die Mit-
+gliedschaftsumsätze die Worst-Case-Verluste im Anzeigengeschäft ausgleichen". 
+Nebeneffekte und Kurioses 
+> Das Ausgehmagazin Time Out hat sich in London und New York übergangsweise unter 
+dem Namen 'Time In' als Zu-Hause-Ratgeber positioniert. Wie andere Gratismagazine 
+auch erscheint es momentan 'digital only'. Digital only erscheinen auch einige Gratista-
+geszeitungen in England, die vom Wegfall der großen Pendlerströme massiv betroffen 
+sind. Aber auch das rechnet sich nicht unbedingt. Die Londoner Gratiszeitung City AM 
+erscheint seit April gar nicht mehr täglich, auch nicht als Digitalausgabe. 
+ 
+ 
+• Hearst Spanien 
+ 
+ 
+ 
+ 
+• Condé Nast Spanien 
+(plus Kompensation 
+für stationäre Presse-
+händler) 
+ 
+ 
+ 
+• Gruner+Jahr 
+ 
+ 
+Voici verschenkt nichts 
+und erscheint nur noch 
+monatlich 
+ 
+Variationen bei Preis 
+und Angebot 
+ 
+• Bild, FAZ, La Repub-
+blica günstiger, NYT 
+teurer 
+ 
+ 
+ 
+ 
+• Archant führt freiwil-
+liges Bezahlen ein 
+ 
+ 
+ 
+ 
+• El Diario erhöht Preis 
+der Mitgliedschaft 
+und bittet um Ver-
+ständnis 
+ 
+ 
+gleicht damit wo-
+möglich Worst-Case 
+im Anzeigengeschäft 
+aus 
+ 
+ 
+am Rande notiert 
+ 
+Ausgehmagazin Time 
+Out ist nun digital only 
+Zuhause-Zeitschrift 
+Time In 
+ 
+Gratispresse nur noch 
+digital only (oder er-
+scheint gar nicht mehr) 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 29
+> Der WHO-Virologe George Lomonossoff versichert Zeitungs- und Zeitschriftenlesern, 
+dass eine Übertragung des Virus über gedruckte Presse "praktisch ausgeschlossen" 
+sei, weil die Druckverfahren eine beinahe sterilisierende Wirkung hätten. 
+> Die im Bereich Nebengeschäfte immer äußerst einfallsreiche Sächsische Zeitung orga-
+nisiert zusammen mit einem lokalen Edeka-Händler einen Lieferservice für Produkte 
+des täglichen Bedarfs. Das Sortiment von ca. 50 Produkten, von Lebensmitteln über 
+freiverkäufliche Medikamente bis hin zu Klopapier, wird täglich in der Zeitung abge-
+druckt. Bestellt wird über eine Hotline, geliefert "innerhalb kurzer Zeit" von PostModern, 
+der Posttochter des Zeitungsverlages. In Erfurt kooperieren die Funke-Zeitungen mit 
+einem Event-Veranstalter und bieten die Nach-Hause-Lieferung von sehr hochpreisi-
+gen Mahlzeiten und auch den passen Wein dazu. 
+> Der Bahnhofsbuchhändler Dr Eckert bietet im Umfeld geschlossener Geschäfte für alle 
+seine Produkte einen augenscheinlich mit heißer Nadel gestrickten Nach-Hause-Lie-
+ferservice an. Bestellt werden soll per unstrukturiertem Freitext über ein Webformular. 
+> Der Fachverlag dfv hat besonders schnell reagiert und ein bezahlpflichtiges Corona-
+Informationsangebot auf die Beine gestellt. Nur 1 Tag nach Inkrafttreten der in der 
+KW13 vom Gesetzgeber für Deutschland beschlossenen Hilfsprogramme für Unterneh-
+men konnten Unternehmer für 99€ am Webinar "Die Hilfsprogramme für den Mittel-
+stand im Überblick" teilnehmen. 
+> horizont.at berichtet, dass der Papst in seiner im Internet-übertragenen, seit Wochen 
+besucherlosen Frühmesse zum Gebet "für all jene …, die in den Medien arbeiten, die 
+sich für Kommunikation einsetzen, damit die Menschen sich nicht so isoliert fühlen", auf-
+gerufen hat. 
+ 
+WHO: "davon kriegt 
+man's nicht" 
+ 
+ 
+ 
+ 
+Zeitungen launchen 
+Lieferangebote 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dr. Eckert ebenfalls mit 
+Lieferangebot 
+ 
+ 
+ 
+dfv macht Bezahlange-
+bot: Infos zu den staat-
+lichen Hilfen für Unter-
+nehmen 
+ 
+ 
+ 
+ 
+Papst ruft zum Gebet 
+für Mitarbeiter der Me-
+dien auf 
+ 
+ 
+ 
+ 
+ 
+pvd meint: die wirtschaftlichen Aussichten sind derzeit nachtschwarz. Die Dunkelheit 
+verunmöglicht den Blick auf das große Ganze. Wir konnten hier nur einzelne Blitzlichter 
+vorstellen. Die beleuchten nicht nur 'worst Cases'. das Beeindruckendste der aktuellen 
+Krise ist die Geschwindigkeit, mit der sie sich entfaltet. Noch am Ende der ersten 
+Märzwoche wurden Schul- und erst recht Ladenschließungen von der Politik überwie-
+gend ausgeschlossen. Noch zur Monatsmitte waren Ladenschließungen in der öffentli-
+chen Wahrnehmung in Deutschland nur ein 'Szenario'. Am 15. März verordnete die ös-
+terreichische Regierung Ladenschließungen. In der Schweiz mussten viele Geschäfte ab 
+dem 16.3. schließen. Am 16. März vereinbarten und am 17. März verkündeten Bundes-
+regierung und Länderchefs in Deutschland diese Maßnahme. Nur wenige Tage später 
+ist das Homeoffice für viele Angestellte, Redakteure und Manager der Normalzustand. 
+Fertigungs- und Logistikprozesse sind so organisiert, dass es trotz häufig sehr forciert 
+umgesetzter behördlicher Vorsichtsmaßnahmen beim Vorkommen einer Infektion zu 
+keinen signifikanten Ausfällen gekommen ist. Und spätestens ab 20. März ergänzen die 
+vielen negativen Meldungen aus allen anderen Bereichen gar nicht weniger Berichte 
+über positive Trends im (Digital-)Abogeschäft und teilweise sogar aus dem Einzelverkauf. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 30
+Geht doch: 'gibt's nicht!' 
+Selbst für ein vorläufiges Fazit zu den Aus-
+wirkungen der Corona-Krise auf die Press-
+welt ist es viel zu früh. Und jeder Verweis, 
+dass in all dem Schlechten auch etwas Gu-
+tes zu finden sein könnte, steht unter Zynis-
+mus-Verdacht. 
+Dabei ist es doch so: WIE schlimm es die 
+Verlage, die Wirtschaft und auch die ganze 
+Gesellschaft erwischen wird, das steht in 
+den Sternen. Aber das, was gut ist, ist oft 
+jetzt schon greifbar. 
+Dass nationale Qualitätsmedien plötzlich 
+aus den häuslichen Arbeitszimmern ihrer
+Redakteure erstellt werden, dass deren 
+Abonnenten teils aus den Wohnzimmern 
+der Kundenservicemitarbeiter betreut wer-
+den, dass diese Abonnenten zuhauf Leser-
+briefe schreiben, um sich für die verlässli-
+che Zustellung der Zeitung zu bedanken, 
+das alles sind Phänomene, die vor Corona
+unvorstellbar gewesen wären. 
+Alle Unternehmen der Branche – Verlage,
+Grossisten, Call Center, Nationalvertriebe –
+haben in Windeseile Schutzprogramme für 
+ihre Mitarbeiter umgesetzt und Notfall-
+pläne erstellt. Bis zum Redaktionsschluss 
+dieser Ausgabe haben wir von keinem groß-
+flächigen Ausfall in den Produktions- und 
+Lieferketten gehört. 
+Die Menschen zeigen einen immensen Be-
+darf an Information und Unterhaltung. Wer 
+immer das in gleich welcher Qualität anbie-
+tet, der sieht Zugewinne bei den Nutzungs-
+daten. Aber Anbieter von Qualitätsinhalten 
+profitieren besonders. 
+ Trotzdem sind die Sorgenfalten im Presse-
+grosso groß. Denn die zu Hause bleibenden 
+Leser nutzen in früher nicht gekanntem 
+Umfang die digitalen Presseangebote. Es ist
+wahrscheinlich, dass hier neue Nutzungs-
+muster und -gewohnheiten entstehen, die 
+auch nach einer Normalisierung der Lage 
+beibehalten werden. 
+Ein tragischer Nebenaspekt dabei wäre,
+dass man gerade in der Krise lernen kann,
+die Leistung der Grossisten besonders zu 
+wertschätzen. Papier zu disponieren ist 
+eine hohe Kunst. Wir sehen große Lücken 
+im Papierangebot der Supermärkte. Selbst 
+die Big Data-gestützten High-End-Systeme
+bei Lidl oder Rewe versagen bei der nach-
+fragegerechten Versorgung mit Klopapier. 
+Klopapier wird nicht bedruckt. Es ist zu je-
+dem Zeitpunkt ein identisches Produkt. Die
+Nutzung von Klopapier unterliegt keinen 
+signifikanten 
+Schwankungen. 
+Trotzdem 
+kommt es hier nicht nur zu Lücken im Regal. 
+Sondern häufig ist das komplette Regal leer.
+Das passiert übrigens nicht nur im Hygiene-
+sortiment. Sondern auch bei Trockennah-
+rung, ebenfalls eine Produktgattung, die
+normalerweise selbst Azubis sachgerecht
+disponieren können. 
+Daneben erscheinen vereinzelte Lücken 
+im stets bestens sortierten Presseregal ver-
+nachlässigbar. Daran sollte sich jeder Kriti-
+ker der Steuerung des Pressevertriebs erin-
+nern, wenn auch dieser Teil der Wirtschaft 
+(hoffentlich) wieder eine Normalisierung er-
+fährt. 
+… letzte Worte 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 4/2020 ׀ SEITE 31
+  
+ 
+Über pv digest 
+ 
+ 
+pv digest ist ein Informationsdienst auf Expertenniveau für das Top-Management 
+rund um das Thema Lesermarkt und Vertrieb journalistischer Produkte. pv digest 
+beruht auf eigenen Recherchen und auf Zusammenfassungen an anderer Stelle ver-
+öffentlichter Informationen und bietet einen einzigartigen Überblick über alle stra-
+tegisch relevanten Vertriebsthemen. pv digest unternimmt in der Regel keine Prü-
+fung wiedergegebener Inhalte und übernimmt keine Garantien für die inhaltliche 
+Korrektheit von Informationen. Genutzte Quellen in pv digest sind in der vorliegen-
+den Ausgabe wie folgt codiert: 
+ 
+Quellenverzeichnis Ausgabe 4/2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum und 
+Kontaktdaten 
+ 
+HERAUSGEBER: 
+Markus Schöberl (v.i.S.d.P.) 
+Doverkamp 5 
+22335 Hamburg 
+Telefon: 040 308 901 09 
+e-mail: schoeberl@pv-digest.de 
+www.pv-digest.de 
+ 
+pv digest erscheint 11x jährlich,  
+in der Regel am fünften Werktag 
+eines Monats, als personalisiertes  
+PDF-Dokument 
+ 
+PREISE: 
+Regulärer Bezug Deutschland:  
+pro Ausgabe 71€ zzgl. USt., Aus-
+landspreise auf Anfrage 
+ 
+Sonderpreise für Mengenabos  
+oder Firmenlizenzen auf Anfrage 
+ 
+BESTELLUNGEN UND  
+SERVICEFRAGEN:  
+e-mail: abo@pv-digest.de 
+Telefon: 040 308 901 09 
+Post: Doverkamp 5,  
+22335 Hamburg 
+ 
+Bankverbindung: 
+Hamburger Sparkasse 
+BIC:  HASPDEHHXXX 
+IBAN: DE82 2005 0550 1237 1348 10 
+ 
+ 
+ 
+COPYRIGHT: 
+pv digest ist ein empfängerge-
+bundener Informationsservice 
+ 
+ 
+Vervielfältigung und elektroni-
+sche Weitergabe sind untersagt. 
+ 
+ 
+ 
+ 
+ACHTUNG: der nächste pv digest 
+erscheint am 8. Mai 2020 

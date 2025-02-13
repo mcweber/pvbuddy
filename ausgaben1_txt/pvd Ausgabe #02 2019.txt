@@ -1,0 +1,3167 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Weiter-
+gabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: 
+abo@pv-digest.de 
+Ausgabe 2/2019 
+Liebe Leserinnen und Leser, 
+schon lange sind Paywalls ein viel zu alltägliches Phä-
+nomen, als dass die Einrichtung eines Bezahlmodells 
+schon für sich genommen ein Thema für pv digest 
+wäre. Wenn aber ein Leitmedium diesen Schritt geht, 
+dann lohnt es sich in aller Regel doch, genauer hinzu-
+schauen. Umso mehr, wenn es der immer noch sel-
+tene Fall eines Zeitschriftenmediums ist. Mir sind bei 
+Heise+ dann zwei Dinge ins Auge gesprungen: das 
+mutige Preismodell, dem sicher lange Diskussionen 
+zum Thema 'Selbstkannibalisierung' vorausgegangen 
+sind. Und die debattierfreudige Nutzergemeinschaft, 
+die ein schönes Bild davon vermittelt, welche Diskussionen die noch vor den Verlags-
+managern wichtigste Stakeholdergruppe über das Bezahlmodell führt, nämlich die 
+Nutzer selbst (S.7). 
+Paywalls sind der Normalfall geworden. Ein britischer Digitalmedienexperte sieht 
+voraus, dass das zu Gegenreaktionen beim Publikum führen wird. Mir erscheint das 
+als eine Prognose, die man ernstnehmen sollte (S.27).  
+So normal Paywalls auf stationären Webseiten geworden sind, so stiefmütterlich wer-
+den sie auf den schnellladenden Seiten behandelt, die nach Googles AMP-Standard 
+programmiert sind. Auf den Seiten 16-21 stelle ich dar, was AMP mit Paid Content 
+zu tun hat (besser: haben könnte). 
+In den USA hat eine Regionalzeitung eine schon lange diskutierte Idee in die Tat um-
+gesetzt. Die Arkansas Democrat-Gazette bietet vielen Abonnenten an, ihr Papierabo 
+gegen ein Digitalabo nebst kostenlosem iPad einzutauschen (S.8). Und schon ab 
+der folgenden Seite lesen Sie die Fortsetzung des Berichts zur Kundenservice-
+landschaft bei den Zeitschriften. Bei allen Rufen nach Zusammenarbeit und Effizi-
+enz ist es bemerkenswert, wie kleinteilige Strukturen in diesem Feld noch zu finden 
+sind. 
+Ich wünsche Ihnen eine anregende Lektüre und einen verkaufsstarken Monat. 
+ 
+ 
+Markus Schöberl, Herausgeber pv digest
+Der pv digest 
+Quick Guide 
+Das Wichtigste in 15 Minuten 
+ 
+ 
+Für Zeitschriften- 
+Verlage 
+Für Zeitungs/ 
+News-Verlage 
+Für digitale  
+Verlagsangebote 
+Für Handels- 
+Verantwortliche 
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.  2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.14 
+Analysen und  
+Daten                 
+ 
+S.23 
+Meinungen 
+ 
+S.27 
+Personalien 
+ 
+S.29 
+Branchennews 
+& -Recht 
+ 
+S.30 
+ 
+letzte Worte 
+S.31 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 2
+ 
+ 
+ 
+ 
+ 
+Wem Zeitschriftenverlage den Aboservice anvertrauen 
+und was sie dabei erwarten 
+P 
+Aboservice 
+ 
+Fortsetzung unseres Berichtes aus pv digest #1/2019 
+Verkaufen ist fester Bestandteil des Serviceauftrags 
+In der letzten Ausgabe haben wir den ersten Abschnitt unserer Analyse der System- und 
+Dienstleisterlandschaft im deutschen Zeitschriftenmarkt mit einem Appell der Verlags-
+seite beendet. Die Serviceunternehmen sollten sich stärker auch um den Verkauf der 
+Verlagsangebote bemühen. 
+Spricht man mit den Dienstleistungsunternehmen, dann könnte man den Eindruck ge-
+winnen, mit dieser Forderung würden Eulen nach Athen getragen. Viele der von uns be-
+fragten Geschäftsverantwortlichen bei 13 Aboserviceunternehmen haben bei der Antwort 
+auf eine offene und unspezifische Frage (s.u.) erwähnt, dass auch der aktive Verkauf zu 
+ihren Kompetenzen gehöre. Beispielhaft Thomas Mäling, Bereichsleiter für Burdas Kun-
+denservicetochter dialogplus: „Ein ganz wichtiges Thema bei uns ist derzeit analytisches 
+CRM und darauf basiertes Customer Engagement von Konsumenten. Da, glauben wir, bie-
+ten sich noch viele Chancen durch automatisierte Anstoßketten und Stand-alone Kampag-
+nen, die mit Hilfe entsprechender IT-Lösungen crossmedial vernetzt und mit optimalem 
+Timing ausgespielt werden. Unser Ziel ist hier eine möglichst optimale Kundenwertschöp-
+fung von der Steigerung der Abohaltbarkeiten bis hin zur Entwicklung von neuen Erlös-
+strömen.“ 
+Den Begriff 'Engagement' hat sich Mäling dabei aus dem Versandhandel ausgeliehen. 
+Dort habe man es 'Kundenaktivierung' genannt. Die Versandhändler (noch in der Zeit vor 
+dem Boom des Onlinehandels) hatten schon seit langem Kunden, deren letzte Bestellung 
+etwas zurücklag, über definierte Anstoßketten (Werbebriefe, Kataloge, Flyer) zu weiteren 
+Bestellungen animiert. Das Abogeschäft der Verlage sei dagegen lange Zeit ganz anders 
+gesteuert worden. Nach der Gewinnung eines Abos habe es keine weitere Aktivierung der 
+Kunden mehr gegeben. Jetzt merke man aber: mit den richtigen Maßnahmen lässt sich 
+nicht nur mehr Umsatz generieren. Kunden, die man zu weiteren Transaktionen be-
+wegt hat, seien auch besser gebunden als durch jedes Bonusprogramm. 
+Was Mäling hier über seine Erfahrungen im deutschsprachigen Markt sagt, das deckt sich 
+hochgradig mit den Erfahrungen, die der bei uns wichtigste IT-Dienstleister im Aboge-
+schäft, die Firma dsb, bei seiner englischen Tochter dsb.net Ltd. macht. Die englische Toch-
+ter von dsb ist im Unterschied zur deutschen Mutter kein Rechenzentrum, sondern ein 
+Servicedienstleister. Der für dieses Geschäft verantwortliche COO Alexander Münch 
+glaubt, dass englische Verlage ihren hiesigen Pendants beim aktiven Verkaufen voraus 
+ 
+wem Zeitschriftenver-
+lage den Aboservice 
+anvertrauen und was 
+sie erwarten 
+ 
+ 
+Appell: Verkaufen ist 
+Teil des Auftrags 
+ 
+ 
+ 
+ 
+ 
+Das wissen die Dienst-
+leister sehr gut 
+ 
+ 
+ 
+ 
+ 
+Dialogplus: mit defi-
+nierten Anstoßketten 
+Engagement fördern 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+zusätzliche Transaktio-
+nen bedeuten bessere 
+Kundenbindung 
+ 
+ 
+ 
+ 
+dsb.net Ltd: englische 
+Verlage sind Vorreiter 
+beim aktiven Verkau-
+fen 
+QUELLEN:
+NACHRICHTEN AUS VERLAGEN 
+UND VERLAGSVERTRIEBEN 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 3
+sind. Im Lifecycle-Management, "also der Verbindung von Abodaten und Kampagnen … ist 
+man im Ausland oftmals weiter als in Deutschland."  
+Wie kann das sein? Großbritanniens Pressemarkt ist doch noch stärker einzelhandelsge-
+prägt als der deutsche Pressemarkt. Im Umkehrschluss sollte doch die Abokompetenz bei 
+uns viel höher sein als auf der Insel? "Nein, das trifft so nicht ganz zu und das liegt am 
+Renewal-Abomodell. Dieses sieht vor, dass ein Abo zum sogenannten Verfallsdatum au-
+tomatisch ausläuft. Daher müssen Prozesse und Kampagnen entwickelt werden, um 
+den Kunden stets aufs Neue wiederzugewinnen. So mussten Verlage in Großbritannien 
+(und auch anderswo) sich jahrelang immer wieder um den Kunden bemühen, haben ihn 
+nach allen Regeln der Kunst bearbeitet, bis er sich meldet. Und das von Jahr zu Jahr neu. 
+Hieraus entstand ein Riesenvorsprung in der Marketingmaschinerie und aus diesen Erfah-
+rungen folgte ein Kompetenzvorsprung in Sachen Lifecycle-Management", sagt Münch.  
+Ein letztes Beispiel in Sachen [behaupteter] Fähigkeit in Sachen aktiver Verkauf: Daniel 
+Beljan, Geschäftsführer bei der intan service plus GmbH, dem zweitgrößten Dienstleister 
+für die Verwaltung von WBZ-Abonnements und seit einigen Jahren auch Servicedienstleis-
+ter für Zeitschriftenverlage), sagt: "Bei uns sind alle Agents auch im Thema Verkauf ge-
+schult". Mit Sicherheit lässt sich festhalten: die Aboservicedienstleister wissen, dass das 
+Verkaufen zu ihren Aufgaben gehört. 
+Wem die Verlage Ihren Kundenservice anvertrauen 
+Darstellung der Kundenservicelandschaft bei den 20 laut IVW nach Anzahl ihrer Abonnenten größten 
+deutschen Zeitschriften. Daten zur Frage: 'Wer betreut die Abonnenten ihrer Zeitschrift? Beschäftigen 
+Sie eigenes 1st-Level-Personal (= intern) oder haben Sie den Kundenservice an ein Tochterunternehmen 
+oder einen Outsourcingpartner beauftragt?' Weitere Informationen zur Erhebung&Stichprobenbildung: 
+vgl. pv digest #1/2019. 
+Einer der Verlage, der Intan den Service für seine Abonnements anvertraut, ist Heise Me-
+dien. Seinen Anspruch an den Dienstleister formuliert Heise-Vertriebschef André Lux wie 
+folgt: "Der Kundenservice muss wie Heise denken. Alle Mitarbeiterinnen und Mitarbei-
+ter benötigen ein umfassendes Wissen über die Heise-Produkte. Außerdem erwarten wir 
+ein hohes Maß an Identifikation mit unserem Verlag. Bei Intan haben wir ein echtes Heise-
+Team, das diese Kriterien erfüllt und dadurch in der Lage ist, in unserem Sinne zu kommu-
+nizieren." Eine wichtige Grundlage sei ein enger Austausch zwischen Heise und Intan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grund: langjähriger 
+Zwang Abos alljährlich 
+erneuern zu müssen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Intan: "alle Agents kön-
+nen verkaufen" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Top20 Abotitel: 
+• rund ¾ haben eigene 
+Servicetochter 
+• knapp 1/5 nutzt Dienst-
+leister 
+• 2 Titel beschäftigen 
+eigene Mitarbeiter 
+für den Service 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Heise: "der Kundenser-
+vice[dienstleister] muss 
+wie Heise denken" 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 4
+"Neben dem alltäglichen Austausch sind wir regelmäßig vor Ort." Die Kundenberater soll-
+ten in der Lage sein, einem Printabonnenten bei passender Gelegenheit Artikel aus dem 
+Heise Shop zu empfehlen oder auch Angebote zu digitalen Magazinen zu machen.  
+'Der Kundenservice muss wie Heise denken' – längst nicht alle Verlage trauen fremden 
+Dienstleistern zu, ihre Kunden bestmöglich zu bedienen. Unsere Markterhebung zeigt: 
+maximal jeder fünfte Abonnent eines der größten 20 Abotitel in Deutschland wird 
+von einem Dienstleistungsunternehmen betreut, das nicht dem Verlag gehört. Etwa 
+drei Viertel aller dieser Abonnenten haben es mit einem als selbstständige Firma organi-
+sierten Tochterunternehmen des jeweiligen Verlages zu tun. Jeder zehnte Abonnent sogar 
+mit einem Mitarbeiter des Verlages selbst.  
+Es kann nicht überraschen, dass kleinere Ti-
+tel ihren Aboservice zu einem größeren An-
+teil in fremde Hände gelegt haben. 44% al-
+ler von uns befragten 20 Zeitschriften, die den 
+Markt der übrigen Titel repräsentieren, haben 
+für den Aboservice einen Dienstleister beauf-
+tragt. Nur 44%! Bei immer noch genauso vie-
+len Titeln betreibt der Verlag dafür ein eige-
+nes Tochterunternehmen. Und wiederum 
+etwa jeder zehnte Titel beschäftigt eigene Mit-
+arbeiter auch für den 1st-Level-Kundenser-
+vice.  
+Noch überraschender sieht diese Analyse 
+aus, wenn man zur Basis nicht die Anzahl der 
+repräsentativ befragten Titel nimmt, sondern 
+die Menge der betroffenen Abonnenten. 
+Aufgrund der extrem ungleich verteilten 
+Abonnementmengen ist diese Darstellung 
+durch die größten der kleineren Titel ver-
+zerrt. Zum Beispiel durch den Titel 'Ratgeber 
+Frau und Familie' des Weck Verlages, der al-
+lein für etwa ein Viertel der in der Stichprobe 
+betrachteten Abonnements steht.  
+[pvd: mit einer per Zufallsauswahl gebilde-
+ten Stichprobe haben wir für unsere Analyse 
+die methodische Grundlage einer repräsenta-
+tiven Darstellung des Marktes geschaffen. Al-
+lerdings wird hier offensichtlich, dass die 
+Stichprobengröße mit 20 (auswertbar: 16) Ti-
+teln nicht ausreicht, um den Markt ohne Ver-
+zerrung durch Einzelfälle abzubilden. Hier wäre eine deutlich umfangreichere Erhebung 
+nötig. Aber selbst eine Vollerhebung wäre dominiert von großen Titeln. Unterhalb der 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In unserer Stichprobe 
+nutzen auch kleinere 
+Titel mehrheitlich keine 
+fremden Dienste 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aber; dieser Markt ist 
+mit einer Stichprobe 
+nicht wirklichkeitsnah 
+darstellbar 
+ 
+ 
+ 
+Darstellung der Kundenservicelandschaft bei 16 
+kleineren Zeitschriften. Fragestellung wie oben. 
+Weitere Informationen zur Erhebung und 
+Stichprobenbildung: vgl. pv digest #1/2019.  
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 5
+Top20 zählt die IVW rund 8Mio Abonnements von rund 450 Publikumszeitschriften und 
+Special-Interest-Titeln. 60 Titel stehen für die Hälfte dieser Abos. Die letzten 200 Titel ver-
+sammeln nicht mehr als 10% dieser 8Mio Abonnenten auf sich. Eine derart ungleiche 
+Verteilung lässt sich nicht repräsentativ darstellen.] 
+Automatisierung und digitale Produkte sind die aktuellen strategischen Baustellen 
+Allen Ansprechpartnern haben wir die gleiche offene Frage gestellt: "Wenn Sie an diesen 
+Themenbereich (Aboverwaltungssystem, Organisation des Kundenservice) denken, was 
+kommt Ihnen da zuerst in den Sinn, wo sehen Sie die wichtigste Baustelle?" 
+Wie in der Vor-Ausgabe berichtet, entfielen die meisten Antworten hier auf die kombi-
+nierten Herausforderungen, die sich durch digitale Produkte und einen zeitgemäßen  
+(Self-)Service für diese digitalen Angebote ergeben. Aber wie schon bei unserer Unter-
+suchung der Servicelandschaft bei den Zeitungen kamen viele Ansprechpartner auch un-
+abhängig von der Frage Print/Digital auf den Begriff 'Automatisierung' zu sprechen.  
+Dabei steht der Wunsch im Vordergrund, Kosten im Kundenservice einzusparen. Auch 
+wenn nicht selten betont wird, dass ein automatisierter Kundenservice auch für die Abon-
+nenten vorteilhaft wäre, weil er weniger Wartezeiten und einen Service rund um die Uhr 
+an 365 Tagen im Jahr bedeuten würde. Neben den erheblichen technischen Herausforde-
+rungen, die eine automatisierte Verarbeitung von Adressänderungen, Urlaubsunter-
+brechungen, Rechnungsanfragen oder sogar Kündigungen mit sich bringt, besteht frei-
+lich die Befürchtung, dass in einem automatischen Prozess Chancen vergeben werden, die 
+ein persönlicher Kundenservice mit sich bringt. Thomas Mäling von Burdas Tochter dialog-
+plus [das für eigene Titel und auch für Zeitschriften anderer Verlage arbeitet] bringt das 
+auf den Punkt: "Kosten in intelligenter Weise sparen und gleichzeitig Vertriebschancen 
+durch den persönlichen Kundenkontakt zu wahren, das zu balancieren ist die Kunst." 
+Nicht nur bei Burda sind viele Service-Prozesse teilautomatisiert (z.B. indem das System 
+auf Basis einer Kunden-E-Mail eine bestimmte Aktion vorschlägt, die erforderlichen Daten-
+veränderungen bereits vorwegnimmt und dann aber auf etwaige Korrekturen oder Ergän-
+zungen und eine Freigabe durch einen menschlichen Bearbeiter wartet). 
+Eine vollautomatisierte Verarbeitung von Kundenanliegen haben wir im Rahmen un-
+serer Recherche nur bei der Spiegel-Tochter QS Quality Service GmbH vorgefunden. 
+Geschäftsführerin Britta Booms: "Der 1st-Level-Support ist auch immer ein Kostenthema. 
+Um die Gesamtkosten des Kundenservices auf einem vertretbaren Niveau zu halten, ist es 
+wichtig, einfache Standard-Prozesse im Selfservice anzubieten. Bei uns werden schon etwa 
+10% aller Serviceanfragen im Selfservice verarbeitet. Nicht nur im Web, sondern auch per 
+Telefon. So können Anrufer an 365 Tagen im Jahr rund um die Uhr am Telefon ihre Adresse 
+ändern, eine Lieferreklamation oder eine Urlaubsnachsendung durchgeben. Diese Vor-
+gänge werden mithilfe von automatisierten Dialogen erledigt und anschließend per 
+Schnittstelle verarbeitet." 
+Britta Booms ist mit ihrem Unternehmen auch für die Betreuung der Digitalabonnenten 
+des neuen Spiegel+ Angebotes verantwortlich. Nicht wenige Experten erwarten von den 
+digitalen Onboarding-, Fulfillment und Service-Prozessen dieses und vergleichbarer Ange-
+bote, dass sie zu einer reinen Selfservice-Kultur führen, wie sie von Anbietern wie Spotify 
+ 
+ 
+ 
+ 
+ 
+ 
+Was beschäftigt die 
+Verlage am meisten? 
+ 
+ 
+ 
+ 
+der Service für digitale 
+Produkte 
+ 
+und die Automatisie-
+rung von Serviceleis-
+tungen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kosten sparen vs.(Ver-
+kaufs)Chancen nutzen 
+ 
+ 
+ 
+ 
+wenn Automatisierung 
+schon genutzt wird, 
+dann überwiegend nur 
+Teilautomatisierung 
+ 
+ 
+ 
+ 
+ 
+ 
+Vollautomatisierung 
+bei Spiegel-Tochter 
+Quality Service (für 
+10% der Vorgänge) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 6
+oder Netflix bekannt ist. Aber wer sich von modernen Paid Content-Angeboten erhofft, auf 
+einen menschlichen Kundenservice komplett verzichten zu können, der stößt mit der Re-
+alität zusammen. Rund 10% der Kunden des neuen Spiegel+ Angebotes haben schon 
+einmal den persönlichen Kundenservice in Anspruch genommen, berichtet Booms. 
+Anlass dafür können technische Probleme bei der Nutzung sein aber auch Fragen zum 
+Produkt oder der Wunsch, eine eigentlich fällige Monatszahlung zu stornieren. 
+Umgekehrt ist zu erwarten, dass auch bei Printprodukten die Teil- oder Vollautomatisie-
+rung der Verarbeitung von Kundenanfragen, die per E-Mail eingehen, weiterentwickelt 
+wird. Schon heute nutzen viele Kundenserviceunternehmen Softwarelösungen wie Reply-
+One, Novomind oder Numéro, die eingehende E-Mails interpretieren und vorsortieren und 
+damit die Chance auf eine weitere Automatisierung bieten. Nach Ansicht von dsb-Manager 
+Münch liegen hier noch große Potenziale: "In England, bei dsb.net, stellen wir seit ca. 3 bis 
+3,5 Jahren einen Wandel der Kommunikation hin zu mehr E-Mails als Anrufen fest. Da-
+rum haben wir uns intensiv um das Thema Automatisierung bemüht. Dieser Trend wird 
+auch den deutschen Markt in den nächsten 1-2 Jahren beschäftigen. Irgendwann gibt 
+es vielleicht nur noch 10% Anrufe. Einige unserer deutschen Kunden aus dem Medienver-
+trieb und -marketing beschäftigen sich derzeit mit der zukünftigen Ausrichtung des eige-
+nen Call Centers. Hier steht die Frage im Vordergrund, ob man sich zukünftig auf einen 
+Premiumservice für diese 10% konzentriert und nicht mehr auf Masse ausrichtet." 
+Sicher ist: je technisierter Kundeserviceprozesse sind, desto höhere Investitionen in IT und Soft-
+ware sind nötig. Das sollte langfristig zu einer weiteren Konsolidierung und Konzentration im 
+Bereich Aboservice führen. In der nächsten Ausgabe werfen wir einen Blick auf die Landschaft 
+der Serviceunternehmen für das Zeitschriftengeschäft und beenden damit unsere kleine Serie 
+zum Thema. 
+ 
+ 
+Erfahrung bei QS: auch 
+neue digital only-Pro-
+dukte benötigen 
+menschlichen Service 
+ 
+ 
+ 
+ 
+E-Mail-Verarbeitung ist 
+wichtigstes Feld der Au-
+tomatisierung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Spekulation: bald nur 
+noch menschlicher Ser-
+vice für 10% der Kun-
+den? 
+ 
+ 
+ 
+ 
+ 
+Blick zurück in die Zukunft: Das Kundenbindungspro-
+gramm Sun Savers 
+P 
+B54 
+pvd Nachhaltigkeits-
+Check 
+ 
+In der Vorjahresausgabe haben wir über das Kundenbindungsprogramm der englischen 
+Boulevardzeitung The Sun berichtet. "Zeitungskäufer erhalten eine Rückerstattung von 
+5£, wenn sie 28 Ausgaben der an allen sieben Wochentagen erscheinenden Zeitung kau-
+fen" berichteten wir. Das entsprach zu den damaligen Copypreisen einem Rabatt von über 
+30%. Mittlerweile ist der Copypreis der Werktagsausgabe zwar von 50p auf 55p gestiegen, 
+aber mit dem Sun Savers-Programm können die Käufer immer noch viel Geld sparen. 
+Das scheint auch zu funktionieren. Aus 500.000 registrierten Sun Savers-Kunden vor 
+12 Monaten sind mittlerweile 800.000 geworden. Ein Fünftel dieser Kunden sei inner-
+halb der letzten 14 Tage aktiv gewesen und hat einen Rabattcode erfasst, den die Zeitung 
+zu diesem Zweck in ihre täglichen Ausgaben eindruckt. So berichtete es jüngst Digiday. Das 
+wäre eine recht beachtliche Aktivierungsquote. Und es könnte glaubhaft machen, was 
+Marketingchef Nathan McPherson behauptet, nämlich dass die Kaufzeitung dank Sun Sa-
+vers einen um 5% verminderten Auflagenrückgang verzeichnet (Die Auflage sei im letzten 
+Jahresvergleich um 8% gesunken). 
+Neben der Käuferbindung dient Sun Savers auch zur Vermarktung weiterer Angebote. 
+Rund ein Drittel aller Sun Savers-Mitglieder nutzt gar nicht die Möglichkeit zur Eingabe 
+ 
+The Sun mit Kunden-
+bindungsprogramm 
+Sun Savers 
+ 
+5£ Erstattung für 28 
+Ausgaben (ab à 0,55£ 
+= 15,40£, d.i. 33%) 
+ 
+ 
+in 12 Monaten 
++300.000 Teilnehmer  
+(jetzt 800.000) 
+ 
+ 
+sehr hohe Aktivierung 
+der Programmteilneh-
+mer 
+ 
+ 
+ 
+ 
+ 
+#2/18 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 7
+von Rabattcodes aus dem Kauf eines Zeitungsexemplars, sondern interessiert sich nur 
+für die Verkaufsangebote für Clubmitglieder. Insbesondere die als Sun Hols angebote-
+nen sehr günstigen Kurzurlaube für die Sun Savers-Clubmitglieder (ab 9,50£) treffen auf 
+eine große Nachfrage und sind der wichtigste Treiber für neue Mitglieder. 2 Mio Urlaube 
+soll der Verlag im letzten Jahr über Sun Hols verkauft haben. Sun Savers Mitglieder können 
+ihr Guthaben aus dem Bindungsprogramm der Zeitung direkt auf ihre Käufe bei Sun Hols 
+anrechnen lassen. 
+ 
+ 
+ 
+Motivation zum Mit-
+machen sind auch 
+Kaufangebote 
+ 
+Heise plus – neue Paywall eines Zeitschriftenverlages 
+P 
+Heise.de mit Heise+ 
+ 
+Nun gibt es auch vom Heise Verlag ein Plus-Bezahlmodell. Während die Zeitschriften des 
+Verlages (v.a. c't, aber auch Titel wie iX, Mac&i) schon länger und nicht unerfolgreich ihre 
+Digitalausgaben verkaufen, war die Website, eine der wichtigsten Anlaufstellen für IT-
+Interessierte im deutschsprachigen Web, kostenlos. Um diesen Spagat möglichst rei-
+bungslos zu gestalten, nutzt der Verlag für sein Webangebot die URL heise.de, also eine 
+Adresse ohne oberflächlichen Bezug zu den Zeitschriftenmarken. Der früher eher unbe-
+kannte Verlagsname ist dadurch selbst zu einer Marke im deutschen Web geworden 
+und das macht es möglich, das neue Paid Content-Angebot als Heise+ zu launchen. 
+Heise+ kostet nach einem Probemonat 9,95€. Dafür bekommen die Abonnenten Zugriff 
+auf alle Premium-Artikel, das sind unter anderem sämtliche Artikel aus den Printma-
+gazinen bzw. E-Papern des Verlags. Bestehende Abonnenten der hochpreisigeren/häu-
+figer erscheinenden Magazintitel des Verlages müssen für Heise plus 3€ monatlich bezah-
+len, Abonnenten anderer Heise-Titel 5€. Und wer mindestens zwei Titel des Verlages abon-
+niert hat, der bekommt Heise+ ohne Aufpreis. In einer Pressemitteilung kurz vor Redakti-
+onsschluss dieser Ausgabe gab Heise bekannt, dass so knapp 30.000 Mehrfachabonnen-
+ten von Anfang an Zugriff auf die Heise+ Angebote haben. 3.700 [im ersten Monat unbe-
+zahlte] Abos habe man in den ersten zwei Wochen mit Heise+ hinzugewonnen. 
+Ähnlich wie auch die FAZ beim Start von FAZ+ hat Heise gleich zum Start seines Angebotes 
+bekanntgegeben, dass der reguläre Monatspreis später einmal steigen soll (von 9,95€ auf 
+14,95€). In der kritischen Heise-Nutzergemeinde führte das aber zu Irritationen und wurde 
+schnell wieder zurückgenommen. [Überhaupt lohnt sich ein Blick auf die Nutzerfeedbacks 
+zum neuen Modell. Die Diskussion aller möglichen Themen in Userforen ist immer schon 
+ein wesentlicher Bestandteil von heise.de. Auch in eigener Sache bietet heise.de seinen 
+Nutzern eine Plattform zur Diskussion. Wer sich Zeit nimmt, der kann sich anhand einer 
+vierstelligen Anzahl Beiträge ein Bild der sehr breit streuenden Meinungen und Fragen zu 
+nicht nur diesem Bezahlmodell machen – freilich in einer sehr speziellen, nämlich hoch 
+technikkompetenten Zielgruppe [pv-digest.de/linkliste Link1]. 
+Heise verspricht, dass das neue Angebot nur zusätzliche Inhalte bietet. Das bisher kos-
+tenlose Angebot werde dadurch nicht beschränkt. Heise plus ist nicht werbefrei, ver-
+spricht aber, auf Werbung innerhalb der Artikel zu verzichten. Paywall und Selfservice-
+Abonnentenmanagement stammen von Plenigo. Persönlichen Kundenservice leistet Intan, 
+das auch für die Printabos von Heise arbeitet. 
+ 
+ 
+ 
+ 
+ 
+heise.de ist die gemein-
+same Website von c't, 
+Mac&i et al. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Heise+ bietet für 9,95€ 
+Webzugriff auf alle 
+Heftinhalte (und mehr) 
+ 
+ 
+ 
+ 
+3.700 (noch Probe-)Zu-
+gänge in den ersten  
+14 Tagen 
+ 
+ 
+ 
+Preis soll später auf 
+14,95€ steigen 
+ 
+ 
+ 
+ 
+ 
+Lohnend: ein Blick in 
+die Nutzerdiskussion 
+zum Thema Heise+ 
+LESEEMPFEHLUNG 
+ 
+ 
+Werbefreiheit ist nicht 
+Teil des Produktver-
+sprechens 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 8
+ 
+ 
+Wegen hoher Logistikkosten: US-Zeitung stellt Abonnen-
+ten kostenlose iPads zur Verfügung 
+3 
+P 
+20 
+iPads statt Papier 
+ 
+Der US-Bundesstaat Arkansas ist unterteilt in 75 Countys. Die maßgebliche Tageszeitung 
+in dieser Region Amerikas ist die Arkansas Democrat-Gazette. Die wird in der Hauptstadt 
+Little Rock gedruckt, aber seit März letzten Jahres nicht mehr allen Abonnenten in den 
+teils hunderte Kilometern entfernten Countys in Papierform zugestellt. Stattdessen be-
+gann Verleger Walter E. Hussmann ein Programm 'iPad statt Papier' auszurollen. Dabei 
+haben die Abonnenten seiner Zeitung die Möglichkeit, ohne Zuzahlung, nur zum regulä-
+ren Abopreis, vom Verlag leihweise ein iPad Pro zu erhalten, um darauf die tägliche Di-
+gitalausgabe lesen zu können. Auf Wunsch installiert ein Verlagsmitarbeiter das iPad und 
+die App und erklärt den Abonnenten den Gebrauch des Gerätes zu Hause. 
+Hussmann will auf diesem Weg zwei alternative Reaktionen auf die Printkrise vermeiden, 
+nämlich entweder den Abopreis (derzeit für die gedruckte wie die digitale Ausgabe monat-
+lich rund 35$) auf 50$ zu erhöhen oder am Umfang und der Qualität der Zeitung zu sparen. 
+Erstmals hatte er die Aktion vor gut einem Jahr im rund 300km vom Druckstandort ent-
+fernten Blytheville getestet. Dort bot er den Abonnenten zunächst im Rahmen einer Ko-
+operation mit dem Telekomriesen AT&T nur ein rabattiertes iPad an. Ganze vier Abon-
+nenten sagten 'ja' zu diesem Angebot. Aber 140 waren bereit, auf das Papier zu 
+ 
+ 
+ 
+ 
+ 
+…bietet die Arkansas 
+Democrat Gazette 
+Abonnenten in entlege-
+nen Regionen  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+erster Test des Pro-
+gramms mit nur rabat-
+tierten iPads scheiterte 
+pvd meint: Paywalls bei Webangeboten von Zeitschriften sind in Deutschland immer 
+noch etwas Besonderes. Und heise.de ist abseits der großen Politik- und Nachrichten-
+websites wahrscheinlich das wichtigste Webangebot aus dem Magazinbereich. Darum 
+ist es wert, besonders beachtet zu werden. 
+Das gilt zum einen bezüglich der Frage, wie erfolgreich Heise+ sein wird. Das gilt aber 
+zum anderen jetzt schon für das gewählte Preismodell. Heise plus bietet alle seine Be-
+zahlinhalte zu einem Preis an, der günstiger ist als das Printabo nur seines Flaggschiffs 
+c't und praktisch nicht teurer als dessen Digitalabo. Im Unterschied zu Zeit+ oder Spie-
+gel+ ist Heise+ ein Schnäppchen. Darum hat der Verlag offensichtlich eine nächste deut-
+liche Preiserhöhung dicht vor Augen. Das hat er gemeinsam mit der FAZ (die ebenso wie 
+Heise und der Spiegel auf die Technik von Plenigo setzt). Aber die FAZ hat – verständlich 
+angesichts der großen Abopreisunterschiede – nicht alle ihre Bezahlinhalte in das Plus-
+Modell eingeschlossen. Das wiederum hat sich Heise bei Spiegel und Zeit abgeschaut. 
+3.700 Neuabonnenten nach den ersten 14 Tagen ist eine beachtliche Menge. Das wirk-
+lich als Indikator für den weiteren Erfolg von Heise+ zu sehen, dafür ist es wohl noch zu 
+früh. Aber auch ein großer Erfolg vom Start weg wäre eine Gemeinsamkeit von Heise+, 
+Zeit+ und Spiegel+ (Die FAZ informierte bisher nicht aktiv über den Erfolg von FAZ+). So 
+früh schon eine Zahl zu nennen ist mutig, im Sinne des branchenweiten Lernens sehr 
+begrüßenswert und folgt der Informationspolitik bei Spiegel+. Dort wurden auch sehr 
+schnell Zahlen zur Umwandlung in bezahlende Abonnenten genannt. Denn das ist die 
+erste entscheidende Währung. Anschließend folgt die Haltbarkeit, der Lifetime Value. 
+Das aber wird noch auf Jahre hinaus bei allen Plus-Modellen die große Unbekannte sein.] 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 9
+verzichten, als ihnen das iPad für die Dauer des Abonnements kostenlos angeboten 
+wurde. Mittlerweile bietet die Arkansas Democrat-Gazette Abonnenten in 25 Countys den 
+Tausch Papier gegen iPad an. In zwei weiteren Countys steht das kurz bevor. 
+"Wir haben 60-70% aller Leute, die wir kontaktiert haben, für das Angebot gewonnen", 
+sagte Hussmann jüngst auf einer Veranstaltung. "Gerade in ländlichen Gegenden schaffen 
+wir keine höhere Durchdringung. Aber insgesamt schaffen wir zwischen 60 und 70 Pro-
+zent. Das ist ziemlich ermutigend." 
+[pvd: die Informationen dieses Artikels stammen überwiegend von diversen Websites des 
+Verlages Wehco Media, dem die Arkansas Democrat-Gazette gehört. Geografische Gege-
+benheiten und Abopreise haben wir selbst recherchiert.] 
+Hussmann war schon in anderer Gelegenheit ein Pionier: die Arkansas Democrat-Gazette 
+installierte ihre Paywall bereits im Jahr 2002, also schon vor über 15 Jahren, in Zeiten des 
+Erlösbooms bei kostenlosen Webangeboten. Die Paywall führte er nicht so sehr in der 
+Hoffnung auf Paid Content-Erlöse ein, wie Hussmann 2009 gegenüber dem Economist 
+sagte, sondern um die Abwanderung der Leser ins Internet zu verhindern. Damals hatte 
+seine Zeitung noch 170.000 tägliche Käufer und gerade einmal 3.500 Paywall-Abonnenten. 
+mittlerweile können 
+Abonnenten in 25 von 
+75 Countys das Ange-
+bot nutzen 
+ 
+60%-70% nehmen es 
+an 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arkansas Democrat-
+Gazette war schon 
+beim Thema Paywall 
+ein Pionier 
+ 
+Freiwilliges Bezahlmodell Taz zahl ich – Bilanz 2018 
+P 
+Taz zahl ich 
+ 
+Wie in den vergangenen Jahren hat die Taz die wirtschaftlichen Eckdaten ihres freiwilligen 
+Bezahlprogramms Taz zahl ich veröffentlicht. Zwar ist die Zeitung noch immer deutlich von 
+ihrem einmal genannten Ziel von 20.000 freiwilligen Bezahlern für ihr jedermann gratis 
+zugängliches Webangebot entfernt. Aber die Kontinuität der Ergebnisse und die völlig 
+fehlenden Zeichen für eine Verlangsamung des Wachstums beeindrucken doch. 
+Mit 5.500 Zugängen gewannen die Marketer der alternativen Tageszeitung die zweitmeis-
+ten freiwilligen Bezahler seit der Einführung von Taz zahl ich im Jahr 2012. Unter anderem, 
+weil die Taz 2018 ihren effizientesten Werbemechanismus, das Abdecken der eigentlich 
+gratis zugänglichen Artikel mit einer Aufforderung zum freiwilligen Bezahlen, auf mobile 
+Geräte ausgedehnt hat. Immerhin 1.500 der 5.500 Bruttozugänge des Jahres 2018 (mehr 
+als ein Viertel) wurde daraufhin über mobile Geräte gewonnen.  
+ 
+Jahresbilanz 2018 des 
+freiwilligen Bezahlmo-
+dells 
+ 
+ 
+ 
+ 
+ 
+5.500 Bruttozugänge, 
+zweitbester Wert seit 
+Einführung 
+ 
+ 
+>25% über mobile Ge-
+räte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 10
+Berechnet man aus den von der Taz genannten Bruttozugängen und der Anzahl der ak-
+tiven freiwilligen Bezahler am Jahresende die Abgänge des jeweiligen Jahres, dann ergibt 
+sich für 2018 mit nur 13% Abgangsquote der niedrigste Wert der drei Jahre seit 2016. 
+Damals hatten wir die Abgangsquote auf diesem Weg erstmals und mit 19% kalkuliert. Der 
+durchschnittlich pro Jahr bezahlte Betrag sank in diesem Zeitraum nur ganz leicht von 78€ 
+im Jahr 2016 über 76€ auf 75€ im letzten Jahr. 
+ 
+niedrige Abgangsquote 
+(13%) 
+ 
+ 
+stabile Erlöse pro Be-
+zahler (rund 75€) 
+ 
+ 
+Tortoise startet 'Slow Journalism'-Mitgliedschaftsmo-
+dell. 2.500 Startmitglieder bezahlten je rund 250€ 
+B54, 
+P 
+Tortoise Crowdfun-
+ding weit über Plan 
+ 
+Zeitungen sind bei der Weiterentwicklung von Print in Richtung digitaler Bezahlangebote 
+der Schwestergattung Zeitschriften deutlich voraus. Für Deutschland zeigen das überdeut-
+lich unsere jährlichen Paid Content-Schätzungen, wie wir sie zuletzt in der Januar-Ausgabe 
+veröffentlicht haben. Aber dieses Fazit dürfte auch weltweit Bestand haben. 
+Vor diesem Hintergrund ist es bemerkenswert, dass die meisten digital only erschei-
+nenden Bezahlstartups Angebote machen, die damit werben, von der Tagesaktualität 
+entkoppelt zu sein, also eher zeitschriftenartigen Journalismus versprechen. Das gilt für 
+das weltweite Vorbild De Correspondent, für den Schweizer Case Die Republik, für das dä-
+nische Zetland und für die deutschen Krautreporter. Auch erfolgreiche Printneugründun-
+gen außerhalb etablierter Verlage waren in den letzten Jahren häufig Magazine, die sich 
+durch Hintergründigkeit statt Aktualität auszeichnen wollen. In der englischsprachigen 
+Welt gibt es für dieses Phänomen sogar einen Fachbegriff: Slow Journalism. 
+Auf diesen Begriff spielt der Name des jüngst erfolgreich per Crowdfunding in die Spur 
+gebrachten Bezahl-Startups Tortoise [Schildkröte] an. Wie bei vielen der vorstehend ge-
+nannten Pioniere dieser jungen Publikationsform können auch bei Tortoise einige der 
+Gründer auf beachtliche Karrieren in herkömmlichen Medien zurückblicken. So war 
+Gründerin und Publisherin Kathie Vanneck-Smith zuvor in verschiedenen Top-Manage-
+ment-Positionen beim Wall Street Journal oder der Londoner Times beschäftigt. Mitgrün-
+der James Harding war Nachrichtenchef bei der BBC. 
+Tortoise verspricht Hintergrundjournalismus ohne überlange Texte. "Nur weil wir 
+uns Zeit nehmen, Themen zu recherchieren, heißt das nicht, dass Sie sich viel Zeit nehmen 
+müssen, um unsere Stücke zu lesen oder anzusehen". Tortoise will neben Text auch Grafik 
+und Video nutzen. "Wir nutzen all das, was auf Ihrem Telefon möglich ist". Täglich sollen 
+maximal fünf, aber auch mal nur ein oder zwei neue Stücke veröffentlicht werden. Viermal 
+im Jahr soll ein gedrucktes Magazin oder Taschenbuch mit langen Texten erscheinen. Der 
+ 
+ 
+Bei etablierten Verla-
+gen sind Zeitungen mit 
+Paid Content erfolgrei-
+cher als Zeitschriften 
+ 
+ 
+ 
+Bei digital only Star-
+tups überwiegen zeit-
+schriftenartige Ange-
+bote 
+ 
+ 
+ 
+ 
+ 
+neu: Tortoise als Ange-
+bot für 'Slow Journa-
+lism' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+kurze Texte trotz lan-
+ger Recherchen 
+ 
+alle Smartphonetchni-
+ken sollen für die Dar-
+stellung von Inhalten 
+genutzt werden 
+ 
+pvd meint: wer 2012 dachte – und wer dachte das nicht? – dass die Aufforderung, frei-
+willig für unterschiedslos gratis verfügbare Inhalte zu bezahlen, bestenfalls in einer Mini-
+Nische erfolgreich ist, der hat sich getäuscht. 1Mio€ pro Jahr sind eine Summe, die noch 
+nicht viele deutsche Zeitungen mit ihren Paywalls erzielen. 75€ pro Bezahler und Jahr ist 
+dabei ein überdurchschnittliches 'Preis'niveau. Und mit nur 13% Abgängen sind die Be-
+zahler der Taz auf einem Niveau treu, das ansonsten nur aus dem Fachmedienbereich 
+oder von uralten Printabos bekannt ist. 
+Wie die Taz das geschafft hat, das war regelmäßig Thema in pv digest, besonders aus-
+führlich in der #4/2016 oder #2/2017. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 11
+englische Medienfachdienst The Drum verortete Tortoise irgendwo in einer "Nische zwi-
+schen den Inhalten des Economist und einem Ted Talk". 
+Ende Oktober beendete Tortoise eine Crowdfunding-Kampagne sehr erfolgreich. Statt 
+der angepeilten 75.000£ kamen über 550.000£ zusammen. [Das entspricht etwa 
+620.000€, rund 250 Euro für jedes der 2.530 Crowdfunding-Mitglieder]. Schon zu diesem 
+Zeitpunkt, so behauptete Tortoise, arbeiteten 20 Mitarbeiter für das Startup. Mittlerweile 
+steht der Zähler bei 34. 
+Die bisherigen Bezahler kommen zu einem Viertel von außerhalb Großbritanniens. Über 
+40% sind laut Publisherin Vanneck-Smith jünger als 30 Jahre. Tortoise bezeichnet seine 
+bezahlenden Nutzer als Mitglieder. Mit diesen will Tortoise in einen intensiven Dialog tre-
+ten. Dazu gehören auch Begegnungen von Redaktion und Mitgliedern in der realen Welt. 
+Bis zum März sollen Tortoise-Redakteure schon mit 40% der bestehenden Mitglieder zu-
+sammengekommen sein; vor allem im Rahmen von halböffentlichen Redaktionskonferen-
+zen. Solche Begegnungen mit seinen Mitgliedern nennt Tortoise ThinkIns.  
+Im Januar startete Tortoise das Publizieren in einer nur für die Crowdfunder zugänglichen 
+App. Für das Frühjahr ist eine Website und damit verbunden der öffentliche Launch an-
+gekündigt. Tortoise will dann einen regulären Mitgliedschaftspreis von 250£ pro Jahr 
+durchsetzen aber gleichzeitig zahlreiche Türchen für weniger zahlungskräftige Nutzer öff-
+nen (u.a. mit Unter-30-Angeboten, Studentenabos, Gruppen- und Firmenabos oder durch 
+von Firmen gesponsorten Mitgliedschaften. "Solange die Mitglieder es nicht anders wol-
+len" (Vanneck-Smith) werde das Angebot werbefrei sein. 
+ 
+ 
+ 
+Crowdfunding er-
+brachte 700% des Fi-
+nanzierungsziels 
+ 
+250€/Bezahler 
+ 
+ 
+75% der Crowdfunder 
+aus UK 
+ 
+40% jünger als 30 
+ 
+institutionalisierte Ein-
+bindung der Mitglie-
+der/Nutzer in Themen-
+findung&Recherche 
+ 
+ 
+Beta-App für Crowd-
+funder schon in Be-
+trieb 
+ 
+öffentlicher Launch 
+kommt im Frühjahr 
+ 
+werbefrei 
+ 
+ 
+pvd meint: man könnte denken, 'noch so ein neues Projekt für Journalismus-Romanti-
+ker'. Und damit hätte man erstens recht. Aber zweitens blendete man dann aus, wie bei 
+Tortoise viele bemerkenswerte Trends in konzentrierter Form zusammenkommen. 
+> 
+Mehr oder weniger prominente Journalisten, die zu Unternehmern in Sachen (be-
+zahlpflichtiger) digitaler Journalismus werden 
+> 
+Solche Projekte gibt es mittlerweile rund um den Globus — jetzt auch in England. 
+> 
+Gerade junge Menschen fühlen sich dadurch angesprochen und sind bereit, dafür 
+zu bezahlen. 
+> 
+250€/£ sind eine Preis-Größenordnung, die sich die meisten viel umfangreicheren 
+und aufwändigeren Digitalprodukte aus etablierten Verlagen nicht zutrauen. Torto-
+ise könnte zeigen, dass dieses Preisniveau nicht nur in der wohlhabenden Schweiz 
+bei republik.ch durchgesetzt werden kann. 
+> 
+Den erfolgreichsten dieser Projekte gelingt es, dem Mitgliedschaftsbegriff tatsäch-
+lich eine ganz andere Bedeutung zu geben als nur 'Abonnement'.  
+Dennoch ist Tortoise alles andere als die Kopie anderswo erfolgreicher Modelle. Mit dem 
+Versprechen kurzer Texte ist es geradezu ein Gegenentwurf zu Die Republik. Auch die 
+angekündigte Nutzung multimedialer Formate, das Versprechen, bei der Darstellung 
+von Inhalten die technischen Möglichkeiten von Smartphones auszureizen, ist in dieser 
+Verbindlichkeit neu. Freileich dürfte das auch besonders teuer werden. In welchem Um-
+fang Tortoise dieses Versprechen einhalten wird, bleibt abzuwarten. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 12
+ 
+Werbung 
+ 
+ 
+ 
+pv digest Special: 'Newsletter als Bestandteil bezahl-
+pflichtiger journalistischer Angebote' 
+ 
+Angebot:  
+pv digest Special 
+ 
+"2019 wird das Jahr des Newsletters" – Das sagt nicht nur der bekannte Zeitungsdesigner 
+Mario R. García. Newsletter haben sich als höchst produktive Elemente im Paid Content-Öko-
+system erwiesen.  
+ 
+Wir sehen drei wesentliche Funktionen, die Newslettern in diesem Umfeld zukommen: 
+♦ Generierung und Anreicherung von Leads 
+♦ Aktivierung und Intensivierung der Beziehung zu bezahlenden Abonnenten 
+♦ Newsletter mit einem eigenen Bezahlmodell 
+ 
+Für unser Special 'Newsletter als Bestandteil bezahlpflichtiger journalistischer Angebote' 
+haben wir die pv digest-Recherchedatenbank nach relevanten Einträgen zu diesen Themen 
+durchsucht. Der erste Eintrag stammt aus dem Dezember 2014, der jüngste aus dem Novem-
+ber 2018.  
+ 
+Insgesamt haben wir in diesem Special 26 Rechercheergebnisse zusammengestellt, die auf 
+je eigene Art als Impulsgeber, Benchmark oder auch als How-to-Guide für Newsletteraktivi-
+täten dienen können. Viele der Einträge veröffentlichen wir damit zum ersten Mal. Wenn 
+unsere Recherchen in der Vergangenheit zu einem Bericht in pv digest geführt haben, dann 
+ist dieser vollständig im Anhang des Specials enthalten. 
+ 
+pv digest Special 'Newsletter als Bestandteil bezahlpflichtiger journalistischer Angebote' 
+ 
+ 
+♦ 28 Seiten, davon  
+o 2 Seiten Einführung und Management Abstract 
+o 8 Seiten strukturierte Übersicht pvd-Recher-
+cheergebnisse zu Newslettern 
+ nebst zahlreichen Linktipps 
+ und Verweisen auf den Anhang 
+'Auszüge/Reprints aus pv digest' 
+♦ 16 Seiten Auszüge/Reprints aus pv digest-Ausga-
+ben der Jahre 2014 – 2018 
+♦ Preis: für pv digest-Abonnenten 399€, sonst 549€ 
+(jeweils zzgl. MWSt.) 
+♦ Lieferung unverzüglich nach Bestelleingang per  
+E-Mail als PDF 
+ 
+ 
+Newsletter  
+& Paid Content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+überwiegend unveröf-
+fentlichte Recherche-
+ergebnisse von  
+pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PDF, knapp 30 Seiten 
+ 
+ 
+ 
+ 
+ 
+ 
+für Abonnenten nur 
+399€ zzgl. USt. 
+ 
+Bestellung: 
+pv-digest.de/specials 
+ 
+oder per Mail an 
+abo@pv-digest.de 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 13
+ 
+ 
+P 
+      
+Marktentwicklung
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im Ja-
+nuar 2019, zu Anzahl und Er-
+scheinungsweise siehe  
+"Daten Cockpit Handel")  
+ 
+ 
+Marktentwicklung
+Copypreise
+ 
+neu eingeführte Zeitschriften 
+Print, Verlags-Apps in ausge-
+wählten Stores 
+ 
+ 
+Marktentwicklung
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+preise bei neuen Zeitschriften) 
+ 
+ 
+ 
+ 
+QUELLEN: 
+DATEN COCKPIT VERLAGE
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 14
+ 
+ 
+ 
+ 
+ 
+Ehastra 2018 – Daten zum grossobelieferten Pressehandel 
+P 
+Ehastra 2018 
+ 
+Der Bundesverband Presse-Grosso hat die Daten der letztjährigen Einzelhandelsstruktur-
+analyse (Ehastra) veröffentlicht. Danach gab es in Deutschland zum Erhebungszeitpunkt 
+(KW39/2018) 101.239 Presseverkaufsstellen. Das sind 3,1% weniger als im Vorjahr. Die 
+Zahl ist das Saldo aus 6.400 Einzelhändlern, die keine Presse mehr verkaufen [meistens 
+Ladenschließungen, manchmal auch Sortimentsauslistungen] und immerhin 3.200 neuen 
+Presseverkaufsstellen. Mit 3,5% gaben überdurchschnittlich viele Zeitschriftenverkaufs-
+stellen auf. Zur Stichwoche waren noch knapp 22.000 reine Zeitungs- oder Sonntagshänd-
+ler aktiv, das sind nur 1,3% weniger als im Vorjahr. 
+Die über 100.000 grossobelieferten Pressehändler verteilen sich wie folgt auf die Ge-
+schäftsarten: 
+Nur noch 55.018 Presse-Händler sind komplett eigenständig. Das sind 3% weniger als im 
+Vorjahr, in dem dieser Rückgang allerdings über 8% lag. Deutlich stärker, nämlich um fast 
+9%, sank der Anteil der selbstständigen Einzelhändler und Pächter mit Bindung an 
+eine Vertriebslinie (z.B. Rewe, Edeka, aber auch Aral etc.). Im Vorjahr war deren Zahl noch 
+fast im gleichen Umfang angestiegen. Die Zahl der Filialbetriebe in Regie einer Zentrale 
+stagniert bei rund 25.000. Der Umsatz verteilt sich auf diese drei unterschiedlichen Orga-
+nisationsformen im Einzelhandel wie folgt: 34% des deutschen Handelsumsatzes mit 
+grossobelieferten Presseprodukten wird von selbstständigen unabhängigen Händlern ge-
+neriert, 29% von selbstständigen Einzelhändlern mit Bindung an eine Vertriebslinie und 
+38% von Filialen großer Einzelhandelsketten. 
+Bemerkenswerter als die Entwicklungen bei der Händlerzahl und -struktur ist die Entwick-
+lung der Sortimentsbreite (rechter Teil der obenstehenden Tabelle). Um durchschnittlich 
+4% sank die Anzahl der angebotenen Zeitschriftentitel. Tankstellen haben ihre Regale 
+besonders stark ausgedünnt (> -10%). Aber auch die Pressefachgeschäfte und Kioske bie-
+ten eine deutlich verringerte Auswahl. Dass dürfte auch auf die diversen Maßnahmen zu-
+rückzuführen sein, die das Ziel verfolgen, die Regale der Einzelhändler zu 'entlasten'.  
+ 
+Strukturanalyse der 
+grossobelieferten Pres-
+sehändler 
+ 
+101.239 (-3,1% z. VJ) 
+ 
+ 
+ 
+besonders betroffen: 
+Händler, die Zeitschrif-
+ten anbieten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• -3% komplett eigen-
+ständige Händler 
+• -8% Händler mit Bin-
+dung 
+• fremdgesteuerte 
+Standorte stagnieren 
+ 
+ 
+ 
+• 34% Umsatz durch 
+Eigenständige  
+• 29% Gebundene 
+• 38% Umsatz in Filial-
+betrieben 
+ 
+ 
+ 
+sehr deutliche Entwick-
+lung: 
+ 
+weniger angebotene  
+Titelvielfalt 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 15
+Seit der Verabredung neuer Regeln für die Sortimentssteuerung messen die Grossisten 
+zu diesem Thema zwei Kennzahlen. Beide Kennzahlen waren im Vorjahr überraschender-
+weise sogar in Richtung einer 'Überlastung' der Regale angestiegen. 2018 entwickelten 
+sich beide spürbar in die gewünschte Richtung. In weniger als einem Drittel (30% statt 
+im Vorjahr 35%) aller Regale fanden sich 'zu viele' verschiedene Titel ("Präsentationsaus-
+lastung > 100%") und in 12% (Vorjahr 15%) aller Regale ist das Sortiment an dieser Kenn-
+zahl gemessen sogar um mehr als ein Fünftel zu umfangreich ("Präsentationsauslastung  
+> 120%").  
+Für den Endkunden bedeutet das eine kleinere Auswahl [und nach Ansicht der Verfechter 
+dieser Form der Sortimentssteuerung dafür eine bessere Übersicht über das Angebot]. Es 
+gibt immer weniger vom Grosso belieferte Verkaufsstellen mit einem sehr breiten, 
+bahnhofsbuchhandelsähnlichen Angebot. Die folgende Grafik zeigt, dass die Anzahl der 
+Verkaufsstellen mit sehr breiten Angeboten seit Jahren stärker sinkt als die Zahl der Ver-
+kaufsstellen mit nur wenigen verschiedenen Titeln im Angebot. Insbesondere der Index 
+für Verkaufsstellen mit über 1.000 verschiedenen Titel bricht 2018 regelrecht ein.  
+ 
+ 
+ 
+=> weniger 'Überlas-
+tung' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Verkaufsstellen mit 
+sehr breitem Angebot 
+werden besonders 
+schnell weniger 
+ 
+ 
+ 
+ 
+Netflix überschreitet die 'Netflix-Preisschwelle' 
+P 
+Pricing 
+ 
+Einer der großen Mythen zum Thema Paid Content ist die angeblich unüberschreitbare 
+Preisschwelle von 9,99 [je nach Land Euro/Dollar/Pfund – das ist noch einmal ein interes-
+santes Unter-Phänomen zu diesem Preis-Mythos]. Diese Schwelle sei von den weltweiten 
+Streamingdiensten, v.a. Spotify und Netflix, gesetzt worden und sie wird deswegen auch 
+schon einmal 'Netflix-Preisschwelle' genannt. Aber sowohl Spotify wie Netflix haben die 
+Spotify- bzw. Netflix-Preisschwelle längst hinter sich gelassen – nämlich mindestens mit 
+dem Angebot von Familienabos, also Zugriffen von mehreren Accounts eines Haushalts. 
+Netflix ist aber noch sehr viel kreativer und auch aktiver im Management seiner Preisstra-
+tegie. 
+ 
+ 
+ 
+Mythos: Digitalabos 
+dürfen nicht mehr als 
+9,99€ kosten 
+ 
+ 
+Das hätten Netflix&Co 
+so in den Köpfen ver-
+ankert 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 16
+In Deutschland bietet der Videostreamer drei Preise an:  
+> 
+7,99€ für 1 Gerät und ohne HD-Option 
+> 
+11,99€ für 2 Geräte und mit HD-Option 
+> 
+15,99€ für bis zu 4 Geräte und mit HD- und Ultra-HD-Option 
+In den USA ist die Preisstruktur die gleiche. Dort hat Netflix aber gerade eine Preiserhö-
+hung auf allen drei Stufen angekündigt. Und auch in Deutschland will Netflix – zunächst 
+aber nur bei Testkunden – mit höheren Preisen experimentieren. 
+Darüber hinaus hat Netflix ganz frisch die Praxis beendet, dass man den Zugang auch 
+per In-App-Kauf in iTunes erwerben kann. Damit verzichtet der Streamingdienst auf po-
+tenzielle Mehrerlöse aus zusätzlichen Kundenkreisen, die durch die ultrabequemen  
+1-Stopp-Kaufprozesse bei Apple erschlossen werden könnten. Aber für die Apple-Kunden, 
+die nun direkt bei Netflix bezahlen, muss Netflix nicht mehr Daten und Provisionsanteil an 
+Apple abtreten. Die In-App-Kaufoption für Android-Geräte gibt es schon seit dem Mai 2018 
+nicht mehr. 
+Während Netflix vor allem auf Preise oberhalb der 'Netflix-Preisschwelle' setzt, reagiert 
+sein Hauptwettbewerber im US-Heimatmarkt, der Videostreamingdienst Hulu (Ende 
+2018 rd. 25Mio US-Abonnenten, +48% ggü. 2017), konsequent mit einer entgegengesetz-
+ten Strategie. Auch bei Hulu kostete die günstigste Abo-Variante bisher monatlich 7,99$. 
+Dafür müssen Hulu-Nutzerallerdings Werbung akzeptieren. Dieses Angebot, so berichtet 
+der immer gut informierte Dienst The Verge, wird ab Ende Februar nur noch 5,99$ monat-
+lich kosten. Hulu werbefrei wird für 11,99$ pro Monat angeboten. Für 12,99$ gibt es ein 
+Kombiabo Hulu+Spotify. Hulus Preisvorstoß ist eine direkte Reaktion auf die Preiserhö-
+hung bei Netflix (58Mio US-Kunden). 
+ 
+ 
+Netflix&Co sind aber 
+meisten längst teurer 
+als 9,99€ 
+ 
+ 
+ 
+und werden noch teu-
+rer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+oder (Wettbewerber) 
+billiger 
+ 
+ 
+ 
+ 
+Google AMP: was die Technologie für schnelle Webseiten 
+mit Paid Content zu tun hat (besser: haben könnte) 
+P 
+AMP & Paid Content 
+ 
+Convenience ist die Motivation #1 zum Abschluss eines Bezahlabos, sagt der Cheffor-
+scher des Weltzeitungsverbands INMA, Grzegorz Piechota. "Man könnte argumentieren, 
+dass Publisher die Nutzererfahrung nicht wirklich priorisieren", stellt Laterpay-Grün-
+der Cosmin Ene in einem Blogpost [pv-digest.de/linkliste Link2] dagegen. Er beklagt sich, 
+dass so wenige Verlage die Chancen der von Google entwickelten AMP-Technik für schnelle 
+Websites nutzten. Immer wieder höre er die Behauptung, Google habe AMP nur 
+ 
+Laterpay-Chef Ene: Ver-
+lage priorisieren die 
+Nutzererfahrung nicht 
+ausreichend 
+LINKTIPP 
+ 
+Denn AMP werde zu 
+wenig genutzt 
+ 
+pvd meint: SO geht Wettbewerb. Vor allem aber möchten wir hier herausstellen, dass 
+die vielfach auch von Paid Content-Anbietern, auf Verlagsseite wie auf Handels/Flatrate-
+Seite, behauptete Unüberschreitbarkeit der 10€ Marke für ein Digitalmonatsabo nichts 
+als ein Mythos ist. Das haben prominente Marken ja auch längst begriffen (cf FAZ+, Spie-
+gel+, Zeit+ usw.). Aber andernorts ist die vermeintliche Preisschwelle immer noch als 
+Hemmschwelle auf dem Weg zu mutigeren und vielfältigeren Digitalpressenangeboten 
+fest in den Köpfen verankert. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 17
+erschaffen, um einen weiteren Weg zur Verfügung zu haben, seine Werbung auszuspielen. 
+Das aber sei "100% falsch", sagt Ene. Seiner Meinung nach ist AMP ein Tool, das die Nut-
+zungserfahrung auf mobilen Geräten durch Beschleunigung der Ladevorgänge immens 
+verbessert. Allerdings sei es für kleinere Verlage schwer, AMP-Inhalte hinter ihre 
+Paywalls zu stellen. "In Diskussionen mit Verlagen hören wir häufig, dass praktisch jeder, 
+der kein Top10 Verlag ist, das gleiche Problem hat: sie brauchen Wege, um AMP-Inhalte zu 
+monetarisieren, aber sie können es sich nicht leisten, ihre eigene Lösung zu bauen, wie die 
+[Washington] Post oder die [New York] Times." 
+Ene will mit diesem Blogpost sein Unternehmen ins Spiel bringen. Das habe schon vor 
+einem Jahr "die erste AMP-gestützte Paywall und Aboplattform gelauncht, die von allen 
+Verlagen genutzt werden kann". So offensichtlich es ist, dass Ene mit seinem Meinungs-
+beitrag das Angebot seines eigenen Unternehmens in den Vordergrund rücken will, so in-
+teressant erscheint doch die Frage, wie es tatsächlich um die Beziehung von Googles 
+AMP-Projekt für schnelle mobile Webseiten und Paid Content steht. 
+Cosmin Ene thematisiert in seinem Blogpost viele für diese Frage relevante Themen: 
+1. 
+Ist AMP vor allem eine begrüßenswerte Technologie zur Beschleunigung von mo-
+bilen Webangeboten oder ist es ein problematischer Versuch Googles, Wertschöp-
+fungspotenziale des offenen Internets auf seine Seite zu verlagern? 
+2. 
+Nutzen nur wenige Verlage die Chancen der AMP-Technik? 
+3. 
+Ist es für kleinere Verlage schwer, AMP-Inhalte hinter die Paywall zu stellen? 
+Nicht explizit von Ene erwähnt, aber in diesem Zusammenhang sicher mitzudenken, sind 
+weitere Fragen: 
+4. 
+Sind AMP-Seiten aufgrund ihrer Geschwindigkeit besonders attraktiv und darum viel-
+leicht besonders geeignet, ein Bezahlangebot zu machen? 
+5. 
+Sind AMP-Seiten besonders geeignet, um Paid Content nicht nur als Abonnement 
+anzubieten, sondern auch per Einzelartikelbezahlung/Micropayment? 
+Zu diesen Fragen hat pv digest in den letzten Wochen intensiv recherchiert. 
+1. Die Kritik an AMP 
+Googles AMP-Initiative wird bei weitem nicht nur von Verlagen kritisch gesehen. Mit AMP 
+hat Google einen Webseitenstandard in eigener Regie definiert. Im Unterschied zum Web-
+standardprotokoll HTML, das von einem internationalen Mitgliedergremium weiterentwi-
+ckelt wird, kann Google bei AMP 'durchregieren'. Das hat Vorteile, insbesondere die Mög-
+lichkeit, AMP sehr viel schneller und zielgerichteter weiterzuentwickeln, als das bei HTML 
+möglich ist. Aber letztlich diktiert Google den AMP-Nutzern die Regeln. Und die techni-
+sche Umsetzung läuft darauf hinaus, dass Google bei AMP-Seiten Zugriff auf Nutzer-/Nut-
+zungsdaten bekommt, die bei HTML-Webseiten exklusiv bei den Publishern liegen. 
+Laterpay-Gründer und CEO Cosmin Ende zeigt im Gespräch mit pv digest eine klare Mei-
+nung: "Ich bin einmal im Monat, also regelmäßig, in der Bay Area und treffe mich immer 
+wieder auch mit den Google Leuten. Alles, was ich Ihnen sagen kann ist: die 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+spannende Frage: ist 
+AMP eine Hilfe für Paid 
+Content? 
+ 
+Detailfragen dazu: 
+ 
+• hat Google bei AMP 
+nur eigene Ziele? 
+ 
+• Nutzen nur wenige 
+Verlage AMP? 
+Ist es schwer, 
+Paywalls für AMP-
+Seiten einzurichten? 
+ 
+• Erzeugen AMP-Seiten 
+besonders viel Be-
+zahlbereitschaft? 
+ 
+• Wären Micropay-
+ments ein sinnvolles 
+Angebot für AMP-In-
+halte? 
+ 
+Kritik an AMP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Google diktiert die Re-
+geln 
+ 
+AMP-Inhalte liegen nur 
+auf Google-Servern 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 18
+Geisteshaltung beim Thema AMP ist ausschließlich: wie kann ich dem User das Leben 
+einfacher machen. Die meisten Leute bei Google interessieren sich ausschließlich für die 
+User Experience. Ich hatte nie das Gefühl, da gebe es eine Hidden Agenda. Mit Publishing 
+dürfte Google nicht viel Geld verdienen. Und trotzdem bemüht sich Google mit viel Energie 
+um das Wohlergehen der Verlage." 
+AMP bedeutet doppelte Arbeit. Wer eine HTML-Website betreibt und AMP nutzen will, 
+der muss seine Inhalte ein zweites Mal im AMP-Standard pflegen. Ob sich dieser Aufwand 
+lohnt, um mobilen Nutzern blitzschnelle Webseiten anzubieten, ist wiederum umstritten. 
+Kritiker sagen, auch HTML-Webseiten könnten blitzschnell sein, wenn sie genauso schlank 
+programmiert würden und die gleichen technischen Voraussetzungen geschaffen würden, 
+wie bei AMP-Seiten (zum Beispiel das Vorabladen von Inhalten im Hintergrund). Umge-
+kehrt könne man auch AMP-Seiten schlecht und damit langsam programmieren. 
+Google bevorzugt schnell ladende Seiten bei mobilen Suchanfragen. Aber allein die Tat-
+sache, dass eine Webseite in AMP programmiert ist, sei "kein Ranking-Faktor für die 
+Google-Suche" sagt uns ein Google-Sprecher. 
+In der Darstellung von Nachrichtenseiten auf mobilen Geräten präsentiert die Google-
+Suche AMP-Seiten zu einem bestimmten Thema ganz oben in einem 'Karussell'. Insge-
+samt tauchen AMP-Seiten darum in der mobilen Suche viel prominenter und häufi-
+ger auf, als andere Webseiten. Das ist für viele Publisher ein Hauptgrund zur Nutzung von 
+AMP. Es gibt unterschiedliche Erfahrungsmeldungen, wie sehr AMP-Seiten den mobilen 
+Traffic steigern. Aber etliche Verlage berichteten schon 2017, ein Jahr nach Einführung von 
+AMP, dass AMP etwa die Hälfte des gesamten mobilen Traffics ausmache. 
+2. Nutzen nur wenige Verlage AMP? 
+Zu dieser Frage haben wir keine belastbaren Zahlen finden können. Bei der Stichproben-
+recherche für diesen Beitrag haben wir allerdings kaum ein bekanntes und etabliertes 
+deutschsprachiges Medium gefunden, das AMP nicht nutzt. Das gilt für große und mit-
+telgroße deutsche Zeitungen, für die Top-Zeitungstitel Österreichs (z.B. Kleine Zeitung, Der 
+Standard) und der Schweiz (Tagesanzeiger, NZZ) für den Spiegel, die Zeit oder focus.de. 
+Digiday berichtete im vergangenen August, dass rund ein Drittel der Kunden des auch in 
+Verlagskreisen verbreiteten Analysedienstleisters Chartbeat AMP-Seiten betreiben. Kaum 
+ein Publisher, der AMP einmal eingeführt habe, sei wieder abgesprungen. 
+Bei einem unsystematischen und nicht repräsentativen Check eines halben Dutzends 
+Webangebote kleiner lokaler Zeitungen in Deutschland hat pv digest nur einmal ein 
+AMP-Angebot gefunden. Und die innovativen, digital only erscheinenden Bezahlstartups 
+Die Republik, Krautreporter oder Perspective Daily nutzen AMP ebenfalls nicht.  
+Als Pionier der AMP-Nutzung sieht sich Nicolas Fromm, Geschäftsführer NOZ Digital 
+GmbH: "Wir sehen AMP vor allem als Technologie und waren der erste Verlag weltweit, 
+der diese Technologie auch in News-Apps verwendet, um unsere Inhalte möglichst perfor-
+mant auszuspielen und zu monetarisieren. (…) Da wir mit Plus-Artikeln ein Modell nutzen, 
+bei dem ein Artikel ab dem ersten Aufruf mit einer Registrierung und ab dem dritten Artikel 
+mit einem bezahlpflichtigen Web-Abo gelesen werden kann, spielt die Paywall auch bei 
+ 
+Cosmin Ene: Google 
+verfolgt nur 1 Ziel: eine 
+bessere Nutzer-Erfah-
+rung 
+ 
+ 
+ 
+ 
+AMP macht doppelte 
+Arbeit 
+ 
+ 
+ 
+AMP ist nicht automa-
+tisch besser als Stan-
+dard-HTML 
+ 
+ 
+AMP allein ist kein Plus 
+für den Google-Algo-
+rithmus 
+ 
+ 
+ 
+Aber AMP verschafft 
+deutlich mehr Traffic 
+ 
+ 
+ 
+ 
+ 
+Wird AMP genutzt? 
+ 
+ 
+ 
+ 
+Praktisch alle bekann-
+ten/großen Verlagsan-
+gebote nutzen AMP 
+ 
+ 
+ 
+ 
+ 
+Lokalzeitungen aber  
+eher nicht 
+ 
+Digital only Start-ups 
+auch nicht 
+ 
+ 
+ 
+sehr intensive Nutzung 
+von AMP bei der NOZ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 19
+AMP eine Rolle. Da wir die AMP-Artikel abseits der Aufrufe über Google auch für weitere 
+Produkte verwenden, auf denen loyalere Nutzergruppen unterwegs sind, ist AMP ein fes-
+ter Bestandteil unserer Paid Content Überlegungen." 
+3. Ist es für kleinere Verlage schwer, AMP-Inhalte hinter die Paywall zu stellen? 
+Nur wenige Ansprechpartner bei Verlagen haben im Rahmen unserer Recherchen davon 
+berichtet, dass die Einrichtung einer Paywall auf den AMP-Seiten eine besondere Heraus-
+forderung gewesen wäre. In den meisten Fällen, die wir verprobt haben, greifen die 
+Paywallmechanismen der Website auch auf den AMP-Seiten. Das mag allerdings damit 
+zusammenhängen, dass die meisten hiesigen Paid Content-Angebote auf dem Freemium-
+Prinzip beruhen. Eine Metered Paywall auf AMP-Seiten könnte technisch eine größere Her-
+ausforderung darstellen.  
+Aber zum Beispiel Die Zeit bietet ihre Premium-Artikel auf den AMP-Seiten gar nicht an. 
+Und bei der Süddeutschen Zeitung sind auf den AMP-Seiten bisher nur die Freemium-Re-
+geln, nicht aber die Metered-Prozesse implementiert. Bei anderen Titeln (z.B. Haz.de) füh-
+ren Ausnahmeregeln für mobilen Traffic oder Suchmaschinen und Social Media nicht sel-
+ten dazu, dass AMP-Artikel, insbesondere wenn sie über die Google-Suche angesteuert 
+werden, kostenlos verfügbar sind, während sie in anderen Nutzungszusammenhängen 
+hinter der Paywall stehen. 
+Google behauptet auf seinen Infoseiten zu AMP, dass die Unterstützung aller Paywallfor-
+men "ein Kernanliegen" seines Projektes sei. "Mit AMP Subscriptions und durch die Ando-
+ckung von AMP an 'Subscribe with Google' wollen wir zusätzlich zu den vielen Möglichkei-
+ten der Werbefinanzierung durch AMP auch gemeinsam mit Verlagen die Attraktivität 
+und Nutzbarkeit von Bezahlangeboten steigern", sagt ein Google-Sprecher gegenüber 
+pv digest. 
+AMP-Fan Nicolas Fromm berichtet allerdings offen: "Um die bestehende Bezahltechnik 
+auf AMP auszudehnen, sind zusätzliche Aufwände notwendig. Durch die vielen Limi-
+tierungen, die AMP mit sich bringt, mussten Extrarunden gedreht werden. Aufgrund der 
+fehlenden Möglichkeit Javascript zu verwenden und weil auch iFrames nur mit Einschrän-
+kungen nutzbar sind, musste eine separate Lösung erstellt werden, die auch im laufenden 
+Betrieb separat gepflegt werden muss." 
+Die meisten Paywalls stützen sich technisch auf das Angebot eines der darauf speziali-
+sierten Dienstleister. Wir haben für diesen Bericht Kontakt zu den wichtigsten Paywall-
+technikdienstleistern aufgenommen. Von fast allen hörten wir, dass ihre Systeme auch 
+auf AMP-Seiten funktionieren. So heißt es in einem Blogpost des Weltmarktführers Pi-
+ano, die eigene Technik ermögliche für AMP-Seiten Metered Paywalls ebenso wie harte 
+Paywalls oder Registrierungs-Walls. CeleraOne hat ebenfalls eine Lösung für AMP-Seiten. 
+Selbst der bei uns noch unbekannte und sicher deutlich kleinere Laterpay-Wettbewerber 
+Agate, der wie Laterpay eine Lösung für den Kauf einzelner Artikel zu geringen Preisen 
+anbietet, sagt "wir haben eine technische Lösung für AMP, aber bisher nutzt die kein Verlag 
+tatsächlich. Es ist klar, dass die Limitierungen von AMP dazu führen, dass wir nicht genau 
+die gleiche Nutzererfahrung umsetzen können und das ist eine Schande" (Dominic Young, 
+Gründer und CEO). 
+ 
+ 
+ 
+ 
+ 
+AMP+Paywalls 
+ 
+ 
+ 
+meistens sind die 
+Paywalls auch auf AMP 
+eingerichtet 
+ 
+ 
+ 
+ 
+ 
+ 
+allerdings nicht immer 
+nach den gleichen Re-
+geln wie im stationä-
+ren Web 
+ 
+ 
+ 
+ 
+ 
+ 
+Google: wir wollen mit 
+AMP auch Paid Con-
+tent fördern 
+ 
+ 
+ 
+ 
+NOZ: Paid Content un-
+ter AMP einrichten ist 
+aufwändig 
+ 
+ 
+ 
+ 
+ 
+ 
+fast alle Paywalldienst-
+leister sagen: ' wir un-
+terstützen auch AMP' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 20
+ 
+Nur Plenigo-Gründer und Geschäftsführer Thorsten Petter antwortet: "Wir haben noch 
+keine fertige Lösung für eine AMP-Integration. Wenn ein Kunde aktiv danach fragen 
+würde, dann könnten wir das schnell umsetzen. Das ist aber bisher nicht der Fall. Woran 
+das liegt? Ich denke, die Verlage greifen zuerst nach den niedrig hängenden Früchten. Es 
+mag sein, dass AMP Chancen für Paid Content bietet. Aber noch entdecken die Verlage so 
+viele andere und größere Hebel, dass sie sich mit der Fragestellung AMP im Zusammen-
+hang mit Paid Content noch gar nicht beschäftigen. Außerdem haben viele unserer Kun-
+den wie der SPIEGEL, die FAZ oder der Heise Verlag ihre Paywalls so eingerichtet, dass sie 
+schon greifen, bevor die von Plenigo bereitgestellte Bestellstrecke aktiviert wird."  
+4. Sind AMP-Seiten für Paid Content besonders vielversprechend? 
+Kurze Ladezeiten sind insbesondere auf mobilen Geräten eine der wichtigsten Eigen-
+schaften für attraktive Inhalte. AMP-Seiten erfüllen dieses Kriterium in aller Regel. Sind 
+Nutzer darum besonders geneigt, für AMP-Inhalte hinter einer Paywall auch zu bezahlen? 
+Für uns lag diese Frage auf der Hand. Auf der Verlagsseite ist das keine verbreitete 
+Einstellung. AMP wird von den Verlagen vor allem als Instrument zur Reichweitensteige-
+rung und Werbeerlösgenerierung gesehen. "Bei uns hat AMP keine Bedeutung für Paid 
+Content. AMP ist vor allem ein Thema für die Werbeerlöse. Die prominente Platzierung in 
+der Google-Suche sichert Reichweite. AMP-Seiten sind schnell, aber schneller als unsere 
+eigenen mobilen Webseiten sind sie nicht." Diese Aussage eines verantwortlichen Mana-
+gers, der sich namentlich nicht zitieren lassen wollte, spiegelt eine verbreitete Sichtweise 
+gut wieder. 
+Ein anderer erfahrener Paid Content-Manager meint, die Umwandlung von Kostenlos-
+nutzern in Bezahler sei auf AMP-Seiten sogar unterdurchschnittlich, weil AMP-Traffic häu-
+fig Fly-by-Traffic ist und sich darum nicht gut in Bezahlkunden umwandeln lässt. 
+Der fehlende Zusammenhang von AMP und Paid Content mag vorübergehend sein. Für 
+SZ.de sagt Geschäftsführer Johannes Vogel, bisher seien "aus internen Gründen die Me-
+tered- und Premium-Prozesse" noch nicht auf den AMP-Seiten integriert. "Wir werden 
+dies jedoch in naher Zukunft umsetzen, (…) da es aus Nutzersicht nun einmal ein wich-
+tiger werdender Kanal mit guter User- Experience ist bzw. zunehmend wird". 
+Auch AMP-Pionier NOZ sieht den Zusammenhang: "Geschwindigkeit und Nutzerfreund-
+lichkeit/UX sind wichtige Parameter – vor allen Dingen mobil – um den Nutzer von unserem 
+Produkt zu überzeugen und dauerhaft an uns zu binden. Da AMP-Seiten diese Parameter 
+von Haus aus mitbringen, sehen wir hier in Bezug auf die Technik einen klaren Vorteil", 
+meint Nicolas Fromm.  
+Aber noch scheint der technische Vorteil, den AMP-Seiten bieten, sich nicht in eine 
+bessere Umwandlung in Bezahler zu verwandeln. "Wir haben da keine Indikation", sagt 
+Handelsblatt-Geschäftsführer Gerrit Schumann im Gespräch mit pv digest. Das könne sich 
+eines Tages vielleicht im Zusammenspiel mit 'Subscribe with Google' ändern. Bisher sei 
+aber völlig unklar, wie dieses Angebot von den Google-Nutzern angenommen wird.  
+ 
+ 
+ 
+nur Plenigo sagt: aber 
+bisher fragt das nie-
+mand nach 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+befördert AMP Paid 
+Content? 
+ 
+ 
+ 
+ 
+Das ist bisher bei den 
+meisten Verlagen gar 
+kein Thema 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These: AMP-Traffic ist 
+Suchmaschinentraffic 
+und darum kaum in 
+Bezahler konvertierbar 
+ 
+ 
+SZ: 'wir werden die 
+Paywall auf AMP stär-
+ken, d.i. ein wichtiger 
+werdender Kanal' 
+ 
+ 
+ 
+NOZ: klarer Vorteil von 
+AMP für Paid Content 
+ 
+ 
+ 
+ 
+Handelsblatt: AMP-
+Nutzer wandeln bisher 
+nicht besser in Bezah-
+ler als andere Nutzer 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 21
+Zum jetzigen Zeitpunkt seien die AMP-Seiten des Handelsblatts ein "Zuführungskanal", 
+der letztlich wie alle anderen Kanäle mit dem Ziel gesteuert werde, aus Gratisnutzern be-
+zahlende Digitalabonnenten zu machen.  
+5. AMP und Einzelartikelverkäufe/Micropayments 
+Die Monetarisierung von (noch) nicht regelmäßigen Nutzern ist die Kernidee der beiden 
+Micropaymentspezialisten Laterpay und Agate. Der Einzelartikelkauf könnte die 'natürli-
+che' Angebotsvariante für den typischen AMP-Traffic sein.  
+"Paid Content ist nach meiner Überzeugung sehr oft ein Impulskauf. Wenn ich dann 
+noch AMP dazwischenschalte, dann verkürze ich die Zeit nochmals. Ich kann Artikel in 2 
+Sekunden kaufen", sagt Laterpay CEO Cosmin Ene. "Viele User kommen aus dem Referral-
+Modus, von Twitter oder Facebook. Die sind eh im Klickmodus. Dann muss auch der Kauf 
+im Klickmodus erfolgen können".  
+Agate-CEO Dominic Young wird etwas grundsätzlicher: "Verlage wollen in der Lage sein, 
+den richtigen Preis für ihre Produkte zu berechnen. Abos sind nicht für jeden Nutzer, kos-
+tenlos zerstört die Verlage. Die Chance liegt in der Mitte. Wir sollten das aber nicht als 
+Micropayment bezeichnen, es sind nur Payments zum richtigen Preis. Schließlich haben 
+wir ja auch den Kauf einer Zeitung in einem Ladengeschäft nie als Micropayment bezeich-
+net. (…) Eine der Unzulänglichkeiten des Internet ist meiner Meinung nach, dass es gele-
+gentliche Käufe schwieriger gemacht hat, nicht einfacher. Und darum haben wir angefan-
+gen zu denken, sie seien unmöglich und unser Eindruck von den damit verbundenen Ge-
+schäftschancen ist vergleichbar beschränkt. Wenn das – von Agate – mal erledigt ist, dann 
+entstehen ganz neue Optionen für steigende Bezahlung, Engagement und Gesamterlöse." 
+Auf Verlagsseite wird das Thema Micropayments dagegen regelmäßig nicht oder höchs-
+tens für eine ferne Zukunft gesehen. "Noch sehen wir ja gerade auch bei jüngeren Nutzern 
+eine steigende Bereitschaft, ein Digitalabo abzuschließen. Micropayments sind vielleicht 
+später einmal eine zusätzliche Option. Zum jetzigen Zeitpunkt ist es unsere Strategie, 
+möglichst viele Abonnements zu gewinnen" formuliert Handelsblatt-Geschäftsführer Ger-
+rit Schumann, was uns auch viele andere Verlage zu diesem Thema immer wieder 
+sagen.  
+ 
+ 
+ 
+ 
+ 
+AMP+Micropayments 
+ 
+ 
+ 
+ 
+ 
+Laterpay: das ist eine 
+ideale Verbindung 
+ 
+ 
+ 
+ 
+ 
+ 
+Agate: Micropayments 
+gibt es gar nicht, nur 
+'richtige' Preise 
+ 
+ 
+ 
+Nicht-Abo-Köufe sind 
+im Internet bisher 
+technisch erschwert 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Verlage: vielleicht kom-
+men Micropayments / 
+Einzelartikelkäufe spä-
+ter einmal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint: Wir fanden die vom Laterpay-Chef thematisierte Beziehung von Paid Con-
+tent und AMP sehr einleuchtend. Die meisten Verlage haben daran bisher keinen Ge-
+danken verschwendet. Das liegt aber nicht an einer grundsätzlichen Google-Skepsis  
+oder Innovationsphobie. Thorsten Petters These, dass die Verlage zunächst anderswo 
+einfacher erreichbare Potenziale heben wollen, leuchtet uns mehr ein.  
+Laterpay kommt auch auf normalen HTML-Seiten nur selten zum Einsatz. Die Haltung 
+der Verlage zum Thema Einzelartikelkauf halten wir für ein Problem (vgl. hierzu auch 
+S.28). Aber auf ihren AMP-Seiten setzen die Verlage ihre Strategie nur konsequent fort. 
+AMP mag Chancen für Bezahlinhalte bieten. Ob das wirklich der Fall ist, das loten zum 
+jetzigen Zeitpunkt nur wenige ernsthaft aus  
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 22
+ 
+ 
+ 
+P2 
+  
+Index
+Marktentwicklung
+Einzelhandel
+ 
+ 
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland) 
+ 
+  
+ 
+Marktentwicklung
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neueinfüh-
+rungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+ 
+ 
+Marktentwicklung
+digitaler Vertrieb
+Top-Presse-Angebote  
+in wichtigen Digitalkiosken 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+DATEN COCKPIT HANDEL UND ABSATZ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 23
+ 
+ 
+ 
+ 
+ 
+IVW-Zahlen für das vierte Quartal 2018 
+P 
+IVW Q4/2018 
+ 
+Auf der obersten Aggregationsebene berichtet die IVW bei den Zeitungen über einen 
+Rückgang der kumulierten Aboauflage von 3,6% und ein Minus von 9,7% im Einzelverkauf. 
+Bei der Betrachtung der folgenden Grafiken springt der nur geringe Rückgang im 
+Einzelverkauf der überregionalen Titel (ohne BILD) ins Auge. Hier schlägt das diesmal 
+herausragende Ergebnis der FAZ durch, die ein Plus von 6,7% im EV meldet.  
+Bei den Publikumszeitschriften fiel das Ergebnis im Einzelhandel mit -8,6% und im Abo mit 
+-5,4% ohne Lichtblick aus. 
+ 
+Die aktuellen Auflagen der Publikumstitel im Indexvergleich (Q4/2017 = 100) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tageszeitungen: 
+• Abo -3,6% 
+• EV -9,7% 
+ 
+Publikumszeitschriften 
+(nur mit Vertriebsmo-
+dell, exkl. Kd.-&Mitgld.-
+zeitschriften) 
+ 
+• Abo -5,4% 
+• EV   -8,6% 
+ 
+ 
+Fachzeitschriften: 
+• Abo -3,0% 
+• EV     8,4% 
+ 
+QUELLEN:
+ANALYSEN UND DATEN 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 24
+ 
+pv digest Daten Cockpits – Jahreswerte 2018 
+P 
+pvd-Jahresstatistiken  
+ 
+In jeder Ausgabe veröffentlicht pv digest aktuelle Kennzahlen zum Vertriebsmarkt. Das 
+'Daten Cockpit Verlage' finden Sie in dieser Ausgabe auf Seite 13. Das Daten Cockpit Han-
+del und Absatz auf Seite 22. An dieser Stelle werfen wir einen Blick auf die Gesamtdaten 
+für das Jahr 2018. 
+Dabei fällt uns an erster Stelle ein deutlicher Rückgang der von uns gezählten Titelneu-
+ankündigungen auf. Hatten wir für 2017 noch fast 2.000 neu angekündigte Pressepro-
+dukte gezählt, waren das 2018 nur noch knapp 1.800. Diese Zahl ist seit Jahren rückläufig. 
+Einen so deutlichen Rückgang haben wir bisher aber nur einmal, im ersten Jahr unserer 
+Zählung, registriert  
+Noch deutlicher fällt der Rückgang 
+aus, wenn wir nur die Zahl der mit 
+einer periodischen Erscheinung an-
+gekündigten Titel ansehen. Hier ha-
+ben wir in der Vergangenheit keinen 
+konstant rückläufigen Trend regis-
+triert, sondern eine unsystemati-
+sche Entwicklung. Aber ein Rück-
+gang von 355 neuen Periodika im 
+Jahr 2017 auf nur noch 269 neue 
+Periodika 2018 ist sowohl absolut 
+wie erst recht prozentual der deut-
+lichste von uns bisher festgestellte 
+jährliche Rückgang. 
+ 
+An der Rangfolge der beliebtesten 
+Segmente für die Veröffentlichung 
+neuer Titel hat sich gegenüber dem 
+letzten Jahr nichts geändert.  
+ 
+Auch nicht bei den Periodika, wenn 
+man davon absieht, dass die beiden 
+hinten positionierten Segmente 'Es-
+sen, Kochen' und 'Haus, Garten' ihre 
+Plätze getauscht haben. Ins Auge 
+springt der übergroße Anteil der Ka-
+tegorie 'Romane, Rätsel'. 42% aller 
+gegenüber Grosso neu angekündig-
+ten Periodika stammen aus dieser 
+Objektgruppe. Im Vorjahr lag dieser 
+Anteil 'nur' bei einem Drittel. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Titel- 
+Neuankündigungen: 
+• 2018: 1.783 
+• 2017: 1.969 
+• 2016: 1.954 
+• 2015: 2.049 
+• 2014: 2.100 
+• 2013: 2.400 
+ 
+ 
+ 
+ 
+ 
+davon periodisch  
+erscheinend: 
+• 2018: 269 
+• 2017: 355 
+• 2016: 369 
+• 2015: 457 
+• 2014: 360 
+• 2013: 369 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 25
+Die häufigste Erscheinungsweise neuer 
+Periodika ist zweimonatlich. 2017 noch 
+fast genauso häufig waren vierteljährlich 
+angekündigte neue Objekte. 2018 fiel die 
+Erscheinungsweise 
+vierteljährlich 
+demgegenüber relativ deutlich zurück. 
+ 
+Für neue Titel haben die Verlage Lieb-
+lingspreise. Betrachtet man die beiden 
+folgenden Grafiken, dann fällt entlang der 
+Y-Achse, die die Anzahl der Fälle anzeigt, 
+jeweils ein (rot markierter) Punkt beson-
+ders auf, obwohl er auf der Preisachse in 
+keiner Weise heraussticht und von vielen ähnlichen Werten umgeben ist. Das ist der Preis 
+3,99€ für periodisch angekündigte Objekte und 4,90€ für Non-Periodika. Im Vorjahr koste-
+ten neue Periodika bevorzugt noch 4,95€. Bei den Non-Periodika ist der beliebteste Preis-
+punkt der gleiche geblieben (4,90€).  
+Non-Periodika werden aber auch sehr häufig zu Preisen knapp unterhalb der 10€-
+Schwelle angeboten. Hier sind die Preise 9,90€ und 9,95€ sehr beliebt. Auch 9,80€ ist ein 
+relativ häufig gewählter Preis. 
+ 
+Die 1.783 im Jahr 
+2018 neu angekün-
+digten Objekte wür-
+den zusammen zu 
+3.967 Erscheinun-
+gen pro Jahr führen 
+(wenn keines der 
+Objekte 
+wieder 
+vom Markt genom-
+men oder in der 
+Frequenz reduziert 
+würde). Im Vorjahr  
+ 
+2-monatlich ist die 
+häufigste  
+Erscheinungsweise 
+neuer Periodika 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Neue Periodika waren 
+2018 bevorzugt 3,99€ 
+teuer 
+ 
+ 
+Neue Non-Periodika 
+kosteten auffällig oft 
+4,90€ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Ʃ neue EVTs 2018: 
+3.067 
+• Ʃ neue EVTs 2017: 
+4.635 
+• Ʃ neue EVTs 2016: 
+5.276 
+• Ʃ neue EVTs 2015: 
+6.384 
+• Ʃ neue EVTs 2014: 
+6.986 
+• Ʃ neue EVTs 2013: 
+7.437 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 26
+ 
+betrug diese Summe aller neu ange-
+kündigten EVTs noch 4.635, im Jahr 
+2013 sogar 7.437. Mit weniger 
+neuen Titeln und einem signifikan-
+ten Rückgang der angekündigten  
+Erscheinungstage kann man hier 
+von einer Entlastung des Presse-
+vertriebssystems sprechen [weni-
+ger EVTs bedeuten weniger Ausliefe-
+rungen, 
+weniger 
+Remissionster-
+mine, weniger Abrechnungen usw.] 
+ 
+Bei den Wochentagen, die sich die 
+Verlage für den jeweiligen Verkaufs-
+termin ihrer Zeitschriften ausge-
+guckt haben, sehen wir keine bedeu-
+tende Verschiebung zum Vorjahr.  
+ 
+Im letzten Jahr haben deutlich mehr Titel ihre Preise angehoben als im Vorjahr. Ins-
+gesamt haben wir 850 Preiserhöhungen gezählt, 2017 waren das 612. Dafür fielen diese 
+Preiserhöhungen im Schnitt geringer aus als im Vorjahr.  
+Hinter einer anderen von uns beobachteten Veränderung im Vergleich zum Vorjahr ver-
+muten wir eher eine Lücke im Beobachtungsinstrument als ein bundesweites Phänomen. 
+Statt im Vorjahr bei 46 haben wir nur bei 36 Tageszeitungen eine Preisanpassung regis-
+triert.  
+[Unsere Zahlen beruhen auf einer systematischen Beobachtung der wöchentlichen Ein-
+zelhändlerinformationen ausgewählter Grossisten. Da viele regionale Zeitungen nur in ei-
+nigen wenigen Grossogebieten eine Rolle spielen, blenden wir hier eine unbekannte An-
+zahl regionaler Tageszeitungen aus; genauso wie wir regionale Tests und Einführungen bei 
+Zeitschriften nur unvollständig erfassen können. Relative Angaben, Zeitverläufe und 
+Durchschnittswerte sollten davon nicht verfälscht werden – wir haben unsere Erhebungs-
+methode in den sechs abgebildeten Jahren nicht verändert. Absolute Zahlen – insbeson-
+dere aus der Zeitungswelt – sind dagegen häufig zu klein ausgewiesen.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Di), Mi, Do und Freitag 
+sind die beliebtesten 
+Erstverkaufswochen-
+tage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Preisanhebungen: 
+• Zeitschriften  
+im Ø um 9% 
+• Zeitungen  
+im Ø um 8% 
+ 
+ 
+ 
+Preisanhebungen
+2018
+2017
+2016
+2015
+2014
+2013
+Anzahl insgesamt
+850
+612
+723
+723
+584
+868
+davon Zeitungen
+36
+46
+74
+55
+55
+44
+ØPE Zeitschriften
+9%
+12%
+11%
+12%
+14%
+13%
+ØPE Zeitungen
+8%
+6%
+6%
+7%
+7%
+6%
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 27
+ 
+ 
+ 
+ 
+ 
+Nic Newmans (Reuters Institute) Vorhersagen für 2019 
+Kommen Paywall-Blocker? 
+P 
+Vorhersage 2019: 
+Paywallblocker 
+ 
+Wie viele Prognosen zum Medienjahr 2019 sind Ihnen rund um den Jahreswechsel begeg-
+net? Das amerikanische Niemanlab hat mehr als 200 mehr oder weniger prominente Ex-
+perten für mehr als 200 seherische Beiträge gewonnen. Das kann niemand vollständig le-
+sen. Und niemand verpasst allzu viel dabei. Wie bei den meisten anderen Prognosen. 
+Einigen Aufwand für seine Vorhersagen hat das Reuters Institute for the Study of Journa-
+lism betrieben, das vor der Veröffentlichung seiner 'Predicitions 2019' bei 200 "Digital Lea-
+ders aus 29 Ländern ... darunter 40 Chefredakteure, 30 CEOs oder Managing Directors und 
+30 Heads of Digital" um Input gebeten hat. Daraus hat Reuters-Chefforscher Nic 
+Newman einen knapp 50seitigen Report erstellt [pv-digest.de/linkliste Link3]. Unter vielen 
+Themen (Datenschutz, Soziale Netzwerke, staatliche Regulierung, Künstliche Intelligenz 
+u.v.m.) präsentiert Newman auch Visionen zum Thema Paid Content. Die gehen zumin-
+dest in einem Punkt höchst spannend über Allerweltsprognosen an anderer Stelle hinaus.  
+Während Verlage und Webangebote weltweit umfassend auf Paid Content setzen und 
+Abonnements zur primären Geschäftsstrategie werden, denkt Newman einen Schritt wei-
+ter. "Diese Publisher-getriebenen Strategien werden wahrscheinlich erheblichen Wider-
+stand auf der Seite der Konsumenten erfahren", die nämlich zunehmend auf Inhalte 
+stoßen, die sie in der Vergangenheit kostenlos lesen konnten und nun nur noch, wenn sie 
+ein bezahlpflichtiges Abonnement abschließen. "Schon ein News-Abo sieht teuer aus, 
+wenn man es mit Netflix (oder Spotify) vergleicht, ganz zu schweigen von zwei oder drei. 
+Kurz gesagt, Abo-Hürden könnten am Ende dazu führen, dass sie ... den Menschen einen 
+weiteren Grund geben, sich von Nachrichtenmedien abzuwenden", sieht Newman voraus. 
+Soweit ist das noch kein neuer Gedanke. Neu ist allerdings folgende Vorhersage: "Wir 
+sehen einen Trend zur Nutzung von 'Abo-Blockern', herunterladbarer Software oder 
+Browser-Erweiterungen, die Metered Paywalls umgehen, indem sie den Javascript-Code 
+blocken, der sie initiiert. Eine Lösung [für die Verlage] damit umzugehen ist, die Nutzer für 
+jeden Inhalt zum Login zu zwingen, aber das wird Fly-by-Nutzer vermindern und damit 
+auch die resultierenden Werbeerlöse." 
+Newman 'belegt' seine Prognose mit einem Screenshot populärer Google-Suchanfragen 
+zum Thema 'wie umgehe ich eine Paywall?' Auf pv digest-Nachfrage, ob sich seine Vor-
+hersage auch in diesem Punkt auf Fakten und Rückmeldungen der befragten Verlagsma-
+nager stützt oder ob die Prognose von Paywall-Blockern seiner eigenen [nicht unplausib-
+len] Phantasie entspringt, sagt er "teils, teils" und verweist auf bestehende Tools und 
+Techniken (wie z.B. Cookies löschen), mit denen sich Paywalls umgehen lassen.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reuters Institute be-
+fragte 200 'Digital Lea-
+ders'; macht daraus 
+Vorhersagen auf 50 S. 
+ 
+LINKTIPP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die stark zunehmende 
+Paywallverbreitung 
+wird Frust bei den Kon-
+sumenten erzeugen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abo-Blocker (frei ver-
+fügbare Software zur 
+Umgehung von Pay-
+walls) werden kommen 
+ 
+ 
+ 
+ 
+d.i. aber [noch] mehr 
+[plausible] Fantasie als 
+Fakt 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+MEINUNGEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 28
+Eine weitere Prognose Newmans: 2019 "werden wir viel mehr von der 'Slow Journa-
+lism'-Bewegung hören". Hier verweist er auf das Startup Tortoise (vgl. S.10) und auf das 
+kürzlich erfolgreich crowdfinanzierte The Correspondent (vgl. pvd #1/2019). "Bisher war 
+die 'Slow News'-Bewegung mit Bezug auf ihre Bedeutung und Größe beschränkt – aber es 
+gibt keinen Zweifel an den Ambitionen dieser beiden Projekte." 
+Gegen Ende seines Reports lenkt Newman den Blick auf Startups, die man 2019 nicht 
+aus dem Blick verlieren sollte. Darunter sind ebenfalls Unternehmen aus dem Paid Con-
+tent-Umfeld: 
+> 
+Curio, eine Bezahlapp (59$ pro Jahr), die professionell vorgelesene Inhalte u.a. von 
+Guardian, Financial Times, Economist und Washington Post als Audio-Angebot kura-
+tiert 
+> 
+Agate, ein Micropaymentanbieter (den wir in pvd 2/2018 kurz vorgestellt haben) 
+ 
+'Slow Journalism' wird 
+ein wichtiger Ansatz 
+ 
+ 
+ 
+ 
+ 
+2 Startups, die man 
+kennen sollte: 
+ 
+• Curio (kuratiert 
+fremde Inhalte als 
+Hörangebot) 
+• Agate  
+(Micropayments) 
+ 
+Zukünftig werden alle bezahlen – nur nicht für Alles 
+74 
+Angebotsstrategie 
+ 
+Das Reuters Institute veröffentlicht jährlich die weltweit meistzitierte Studie zu Paid Con-
+tent. Beachtung findet dabei jeweils der pro Land erhobene Anteil der Menschen, die für 
+Inhalte bezahlen. Der dänische Medienanalyst Thomas Baekdal empfiehlt Publishern, 
+diese Kennzahl getrost zu vergessen. Denn bald schon werde jedermann für Paid Con-
+tent bezahlen. Aber gleichzeitig werde der Anteil der Nutzer, die ein Publisher für sein Abo 
+gewinnen kann, nicht steigen. Wie das zusammenpasst und welche Folgen das für die An-
+gebotspolitik der Publisher haben sollte, das legt Baekdal in einem lesenswerten und für 
+seine Verhältnisse nicht allzu langen Blogpost dar [pv-digest.de/linkliste Link4]. 
+ 
+ 
+ 
+die richtige Angebots-
+strategie für eine von 
+Paid Content domi-
+nierte Umwelt 
+ 
+ 
+ 
+ 
+LESEEMPFEHLUNG 
+pvd meint: Newman prognostiziert, dass die Konsumenten negativ auf die Paywallflut 
+reagieren werden. NICHT, weil sie grundsätzlich nicht bezahlbereit wären. Sondern, weil 
+sie gar nicht so oft bezahlen können, wie sie dazu aufgefordert werden. 'Der Paid Con-
+tent-Goldrausch bedroht seine eigene Umwelt' – so haben wir das schon in der #6 des 
+Vorjahres kommentiert. "Abo-Hürden könnten den Menschen einen weiteren Grund ge-
+ben, sich von journalistischen Medien abzuwenden", so sieht es nun der Reuters-For-
+scher voraus. 
+Dass die Pressemedien jahrelang hochwertige Inhalte gratis zur Verfügung gestellt ha-
+ben, wird gerne als 'Ursünde' bezeichnet. Die Nutzer nun mit allen Regeln der Kunst 
+(schnelle Webseiten, ausgefeiltes SEO, Social Media Marketing) vor die Paywall zu locken, 
+ihnen dort aber keinen unkomplizierten Eingang (z.B. reibungslose Einzelartikelkäufe) 
+sondern ausschließlich Abonnements anzubieten, könnte sich schon in wenigen Jahren 
+als zweite 'Ursünde' erweisen. 
+Nur dass eine zweite Ursünde sprachlogisch keinen Sinn macht. Bekanntlich darf man 
+fast jeden Fehler machen. Nur nicht zweimal. Die branchenweite Strategie, nur auf Abos 
+zu setzen, mag für jeden einzelnen Anbieter derzeit richtig sein. Aber in der Summe aller 
+Angebote erzeugt sie eine toxische Umwelt, in der Verbraucher entweder lernen, 
+Paywalls zu umgehen. Oder Websites mit (erwartbarer) Paywall gar nicht erst aufzusu-
+chen. Das ist genauso fatal, wie die frühere Erziehung zur Gratiserwartung. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 29
+ 
+ 
+ 
+ 
+ 
+Peter Obeldobel, bisher CEO bei Valora Retail Deutschland, hat das Unternehmen ver-
+lassen. Interimistisch übernimmt Roger Vogt aus der Schweizer Konzernleitung. 
+Beim Medienhaus Wimmer (Oberösterreichische Nachrichten) zieht sich Altgesellschaf-
+ter und Geschäftsführer Rudolf Andreas Cuturi in diesem Jahr aus der Unternehmens-
+leitung zurück. Gino Cuturi wird Sprecher der Geschäftsführung. Lorenz und Paolo Cu-
+turi bleiben Geschäftsführer, ebenso wie Herbert Achleitner. 
+Matthias Körner wird neuer Geschäftsführerbei der Rheinischen Post. 
+Ulrich Lingnau ist in die Geschäftsführung der Muttergesellschaft Medien Union GmbH 
+gewechselt. Bei der CVD Mediengruppe (Freie Presse Chemnitz) folgt ihm als Geschäfts-
+führer ab 1. April Dr. Michael Tillian. 
+Kersten Köhler übernimmt Mitte Februar von Hans Homrighausen die Geschäftsfüh-
+rung des Bonner General-Anzeigers.  
+Carsten Groß und Karsten Hundhausen sind seit Januar weitere Geschäftsführer bei Du-
+Mont Rheinland. Groß bleibt auch Geschäftsführer der Vertriebstochter MVR Media Ver-
+marktung Rheinland GmbH.  
+Alexander von Schwerin folgt auf Frank Stahmer als Mitgeschäftsführer der Deutschen 
+Medien-Manufaktur. 
+Geschäftsführer Michael Voss hat den Bauverlag nun auch als Gesellschafter übernom-
+men. 
+Peter Klotzki, Geschäftsführer Kommunikation beim VDZ, verlässt den Verband Ende Feb-
+ruar. 
+Stefan Betzold und Samir Fadlallah, zuvor Managing Director Bild und Welt Digital und 
+CTO, nennen sich nun Geschäftsführer für den digitalen deutschen Verlagsbereich der 
+Axel Springer AG. 
+Springers Vertriebsorganisation Sales Impact erweitert die Geschäftsleitung um Sandra 
+Balcke, Dr. Driedrich Tentrop und David Löffler. Löffler wurde gleichzeitig zum zwei-
+ten Geschäftsführer von Newspaper Impact ernannt. 
+Stephanie von Unruh, Vertriebschefin für Funkes Zeitungsgeschäft in NRW, geht zum  
+1. Juni als Verlagsleiterin Märkte zur Nordwest Zeitung.  
+Penelope Winterhager wird beim Tagesspiegel zum 1. Mai Chief Creative Officer Pro-
+dukte und Plattformen. Als Verlagsleiterin Politik & Konzepte ist ihr Susan Knoll schon 
+gefolgt. 
+P 
+1 
+2 
+7 
+14 
+83 
+ 
+ 
+ 
+QUELLEN:
+PERSONALIEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 30
+ 
+ 
+ 
+ 
+ 
+Postzustellung: nur wenig Verbesserung seit 2017 
+P 
+Zustellung per Post 
+ 
+Bei der Beantwortung der offenen Frage unserer Marktanalyse zum Aboservice hatte uns 
+eine Antwort von Daniel Beljan besonders überrascht. Als Geschäftsführer von Intan, eines 
+Unternehmens, das Abonnements in siebenstelliger Zahl verwaltet, hätte er wie alle übri-
+gen Befragten ein Motiv gehabt, sich zu einem Zukunftszugewandheit signalisierenden 
+(Mode) Thema zu positionieren. Stattdessen sagte er: "Das zentrale Thema … ist zur Zeit 
+das Thema Belieferung. (…) Der Abonnementservice beinhaltet eine zentrale Dienstleis-
+tung und das ist das pünktliche Versenden des Heftes in einem einwandfreien Zustand. 
+Häufig gelingt dies jedoch nicht und die Herausforderungen daraus sind ein punktuell und 
+nicht vorhersehbares Bearbeitungsvolumen sowie aber auch die Verärgerung des Kunden 
+bis hin zur Kündigung der nicht erbrachten Dienstleistung. Zurzeit werden schon viele Ver-
+suche unternommen, diese Probleme zu beheben. Im Zustellbereich bisher leider noch 
+ohne durchschlagenden Erfolg." Bei Intan sei ein zweistelliger Prozentsatz aller Kunden-
+kommunikation auf Zustellreklamationen zurückzuführen.  
+Beljan adressiert hier vor allem Probleme mit der Zustellqualität der Deutschen Post, be-
+tont allerdings gleichzeitig, dass man bisher keinen alternativen Zustelldienstleister gefun-
+den habe, der auch nur deren Qualitätsniveau durchgängig erreicht. Die Zustellqualität 
+der Post war Ende 2017 ein ganz großes Thema für alle Verlage und WBZ-Unternehmen. 
+Wir haben darüber ausführlich in der #12/2017 berichtet. Beljan will nun deutlich machen, 
+dass es aus seiner Sicht keine grundsätzliche Verbesserung gibt. Auch andere Aboverant-
+wortliche bestätigten uns auf Nachfrage, dass es nach wie vor erhebliche Probleme mit 
+der Zustellqualität bei der Deutschen Post gebe. Die Lage scheint sich seit 2017 nur 
+wenig entschärft zu haben. 
+Die Verlage stehen mit ihrer Kritik an der Post nicht allein. Der Deutsche Verband für Post, 
+Informationstechnologie und Telekommunikation e. V. (DVPT), der sich besonders um die 
+Interessen der Post-Geschäftskunden bemüht, hat eine Erfassung der Laufzeiten für Ge-
+schäftspost angekündigt. Ein Marktforschungsunternehmen soll "eine repräsentative, nor-
+mierte und TÜV-zertifizierte Laufzeitmessung von Geschäftsbriefen nach EN13850/ 
+EN14534 durchführen, die über die Deutsche Post AG zugestellt werden", heißt es in einer 
+Pressemitteilung. Ab März werden dazu über ein Jahr hinweg "mindestens 72.000 codierte 
+Testbriefe in den normalen Sendungsverlauf eingespeist. (…) Die Bundesnetzagentur be-
+fürwortet die Messung, da sich die Beschwerden über lange Laufzeiten und Fehl- oder 
+Nichtzustellungen in den Jahren 2017 und 2018 jeweils verdoppelt haben", schreibt 
+der Verband. Die Bundesnetzagentur selbst misst nur die Laufzeiten von privaten Briefen. 
+Die aber, so mailt uns DVPT-Vorstand Klaus Gettwart, betreffen "nur einen kleinen Anteil 
+der Versandmengen von ca. 10%. Der überwiegende Teil ist Geschäftspost, die direkt in 
+den Briefzentralen oder über Konsolidierer der Post übergeben wird" und für die gebe es 
+bisher keine eigenen Daten. 
+ 
+ 
+ 
+ 
+Intan-Geschäftsführer 
+sagt: Zustellprobleme 
+sind unsere zentrale 
+Herausforderung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ende 2017 war das ein 
+Aufregerthema in der 
+gesamten Verlagswelt 
+ 
+ 
+ 
+ 
+Es scheint nach wie vor 
+aktuell zu sein 
+ 
+ 
+ 
+ 
+Verlage stehen nicht al-
+leine.  
+ 
+ 
+(Geschäfts-)Postnutzer-
+verband initiiert syste-
+matische Messung 
+ 
+ 
+"Beschwerden 2017 
+und 2018 jeweils ver-
+doppelt" 
+ 
+ 
+ 
+90% der Briefpost 
+kommt von Unterneh-
+men 
+QUELLEN:
+BRANCHENNEWS & -RECHT
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 31
+Hic sunt dragones 
+'Hier gibt es Drachen' (oder auch: hic sunt 
+leones – hier gibt es Löwen). So wurden in 
+der frühen Neuzeit auf Landkarten und Glo-
+ben Regionen beschriftet, von denen man
+nur wenig, vielleicht sogar nichts, in jedem 
+Fall aber nichts Gutes zu sagen wusste. 
+Im Internet beschreiten auch wir immer 
+wieder Neuland. Würden wir das so kartie-
+ren, wie unsere Vorfahren ihr Neuland be-
+schriftet hatten, dann würde dort oft ste-
+hen: hic est aurum. Hier gibt es Gold. 
+Es gibt eine hohe Bereitschaft, neue digi-
+tale Technologien frühzeitig äußerst erwar-
+tungsvoll willkommen zu heißen. In aller Re-
+gel sind Vorhersagen zur Digitalisierung op-
+timistisch (solange man nicht das Feuilleton 
+liest). Hic est aurum ist derzeit zum Beispiel 
+oft die nicht lesbare Überschrift über allen 
+Fach- und Wirtschaftsartikeln, die mit dem
+Thema Blockchain zu tun haben.  
+Freilich gibt es auch den gegenteiligen Fall. 
+Und das nicht nur bei Feuilletonisten. Dra-
+gones, Drachen bzw. üble Absichten aller 
+Art, vermutet die Netzgemeinde zum Bei-
+spiel gerne bei Google. Auch Verlage positi-
+onieren sich regelmäßig Google-kritisch.  
+Dabei "bemüht sich Google mit viel Ener-
+gie um das Wohlergehen der Verlage" sagt
+… nicht Google, sondern Laterpay-Gründer 
+Cosmin Ene (vgl. S.18). Und so falsch ist das
+nicht. Google hat lange Zeit und ohne jedes
+Anzeichen, dass daraus einmal ein Geschäft 
+werden könnte, versucht, digitale Presse  
+ mit einer Kiosk-App zu fördern. Google
+News ist ein werbefreies Angebot, das vie-
+len Verlagsangeboten massive Reichweiten
+beschert. Google hat in Europa 150Mio$ für
+die Digital News Initiative zur Verfügung ge-
+stellt und anschließend weitere 300Mio$ für
+das Nachfolgeprogramm Google News Initi-
+ative angekündigt. Googles Engagement in
+diesem Bereich beruht wahrscheinlich auf
+einer unentwirrbaren Mischung von ehrli-
+cher Überzeugung und vorausschauender
+Besänftigung einer mehr und mehr regulie-
+rungswilligen Politik. 
+Die Verlage haben gelernt, dass sie gut da-
+mit fahren, gleichzeitig Google-skeptisch zu
+sein und Googles Millionen anzunehmen
+(Fördergelder und Werbeerlöse), Googles
+Gratis-Tools zu nutzen und ihre Webange-
+bote mit Blick auf Google zu 'optimieren'.  
+Das ist eine pragmatische und bisher
+fruchtbare Herangehensweise. Man darf
+sich nur nicht von den eigenen 'Drachen!'-
+Alarmrufen Bange machen lassen. Google
+ist ein unverzichtbarer Infrastrukturanbie-
+ter geworden. Ein Internet ohne Google
+können wir uns gar nicht mehr vorstellen.
+Genauso wenig, wie wir uns ein verlässli-
+ches Bild machen können, wie das Internet
+in fünf oder zehn Jahren aussehen wird. Es
+lohnt sich aber, für die Expedition in dieses
+Neuland mit Google zusammenzuarbeiten.
+Man sollte dem Riesenkonzern mit wachsa-
+mem Optimismus gegenübertreten. 
+ 
+ 
+… letzte Worte 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2019 ׀ SEITE 32
+ Über pv digest 
+ 
+ 
+pv digest ist ein Informationsdienst auf Expertenniveau für das Top-Management 
+rund um das Thema Pressevertrieb und Vertrieb journalistischer Inhalte. pv digest 
+beruht auf eigenen Recherchen und auf Zusammenfassungen an anderer Stelle ver-
+öffentlichter Informationen und bietet einen einzigartigen Überblick über alle stra-
+tegisch relevanten Vertriebsthemen. pv digest unternimmt in der Regel keine Prü-
+fung wiedergegebener Inhalte und übernimmt keine Garantien für die inhaltliche 
+Korrektheit von Informationen. Genutzte Quellen in pv digest sind in der vorliegen-
+den Ausgabe wie folgt codiert: 
+ 
+Quellenverzeichnis Ausgabe 2/2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum und 
+Kontaktdaten 
+ 
+HERAUSGEBER: 
+Markus Schöberl (v.i.S.d.P.) 
+Doverkamp 5 
+22335 Hamburg 
+Telefon: 040 308 901 09 
+e-mail: schoeberl@pv-digest.de 
+www.pv-digest.de 
+ 
+pv digest erscheint 11x jährlich,  
+in der Regel am fünften Werktag 
+eines Monats, als personalisiertes  
+PDF-Dokument 
+ 
+PREISE: 
+Regulärer Bezug Deutschland:  
+pro Ausgabe 65€ zzgl. USt., Aus-
+landspreise auf Anfrage 
+ 
+Sonderpreise für Mengen- oder 
+Firmenabos auf Anfrage 
+ 
+BESTELLUNGEN UND  
+SERVICEFRAGEN:  
+e-mail: abo@pv-digest.de 
+Telefon: 040 308 901 09 
+Post: Doverkamp 5,  
+22335 Hamburg 
+ 
+Bankverbindung: 
+Hamburger Sparkasse 
+BIC:  
+HASPDEHHXXX 
+IBAN:  DE82 2005 0550 1237 1348 10 
+ 
+ 
+ 
+COPYRIGHT: 
+pv digest ist ein empfängerge-
+bundener Informationsservice 
+ 
+ 
+Vervielfältigung und elektroni-
+sche Weitergabe sind untersagt. 
+ 
+ACHTUNG: das nächste pv digest 
+erscheint am 7. März 2019 

@@ -1,0 +1,3156 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urheber-
+recht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens bieten wir 
+attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+Ausgabe 5/2020 
+Liebe Leserinnen und Leser, 
+in der letzten Ausgabe hatte ich Ihnen versprochen, wei-
+tere Infos zum britischen Regionalzeitungsverlag Archant 
+nachzureichen, der in alle seine Websites eine Bitte um 
+freiwillige Bezahlungen integriert hat. Was ich dabei über-
+haupt nicht vorausgesehen hatte war, dass freiwilliges 
+Bezahlen zum größten Thema in dieser Ausgabe werden 
+würde. Spannend fand ich diesen Monetarisierungsan-
+satz schon immer. Aber dass ich außer über Archant 
+(S.5) nun auch noch über dessen Bezahldienstleister 
+Press Patron berichten kann (S.6), über das Supporter-Modell beim österreichi-
+schen Standard (S.3) und sogar über ein Fachmedium, das seine Nutzer erfolgreich 
+darum bittet, für Inhalte zu bezahlen, die sie auch gratis nutzen könnten (S.7), das ist 
+nicht vor allem die Folge meines besonderen Interesses am Thema. Sondern das liegt 
+eindeutig daran, dass sich in den Corona-Wochen ganz viele Publisher auf dieses bis 
+vor kurzem noch exotische Modell besonnen haben. 
+Corona (ich bleibe bei diesem laienhaft ungenauen Begriff, statt das wohl eher kor-
+rekte aber sperrige Covid-19 zu verwenden) ist natürlich auch sonst in zentrales 
+Thema der folgenden Seiten. Herzlich bedanken möchte ich mich an dieser Stelle bei 
+allen Teilnehmern an der Befragung, die Vocatus gemeinsam mit mir durchgeführt 
+hat, um aktuelle Kennzahlen zum Thema zu erheben (S.18).  
+Vom Vorschlag zur Gründung einer Deutschen Medienlogistik GmbH bin ich erst bei 
+der VDZ-Pressekonferenz überrascht worden. Die darauffolgenden Tage habe ich ge-
+nutzt, um mit verschiedenen Seiten über die Frage zu sprechen, welche Vorteile das 
+hätte, welche Phantasien diese Vision weckt (S.23). Zeitgleich habe ich die jüngsten 
+Entwicklungen bei der französischen Printvertriebskooperative Presstalis verfolgt. 
+Da geht es um das Grosso, nicht um Zustellleistungen. Aber es geht eben auch um 
+Zentralisierung und um das Scheitern eines Unternehmens für alle (S.13). 
+Ich wünsche Ihnen Gesundheit, eine anregende Lektüre und einen verkaufsstarken 
+Monat. 
+ 
+ 
+Markus Schöberl, Herausgeber pv digest 
+Der pv digest 
+Quick Guide 
+ 
+Das Wichtigste in 15 Minuten 
+ 
+ 
+Für Zeitschriften- 
+Verlage 
+Für Zeitungs/ 
+News-Verlage 
+Für digitale  
+Verlagsangebote 
+Für Handels- 
+Verantwortliche 
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.  2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.13 
+Analysen und  
+Daten                 
+ 
+S.18 
+Meinungen 
+ 
+S.22 
+Personalien 
+ 
+S.23 
+Branchennews- 
+& Recht 
+ 
+S.23 
+Vermischtes 
+ 
+S.26 
+letzte Worte 
+S.30 
+Editorial 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 2
+ 
+ 
+ 
+ 
+ 
+Corona-Krise pusht freiwillige Bezahlmodelle  
+P 
+freiwillig Bezahlen I 
+ 
+Über Einzelfälle von Medien, die im Lesermarkt teils erhebliche Erlöse damit erwirtschaf-
+ten, dass sie um Abonnements/Mitgliedschaften/Einmalzahlungen bitten, ohne dafür 
+Nicht-Zahlern den Zugang zu Inhalten zu verweigern, berichtet pv digest regelmäßig. In der 
+November-Ausgabe 2017 haben wir erstmals eine Zusammenschau zahlreicher Beispiel-
+fälle für erfolgreiche freiwillige Bezahlmodelle angeboten und resümiert: "Es wird Zeit, 
+dem Konzept des freiwilligen Bezahlens für journalistische Angebote mehr Aufmerksam-
+keit zu widmen" [Abonnenten, die keinen Zugriff auf diese Ausgabe mehr haben, senden 
+wir den Beitrag gerne zu. Bitte melden Sie sich ggf. per Mail an abo@pv-digest.de]. 
+Nun scheint es tatsächlich so weit zu sein. Zahlreiche Medien weltweit, überwiegend 
+getrieben durch die Corona-Krise, wagen die Implementierung von nicht-obligatori-
+schen Bezahlappellen: 
+> Das bekannteste freiwillige Bezahlmodell im Pressebereich weltweit ist das des Guar-
+dian. Der hat auch einen US-Ableger, der lediglich als Website existiert. Die war eigent-
+lich als werbefinanziertes Medium konzipiert. Aber schon seit längerem ruft auch der US-
+Guardian zu freiwilligen Zahlungen auf. Die dafür zuständige CEO Evelyn Webster verriet 
+kürzlich in einem Digiday-Podcast einige Details über diesen Teil ihres Geschäfts. Schon 
+für die nahe Zukunft erwartet sie, dass freiwillige Leserzahlungen und das Werbege-
+schäft zu gleichen Anteilen zu ihren Umsätzen beitragen. Im Unterschied zur Mutter-
+unternehmung in Großbritannien spielen in den USA freiwillige Einmalzahlungen eine 
+viel größere Rolle als freiwillige 'Abonnements'. Ungefähr die Hälfte der freiwilligen Be-
+zahler in den USA spende Einmalbeträge, typischerweise 25$ oder 30$. Webster ist sich 
+sicher: durch die freiwilligen Leserzahlungen wird der Guardian in den USA "selbst im 
+schlimmsten Szenario" profitabel sein. 
+> Das Liverpool Echo, eine der größeren Lokalzeitungen in Großbritannien, ruft seit Ende 
+April zu freiwilligen Bezahlungen auf. Der Mutterkonzern Reach sagt, noch [!] habe er 
+keine Pläne, diese Maßnahme auf alle seine Zeitungswebsites auszurollen. Ein anderer 
+großer Regionalzeitungskonzern (Archant) ist da schon deutlich weiter. Dazu berichten 
+wir unten in einem eigenen Artikel. 
+> Robyn Tomlin, Leiterin mehrerer Redaktionen beim US-Zeitungsriesen Gannett, berichtet 
+über einen Hilferuf an die Leser der Zeitung The News&Observer. Gerne habe sie das 
+nicht getan. Aber der nur langsame Anstieg der Abos habe das nötig gemacht. "Was dann 
+passierte, hat mich überrascht", berichtet sie in eigener Sache. "Wir sahen einen soforti-
+gen Anstieg (im Wochenvergleich rund 75%) freiwilliger Abos (…) Wir bekamen auch 
+eine Menge Einmalspenden von unseren Lesern. Bisher 35.000$ von mehr als 350 Leuten 
+und das geht noch weiter". Allerdings berichtet sie auch, dass ein analoger Aufruf bei 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corona treibt auch 
+freiwillige Bezahlmo-
+delle. Beispiele: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Guardian USA: Wer-
+bung und freiwillige 
+Zahlungen bald auf 
+Augenhöhe 
+ 
+ 
+ 
+selbst im Worst Case 
+profitabel 
+ 
+ 
+ 
+• britische Zeitungs-
+websites installieren 
+Bezahl-Bitten 
+ 
+ 
+ 
+ 
+ 
+• 1 Gannett-Zeitung 
+berichtet von Erfolg 
+mit Bezahl-Bitte 
+ 
+ 
+ 
+aber: bei Schwesterti-
+teln nicht erfolgreich 
+QUELLEN:
+NACHRICHTEN AUS VERLAGEN
+UND VERLAGSVERTRIEBEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 3
+anderen Gannett-Zeitungen, für die sie auch verantwortlich ist, nicht so gut funktio-
+niert habe. 
+> Vox Media, einst eines der meistgehypten Digital only-Startups, hat erst vor rund 15 Mo-
+naten eine Paywall eingerichtet. Nun stellt es, wie viele US-Medien, alle Corona-Berichte 
+vor die Paywall. Aber es ruft dazu auf, freiwillige Abos abzuschließen oder auch Ein-
+malbeträge zu spenden, um diesen Gratisservice möglich zu machen. The Daily Beast, 
+inszeniert häufig drei alternative Aboangebote nebeneinander. Dabei hat die Politik-
+&Kulturwebsite nun das vorher teuerste Angebot (2-Jahres-Mitgliedschaft) durch eine 
+Jahres-Mitgliedschaft für 100$ ersetzt, die eine "Spende mehr"-Option beinhaltet, be-
+richtet Digiday. Dadurch sei der durchschnittliche Bestellwert um 35% gestiegen. 
+> Infolibre, die (sehr viel kleinere) spanische Partnerunternehmung des großen französi-
+schen Paid Content-Erfolgs Mediapart, hat ihre bestehenden Abonnenten aufgefordert, 
+Abonnements für Leser mit kleinem Budget zu spenden. Die Zahl der Neuabschlüsse 
+hat sich in den letzten Wochen dadurch verdoppelt und die lange schon angestrebte 
+Marke von 10.000 bezahlenden Leser wurde überschritten. 
+> Spotify hat eine Spendenfunktion eingerichtet, die es Fans ermöglicht, über die Spotify 
+App unkompliziert ihren Lieblingskünstlern Geld zukommen zu lassen. 
+Neben diesen sporadischen Beobachtungen stellen wir drei Cases ausführlich vor… 
+ 
+ 
+ 
+ 
+• Vox installiert freiwil-
+lige Bezahlungen ne-
+ben Paywall 
+ 
+• Daily Beast ergänzt 
+Aboangebote um 
+"Spende mehr"-Op-
+tion 
+ 
+=>+35% Bestellwert 
+ 
+ 
+• Infolibre: mit Spen-
+denaufruf Zielmarke 
+bei Abobestand über-
+schritten 
+ 
+ 
+• Spotify installiert 
+Spendenfunktion 
+ 
+ 
+ 
+Der Standard wirbt um freiwillige Bezahler. Erst ver-
+steckt, seit 2020 mit Vollgas 
+ 
+freiwillig Bezahlen' II 
+ 
+Überwiegend unter dem Radarschirm experimentiert die österreichische Tageszeitung 
+Der Standard schon seit Mitte 2019 mit freiwilligen Bezahlungen. Damals bekam ein sehr 
+kleiner Kreis von nur 5.000 Nutzern der beim Standard mit rund 50.000 monatlichen akti-
+ven Nutzern sehr großen Community (also der Kommentar- und Dialogplattform der Zei-
+tung) erstmals einen Aufruf zu sehen, eben diese Community mit freiwilligen Bezahlungen 
+zu unterstützen. Die Community ist ein Kernangebot der linksliberal zu verordnenden na-
+tionalen Qualitätszeitung, die in diesem Jahr ihren 25. Geburtstag feierte. Digitalchefin Ger-
+linde Hinterleitner, schon seit Beginn verantwortlich für den Webauftritt, sagt in einem le-
+senswerten Blogpost über die Geschichte dieser Plattform: "Wir waren das erste Medium 
+weltweit, das jeden Artikel zur Diskussion stellte" [pv-digest.de/linkliste Link1]. 
+Drei Monate nach den ersten Tests 2019 erweiterte die Zeitung den Kreis der Personen, 
+die um freiwillige Bezahlungen gebeten wurden, auf immer noch nur 20.000 Nutzer. Dabei 
+ging es weiterhin um den Appell, auf diesem Weg die Weiterentwicklung der Community 
+zu fördern. Im Zusammenhang mit den Nationalratswahlen im Herbst 2019 sollte mit dem 
+Geld unter anderem auch Lobbying gegen eine Klarnamenpflicht im Internet finanziert 
+werden, erzählt Florian Stambula, Head of Digital Subscriptions, im Gespräch mit pv digest. 
+Denn in Österreich drohte eine "digitales Vermummungsverbot" (Netzpolitik.org), und die 
+Möglichkeit zu anonymen Kommentaren ist vielen Nutzern der Community auf derstan-
+dard.at ein wichtiges Anliegen. 
+ 
+österreichische Tages-
+zeitung Der Standard 
+experimentiert seit 
+Mitte 2019  
+ 
+ 
+zunächst nur in der 
+Community (Kommen-
+tar- und Diskussions-
+bereich) 
+ 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 4
+Die Erfahrungen mit diesen vorsichtigen Testschritten waren positiv, auch wenn sich bis 
+Ende des vergangenen Jahres nur 600 freiwillige Bezahler gefunden hatten, die insgesamt 
+20.000€ 'gespendet' hatten. Nachdem die Entscheidung gefallen war, diesen Monetari-
+sierungsmechanismus auszubauen, setzte der Standard ab Anfang 2020 auf die 
+Paywalltechnologie von Piano, um die freiwilligen Bezahlungen besser managen zu kön-
+nen. Das habe einen ersten Boost ergeben, berichtet Florian Stambula. 
+Bis dahin wurde das Projekt mit stark angezogener Handbremse verfolgt, weil es erheb-
+liche Bedenken gab, der Ruf der Marke könnte darunter leiden, um Geld zu bitten. 
+Außerdem war die Not nicht groß. Das digitale Werbegeschäft des Jahres 2019 lief prächtig. 
+Spätestens mit Einbruch der Corona-Krise war das passé. Und damit fielen auch viele 
+Bedenken. Nun findet sich schon oben auf der Homepage neben dem 'Abo'-Button auch 
+ein 'Supporter'-Button.  
+Etwas weiter unten auf der Startseite wird derzeit ein großflächiger Bezahlappell plat-
+ziert, der ausdrücklich auf die Corona-Krise Bezug nimmt.  
+Am 6. April veröffentlichte die Redaktion einen Erklär-Artikel zum Supporter-Modell. Aus-
+führlich wird darin erklärt, warum standard.at keine Paywall hat [pvd: 'weil wir unsere 
+Werbeerlöse nicht gefährden wollten'… ach nein, anders: "Als STANDARD verfolgen wir seit 
+über 30 Jahren die Idee, dass möglichst viel Information möglichst vielen Menschen frei 
+zugänglich sein soll. Aus diesem Gedanken heraus bitten wir Leserinnen und Leser, wenn 
+sie können, ein Abo abzuschließen oder als STANDARD-Supporterinnen oder STANDARD-
+Supporter solidarisch dazu beizutragen, damit wir diese Idee auch weiterhin verfolgen 
+können"]. 
+Wer einen Artikel der gratis nutzbaren Website aufruft, der bekommt bisweilen nochmals 
+den Unterstützungs-Appell zu sehen, aber noch nicht in jedem Fall. Dass hier noch nicht 
+mit maximaler kommunikativer Kraft um freiwillige Bezahler geworben wird, das 
+mit den begrenzten 
+Tests bis Ende 2019 
+600 Bezahler, 20.000€ 
+erreicht 
+ 
+ 
+ 
+ 
+Bedenken: leidet die 
+Marke unter dem Mo-
+dell? 
+ 
+2020 Full Run: nun 
+werden alle Nutzer um 
+freiwillige Bezahlungen 
+gebeten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Argumentation: freiwil-
+liges Bezahlen, um In-
+formationen frei zu-
+gänglich zu halten 
+ 
+ 
+ 
+ 
+ 
+ausstehend: weitere 
+Optimierung der Be-
+zahlprozesse 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 5
+liege daran, dass man noch Optimierungspotenzial im Checkout sehe, erläutert Stambula. 
+Zum Beispiel mehr Bezahlwege anzubieten oder auch eine Möglichkeit zu anonymen Be-
+zahlungen, was Teilen der Standard-Community ein wichtiges Anliegen sei. Auch bei der 
+Verteilung auf regelmäßige Zahler (freiwillige Abos) und Einmalzahler sieht er noch deutli-
+ches Potenzial. Bisher entschließe sich nur ein Viertel der Bezahler zur Regelmäßigkeit, 
+drei Viertel der Bezahler spendeten einen Einmalbetrag. 
+Insgesamt hat die Corona-Krise den ohnehin geplanten Rollout des freiwilligen Bezahl-
+modells beim Standard extrem beschleunigt. Bis März waren alle Maßnahmen umgesetzt, 
+die bis zur Jahresmitte geplant waren. Aber dafür konnte die Zeitung auch in großem Um-
+fang von der bei praktisch allen Medien verzeichneten Bezahlbereitschaft profitieren. Im 
+Lauf dieses Jahres sind zu den 600 freiwilligen Bezahlern des letzten Jahres schon über 
+5.500 neue freiwillige Bezahler hinzugekommen. Aus 20.000€ Erlös 2019 sind mittlerweile 
+180.000€ freiwillige Bezahlungen geworden. Zu Ende April dürfte der Jahresplan 2020 
+erfüllt worden sein. 
+ 
+ 
+(mehr Bezahlweg-Opti-
+onen, anonyme Zah-
+lungen möglich ma-
+chen) 
+ 
+bisher nur ¼ regelmä-
+ßige Bezahler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+seit Anfang 2020: 
++5.500 Bezahler 
++180.000€ 
+ 
+ 
+ 
+ 
+Britischer Lokalzeitungskonzern Archant bittet um frei-
+williges Bezahlen via Press Patron 
+P 
+freiwillig Bezahlen III 
+ 
+KONZERN schreiben wir an dieser Stelle einmal groß, um deutlich zu machen, dass hier 
+nicht ein kleiner Nischendienst oder eine geschlossene 'Community' zu freiwilligen Bezah-
+lungen aufruft, sondern ein Unternehmen, das 2018 (aktuellere Daten liegen nicht vor) mit 
+seinen rund 50 Zeitungen 64,2Mio£ Werbeumsatz, 16,4Mio£ Vertriebsumsatz und 
+7,6Mio£ Verlust erwirtschaftet hat. 
+Neben ihren Printausgaben publizieren Titel wie die North Norfolk News, Norwich Extra 
+oder die Eastern Daily Press auch digitale Inhalte über ihre Websites. Bisher ohne 
+Paywall und trotz Werbeerlösen wohl meistens auch ohne Gewinn. In der aktuellen Krise 
+zunehmend auch mit immer weniger Werbeerlösen. 
+In dieser Situation hat sich der Zeitungsverlag auf ein Modell besonnen, das etablierte 
+Medien fast durch die Bank ignorieren: freiwilliges Bezahlen. Als Vorbild für seinen Ver-
+lagskonzern nennt Archant Chief Content Officer Matt Kelly einerseits den bekannten Fall 
+des Guardian, andererseits aber auch den im eigenen Verlag erscheinenden Wochentitel 
+The New European [Dieser Titel erschien als Spontan-Publikation unmittelbar nach der 
+Brexit-Abstimmung in Großbritannien. Seitdem hat er sich – zur Überraschung auch von 
+Archant – erfolgreich etabliert. Sein Webangebot war anfangs kostenfrei. Später testete 
+die Wochenzeitung den Micropaymentdienst Axate und bot einzelne Artikel für 10Cent an. 
+Im Juli letzten Jahres ersetzte der Verlag die Einzelartikelbezahlung durch einen Aufruf zu 
+freiwilligen Bezahlungen]. Sowohl beim Guardian wie beim EU-begeisterten New Euro-
+pean beruhe der Erfolg des freiwilligen Bezahlmodells auf dem emotionalen 
+ 
+ 
+UK-Verlagskonzern  
+Archant (50 Lokalzei-
+tungen) 
+ 
+ 
+ 
+ 
+bisher Gratis-Websites 
+ 
+ 
+ 
+ 
+ 
+nun alle mit Aufruf 
+zum freiwilligen Bezah-
+len 
+ 
+ 
+ 
+ 
+ 
+ 
+Vorbilder: Guardian, 
+The New European 
+ 
+ 
+ 
+pvd meint: Ja, Der Standard ist außerdem die Zeitung, die das PUR-Abo erfunden hat, 
+jenes Werbefrei-Abo, das sich in diesem Jahr erst Der Spiegel und danach Die Zeit zum 
+Vorbild genommen haben. Der Standard ist ohne Zweifel seit 25 Jahren ein Kreativ-Hot-
+spot der Tageszeitungswelt. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 6
+Interesse, das die jeweiligen Leser am Bestehen der beiden Publikationen haben. "Sie fin-
+den [den Bezahlaufruf] nicht als lästig. Sie sind stolz, einen Beitrag leisten zu können. Das 
+gleiche sollte auf unsere lokalen Titel zutreffen", schreibt Kelly zum Rollout des Modells auf 
+die vielen kleinen Lokalzeitungs-Websites.  
+Als Bezahldienstleister nutzt Archant den 2017 gegründeten neuseeländischen Anbie-
+ter Press Patron. Über den haben wir ebenfalls in der oben genannten Ausgabe #1/2017 
+berichtet. Press Patron-G  ründer Alex Clark hatte uns damals detaillierte Zahlen zu den 
+ersten Monaten seines frisch gegründeten Unternehmens genannt. Die positiven und da-
+mals noch jungen Trends hat Press Patron augenscheinlich fortschreiben können. Der öf-
+fentlich-rechtliche Radiosender Radio New Zealand berichtete im April nicht nur, dass 
+Press Patron einen Corona-Boom erfährt. Sondern auch, dass über Press Patron seit der 
+Gründung schon 2Mio$ freiwillige Bezahlungen generiert wurden [australische AUS$! 
+In Euro entspricht das ungefähr 1,2Mio€]. Von denen wurden über 90% an die (überwie-
+gend australischen) Publisher-Kunden ausgeschüttet – 5%, also bisher 100.000AUS$, be-
+hält Press Patron als Vergütung ein. Weitere Kosten für die Publisher entstehen durch 
+Transaktionskosten bei Kreditkartenzahlungen oder Überweisungen.  
+Laut Clark wachsen die Erlöse aus freiwilligen Bezahlungen via Press Patron seit der Grün-
+dung ununterbrochen. Natürlich gibt es auch Abgänge bei den freiwilligen Bezahlern. Die 
+monatliche Churnquote beziffert Clark auf 2%. Die ganz große Mehrheit der Unterstüt-
+zer bezahle regelmäßig, entweder monatlich oder jährlich. Und wer nur eine Einmalzah-
+lung leistet, der bezahle im Schnitt so viel, wie die regelmäßigen Zahler pro Jahr. 
+Sehr interessant ist auch ein Resümee, dass Alex Clark bereits 2017 für pv digest gezogen 
+hat, und über das aktuell nun auch Radio New Zealand berichtet: "Es macht keinen Un-
+terschied, ob es um For-Profit oder um Non-Profit-Unternehmen geht. Was wichtig 
+ist, ist die Mission der Publikation und die Stärke ihres Journalismus."  
+These: wer eine 'Missi-
+on' hat, der findet 
+auch freiwillige Zahler 
+ 
+Lokalzeitungen haben 
+eine Mission 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bezahldienstleister 
+Press Patron 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+gegründet 2017, seit-
+dem kontinuierlich ge-
+wachsen 
+ 
+ØChurnquote: 2% 
+ 
+ 
+ 
+'freiwillig' funktioniert 
+gleich gut bei For-Profit 
+und Non-Profit 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 7
+Eine halbe Millionen AUS$ will Clark bisher in sein Unternehmen investiert haben. Bis 
+zum Break Even hat er also noch einen langen Weg vor sich. Die Corona-Krise könnte dabei 
+ein Beschleuniger sein. Clark berichtet, dass Press Patron in vier Wochen der Corona-Krise 
+statt täglich 2.500AUS$ (Januar-Durchschnitt) 25.000AUS$ freiwillige Bezahlungen gene-
+riert habe. Im Januar hätten sich 400 neue Bezahler registriert, im Februar rund 900. In 
+den 4 Wochen der Krise aber seien es 7.000 gewesen. Den größten Erfolg im aktuellen 
+Boom verzeichneten Medien, die ihren Lesern offen vom Crash im Anzeigenmarkt berich-
+ten und die deutlich machten, dass Werbefinanzierung in der Covid-19-Krise nicht trage, 
+analysiert Clark die unterschiedlichen Ergebnisse seiner Kunden. 
+ 
+ 
+Freiwilliges Bezahlen beim B2B-Medium Skift 
+P 
+B54 
+freiwillig Bezahlen IV 
+ 
+Skift ist ein 2012 gestartetes B2B-Medium für die Reiseindustrie. Skift bietet journalis-
+tische Inhalte, Daten und Services sowohl für die Tourismusbranche als auch für Ge-
+schäftsreisen. Nachdem Skift anfangs hohe Erwartungen bei frühen Investoren geweckt 
+und deren Startfinanzierung verbrannt hatte, entschieden sich die Gründer Rafat Ali und 
+Mitgründer Jason Clampet 2014 für einen langsameren, weniger finanzbedürftigen Ent-
+wicklungspfad als in den ersten Jahren.  
+Dennoch bezeichnet Skift sich heute als die größte Marketing- und Informationsplattform 
+der Reiseindustrie. Vor einem Jahr berichtete CNBC, dass Skift jährlich 10Mio$ Umsatz 
+erziele, 60 Mitarbeiter beschäftige und seit 2015 profitabel sei. Rund 40% der Umsätze 
+kämen aus dem Werbegeschäft, weitere 40% aus Konferenzen und Events und 20% aus 
+dem Vertrieb der Jahresabos zum Zugriff auf Statistiken und Spezialreports. Die kos-
+ten rund 2.000$ für eine Einzellizenz. Aber der Regelfall sollen individuell verhandelte Fir-
+menlizenzen sein, für die zwischen 10.000$ und 15.000$ pro Jahr bezahlt werden. Seit dem 
+Frühjahr 2019 arbeitete Skift am Aufbau einer Metered Paywall, mit der auch die gratis 
+nutzbare Website im Lesermarkt monetarisiert werden sollte. Anfang 2020 war alles bereit 
+für deren Start. 
+Dann kam Corona. Events wurden verschoben (oder müssen gecancelt werden). Das 
+Werbegeschäft brach ein. Die Abokunden überprüften ihre Budgets. Gleichzeitig ist der 
+Informationsbedarf gerade in der existenziell betroffenen Reisebrache extrem hoch. Ein 
+Fachmedium der Reiseindustrie ist vielleicht noch mehr als andere B2B-Medien von 
+Corona betroffen.  
+Skift reagierte früh und entschieden. Ein Drittel der Angestellten wurde in Zwangsurlaub 
+geschickt, Budgets für freie Mitarbeiter gestrichen. Weil zufällig im Juli dieses Jahres der 
+Mietvertrag für die Büroräume ausläuft, überlegt Ali, das Unternehmen dauerhaft aus den 
+Homeoffices der Mitarbeiter heraus weiter zu betrieben. 
+Sehr ungewöhnlich für ein B2B-Medium agiert Skift bei seiner Strategie im Nutzer-
+markt. Zunächst wurde die Einrichtung der Metered Paywall ausgesetzt. Das Aboangebot 
+wurde um eine monatlich zu bezahlende Variante à 295$ ergänzt, so dass die Firmen-
+kunden bei ihren Ausgaben für das Fachmedium flexibel sind.  
+Seit Anfang März bittet Skift seine Website-Nutzer außerdem um freiwillige Bezahlun-
+gen. Vorgeschlagen werden 'Contributions' von einmalig oder wahlweise regelmäßig 50$, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skift startete 2012 als 
+Informationsangebot 
+für die Reiseindustrie 
+ 
+ 
+zuletzt 10Mio$ Umsatz, 
+davon 40% Events, 
+40% Werbung 
+ 
+ 
+20% Paid Content 
+ 
+ 
+ 
+ 
+Reisebranche ist ver-
+mutlich am stärksten 
+von Corona betroffen 
+ 
+ 
+ 
+Skift reagiert teils mit 
+Einsparmaßnahmen 
+ 
+ 
+ 
+teils unkonventionelle 
+Maßnahmen im Nut-
+zermarkt 
+ 
+Flexabo für Paid Con-
+tent 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 8
+100$, 250$ oder ein 'anderer' Betrag (Soviel-Du-willst-Pricing). 99% der Nutzer entscheiden 
+sich bisher für Einmalzahlungen, sagt Jason Clampet im sehenswerten Videointeview mit 
+Digiday [pv-digest.de/linkliste Link2].  
+Um die Verluste im Eventgeschäft zu begrenzen, veranstaltet Skift Webinare. Den Teilneh-
+mern wird dabei kein fester Preis abverlangt. Es wird um freiwilliges Bezahlen gebeten.  
+Das Pricing ist so 
+gestaltet wie beim 
+Contributions-Mo-
+dell, nur ohne die 
+'Regelmäßig 
+be-
+zahlen'-Option. In der Kommunikation herausgestellt wird die 'Soviel-Du-willst'-Option.  
+"Wir wissen, dass es für die ganze Branche eine herausfordernde Zeit ist. Wir bieten die-
+ses Event auf 'Bezahlen-Sie-soviel-Sie-wollen'-Basis an". Für ein Seminar im März zum 
+Thema Geschäftsreisen fanden sich 3.000 Teilnehmer. Der durchschnittlich bezahlte Be-
+trag waren 37$. Das wären in Summe über 100.000$ Umsatz aus freiwilligen Nutzerzah-
+lungen für ein einziges Webinar! Im Videointerview mit Digiday berichtet Jason Clampet, 
+dass der durchschnittlich freiwillige bezahlte Betrag für ein anderthalb- bis zweistündiges 
+Webinar bei 33$ liege. 
+Die Gesamterlöse aus dem freiwilligen Bezahlmodell bezeichnet Skift-Gründer Rafat Ali 
+als "bedeutsame Zusatzumsätze im 6stelligen Bereich, die wir vor 35 Tagen noch nicht 
+hatten". Im Videointerview mit Digiday sagt er aber auch voraus, "irgendwann wird sich 
+der Goodwill ausdünnen". 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+freiwillige Bezahlungen 
+statt Paywall auf 
+Website 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+freiwilliges 'Soviel-Du-
+willst'-Bezahlen für We-
+binare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ØErlös pro Teilnehmer 
+33$ 
+ 
+Top-Webinar mit 
+>100.000$ Erlös 
+ 
+ 
+ 
+ 
+pvd meint: Das mag sein. Vielleicht wird er aber auch noch positiv überrascht. Was 
+uns überrascht ist, dass ein freiwilliger Bezahlaufruf im B2B-Bereich überhaupt funktio-
+niert. Denn der klassische B2B-Nutzer reicht seine Rechnungen bei seiner Firma ein und 
+muss Ausgaben entsprechend rechtfertigen. 'Ich habe gespendet' dürfte in vielen Buch-
+haltungen zu kritischen Rückfragen führen. Dass es im Reisebereich funktioniert, könnte 
+daran liegen, dass es dort noch sehr viele Kleinstunternehmen gibt. "Pop-and-Mom-Bu-
+sinesses" nennt Rafat Ali diese Unternehmen, bei denen die Bezahler nur sich selbst 
+gegenüber Rechenschaft ablegen müssen. Es könnte aber auch sein, dass wir hier falsch 
+liegen. Dass auch im B2B-Bereich ein regelmäßiger Nutzer bereit ist, aus purer Einsicht 
+oder aus Verbundenheitsgefühl heraus statt aus 'Zwang' zu bezahlen. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 9
+ 
+Audiocooking: G+J launcht vierte Bezahlapp 
+P 
+Audiocooking 
+ 
+Mit der Chefkoch-App hat Gruner+Jahr längst bewiesen, dass auch das Thema Kochen 
+durch Paid Content monetarisiert werden kann. Nun hat der Verlag über die Deutsche 
+Medien Manufaktur, sein Joint Venture mit dem Landwirtschaftsverlag Münster, ein weite-
+res digitales Koch-Bezahlangebot gelauncht. Für 'Audiocooking' hat er sich einiges einfal-
+len lassen, was über Premium-Inhalte oder Werbefreiheit (wie bei der Chefkoch-App) 
+hinausgeht.  
+Audiocooking trägt seinen USP schon in Namen. Die Rezepte sollen auf mobilen Geräten 
+oder per Smartspeaker angehört und auch per Sprache gesteuert werden. Zum Bei-
+spiel kann der Vortrag der Rezepte unterbrochen werden oder einzelne Kochschritte kön-
+nen per Sprachbefehl wiederholt abgespielt werden können. 200 'besonders beliebte' Re-
+zepte werden dabei nicht von einer Computerstimme, sondern durch einen professionel-
+len Sprecher vorgelesen. Neben den derart interaktiv nutzbaren Kochrezepten bietet die 
+App aber auch magazinartige Inhalte (z.B. aus dem Bereich Warenkunde oder Kochschule) 
+und redaktionell kuratierte Bereiche zur Inspiration der Hobbyköche. 
+Zum Start kostet die Nutzung 99Cent pro Monat. Der Aboabschluss erfolgt über Sub-
+scribe with Google. 
+ 
+ 
+G+J launcht zweite Be-
+zahl-App zum Thema 
+Kochen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Audiocooking kann per 
+Sprachbefehl gesteuert 
+und im Audioformat 
+genutzt werden 
+ 
+ 
+ 
+ 
+99Cent/Monat per 
+Subscribe with Google 
+ 
+ 
+The Browser – der bezahlpflichtige Kuratierungsservice 
+wird zum Multi-Medien-Unternehmen 
+P 
+The Browser 
+ 
+The Browser ist unter den vielen Paid Content-Angeboten weltweit eines der ungewöhn-
+lichsten. Nicht nur weil The Browser sich von seinen Abonnenten dafür bezahlen lässt, 
+dass es ihnen täglich eine Auswahl von fünf irgendwo im Web publizierten, lesens-
+werten, gratis verfügbaren Texten empfiehlt. Sondern weil The Browser mit diesem Ku-
+ratierungsservice seit vielen Jahren wirtschaftlich erfolgreich ist und seine Aboumsätze 
+kontinuierlich sowohl durch einen wachsenden Abonnentenbestand als auch durch Abo-
+preiserhöhungen steigert. 
+2013 begann Gründer und Chefredakteur Robert Cottrell für das rund fünf Jahre vorher 
+kostenlos gestartete Angebot 20$ pro Jahr zu berechnen. Als wir in der Ausgabe 12/2014 
+zum ersten Mal über The Browser berichteten, da hatte Cottrell bereits 7.300 Abonnenten 
+eingesammelt. Mitte 2015 (vgl. pvd #8/2015) waren es 8.000. Der Preis war für neue Abon-
+nenten auf 34$ angehoben, wobei bestehende Abonnenten von der Preiserhöhung aus-
+genommen waren. Diesen wurde zugesichert, dass sie auf Lebenszeit während eines lau-
+fenden Abos keine Preiserhöhungen befürchten müssten. Dieses Versprechen galt auch 
+ 
+ 
+ 
+ 
+täglicher Newsletter 
+mit 5 Linktipps zu le-
+senswerten Artikeln ir-
+gendwo im Web 
+ 
+ 
+ 
+ 
+2008 gestartet 
+ 
+seit 2013 bezahlpflich-
+tig 
+ 
+ 
+Neukunden bezahlen 
+heute 48$/Jahr 
+pvd meint: das kreative Powerhouse der deutschen Zeitschriftenlandschaft, Gru-
+ner+Jahr, ist auch im Bereich der digitalen Bezahlangebote ein Multipionier. Das ist nun 
+schon die vierte App aus diesem Verlag (vgl. unseren Bericht über die anderen drei in 
+pvd #1/2020) die sich über Lesermarkt finanzieren soll und die dabei auf ein völlig neues 
+Produktkonzept setzt, das über die Idee einer digitalen Zeitschrift hinausgeht. Allerdings 
+hatten wir mit unserer Testinstallation (1!) auf dem Smartphone einige technische Prob-
+leme. Da passten Produktidee und Produktperformance noch nicht zusammen. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 10
+bei der nächsten Preiserhöhung auf 48$ im Jahr (oder 5$/Monat) im Oktober 2018. Im De-
+zember 2018 stand der Abozähler bei 10.000. Heute sind es 11.000 Abonnenten. 
+Mittlerweile gibt es Ableger im Bereich Podcasts und Bewegtbild. Seit Oktober 2018 er-
+scheint der Bezahl-Newsletter The Listener. Für wahlweise 5$ monatlich oder 30$ jähr-
+lich empfiehlt und beschreibt Chefredakteurin Caroline Crampton werktäglich drei her-
+ausragende Podcast-Folgen. 90% der Abonnenten entschieden sich für das Jahresabo, sagt 
+Publisher Uri Bram, der zugleich CEO der Mutterunternehmung The Browser Ltd ist. Die 
+Zahl der Listener-Abonnenten wachse weiterhin, "aber es wird eine lange Zeit brauchen, 
+um die Größe von The Browser zu erreichen. 10 Jahre sind viel Vorsprung". 
+Ganz frisch und sogar noch ohne Bezahloption erscheint unter dem Dach von The 
+Browser Ltd. The Viewer, ein wöchentlicher Newsletter mit Videotipps. 
+Für Abonnentenverwaltung und Versand seiner Newsletter wurde The Browser einer 
+der ersten Kunden des mittlerweile sehr erfolgreichen Bezahlnewsletter-Dienstleisters 
+Substack (über den wir in der letzten Ausgabe berichtet haben). Zuvor hatte The Browser 
+seine Kunden selbst verwaltet und per Kreditkarte bezahlen lassen. The Listener und The 
+Viewer nutzen die Technik der 'Membership'-orientierten Publishing-Plattform Ghost. Uri 
+Bram begründet auf unsere Nachfrage, warum The Listener und The Viewer sich nicht 
+auch der Dienste von Substack bedienen: "Ghost berechnet 0% der Umsätze eines Publis-
+hers (sie berechnen nur eine Grundgebühr zwischen 400$ und 2.000$) während Substack 
+10% der Umsätze in Rechnung stellt. (…) Davon abgesehen ist Ghost flexibler und außer-
+dem Open Source und es wird von herausragenden Websites schon seit sechs Jahren ge-
+nutzt. Das E-Mail-Newsletter-Feature haben sie im Januar gelauncht und wir sind begeis-
+tert, das als eine der ersten Publikationen nutzen zu können".  
+ 
+aktuell  
+11.000 Abonnenten 
+ 
+ 
+seit Oktober 2018 gibt 
+es The Listener 
+ 
+ 
+30$/Jahr für täglich 
+drei Podcast-Tipps 
+ 
+ 
+ganz neu: The Viewer: 
+wöchentliche Video-
+tipps (noch gratis) 
+ 
+ 
+The Browser nutzt 
+Substack 
+ 
+Listener&Viewer publi-
+zieren und monetari-
+sieren via Ghost 
+ 
+ 
+ 
+ 
+The Globe and Mail kuratiert digitale Angebote und 
+Print mit Künstlicher Intelligenz 'Sophi'. Mit Erfolg. 
+84 
+Kuratierung per KI 
+ 
+Seit einem Jahr werden die Digitalangebote der kanadischen Zeitung The Globe and Mail 
+von einem System Künstlicher Intelligenz [mit]kuratiert. Einem System, an dem die Daten-
+techniker und Journalisten der Zeitung bereits seit acht Jahren arbeiten. Alle 10 Minuten 
+überprüft 'Sophi' die Digitalangebote, vermisst den Wertbeitrag einzelner Artikel und 
+platziert die Artikel den Analysen entsprechend optimal. Laut einem Blogpost von So-
+nali Verma, Senior Product Manager Analytics beim Globe and Mail, habe das zu einer 
+"dramatischen Verbesserung" der Geschäftsergebnisse geführt [pvd: der Blogpost soll 
+auch ein Lizenzangebot für 'Sophi' promoten. Ein wenig Skepsis kann nicht schaden.] 
+Sophi mache es möglich, die ganz unterschiedlichen Erfolgsbeiträge von Artikeln vor 
+und hinter der schon 2012 eingerichteten Paywall zu vergleichen. Das System berechne 
+ 
+ 
+kanadische Zeitung 
+Globe&Mail lässt KI re-
+daktionelle Entschei-
+dungen treffen 
+ 
+ 
+"dramatische Verbes-
+serung" der Ergebnisse 
+ 
+ 
+ 
+ 
+ 
+pvd meint: The Browser ist nach wie vor ein sehr kleines Unternehmen. Aber nun 
+eines mit drei unterschiedlichen Angeboten, die alle auf einer wichtigen Erkenntnis be-
+ruhen: Nutzer bezahlen nicht nur für exklusive Inhalte. Sondern sie bezahlen auch für 
+die Auswahl und Präsentation der Inhalte; selbst dann, wenn diese eigentlich gratis ver-
+fügbar sind. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 11
+dazu Scorewerte in den Dimensionen Kundenbindung, Kundenneuwerbung, Neu-Regist-
+rierungen und auch Werbeerlöse. Das Programm solle so programmiert sein, dass es die 
+Effekte unterschiedlich großer/prominenter Platzierungen neutralisiere und somit wirklich 
+nur den Wertbeitrag des einzelnen Artikels auf den Punkt bringe. 
+Die Redaktion entscheide nur noch über die jeweiligen 3 Top-Artikel auf der Homepage 
+und in der Wirtschafts-Rubrik. Alle anderen Platzierungen im Web und in den Apps steuere 
+Sophi. Wobei die Redaktion die 'Entscheidungen' der Künstlichen Intelligenz jederzeit in 
+Frage stellen und nach eigenem Ermessen korrigieren könne. Allerdings sei das nur selten 
+notwendig, weil die KI in enger Zusammenarbeit mit der Redaktion entwickelt worden sei. 
+Die nun sehr weitgehende Autonomie der Software wurde langsam entwickelt und in 
+A/B-Tests verprobt. Die automatische kuratierte Homepage habe eine um 17% bessere 
+Klickrate, schreibt Sonali Verma. Und sie erziele auch um 10% bessere Neuabozugänge 
+im Vergleich zur menschlichen Kuratierung. Außerdem seien die Werbeerlöse gestiegen. 
+Sophi übernehme mittlerweile sogar das Print-Layout. Und im ganzen Jahr seit Sophis Ein-
+satz habe sich kein Leser beschwert oder die Frage gestellt, "ob ein Computer hinter der 
+Website steckt", wie es die Autorin des Blogpost ein wenig kurios formuliert.  
+System 'Sophi' bewer-
+tet alle Artikel in 4 Di-
+mensionen 
+ 
+ 
+ 
+ 
+Redakteure entschei-
+den idR nur noch über 
+die Top3-Artikel 
+ 
+ 
+ 
++17% Klicks 
++10% mehr neue Abos 
++mehr Werbeerlöse 
+ 
+sogar Print wird KI-ge-
+steuert gestaltet 
+ 
+…sagt Managerin [und 
+bietet das System als 
+Lizenzmodell an] 
+ 
+Die andere Hälfte: Amedias Erfolg bei Lesern unter 40 
+84 
+Wie man junge Abon-
+nenten findet 
+ 
+Unter dem Motto 'Die andere Hälfte' berichten wir sporadisch von den gar nicht mehr 
+wenigen Fällen, in denen Pressemedien mit überwiegend männlicher Leserschaft (z.B. Fi-
+nancial Times, NZZ, Verbrauchermagazine) mit Erfolg eine für sie 'neue' Lesergruppe er-
+schließen, in dem sie ihre Angebote attraktiver für weibliche Leser machen. Seltener, aber 
+auch zu finden sind 'Frauenmedien', die sich um männliche Leser bemühen. 
+Eine andere Schieflage in der Kundenstruktur scheint der norwegische Lokalzeitungkon-
+zern Amedia (rund 60 ausschließlich 'kleine' Zeitungen) erfolgreich anzugehen. "Unsere 
+Inhalte tendieren dazu, für Leute über 50 relevant zu sein, einfach nur deswegen, weil das 
+unsere größte Zielgruppe ist. Vor einem Jahr haben wir uns vorgenommen, diese Schief-
+lage auszugleichen und für Leute unter 40 attraktiv zu werden", sagt Fredrik Dyrnes 
+Svendsen, mitverantwortlich für die Inhaltestrategie des Verlages. 
+Dazu startete Amedia mit Tiefeninteviews von 72 Personen unter 40 Jahren. Anschlie-
+ßend wurden 3.000 Artikel auf Basis von Hypothesen analysiert, die aus den Tiefeninter-
+views abgeleitet waren. Ein Kernbefund dabei: sobald Journalisten jüngere Quellen [Ge-
+sprächspartner] in ihre Recherchen einbeziehen, wurden die Berichte attraktiver für 
+junge Leser [pvd: das deckt sich zu praktisch 100% mit den Berichten von Verlagen, die 
+nach mehr weiblichen Lesern suchen und die dazu mehr Frauen in ihren Berichten auftau-
+chen lassen]. Außerdem interessierten die jungen Leute für bestimmte Themenfelder be-
+sonders, zum Beispiel Immobilien, Startups und lebenspraktische Tipps. 
+Ein Jahr, nachdem Amedia seine Berichterstattung mit diesem Wissen angepasst hat, 
+treibt vor allem die Nutzergruppe im Alter unter 40 Jahren das Abowachstum. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lokalzeitungskonzern 
+Amedia entwickelt 
+Strategie für Leser un-
+ter 40 Jahren 
+ 
+ 
+ 
+ 
+Analysen zeigen: junge 
+Protagonisten in Arti-
+keln sprechen junge 
+Leser an 
+ 
+ 
+ 
+außerdem andere The-
+menschwerpunkte 
+ 
+1 Jahr nach Überarbei-
+tung der Inhalte: star-
+kes Wachstum bei U40 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 12
+ 
+ 
+P 
+      
+Marktentwicklung
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im 
+April 2020, zu Anzahl und Er-
+scheinungsweise siehe  
+"Daten Cockpit Handel")  
+  
+ 
+Marktentwicklung
+Copypreise
+ 
+neu eingeführte Zeitschriften 
+Print, Verlags-Apps in ausge-
+wählten Stores 
+   
+ 
+Marktentwicklung
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+Preise bei neuen Zeitschriften) 
+  
+ 
+DATEN COCKPIT VERLAGE 
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 13
+ 
+ 
+ 
+ 
+ 
+Blick zurück in die Zukunft: Zielgrade in die Sackgasse 
+p 
+pvd Nachhaltigkeits-
+Check 
+ 
+Vor einem Jahr haben wir berichtet: "Reform des Pressevertriebs in Frankreich auf der Ziel-
+geraden". Nach langer Vorarbeit hatte die französische Regierung damals einen Vorschlag 
+zur Reform des Pressevertriebssystems vorgelegt, der dann im Oktober tatsächlich verab-
+schiedet wurde. Ein Jahr später ist klar: die Zielgrade führte in eine Sackgasse. Denn der 
+wichtigste Mitspieler, der Pressegrossist und Nationalvertrieb Presstalis, hat im April 
+zum wiederholten Mal Insolvenz angemeldet.  
+Schon seit Mitte Dezember agiert die mit dem Gesetz überhaupt erst ins Leben gerufene 
+Aufsichtsbehörde Arcep wie eine Schutzherrin für den Platzhirschen. Sie erließ ein Kündi-
+gungsverbot für Presstalis-Kunden. Im Februar verfügte sie, dass Wettbewerber MLP 
+Neukunden keine Willkommensrabatte mehr versprechen durfte. Und sämtliche Leistun-
+gen und die damit verbundenen Preise müssen seitdem gegenüber der Behörde offenge-
+legt werden. 
+Damit sollte die Kundenabwanderung von Presstalis zu MLP verhindert werden. MLP ist 
+ein reiner Zeitschriftengrossist. Es soll Zeitschriften rund ein Drittel günstigere Lo-
+gistikkonditionen anbieten als Presstalis, berichtet der Medienfachdienst Stratégies. 
+Keine Wunder, dass viele von Presstalis bediente Zeitschriftenverlage gerne zu MLP wech-
+seln würden.  
+Die meisten Magazinverlage wünschen sich getrennte Vertriebssysteme für Tagespresse 
+und Zeitschriften. Oder wenigstens einen zentralen Grossisten für Zeitschriften [der nicht 
+Presstalis ist]. Insbesondere kleinere Verlage, die ihre Interessen in den laufenden Gesprä-
+chen zur Rettung von Presstalis nicht ausreichend vertreten sehen, beziehen hier deutlich 
+Position. Le Monde zitiert einen ungenannten Zeitschriftenverleger so: "Die Zeitschriften-
+verleger haben es satt zu bezahlen. Sie brauchen keine Nachtarbeit, sie müssen die 
+Einschränkungen der Tagespresse nicht übernehmen."  
+Sieben Zeitschriftenverlage haben Ende April, wohl aus Frustration darüber, dass sie 
+im Streit zwischen den großen Zeitschriftenverlagen und den Zeitungen kaum Gehör fin-
+den und ihre Interessen nicht vertreten sehen, ein neues, eigenes Grossounternehmen 
+gegründet, an dem sie jeweils zu gleichen Teilen beteiligt sind. Die sieben sagen ausdrück-
+lich, dass sie mit einem Rettungsplan für Presstalis nichts zu tun haben wollen. Gemeint 
+ist wohl vor allem, dass sie nicht an Kosten und Problemen beteiligt werden wollen, als 
+deren Verursacher sie Zeitungsverlage ansehen. Das neue Unternehmen 'Kooperative der 
+freien und unabhängigen Verlage (CELIN: Coopérative des Éditeurs Libres et Indépen-
+dants) profitiert ab 12.5. von einer Ausnahme vom Presstalis-Kündigungsverbot. Diese 
+Ausnahme gesteht die Aufsichtsbehörde Arcep als Reaktion auf den Zahlungsstopp von 
+Presstalis Verlagen mit weniger als 5Mio€ Vertriebsumsatz zu. 
+ 
+ 
+vor 1 Jahr: "Reform des 
+französischen Presse-
+vertriebs auf der Ziel-
+geraden" 
+ 
+heute: neuerliche 
+Presstalis-Insolvenz 
+ 
+ 
+neue Aufsichtsbehörde 
+erließ vorher mehrere 
+Presstalis-Schutzbe-
+stimmungen 
+ 
+ 
+ 
+ 
+Hintergrund: viele Zeit-
+schriften möchten zum 
+(Nur-Magazine)Wettbe-
+werber MLP wechseln 
+ 
+ 
+ 
+ 
+Wunsch: verschiedene 
+Grossisten für Tages-
+presse und Magazine 
+ 
+ 
+ 
+ 
+ 
+ 
+Ende April gründeten 
+sieben Magazinverlage 
+den neuen Grossisten 
+CELIN 
+ 
+ 
+ 
+ 
+ 
+ 
+Arcep erlaubt kleinen 
+Verlagen ab 12.5. die 
+Kündigung des Pressta-
+lis-Vertrages 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+#5/19 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 14
+Große Zeitschriftenverlage [die allerdings auch große Gesellschafter bei Presstalis sind] 
+scheinen kompromissbereit. Der Großverlag Prisma Presse hat im März einen Vorschlag 
+vorgelegt, laut dem die 30 größten Verlage in den kommenden vier Jahren 116Mio€ zur 
+Stützung von Presstalis aufbringen sollen und der französische Staat weitere 232Mio€. 
+Aber den Tageszeitungen erschien dieser Vorschlag noch nicht ausreichend.  
+Die Tageszeitungen und auch das Presstalis-Management [ungeachtet der Tatsache, 
+dass die Aktien der Gesellschaft zu drei Vierteln in den Händen der Zeitschriftenverlage 
+sind] wollen das gemeinsame Vertriebssystem beibehalten. Die Position der Zeitungs-
+verleger vertritt Le Monde-Chef Louis Dreyfus, der das gemeinsame Vertriebssystem für 
+beide Seiten nützlich erklärt. "Es gibt eine Abhängigkeit von Tageszeitungen und Zeitschrif-
+ten. Ohne die 'heiße' Tagespresse würde niemand in die Kioske gehen."  
+MLP wiederum hat Ende April noch einmal unmissverständlich erklärt, dass es für 
+eine Aufteilung in zwei Vertriebssysteme steht, und dass es dabei die Rolle eines voll-
+wertigen Nationalvertriebs und Grossounternehmens für Zeitschriften übernehmen 
+möchte; MLP will keinesfalls nur ein Subunternehmer oder auf Logistik reduzierter Dienst-
+leister für ein Gesamtvertriebsunternehmen sein. 
+Mit der Ende April erfolgten Insolvenzerklärung, die das operative Geschäft zunächst 
+nicht weiter stört, die aber einen Zahlungsstopp bewirkt, will Presstalis-Chef Cédric Du-
+gardin den Druck auf die verhärteten Fronten erhöhen und damit "die Diskussionen be-
+schleunigen". Es steht viel auf dem Spiel. Nämlich neben dem bestehenden und eigentlich 
+doch kürzlich erst reformierten Vertriebssystem auch offene Forderungen der Verlage an 
+Presstalis im Bereich von oberhalb 120Mio€ und weitere fast 20Mio€, die Presstalis Einzel-
+händlern schuldet.  
+Zeitschriftengroßver-
+lage kompromissbereit 
+ 
+aber auch noch nicht 
+zur Zufriedenheit der 
+Zeitungen 
+ 
+ 
+ 
+Zeitungsverlegerchef: 
+"ohne Tagespresse 
+ginge niemand in den 
+Kiosk" 
+ 
+ 
+ 
+ 
+MLP will 2 getrennte 
+Systeme und dabei für 
+sich die Rolle des Zeit-
+schriftenvertriebs 
+ 
+ 
+Presstalis-Insolvenz zu-
+nächst ohne operative 
+Folgen 
+ 
+ 
+Druck auf Verlage, de-
+nen >120Mio€ nicht 
+ausbezahlt werden 
+ 
+WBZ-Statistik für 2019 
+P 
+WBZ Statistik 
+ 
+Laut Statistik des Branchenverbandes BV Abonnement sank der Gesamtbestand der 
+durch Firmen des WBZ geworbenen Abos im zweiten Halbjahr 2019 wieder. Für die drei 
+Halbjahre davor hatte der Verband einen steigenden Bestand gesehen.  
+In der Neuwerbung sollen die Abowerbefirmen leicht über dem Vergleichshalbjahr 2018 
+gelegen haben, allerdings deutlich unter dem für das erste Halbjahr 2019 behaupteten 
+Spitzenwert. 
+Die eigentlich an-
+gestrebte und not-
+wendige 
+Überar-
+beitung und Vali-
+dierung 
+dieser 
+Branchenstatistik 
+hat 
+['coronabe-
+dingt', wie es aus 
+dem Verband heißt] 
+noch nicht stattge-
+funden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+im 2.HJ 2019 wieder 
+rückläufiger Bestand 
+ 
+ 
+Produktion auf hohem 
+Niveau 
+ 
+ 
+ 
+ 
+notwendige Überarbei-
+tung der Statistik wei-
+ter ausstehend 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 15
+ 
+Neun Jahre nach der Gründung ist Stageit das Unterneh-
+men der Stunde für Musiker 
+B59 
+Stageit 
+ 
+Das 2011 gegründete Digitalunternehmen Stageit bietet Musikern eine Plattform, um 
+virtuelle Konzerte zu veranstalten und zu monetarisieren. Dabei versucht es, zentrale 
+Charakteristika eines Vor-Ort-Live-Erlebnisses ins Web zu übertragen. Tickets zur 
+Teilnahme werden vorab verkauft. Schon 30 Minuten vor einer Show kann man sich in das 
+Event einloggen und mit anderen Teilnehmern chatten oder die gemeinsame 
+Begeisterung für den Künstler teilen ["Wooo" und "Yaaaa!" sind dabei feste Bestandteile 
+der getexteten Online-Kommunikation]. Natürlich kann sich der Künstler im Rahmen des 
+Konzerts auch an der Kommunikation beteiligen. Die Konzerte sollen in der Regel zunächst 
+30 Minuten dauern und dann bis zu 20 Minuten Zugaben umfassen. 
+Knapp 10 Jahre lang zündete die Geschäftsidee, die von Anfang an durchaus Füsprecher 
+und auch prominente Investoren gefunden hatte, nicht. Dann kam Corona. Im März 
+verkaufte Stageit fast 65.000 Tickets und setzte damit 1Mio$ um. Im Monat davor 
+wurden nur knapp 750 Tickets verkauft. Im gesamten Jahr 2019 war der Umsatz nur halb 
+so hoch wie in diesem März. 
+Die duchschnittlich 15$, die damit pro verkauftem Ticket erzielt wurden, setzen sich 
+zu etwa 60% aus festgesetzten Preisen oder aus 'Bezahl-soviel-Du-willst'-Verkäufen 
+zusammen und zu 40% aus freiwilligen Extra-'Trinkgeldern'. 
+Bloomberg Businessweek beichtet über den amerikanischen Singer-Songwriter Rhett 
+Miller. Der Durchschnittsprofimusiker (kein Superstar, kein Kneipen-Amateur) lebt 
+normalerweise zu 90% von den Verkäufen für Tickets seiner Konzerte. Die sind derzeit alle 
+abgesagt. Am 18. März bot er darum erstmals eine Live-Performance über Stageit an. 
+'Hunderte' Fans nahmen teil. 1.800 waren es bei den beiden folgenden Shows in den Tagen 
+danach. Miller verkaufte seine Tickets zum 'Soviel-Du-willst'-Preis. Bezahlt wurden 
+Beträge zwischen 10 Cent und 20$ und hinzu kamen 'Trinkgelder'.  
+Mittlerweile bietet Miller in jeder Woche an vier Tagen Live-Streams an, jeweils zu 
+unterschiedlichen Uhrzeiten, um Fans in den verschiedenen Zeitzonen in den USA und 
+auch weltweit zu erreichen. Wie viel Geld er insgesamt auf diesem Weg vedient, verrät er 
+nicht. Aber für ihn ist es derzeit ein Weg, um sich trotz des vollständigen Wegfalls seiner 
+vorher beinahe einzigen Einkommensquelle über Wasser zu halten. Für März und April 
+hatte er eigentlich eine Tour geplant. Über Stageit verdiene er nun soviel, wie er mit 
+der zweiten Hälfte der Tour verdient hätte. "Diese Shows über Stageit machen zu 
+können, war wortwörtlich ein Lebensretter", sagt er. 
+Stageit-Gründer und Chef Evan Lowenstein ist optimistisch, dass sein Unternehmen auch 
+nach einem Wieder-Anfahren des normalen Konzertbetriebs einen größeren Stellenwert 
+behalten wird. Online-Auftritte werden auch dann noch eine Rolle in der 
+Programmplanung von Künstlern spielen, wenn sie wieder vor Ort auftreten dürfen, 
+glaubt er. 
+ 
+ 
+ 
+Plattform zur Durch-
+führung und Monetari-
+sierung virtueller Kon-
+zerte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 Jahre lang wenig er-
+folgreich; Boom im 
+März  
+ 
+65.000 Tickets ver-
+kauft, 1Mio$ Umsatz 
+ 
+Ø15$ pro Ticket, 60% 
+aus dem Verkauf, 40% 
+aus 'Trinkgeldern' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beispiel Musiker Rhett 
+Miller; Erlöse ungefähr 
+iHv ½ Konzerttournee 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stageit-Gründer: auch 
+nach Corona wird On-
+line eine Konzertplatt-
+form sein 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 16
+ 
+Werbung 
+ 
+Advertorial 
+ 
+WBZ: 
+'Marketing-Power-Woche' 
+bündelt 
+rund 
+zwei 
+Drittel aller Werbeplattformen für konzertierte Aktion 
+ 
+Marketing-Power-Wo-
+chen im WBZ 
+ 
+Online ist längst der wichtigste Kanal für die Gewinnung von Abonnenten. Das gilt auch für 
+Printabos. Aber auch online muss um die Kunden geworben werden. Die wenigsten Zeit-
+schriftenabonnements entstehen durch spontanen Entschluss des Lesers. Display-&Suchma-
+schinenwerbung, E-Mail- und Social Media Marketing, Cross-Selling und Koppelkaufangebote 
+sind wirksame Instrumente, um Kunden für ein Abonnement zu gewinnen, die ohne aktive 
+Ansprache keine Motivation gehabt hätten, sich für den regelmäßigen Bezug zu verpflichten. 
+Viele Verlage setzen zur Steigerung ihrer Aboauflagen auch auf die Werbe-Kreativität und die 
+Werbe-Investitionen des WBZ. Das sind Firmen, die aus eigenen Mitteln und in eigener Re-
+gie Abonnements werben. Pro Jahr werben diese Firmen zwischen 1,2 und 1,5Mio neue 
+Abos, berichtet der Bundesverband Abonnement in seiner halbjährlichen Statistik (vgl. S.14) 
+Der Verband schätzt, dass mittlerweile 60-70% dieser Abos online gewonnen werden. 
+In den gut sortierten Aboshops der WBZ-Firmen werden Aboangebote kategorisiert, attraktiv 
+inszeniert und bequem bestellbar macht. Vor einem Jahr prämierte das 'Deutsche Institut für 
+Service-Qualität' im Auftrag des Nachrichtensender n-tv "Deutschlands beste Online-Por-
+tale". In der Kategorie 'Zeitschriften-Abos' fanden sich in diesem Wettbewerb 14 Portale. Der 
+Bundesverband Abonnement zählt sogar 24 solcher Aboshops. 
+16 dieser Aboshops haben sich 
+nun unter der Regie des Verban-
+des zusammengeschlossen und 
+bieten 
+'Marketing-Power-Wo-
+chen' an. Im Rahmen dieser 
+konzertierten Aktion wird ein Ti-
+tel in bis zu 16 Shops in den Vor-
+dergrund gerückt und besonders 
+beworben (zum Beispiel durch 
+eine 
+Startseitenplatzierung, 
+durch Popups oder Werbe-E-
+Mails). Im vergangenen Jahr tes-
+teten die Zeitschriften Kicker 
+(Olympia Verlag) und Geo (Gru-
+ner+Jahr) diese Verbundaktion. Nun können alle interessierten Verlage eine solche 'Marke-
+ting-Power-Woche' buchen.  
+Frage an Ludwig von Jagow, Geschäftsführer beim Bundesverband Abonnement: Ab 3.000€ 
+soll eine Aktion, eine oder zwei Wochen, kosten. Was darf er sich davon versprechen? 
+Ludwig von Jagow: "Natürlich ganz viele Abos, die die Mitgliedsunternehmen unseres Ver-
+bandes, die bei der Aktion mitmachen, für ihn werben. Wie viele, das hängt auch davon ab, 
+wie 'groß' die beworbene Zeitschrift ist, von Saisonalitäten etc. Aber wir reden auf jeden Fall 
+von hunderten Abos, die in jeder der beiden bisherigen Testwochen gewonnen wurden. In 
+der Power-Woche haben die teilnehmenden Shops zum Beispiel fast 200 Geo-Abos mehr 
+generiert, als in der Woche davor, das entspricht einer Steigerung auf 256%." 
+ 
+Online ist wichtigster 
+Abogewinnungsweg 
+ 
+ 
+aber: auch online muss 
+um die Kunden gewor-
+ben werden 
+ 
+ 
+WBZ-Firmen werben 
+jährlich rund 1,2 bis 
+1,5Mio neue Abos 
+ 
+60%-70% online 
+ 
+ 
+24 Aboshops in 
+Deutschland 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 der 24 Shops bieten 
+nun eine koordinierte 
+Sonderpromotion für 
+einzelne Titel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1-2 Marketing-Power-
+Wochen für 3.000€ 
+ 
+Test bei Geo mit einem 
+Plus von 156% 
+ 
+Kontakt&Buchung: 
+Ludwig von Jagow 
+info@bvabo.de 
+(030) 325 121 538 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 17
+ 
+   
+ 
+    P2 
+  
+Index
+Marktentwicklung
+Einzelhandel
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland) 
+ 
+  
+ 
+Marktentwicklung
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neueinfüh-
+rungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+ 
+ 
+Marktentwicklung
+digitaler Vertrieb
+ 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATEN COCKPIT HANDEL UND ABSATZ 
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 18
+ 
+ 
+ 
+ 
+ 
+Aktuelle Paid Content-Kennzahlen von D/A/CH -Verlagen P 
+Befragung 
+ 
+Ende April, vom 22.4. bis 28.4., haben das Beratungsunternehmen Vocatus und pv digest 
+eine gemeinsame Umfrage unter ihren Kunden durchgeführt, um erste Benchmark-KPI 
+zu den Erfahrungen mit digitalen Vertriebsangeboten in den Corona-Wochen im 
+deutschsprachigen Markt zu erheben. Mit 39 qualifizierten Teilnehmern (27 Deutschland, 
+jeweils 4 aus Österreich und der Schweiz, 4x keine Angabe) zeichnen die Daten gewiss kein 
+verlässlich repräsentatives Bild. Aber im Großen und Ganzen sollten die hier vorgestellten 
+Werte einen realitätsnahen Eindruck vermitteln. 
+Die meisten Antworten stammen von Verantwortlichen aus Zeitungsverlagen. 21 Be-
+fragte ordnen ihren Verlag in die Kategorie regionale Tageszeitung ein. [Das ist mit Ab-
+stand die größte Untergruppe der Befragungsteilnehmer. Wir haben alle im Folgenden 
+vorgestellten Ergebnisse auch für diese Gruppe separat betrachtet. Wir haben dabei an 
+keiner Stelle ein wesentlich abweichendes Bild vorgefunden].  
+ 
+Wie haben diese Verlage auf die 
+Corona-Lage reagiert? Von den 30 Ver-
+lagen mit Paywall hat etwa ein Drittel 
+mehr Artikel hinter die Paywall gestellt, 
+also bezahlpflichtig gemacht, als vor der 
+Corona-Lage. Aber die Mehrheit berich-
+tet, dass an dieser Stellschraube nicht ge-
+dreht wurde. 
+ 
+ 
+Umfrage zu Digitala-
+bos-KPI in den Corona-
+Wochen 
+ 
+39 Teilnehmer aus 
+D/A/CH 
+ 
+ 
+ 
+davon 21 regionale TZ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1/3 der Verlage mit 
+Paywall haben mehr 
+Artikel bezahlpflichtig 
+gemacht 
+ 
+QUELLEN: 
+ANALYSEN UND DATEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 19
+Aber auch wenn die meisten Verlage an 
+dieser Stelle keinen Hebel angesetzt haben, 
+so berichtet doch die Mehrzahl der Befrag-
+ten davon, dass mehr Nutzer als sonst an 
+die Paywall stoßen. Die Befragten wurden 
+auch gebeten, ggf. die prozentuale Steige-
+rung der Paywallkontakte zu nennen. 16 
+der 21 Befragten, die von mehr Paywallkon-
+takten berichten, haben in einem Freitext-
+feld einen Prozentwert angegeben. Die An-
+gaben schwankten zwischen 10% und 600% 
+– der Median-Mittelwert lag hier bei 85%, das arithmetische Mittel doppelt so hoch.  
+Mit welchen Angeboten versuchen 
+die Verlage, die Paywallkontakte ab-
+zuschöpfen? 30 Verlage machten Anga-
+ben zu einer Frage nach Gratisangebo-
+ten. Von denen bieten 11 Verlage auch in 
+diesen Tagen keine Probeabos kostenlos 
+an. Sieben Verlage bieten nur in der ak-
+tuellen Situation Gratisproben an. Bei 12 
+Verlagen ist eine kostenlose Einstiegsop-
+tion auch unabhängig von der Corona-
+Thematik ein Angebot. In der Regel wer-
+den bei den kostenlosen Proben 4 Gra-
+tiswochen angeboten.  
+10 Verlagsmanager berichten, dass die Kommunikation an der Paywall, also der Aufruf 
+zum Abschluss eines Abos, an die aktuelle Themenlage angepasst wurde. 20 ihrer Kollegen 
+haben dagegen an der Gestaltung der Paywall und der Werbebotschaft an dieser Stelle 
+nichts verändert. Und nur 6 der 30 Antwortenden berichten, dass das bezahlpflichtige 
+Einstiegsangebot wegen Corona verändert wurde. Dabei haben vier Verlage ihr Probe-
+abo günstiger gemacht oder den Probezeitraum verlängert. Zwei beschreiten den gegen-
+teiligen Weg und haben ihr Probeangebot verteuert oder den Zeitraum für die kostener-
+mäßigte Nutzung verkürzt.  
+Eine Mehrheit der Verlage (16) berichtet 
+davon, dass auch der Erfolg an der 
+Paywall, also die Quote der Paywallkon-
+takte, die zu einem Abschluss führt, sich 
+verbessert hat. Im Median-Mittel von 6 
+Verlagen, die dazu eine konkrete Angabe 
+gemacht haben, um 5%-Punkte. Auf die 
+Frage, welche Erfahrungen bereits mit 
+der Umwandlung der neu gewonnen 
+ 
+ 
+ 
+ 
+ 
+ 
+2/3 der Verlage berich-
+ten von mehr Paywall-
+Kontakten 
+ 
+ 
+ 
+ 
+ 
+ 
+im Mittel rund doppelt 
+so viele wie vorher 
+ 
+ 
+ 
+ 
+ 
+19 Verlage bieten ein 
+kostenloses Probeabo 
+ 
+7 davon nur in der ak-
+tuellen Krisenlage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 von 30 Befragten 
+sagen: Werbeanspra-
+che verändert 
+ 
+ 
+nur 6 von 30 haben 
+auch das Angebot ver-
+ändert (4xgünstiger, 
+2xteurer) 
+ 
+ 
+ 
+16 von 30 sagen: bes-
+sere Erfolgsquoten an 
+der Paywall 
+ 
+ 
+ 
+ 
+bisher kaum vorhan-
+den: Einschätzungen 
+zur späteren Umwand-
+lung in reguläre Abos 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 20
+Probeabos in reguläre Abos gemacht wurden, antworteten die allermeisten Befragten 
+gar nicht oder mit "kann ich noch nicht abschätzen". Nur drei Befragungsteilnehmer 
+antworteten darauf. Zwei davon berichten auch bei dieser Kennzahl von einer Verbesse-
+rung, einer von keiner Veränderung.  
+Vocatus hatte bereits Ende März – ohne Beteiligung von pv digest – eine Branchenbefra-
+gung mit 20 Teilnehmern durchgeführt. In dieser Untersuchung sind uns vor allem die fol-
+gende Frage&Darstellung aufgefallen:  
+Ihre Einschätzung Stand heute: Wie wirkt sich die Covid-19-Krise auf Ihr Geschäft  aus? Wie verändern 
+sich Vertriebs- bzw. Werbeerlöse im Vergleich zu Ihren Planungen/Prognosen vor Covid-19? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+frühere Befragung von 
+Vocatus (Stand Ende 
+März) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+gemittelt aus 20 Ant-
+worten; Umsätze: 
+• +20% Paid Contemt 
+• +10% E-Paper 
+• Print unverändert 
+• -15% Digitalwerbung 
+• -35% Printwerbung 
+ 
+ 
+ 
+ 
+ 
+ 
+Digitalskepsis im wissenschaftlichen Gewand 
+P 
+Paid Content USA 
+ 
+Seit Jahren schwimmt die amerikanische Medienwissenschaftlerin Hsiang Iris Chyi mit 
+radikal digitalkritischen Forschungsergebnissen gegen den Strom. So hat sie zum Beispiel 
+kritisiert, dass Zeitungen überhaupt ein Online-Angebot machen (vgl. pvd #11/2015 
+über ihr Buch 'Trial and Error: U.S. Newspapers' Digital Struggles toward Inferiority). Nun 
+ 
+ 
+ 
+neue Studie der radikal 
+digitalskeptischen Me-
+dienforscherin Chyi 
+ 
+pvd meint gerne wir hätten wir Ihnen an dieser Stelle schon eine belastbare Einschät-
+zung gegeben, wie es um die Qualität der zuhauf gewonnenen Probeabos steht. Obwohl 
+wir die Befragung mit diesem Ziel vor Augen mit kürzestmöglicher Frist vor dem Redak-
+tionsschluss durchgeführt haben, ist es uns nicht gelungen, hierzu ausreichend Antwor-
+ten einzusammeln. Für Schwarzmaler haben wir allerdings auch keine Anhaltspunkte 
+gefunden.  
+Bemerkenswert scheint uns die Beobachtung der Kennzahlen entlang des Neukunden-
+'Funnels', also des gesamten Prozesses bis zur Bestellung. Die meisten Verlage zählen 
+mehr Unique User und/oder Visits (auch das haben wir abgefragt). Es stoßen deutlich 
+mehr Kunden an die Paywall. Und obwohl also die vorderen Schleusen weit geöffnet 
+sind, finden an der Paywall prozentual mehr Aboabschlüsse statt als in der Vergangen-
+heit. Das ein bemerkenswerter Dreifacheffekt, der unter dem Strich zum beobachtbaren 
+Phänomen 'Corona-Boom' führt. Nicht nur Schwarzmaler hätten vorher sicherlich prog-
+nostiziert, dass eine massenhafte Zunahme von Nutzern und Paywallkontakten zu einer 
+Verringerung der Abobestellquote führt. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 21
+legt sie zusammen mit Co-Autorin Yee Man Margaret Ng eine neue Studie vor: "Still 
+Unwilling to Pay: An Empirical Analysis of 50 U.S. Newspapers' Digital Subscription Results". 
+Der Titel "Immer noch nicht Bezahl-Bereit" verrät das Wesentliche. Nur ein kleiner 
+Prozentsatz der Leser – 6% im Verhältnis der verkauften Pritausgaben – bezahle für ein 
+digitales Abo oder für Apps. Dabei lägen die Preise für diese Angebote laut der Studie bei 
+nur 23% der Printabopreise. Probe- und Neuabos würden im Schnitt schon für 25 Cent pro 
+Woche angeboten.  
+Die Studie selbst ist kostenpflichtig. Aber auf ihrer Website bietet Chyi eine 
+Zusammenfassung der Ergebnisse und eine tabellarische Übersicht der untersuchten 
+US-Zeitungen, jeweils deren Auflagen und deren Preise für die gedruckten und 
+digitalen Angebote. Wer solche Benchmarks sucht, für den lohnt ein Blick auf diese 
+Datensammlung [pv-digest.de/linkliste Link3]. Leider sind die Daten darin aber alles 
+andere als taufrisch. So wird die Zahl der Digitalabos beim Boston Globe, dessen Print und 
+Digitalabos besonders hpochpreisig sind, mit 98.000 angegegen. Tatsächlich, das 
+berichteten wir in der letzten Ausgabe, liegt dieser Wert bereits bei 150.000.  
+Unter dem Strich, so schätzen die Forscher, trügen Digitalabos zu nur 3% der 
+Aboumsätze bei. "Eine so schechte Digital-Performance zeigt einen gefestigten Mangel an 
+Bezahlbereitschaft. Das wirft ernste Zweifel auf an der Tragfähigkeit des Abomodells als 
+Umsatzquelle für Digitaljournalismus", bietet Chyi als Interpretation ihrer Befunde an.  
+ 
+ 
+ 
+ 
+Kernaussage: nur We-
+nige bezahlen für die 
+ohnehin nur billigen 
+Abos 
+ 
+ 
+ 
+ 
+tabellarische Übersicht 
+Preise und Mengen US-
+Zeitungen: 
+LINKTIPP 
+ 
+ 
+ 
+ 
+ 
+Schätzung: Digitalabos 
+stehen nur für 3% aller 
+Aboumsätze 
+ 
+ 
+IPPT (Index Presseprodukte auf Tablets) 
+P 
+IPPT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-App-Umsätze von 
+Presse-Apps in Relation 
+zu den IAPs anderer 
+Apps 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint: Iris Chyi ist mindestens so Paid Content-skeptisch wie pv digest -optimis-
+tisch. Wer sich mit Argumenten für eine Print-only-Strategie provisionieren möchte, der 
+ist bei der Forscherin gut aufgehoben. Aber während man bei ihrer ersten großen Pub-
+likation zum Thema noch aufhorchte, wirkt die extrem einseitige Interpretation der Da-
+ten heute nur noch wie eine Stimme aus dem letzten Jahrhundert. Insbesondere igno-
+riert Chyi die große Wachstumsdynamik, die hinter tatsächlich oft auch heute noch klei-
+nen Zahlen steht. Und natürlich spiegeln ihre Ergebnisse auch nur die Folgen von Ent-
+scheidungen der in den USA oft besonders Paid Content-skeptischen Verleger wider. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 22
+ 
+ 
+ 
+ 
+ 
+10 Fragen für Zeitschriftenverleger im Überlebenskampf 93 
+Fragen für Verleger 
+ 
+Der vom Fachdienst Publishing Executive erfundene Experte D. Eadward Tree [also etwa 
+P. Rint-Sterben] stellt '10 Fragen für Zeitschriftenverleger im Überlebenskampf' und gibt 
+auch gleich die Antworten darauf. Als Inspiration ist der (englische) Text insgesamt lesens-
+wert [pv-digest.de/linkliste Link4]. Hier die schnelle Übersicht über die Themen: 
+1) Was brauchen die Leser genau ihrer Zeitschrift jetzt gerade wirklich? (Ganz sicher 
+nicht eine weitere Zusammenstellung schon bekannter Informationen. Aber womöglich 
+interessengruppenspezifische Infos, vielleicht in anderen Erscheinungsrhythmen, ande-
+rem Umfang usw.) 
+2) Müssen Sie Auflagengarantien einhalten? Ihre Anzeigenverkäufer sagen 'Ja'. Aber was 
+passiert wirklich, wenn Sie in der momentanen Situation die besonders teuren Auf-
+lagenbestandteile streichen? 
+3) Können Digitalausgaben die Lücken füllen? In normalen Zeiten sind für viele Zeitschrif-
+ten die Printausgaben ein überlegenes Format. Gilt das auch jetzt? 
+4) Was sind die Grenzkosten eines Abostücks? Nie war es so wichtig, diese "magische 
+Zahl" zu kennen. 
+5) Wie viel Geld verbrennen Sie mit Abonnenten, mit denen Sie weniger Geld verdienen 
+als diese magische Zahl? 
+6) Wie würde es Ihrem Titel ergehen, wenn die Werbeerlöse nach der Krise nicht vollständig 
+zurückkämen? Schon vor der Krise haben viele (auch Fach-)Zeitschriften ihre Strategie 
+in Richtung Lesermarkt verändert... 
+7) Sind Ihre Leser bereit zu helfen? [pvd: Den US-Verlagen empfiehlt der Experte, positiv 
+optionierte Abonnements vorzeitig zu verlängern. Das dürfte in unserem Markt keine 
+Rolle spielen. Aber es gibt viele andere Wege, Leser um Unterstützung zu bitten;  
+vgl. die ersten Artikel dieser pvd-Ausgabe.] 
+8) Sehen Sie Unternehmen, die in der aktuellen Lage gut klarkommen? Sind darunter 
+potenzielle Anzeigenkunden für Ihr Magazin? 
+9) Würden einige Ihrer Mitarbeiter Teilzeitverträge akzeptieren? Vielleicht warten mehr 
+auf eine solche Chance, als Sie denken. 
+10) Wissen Sie von einem Abonnentenstamm, der Sie interessieren würde? Auch andere 
+Titel tun sich schwer. Vielleicht noch schwerer als Ihrer. Und wenn noch nicht, dann viel-
+leicht später. Es ist gut, wenn Sie bis dahin für sich geklärt haben, ob und wie sehr Sie 
+investitionsbereit wären und von welchen Kriterien Sie den Kauf eines Kundenbestan-
+des abhängig machen würden. 
+ 
+Fachdienst Pubexec:  
+10 zentrale Fragen für 
+Magazinverleger 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+1) Was wollen genau 
+Ihre Leser lesen? 
+ 
+ 
+ 
+2) Garantieauflagen 
+sakrosankt? 
+ 
+ 
+ 
+3) Digitalausgaben neu 
+bewerten? 
+ 
+4) Grenzkosten Abo? 
+ 
+ 
+5) wie viele Abos erlö-
+sen keine Grenz-DB? 
+ 
+6) Szenario bewerten: 
+nie mehr so viel 
+Werbung wie früher 
+ 
+ 
+7) um freiwillige Be-
+zahlung bitten? 
+ 
+ 
+ 
+8) Zielgruppe für Anzei-
+genvertrieb: wem 
+geht es (relativ) gut? 
+ 
+9) mehr Teilzeit? 
+ 
+ 
+10) Investitionschance 
+Abokunden kaufen?! 
+ 
+ 
+ 
+QUELLEN:
+MEINUNGEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 23
+ 
+ 
+ 
+ 
+ 
+Sven Dams hat den Bauer Verlag verlassen. Neuer Leiter des Geschäftsbereichs Publi-
+shing in Deutschland ist Ingo Klinge. 
+Beat Fellmann wird zum 1. Juli CFO der Valora Gruppe. Vorgänger Tobias Knechtle hatte 
+das Unternehmen schon im November verlassen. 
+Dr. Nino Ostertag ist als COO und gleichzeitig CFO neues Geschäftsführungsmitglied 
+beim Fachverlag Thieme. 
+Arne Löffel ist jetzt Gesamtverlagsleiter für die Agrarmedien der dfv Mediengruppe. 
+ 
+P 
+1 
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die Idee einer (gesamt)Deutsche Medienlogistik GmbH 
+P 
+Presselogistik 
+ 
+Der ehemalige Post-Bereichsvorstand und vorherige Verlagslogistikmanager Lutz Glandt 
+schlägt die Gründung einer Deutsche Medienlogistik GmbH vor. Die Firma solle in Regie 
+der Betroffenen – Glandt nennt Presseverbände, den Handelsverband HDE, die Deutsche 
+Post und das Logistikunternehmen Fiege – entwickelt und geführt werden. Sie solle für die 
+Zeit des Übergangs zu einer nur noch digitalen Erscheinungsweise, mindestens für die 
+nächsten 5 Jahre, die Versorgung mit gedruckter Presse, mit Anzeigenblättern und 
+auch dem wöchentlichen Werbeprospektbündel 'Einkauf aktuell' flächendeckend si-
+cherstellen. Tageszeitungen sollten über das Unternehmen täglich und früh zugestellt 
+werden, Zeitschriften aber nur noch an zwei Tagen in der Woche, Anzeigenblätter und 
+auch Einkauf aktuell einmal pro Woche. Weitere Details können dem auf horizont.net ver-
+öffentlichten Vorschlag entnommen werden [pv-digest.de/linkliste Link5]. 
+Welche Phantasien weckt das so skizzierte Konstrukt bei wem? 
+> Glandt selbst schwebt eine Aufteilung der Zustellleistungen in Deutschland auf zwei Or-
+ganisationen vor. Die Post übernähme dabei vor allem Sendungen, die bei stark schwan-
+kenden und schwer planbaren Mengen zu hohen Preisen verteilt werden. Die Deutsche 
+Medienlogistik GmbH würde dagegen alle Massensendungen übernehmen, bei denen 
+hohe Mengen und gute Planbarkeit in niedrigeren Zustellkosten münden. Glandt erwar-
+tet Synergien durch die Bündelung von Zustellaufträgen bei der Medienlogistik 
+GmbH, die bisher noch von verschiedenen Unternehmen erbracht werden. Vielleicht er-
+innert er sich auch an postkonzerninterne Verpflichtungen wie zum Beispiel die Rück-
+sicht auf die Stimme der Gewerkschaft Verdi, die auf diesem Weg aufgebrochen würden, 
+so dass Leistungen flexibler [und weniger hoch bezahlt] erbracht werden könnten. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Der post- und verlags-
+erfahrene, prominente 
+Logistikexperte Lutz 
+Glandt hat eine Idee 
+ 
+ 
+ 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+Glandts Idee: Auftei-
+lung der 'letzten Meile' 
+ 
+• Deutsche Post über-
+nimmt schwer plan-
+bare & 'hochwertige' 
+Zustellungen 
+ 
+ 
+• Deutsche Medienlo-
+gistik den Rest 
+(Presse inkl. Anzei-
+genblätter, Einkauf 
+aktuell) 
+Personalien 
+QUELLEN:
+PERSONALIEN
+Branchennews 
+BRANCHENNEWS & -RECHT
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 24
+Glandts Phantasie wird auch dadurch angeregt, dass er das Gros der Zeitschriften nur 
+noch an 2 Wochentagen zustellen lassen will. Die Titel, die sich das gar nicht vorstellen 
+können, die sollen nach seinen Vorstellungen weiter über die Post verteilt werden [zu 
+entsprechenden Preisen]. 
+> Eine positive Resonanz erfuhr Glandts Vorschlag schon kurz nach der Veröffentlichung 
+beim Verlegerverband VDZ, wo sich insbesondere der immer wieder den Kooperations-
+gedanken predigende Vorstandssprecher des Fachverbandes Publikumszeitschriften, 
+Philipp Welte, sofort für eine Prüfung der Idee aussprach.  
+> Möglicherweise ist Welte der Hauptadressat eines sehr ablehnenden Feedbacks von 
+Bauer Vertriebschef Heribert Bertram, das ebenfalls in Horizont veröffentlicht wurde: 
+Sein Verlag habe mit dem Bauer Postal Network schon einmal "eine privatwirtschaftliche 
+Kooperation mit anderen großen Verlagen als Alternative zur Deutschen Post vorgeschla-
+gen, ausgearbeitet und bis zur Unterschriftsreife gebracht". Aber: "dann sind alle Kolle-
+gen – auch die, die immer wieder Verlagskooperationen fordern – doch wieder zur Post 
+umgeschwenkt. … Für uns fühlte es sich so an, als seien wir für deren Pokern mit der Post 
+missbraucht worden." Und Zeitungen, die momentan Kooperationsbedarf anmeldeten, 
+"sollten aus meiner Sicht an ihrem Selbstverständnis arbeiten (…) Unsere Magdeburger 
+Volksstimme" stehe mit ihren Vollzeitboten heute gut da. "Dagegen lange seine Hausauf-
+gaben nicht zu erledigen und jetzt zu klagen, das finde ich schwierig". 
+> Andere Verlage, darunter solche die nicht mehr dem VDZ-Fachverband Publikumszeit-
+schriften angehören, reagierten laut Horizont in einem Spektrum zwischen diploma-
+tisch verhalten und offen ablehnend. So zitiert die Zeitung den Spiegel-Vertriebschef 
+Christoph Hauschild: "Für ein globales 'Genossenschaftsmodell' für die Zustellung aller 
+Presseprodukte – so interpretiere ich zumindest die Idee von Herrn Glandt – stehen wir 
+nicht bereit". 
+> Mindestens genauso deutlich ist die Ablehnung auf Seiten der regionalen Zeitungs-
+verlage. Zwar sind die Zustellkosten dort eine Hauptsorge. Aber die Erfahrungen zeigen, 
+dass es nur wenig Synergien zwischen einer Frühzustellung von Tageszeitungen und der 
+Zustellung anderer Sendungen gibt. Die Zeitungen hätten hier womöglich nicht viel zu 
+gewinnen. Diejenigen, die mittlerweile ihr Zustellgeschäft im Griff haben und vielleicht 
+sogar mit Briefsendungen oder der Zustellung der überregionalen Presse ordentlich Geld 
+verdienen, haben kein Interesse, diese Geschäfte in die Hände einer Großgesellschaft zu 
+legen. Christian Eggert, Leiter Verlagswirtschaft beim Zeitungsverlegerverband BDZV: 
+"Die regionalen Zeitungen haben in der Zustellung hochwertige Strukturen aufgebaut. 
+Ich kann im Moment nicht sehen, was diese Unternehmen bei dem Vorschlag von 
+Lutz Glandt zu gewinnen hätten." 
+> Bei Deutscher Post und Anzeigenblattverlagen haben wir leider bis zum Redaktions-
+schluss keine Hintergrundgespräche zu unseren Fragen führen können.  
+Welches Interesse sollte die Post haben, Zustellaufträge für Werbesendungen in er-
+heblichem Umfang an eine andere Gesellschaft abzugeben? Wenn sie das aber nicht 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VDZ findet die Idee gut 
+ 
+ 
+ 
+ 
+ 
+Bauer findet die Idee 
+nicht gut 
+ 
+ 
+weder für Zeitschriften 
+('hatten wir schon mal 
+schlüsselfertig, aber da 
+hat keiner mitge-
+macht') 
+ 
+ 
+noch für Zeitungen 
+('wer's nötig hat…') 
+ 
+ 
+ 
+VDZ-kritische Zeit-
+schriftenverlage skep-
+tisch bis ablehnend 
+ 
+ 
+ 
+ 
+ 
+ 
+regionale Zeitungen 
+ablehnend 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BDZV: "hätten nichts 
+zu gewinnen" 
+ 
+ 
+ 
+ 
+ 
+Welches Interesse, 
+Werbebriefe abzuge-
+ben, hätte die Deut-
+sche Post? 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 25
+freiwillig täte, dann müsste Glandts Firma in einen Preiswettbewerb eintreten, den 
+keine Deutsche Medienlogistik der Welt sinnvoll gewinnen kann. 
+Die Verteilung von Einkauf aktuell, davon waren mehrere unserer Gesprächspartner 
+zu diesem Thema überzeugt, wäre die Post dagegen wohl gerne los. Mehrere Versu-
+che, die Verteilung dieses Prospektkonvolutes outzusourcen, seien bereits gescheitert. 
+Auf diesem Ohr wäre die Post also durchaus erreichen. 
+Die Anzeigenblattverlage kämpfen derzeit massiv um ihre Existenz. Ob deren Ge-
+schäftsmodell zum Zeitpunkt einer möglichen Betriebsaufnahme einer Deutschen Me-
+dienlogistik GmbH überhaupt noch tragfähig ist, erscheint sehr fraglich. 
+> Schließlich haben wir uns noch bei nicht operativ betroffenen Experten erkundigt. Wie 
+stehen logistikerfahrene Berater zur Idee von Lutz Glandt? Der hat in seiner 
+Ideenskizze mit auffälliger Dringlichkeit dafür plädiert, seine Idee durch Berater zeitnah 
+und intensiv prüfen zu lassen. Er hat sogar die Namen von drei Beratungsunternehmen 
+genannt, die aus seiner Sicht dafür in Frage kämen. Kein Wunder also, wenn wir aus 
+diesem Kreis eine positive Rückmeldung auf unsere Frage erhalten. "Die Chancen zur 
+Senkung der strukturellen Kosten durch standardisierte Prozesse und IT-Systeme sowie 
+durch neue, teilweise synergetische Möglichkeiten zur Gestaltung der Netze (Tag-/Nacht-
+netze, Verdichtung, Auslastungssteuerung u.a.) sind offensichtlich", schreibt uns Peter 
+Kirchner, Partner bei Kirchner+Robrecht. Es wäre fahrlässig, " das Thema nicht mindes-
+tens bis zur Konzeptreife zu führen, um Chancen und Risiken einer Umsetzung fundiert 
+bewerten 
+zu 
+können".  
+Ein nicht minder kompetenter Berater einer anderen, nicht bereits ins Spiel gebrachten 
+aber sehr logistikerfahrenen Beratungsfirma, war im Telefonat allerdings sehr skep-
+tisch. Die Post werde die Zustellung von Werbung nicht ohne Weiteres abgeben. Wenn 
+überhaupt, dann käme das nur in Frage, wenn die Post aus der Pflicht zur täglichen Zu-
+stellung entlassen würde. Die Zeitungsverlage hätten regional teilweise die vorgeschla-
+gene Zusammenführung von Zustellaufträgen bereits umgesetzt. Für Zeitungsverlage 
+bringe der Vorschlag also kaum einen Gewinn. 
+ 
+ 
+ 
+ 
+Einkauf aktuell würde 
+die Post wohl gerne 
+fremdverteilen lassen 
+ 
+Wird es Anzeingenblät-
+ter nach der Corona-
+Krise überhaupt noch 
+geben? 
+ 
+ 
+ 
+Was sagen erfahrene 
+Berater? 
+ 
+Kirchner+Robrecht 
+(von Glandt empfoh-
+len): "gute Idee, prü-
+fen!" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+anderer Berater (nicht 
+von Glandt empfohlen) 
+ist sehr skeptisch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint: Hut ab! So groß hat lange niemand mehr gedacht. Die Idee von Lutz 
+Glandt schlägt Wellen. Allerdings reagieren viele Betroffene überraschungsfrei und ent-
+weder skeptisch oder zumindest ohne sich aus der Reserve locken zu lassen. 
+Der VDZ ist unter Philipp Welte quasi verpflichtet, Kooperationsvorschläge gut zu finden. 
+Bei diesem Thema fällt ihm das besonders leicht, weil der Zeitschriftenverband sich über 
+das ausschließliche Lobbying des BDZV für eine staatliche Unterstützung der Zeitungs-
+zustellung (und nicht aller Pressezustellung) ärgert. Der BDZV sieht aber nicht zu Un-
+recht die Chance, einen staatlichen Fördertopf nicht mit den Zeitschriftenverlegern tei-
+len zu müssen. Zumal die nicht einheitlich auftreten, sondern mit dem Gepolter von 
+Heribert Bertram und der sachlichen oder diplomatischen, aber nicht minder deutlichen 
+Ablehnung der nicht mehr im Fachverband Publikumszeitschriften organisierten Verlage 
+zeigen, dass eine alle Verlage und weitere Unternehmen umfassende Kooperative ein 
+Hirngespinst ist.] 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 26
+ 
+ 
+ 
+ 
+ 
+Der Lesermarkt in der Corona-Krise – April-Update 
+P 
+Corona-Krise 
+ 
+Folgen 
+Wie schon in den allerersten Wochen der Krise, waren auch im April quantifizierte Angaben 
+zu den Folgen der Krise im Vertrieb vor allen Dingen Meldungen zum Vertrieb digitaler 
+Angebote. Die Folgen von Corona für den Verkauf gedruckter Presse sind aufgrund der 
+üblichen Zeitverzüge insbesondere im Einzelverkauf häufig noch nicht valide abzuschät-
+zen. Die IVW-Meldungen des ersten Quartals, die mit dem März ja immerhin einen stark 
+von Corona betroffenen Monat umfassten, fielen unter dem Strich in der Branchenbi-
+lanz unauffällig aus. Vermutlich Corona-bedingte Ausschläge bei einzelnen Titeln sind 
+eher Ausnahmen (zB -11% z.VJ in der EV-Auflage des Kickers am Montag, +12% z.VJ bei 
+Bauers Good Health). Drastisch scheint es die Bild-Zeitung zu treffen. Springers Chef für 
+die Print-Aktivitäten, Christian Nienhaus, sagte im Interview mit Horizont über die Bild-Ver-
+käufe, "In den Corona-Wochen liegen wir zwischen 15 und 18 Prozent unter Vorjahr".  
+Der Lesezirkel leidet massiv unter den Schließungen von Frisörgeschäften und anderen 
+Unternehmen mit Wartebereichen. Viele Ärzte haben die Auslage von Presse in ihren War-
+tezimmern beendet. Zwar hat weder der Branchenverband noch das größte Unternehmen 
+der Branche auf unsere Anfragen zum Thema reagiert. Aber aus einem der ganz großen 
+Lesezirkelunternehmen hören wir, dass dort derzeit die Hälfte der Kunden verloren sind. 
+Die schneller messbaren Ergebnisse im Bereich des Verkaufs digitaler Presse führten 
+auch im April zu zahlreichen Erfolgsmeldungen. Hier liegen mittlerweile auch viele Infor-
+mationen von aggregierenden Unternehmen (Dienstleister, Kioske) vor, die einen breite-
+ren Überblick über das Geschehen im Bereich Paid Content ermöglichen, als Einzelfallmel-
+dungen zu einzelnen Titeln oder Angeboten. Zum Digitalabo-Boom lesen Sie unten mehr. 
+Zu Wort gemeldet haben sich in den letzten Wochen mehrere Anbieter für Digital Pub-
+lishing-Dienstleistungen, also Tools und Services zur Erstellung digitaler Presseprodukte 
+auf Basis der vorhandenen Print-Vorlagen. So berichtet der Dienstleister Twipe, dass er 
+bei den Digitalausgaben seiner Verlagskunden im März 55% mehr Nutzung messen 
+konnte. Besonders Abend- und Wochenendausgaben seien gefragter als früher. Auf un-
+sere Nachfrage bei unserem eigenen Dienstleister, Yourfundi, erfuhren wir, dass auch 
+dort deutlich mehr Downloads gemessen werden. Die bestehenden Verlagskunden frag-
+ten nach Extra-Features, z.B. der Einrichtung besonderer Preise, von Extrainhalten, oder 
+auch Extrafunktionen. Einen deutlichen Anstieg des Interesses von potenziellen Neukun-
+den sehe man aber nicht. 
+Andere Publishing-Dienstleister posaunen von einer deutlich steigenden Nachfrage 
+auf der Verlagsseite. Blue Toad-CEO Paul De Hart spricht von "vielen Anrufen von Ver-
+lagen, die praktisch nichts haben und nun ganz schnell etwas haben wollen" – gemeint 
+ 
+Folgen im Vertrieb 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Print: IVW-Zahlen ins-
+gesamt unauffällig 
+ 
+ 
+ 
+einzelne Titel teils dras-
+tisch betroffen 
+ 
+ 
+ 
+ 
+ 
+Lesezirkel massiv nega-
+tiv getroffen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Serviceunternehmen 
+(= mehrere Verlage als 
+Kunden): 
+ 
+Digital-Publishing-
+Dienstleister: deutlich 
+steigende Nutzung der 
+Digitalausgaben 
+ 
+ 
+ 
+ 
+ 
+ 
+oft deutlich steigende 
+Nachfrage von Verla-
+gen (bisher) ohne Digi-
+talausgaben 
+ 
+VERMISCHTES
+Vermischtes 
+Vermischtes 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 27
+sind Digitalausgaben der Zeitschriften. Issuu-CEO Joe Hyrkin sagt: "Wir sehen einen gro-
+ßen Anstieg bei Anfragen von Publishern von Zeitschriften und Zeitungen, die ihre Ge-
+schäfte wegen der Herausforderungen im Print-Bereich digitalisieren wollen". Von 3D-
+Zeitschrift GmbH heißt es auf Nachfrage: "Tatsächlich erleben wir gerade einen sehr star-
+ken Zuwachs an Anfragen und daraus resultierenden Projektanbahnungen." 
+Während der Print-Vertrieb im deutschsprachigen Markt noch ohne großflächige Brand-
+meldungen auskommt, gibt es in anderen Ländern gravierende Einschränkungen zu 
+beobachten. In einem einseitig beschlossenen und zunächst auch kaum begründeten 
+Schritt hat der wichtigste spanische Pressegrossist Boyacá, der insbesondere große 
+Händler und Handelsketten mit den in Spanien stark vom Einzelverkauf lebenden Tages-
+zeitungen versorgt, angekündigt, vorübergehend kein Geld mehr an die Verlage auszu-
+zahlen. Die spanische Post hat zwischen dem 18. März und dem 6. April keine Presse zu-
+gestellt. In Frankreich hat die Post Ende März die tägliche Zustellung beendet. Briefe 
+und eben auch Presse wurden nur an drei Tagen in der Woche ausgeteilt. Noch im April 
+reagierte die Post auf die umgehenden Proteste besonders der Tageszeitungen und er-
+höhte die Zahl der Zustelltage wieder sukzessive.  
+Distripress, die Weltorganisation für den Import und Export von gedruckter Presse, hat 
+eine tabellarische Übersicht erstellt, mit welchen Maßnahmen 35 Länder auf 5 Kontinen-
+ten auf die Corona-Pandemie reagieren und welche Folgen das für den lokalen Pressever-
+trieb hat. Die Tabelle ist als PDF-Dokument frei zugänglich [pv-digest.de/linkliste Link6]. 
+In Spanien hat die Regierung die ohnehin für dieses Jahr geplante Absenkung der Mehr-
+wertsteuer auf digitale Presse von 21% auf 4% vorgezogen. Auch englische Verlage 
+müssen nicht mehr dem eigentlich erst für Dezember erwarteten Termin entgegenfiebern. 
+Auf digitale Presse wird in Großbritannien seit Anfang Mai gar keine Mehrwertsteuer 
+mehr erhoben – bis Ende April waren es noch 20%. 
+Digitalabo-Boom 
+Aktiv erkundigt haben wir uns beim größten deutschen Abosystemanbieter. Welche 
+Corona-Effekte bemerkt die dsb ccb solutions GmbH bei ihren Kunden? Für die deutschen 
+Kunden, die dsb nur als Systemhaus unterstützt, konnte das Unternehmen keine Antwor-
+ten geben. Wohl aber Alexander Münch, COO des Ablegers in Großbritannien, dsb.net, 
+der auch im Bereich Aboservice aktiv ist und darüber einen tieferen Einblick in die Ge-
+schäftsentwicklung der Verlage habe. 
+Die Verlagskunden mit Hobby-Zeitschriften verzeichneten Umsatzanstiege zwischen 30% 
+und 68%. "Eine Entwicklung hin zu mehr Digital-Abos oder dem Einzelkauf von digitalen 
+Inhalten sehen wir hier nicht. Wer schon früher Printausgaben favorisierte, bestellte in den 
+letzten 4 Wochen auch weiterhin Printausgaben. Wer digital unterwegs war, ordert Online-
+Ausgaben oder schloss Digital-Abos ab. Allerdings waren in UK reine Digital-Abos sowie 
+Hybrid-Abos schon vor dem Lockdown viel stärker verbreitetet als in DACH." 
+Stark verändert habe sich das Kontaktverhalten der Kunden. Statt per Telefon meldeten 
+sich die Kunden per E-Mail. Im Schnitt der Wochen vom Start des Lockdowns am 23.03. bis 
+zum 26.4. sei die Anzahl der E-Mail-Anfragen um ca. 50% gestiegen. Zu 80% hätten diese 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Print-Vertrieb in 
+D/A/CH weitgehend rei-
+bungslos 
+ 
+Spanien: Grossist 
+stoppt Auszahlungen 
+an Verlage 
+ 
+ 
+Postzustellung in Spa-
+nien und Frankreich 
+teils stark reduziert 
+ 
+ 
+ 
+Distripress mit Über-
+sicht zu weltweiter Si-
+tuation 
+ 
+LINKTIPP 
+ 
+ 
+Spanien&Großbritan-
+nien: Mehrwertsteuer-
+absenkung für digitale 
+Presse vorgezogen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aboverwalter dsb.net 
+sieht in Großbritannien 
+keinen Boom bei den 
+Digitalausgaben 
+ 
+wohl aber stärkere 
+Nachfrage & Mehrum-
+satz bei Hobby-Titeln 
+ 
+UK-Kunden von dsb 
+nutzen E-Mail statt Te-
+lefon 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 28
+Kontakte mit automatisierter E-Mail-Bearbeitung erledigt werden können. Außerdem 
+"stieg die Nutzung von Self Service Systemen in den letzten 4 Wochen um ca. 20%". 
+Während Münch also für die dsb.net-Kunden keinen besonderen Digitalabo-Boom sieht, 
+berichten zahlreiche Medien, vor allem Zeitungen, von starkem Wachstum bei den Paid 
+Content-Angeboten. Das vielleicht umfassendste Bild zum Digitalabo-Boom zeichnen 
+die Daten des Paywall-Dienstleisters Piano, die wöchentlich vom Weltnachrichtenver-
+band inma veröffentlicht werden. Die Daten beruhen auf knapp 300 Paywalls in den USA 
+und in Europa. Dargestellt wird die prozentuale Veränderung bei der Anzahl neu abge-
+schlossener Digitalabos im Vergleich zu einem Basiswert, dem Durchschnitt der Vor-
+Corona-Monate Januar und Februar: 
+Angebotspolitik 
+In Deutschland erregen sich einige Verlagsmanager und Medienjournalisten über Gra-
+tisangebote für sonst bezahlpflichtige Digitalprodukte, vor allem über ein Angebot von 
+Gruner+Jahr, über das wir schon in der letzten Ausgabe berichtet haben (Horizont: die 
+"halbe Branche versuchte, den Hamburger Verlag zur Räson zu rufen"). In anderen Län-
+dern sind Gratisangebote Gang und Gäbe. Der Zeitschriftenverlag Singapore Press Hol-
+dings (u.a. Lizenzausgaben von Harper's Bazaar oder Shape) verschenkt Dreimonatsabos 
+für seine Digitalausgaben [pvd: natürlich nur 'aus Verantwortungsgefühl ggü der Commu-
+nity', wie der Verlag betont]. Le Monde verschenkt in diesem Jahr in Kooperation mit dem 
+Versicherungskonzern MAIF digitale Lernhilfen für die französischen Abiturienten. Norma-
+lerweise kosten die neun Sonderhefte, die Abiturthemen wie Geschichte, Mathematik oder 
+Englisch aufbereiten, am Kiosk jeweils 8,90€. In diesem Jahr kann sie jedermann kostenlos 
+als Digitalausgabe herunterladen.  
+Auch bei uns lässt sich nicht jeder Verlag von den kritischen Stimmen beeinflussen. So 
+gibt es zum Beispiel die E-Paper der Titel des Deutschen Landwirtschaftsverlags in 
+München (z.B. die B2B-Titel agrarheute und Food & Farm aber auch die Special Interest-
+Magazine Pirsch und Unsere Jagd) bis Ende April kostenlos. Das Main-Echo verschenkt 
+Anstieg bei der Nut-
+zung von Selfservice-
+Angeboten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+inma&Piano messen 
+die Boom-Effekte über 
+300 Piano-Kunden hin-
+weg 
+ 
+ 
+auch in 7. Boom-Wo-
+che noch nahezu ver-
+doppelte Abozugänge 
+ 
+ 
+ 
+ 
+ 
+Angebotspolitik 
+ 
+ 
+Streit in Deutschland 
+um Gratis E-Paper 
+ 
+ 
+Gratis ist weltweit eine 
+häufig gewählte Option 
+ 
+ 
+Le Monde verschenkt 
+hochpreisige Abitur-
+Lernhefte als E-Paper 
+ 
+ 
+ 
+ 
+Landwirtschaftsverlag 
+München verschenkt  
+E-Paper 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 29
+Digitalabos an "unsere Helden", d.s. Mitarbeiterinnen und Mitarbeiter der Bereiche Ge-
+sundheit, Altenpflege und Erziehung sowie Verkäuferinnen und Verkäufer und Angehörige 
+ähnlicher Berufe. Allerdings kommt das Bestellformular wie eine recht konventionelle Po-
+sitivoption daher [pv-digest.de/linkliste Link7]. 
+Im Zeitungsbereich weit verbreitet ist das Angebot an Printabonnenten, ausnahms-
+weise kostenlos die digitalen Angebote nutzen zu können. Die Kölner Titel von DuMont 
+haben auf diesem Weg schon in der ersten Woche 10.000 neue Registrierungen für Ihr 
+Digitalangebot eingesammelt, sagt DuMont Rheinland-Geschäftsführer Carsten Groß ge-
+genüber KressPro. Dort berichtet er auch über ein neu eingeführtes 'Kurzarbeiter-Abo', 
+das Abonnenten mit Bezahlschwierigkeiten "für mehrere Monate" rund 60% günstiger an-
+geboten wird, das aber später wieder zum Normalpreis fakturiert werde. 
+Freilich gibt es auch die gegenteilige Strategie, die den Nachfrageboom zur Durchset-
+zung höherer Preise nutzen will. Gegenüber KressPro berichtet der Chefredakteur der 
+Sächsischen Zeitung, Uwe Vetterick, dass sein Blatt derzeit auf die üblichen 99Cent-Probe-
+monatsangebote verzichte. Zum Preis von 9,90€ (monatlich kündbar) bzw. 6,90€ (im Jah-
+resabo) verkaufe man derzeit trotzdem 3-4mal mehr Digitalabos als sonst. Das wöchentli-
+che britische Gratismagazin Stylist erscheint derzeit nur digital. Im April hat der 
+Mode&Beauty-Titel eine App gelauncht. Darin macht er die Abos für die Digitalausgaben 
+bezahlpflichtig. Für die digitalen Ausgaben des (bisher) gedruckt kostenlosen Magazins sol-
+len zwischen 21,99£ im Jahresabo und 6,99£ pro Quartal bezahlt werden. 
+Viele Zeitschriften streichen einzelne Ausgaben bzw. kündigen Doppelnummern an. 
+So haben zum Beispiel Madame, Monopol, Vogue, myself, Frau im Spiegel Royal und Ideat 
+den Wegfall von je mindestens einer Ausgabe bekannt gegeben. Die bekannte und traditi-
+onsreiche Zeitschrift Abenteuer und Reisen wird vollständig eingestellt. 
+Nebeneffekte & Kurioses 
+Die Berliner Zeitung hat für das erste Quartal keine Zahlen an die IVW gemeldet. Wie 
+Turi2 berichtet, begründet der Verlag das mit der Nicht-Vergleichbarkeit der Daten aus den 
+Corona-Wochen. Das US-Pendant zur IVW, die AAM, bietet den Verlagen Sonderregeln 
+und Erleichterungen für die Auflagenmeldung zum ersten Quartal. Auf Wunsch darf 
+die Quartalsmeldung nur die von Corona noch mehr oder weniger unbeeinflussten Mo-
+nate Januar und Februar umfassen. Die Meldungen müssen nicht alle sonst obligatori-
+schen Daten enthalten. Und wenn Corona-bedingt Erscheinungstermine ausgefallen sind 
+oder für bestimme Regionen keine Daten vorliegen, dann interpoliert die AAM fehlende 
+Daten für Zwecke der Vergleichbarkeit. 
+Thilo Knaupp, Geschäftsführer des Abokündigungsdienstleisters Aboalarm, berichtet 
+von deutlichen Veränderungen im Kündigungsverhalten. "Seit Beginn der Maßnahmen zur 
+Einschränkung sozialer Kontakte sehen wir ein deutlich anderes Muster bei den Kündigun-
+gen." Das führe in einigen Branchen, so Bild.de, zu einem "regelrechten Treuetrend". 
+Handyverträge, Internetprovider und auch Printabos würden deutlich weniger gekündigt, 
+Abos bei Fitness-Centern, ÖPNV-Betrieben oder Reiseversicherungen deutlich häufiger. 
+Main-Echo mit 'Ge-
+schenk' für Mitarbeiter 
+wichtiger Branchen 
+ 
+LINKTIPP 
+ 
+Zeitungen verzichten 
+auf Digitalabo-Auf-
+preise für Printkunden 
+ 
+ 
+ 
+DuMont mit verbillig-
+tem 'Kurzarbeiter-Abo' 
+ 
+ 
+ 
+Sächsische Zeitung bie-
+tet derzeit keine verbil-
+ligten Probeabos an 
+ 
+ 
+ 
+ 
+Gratismagazin Stylist 
+launcht Bezahlangebot 
+für Digitalausgaben 
+ 
+ 
+ 
+etliche Zeitschriften 
+machen aus zwei Aus-
+gaben eine Doppel-
+nummer 
+ 
+ 
+ 
+ 
+ 
+ 
+AAM ermöglicht verein-
+fachte und/oder weni-
+ger umfassende Mel-
+dungen zum 1. Quartal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aboalarm sieht 
+"Treuetrend"; deutlich 
+weniger Kündigungen 
+von Printabos 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 30
+Gratis heißt nicht umsonst 
+Einige Großkopferte der Verlagswelt hyper-
+ventilieren derzeit beim Thema Gratis. Sie 
+ereifern sich angelegentlich eines Angebo-
+tes von Gruner+Jahr, das Nutzern im 
+Tausch gegen eine Registrierung für be-
+grenzte Zeit kostenfrei den Zugriff auf die 
+digitalen Ausgaben aller Zeitschriften und 
+Plus-Angebote des Verlages ermöglicht. 
+Die halbe Branche versuche "den Ham-
+burger Verlag zur Räson zu rufen" berich-
+tete Horizont. Zu den am stärksten Erregten 
+gehören auch Manager, deren Häuser über
+Jahre, wenn nicht Jahrzehnte hinweg erfolg-
+reiche Geschäftsmodelle darauf aufgebaut 
+haben, die Abos gedruckter Zeitschriften de
+facto zu verschenken (Stichwort Bargeld-
+prämien). Die überzeugte Betreiber von 
+Klickschleudergratiswebsites sind. Oder die 
+Digitalabos anbieten, die nur gerade so
+eben den Schwellenwert zu nicht mehr gra-
+tis überschreiten. Darum ist die vorgetra-
+gene Empörung wohlfeil. 
+Sie ist auch deswegen nicht gerechtfertigt, 
+weil intelligent gesteuerte Gratisangebote
+die notwendigen Reichweiten für hochren-
+table Folgeverkäufe herstellen können. Die 
+erfolgreichsten Paid Content-Angebote im
+deutschen Markt haben lange Jahre vor der
+Einrichtung einer Paywall über ihr Gratisan-
+gebot den nunmehr großen Erfolg ebendie-
+ser Paywall vorbereitet. Dass das bei Zeit,
+Spiegel, FAZ et al nicht immer nur schlaue 
+Strategie war, sondern oft genug auch feh-
+lende Traute, tut der Tatsache, dass das 
+funktioniert hat, keinen Abbruch. 
+ 
+Ein kleines Gedankenexperiment. (Hin-
+weis: es folgt pure Fiktion. Es gibt nicht den 
+leisesten Hinweis, dass das Szenario von ir-
+gendeiner Seite beabsichtigt sein könnte). 
+Man stelle sich vor, Deutschlands unange-
+fochtener Corona-Experte #1, der Berliner 
+Virologe Christian Drosten, wollte seine 
+neue Popularität zu Markte tragen. Stellen
+Sie sich vor, er wäre bereit, mit seinem Na-
+men und seine Stimme als Testimonial für 
+ein Medizinprodukt zu werben. Stellen Sie 
+sich eine Werbebotschaft im Gesundheits-
+markt vor, die mit den Worten beginnt 
+'Deutschlands bekanntester Virologe emp-
+fiehlt…'. 
+Was, glauben Sie, wäre diese Werbung 
+wert? Der 'Werbewert' des Christian Dros-
+ten dürfte im Millionen-Euro-Bereich zu ver-
+orten sein. Diesen Wert hat er nun, ganz
+gleich, ob er ihn zu monetarisieren beab-
+sichtigt oder nicht.  
+Und wie hat er diesen Wert aufgebaut? Mit 
+der Bereitschaft, seine Kompetenz und sein 
+Wissen ohne Vergütung unter anderem in 
+einem sehr erfolgreichen Gratispodcast zur 
+Verfügung zu stellen. Hätte Christian Dros-
+ten den Plan gehabt, seine Einkünfte aus
+harter Arbeit im Medizinbetrieb durch 
+schnell verdientes Werbegeld zu ersetzen
+und zu übertreffen, er hätte es nicht ge-
+schickter anstellen können. Gratis wäre in 
+diesem Fall – wie so oft – nicht umsonst ge-
+wesen. 
+… letzte Worte 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 5/2020 ׀ SEITE 31
+ 
+ 
+  
+ 
+Über pv digest 
+ 
+pv digest ist ein Informationsdienst auf Expertenniveau für das Top-Management 
+rund um das Thema Lesermarkt und Vertrieb journalistischer Produkte. pv digest 
+beruht auf eigenen Recherchen und auf Zusammenfassungen an anderer Stelle ver-
+öffentlichter Informationen und bietet einen einzigartigen Überblick über alle stra-
+tegisch relevanten Vertriebsthemen. pv digest unternimmt in der Regel keine Prü-
+fung wiedergegebener Inhalte und übernimmt keine Garantien für die inhaltliche 
+Korrektheit von Informationen. Genutzte Quellen in pv digest sind in der vorliegen-
+den Ausgabe wie folgt codiert: 
+ 
+ 
+Quellenverzeichnis Ausgabe 5/2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum und 
+Kontaktdaten 
+ 
+HERAUSGEBER: 
+Markus Schöberl (v.i.S.d.P.) 
+Doverkamp 5 
+22335 Hamburg 
+Telefon: 040 308 901 09 
+e-mail: schoeberl@pv-digest.de 
+www.pv-digest.de 
+ 
+pv digest erscheint 11x jährlich,  
+in der Regel am fünften Werktag 
+eines Monats, als personalisiertes  
+PDF-Dokument 
+ 
+PREISE: 
+Regulärer Bezug Deutschland:  
+pro Ausgabe 71€ zzgl. USt., Aus-
+landspreise auf Anfrage 
+ 
+Sonderpreise für Mengenabos  
+oder Firmenlizenzen auf Anfrage 
+ 
+BESTELLUNGEN UND  
+SERVICEFRAGEN:  
+e-mail: abo@pv-digest.de 
+Telefon: 040 308 901 09 
+Post: Doverkamp 5,  
+22335 Hamburg 
+ 
+Bankverbindung: 
+Hamburger Sparkasse 
+BIC:  HASPDEHHXXX 
+IBAN: DE82 2005 0550 1237 1348 10 
+ 
+ 
+ 
+COPYRIGHT: 
+pv digest ist ein empfängerge-
+bundener Informationsservice 
+ 
+ 
+Vervielfältigung und elektroni-
+sche Weitergabe sind untersagt. 
+ 
+ 
+ACHTUNG: der nächste pv digest 
+erscheint am 5. Juni 2020 

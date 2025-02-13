@@ -1,0 +1,3301 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulären 
+Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz sinnvoll 
+ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+Ausgabe 10/2022 
+Liebe Leserinnen und Leser, 
+es ist kein Geheimnis, dass mein be-
+sonderes Interesse den Entwicklun-
+gen im digitalen Lesermarkt gilt. Aber 
+nach wie vor habe ich den Anspruch, 
+das Lesermarktgeschäft insgesamt 
+im Blick zu haben. Wenn also in der 
+Printwelt etwas Berichtenswertes ge-
+schieht, dann wird das auch zum 
+Thema in pv digest. 
+Das gilt umso mehr, wenn es dabei 
+um ein so komplexes und span-
+nungsreiches Thema geht wie die laufenden Verhandlungen zwischen den 'G13'-
+Verlagen und den Pressegrossisten. Die in eine 'Pause' eskalierten Gespräche die-
+ser beiden Protagonisten, vor allem aber den argumentativen Hintergrund der Ausei-
+nandersetzung, habe ich in mehreren Beiträgen aufgearbeitet, die Sie in der 
+Rubrik 'Handel und Absatzwege' und unter 'Meinungen' finden. 
+Um Paid Content geht es bei den Berichten aus der Verlagswelt. Hier möchte ich die 
+Beiträge zur Migration von CeleraOne nach Piano bei Tamedia (ab Seite 2) und zu 
+PUR-Abos (S.5) hervorheben. 
+Und auch die pv digest Paywall-Benchmarks. Die habe ich in der Vorjahresausgabe 
+erstmals vorgestellt und in dieser Ausgabe präsentiere ich die aktuellen Vergleichs-
+werte zur durchschnittlichen und bestmöglichen Ausschöpfung von digitalen Zei-
+tungs-Lesermärkten (ab Seite 22). Piano hate ebenfalls Paywall-Kennzahlen veröf-
+fentlicht. Daraus habe ich die wichtigsten Werte zusammengestellt und präsentiere 
+sie in einer zugespitzten Version, die sicher die eine oder andere Anregung für Ihr 
+Geschäft geben kann (ab Seite 25).  
+Ich wünsche Ihnen einen guten und verkaufsstarken Monat. 
+Markus Schöberl, Herausgeber pv digest 
+PS: in letzter Sekunde muss ich hier eine Aktualisierung vornehmen: für Verlage, die 
+Mitglied im MVFP sind, haben die G13 am 29.9. darüber informiert, wer sie sind. In 
+diesem Punkt sind die Beiträge auf den Seiten 11&29 nicht mehr 100% zutreffend.
+Der pv digest 
+Quick Guide 
+ 
+Das Wichtigste in 15 Minuten 
+ 
+ 
+Für Zeitschriften- 
+Verlage 
+Für Zeitungs/ 
+News-Verlage 
+Zu Paid Content 
+ 
+Für Handels- 
+Verantwortliche 
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.11 
+Analysen und  
+Daten                 
+ 
+S.22 
+Meinungen 
+ 
+S.29 
+Personalien 
+ 
+S.30 
+Vermischtes 
+ 
+S.30 
+letzte Worte 
+S.31 
+Editorial 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 2
+ 
+ 
+ 
+ 
+ 
+Tamedia berichtet über seine Erfahrungen mit dem Um-
+stieg auf Piano 
+P 
+Tamedias Migration 
+zu Piano 
+ 
+Der Schweizer Zeitungskonzern Tamedia (elf Tageszeitungen, zwei Sonntagszeitungen und 
+vier Zeitschriften) hat bereits hinter sich, was viele Nutzer der Paywall-Lösung von Celera-
+One noch vor sich haben: den Umstieg auf die Digitalabomanagementplattform von 
+Piano. Dieser Schritt ist notwendig, weil, wie pv digest im vergangenen Dezember berich-
+tete und Ende Februar 2022 dann auch von den Unternehmen aktiv bekanntgemacht 
+wurde, der vorher zu Axel Springer gehörende Paywalltechnikanbieter CeleraOne (C1) von 
+Piano geschluckt wurde. Und weil Piano angekündigt hat, die C1-Technik nicht fortzufüh-
+ren und stattdessen die C1-Kunden zur Migration auf das eigene Softwarepaket auffordert. 
+Tamedia verfügt über diesen Vorsprung, weil es sich schon lange vor Bekanntwerden des 
+C1-Verkaufs dazu entschieden hatte, auf die Softwaresuite von Piano umzusteigen. "Wir 
+waren einer der ersten CeleraOne-Kunden. Und wir hatten rund um die Paywalllösung 
+viele andere, hauseigene Systeme aufgebaut. Diese Gesamtstruktur war aber am Ende 
+sehr unflexibel. Darum haben wir uns schon 2020 entschieden, zu Piano zu wechseln", 
+sagt Tamedias Chief Revenue Officer Marc Isler im Gespräch mit pv digest. 
+Das Migrationsprojekt startete im November 2020 und war im Oktober des letzten Jahres 
+abgeschlossen. Ein Teil der Projektdauer erklärt sich damit, dass Tamedia einen 'Big 
+Bang', also die gleichzeitige Migration aller Titel und aller Kundendaten zu einem einzigen 
+Zeitpunkt, vermeiden wollte. Stattdessen überführte Tamedia die Daten aus der alten in 
+die neue Systemlandschaft Titel für Titel und teilweise auch Kundensegment für Kunden-
+segment. 
+Nach Abschluss dieser Migration und ersten Monaten Erfahrung mit der neuen Systemlö-
+sung ist Tamedia so zufrieden, dass es sich von Piano als Referenzcase vorstellen 
+lässt. 
+Die alte Systemumgebung sei den aktuellen Anforderungen an ein reaktionsschnelles 
+und flexibles Agieren im Digitalabogeschäft schlicht nicht mehr gewachsen gewesen. So 
+habe man nur für das Anlegen einer neuen Abo-Angebotsform ein halbes Jahr benö-
+tigt und fünf verschiedene Teams an der Umsetzung beteiligen müssen. Heute sei das an 
+einem Tag erledigt, erzählt Isler. 
+Darüber hinaus wollte Tamedia unterschiedlichen Zielgruppen bzw. Nutzersegmenten 
+unterschiedliche Aboangebote machen. Während vor der Umstellung auf das Piano-Sys-
+tem allen Nutzern – registrierten Nutzern, anonymen Nutzern, ehemaligen Abonnenten 
+usw. – die gleichen Aboangebote gemacht wurden, kann Tamedia heute in der Angebots-
+steuerung zwischen Nutzergruppen unterscheiden. 
+ 
+ 
+ 
+Tamedia hat den 
+Wechsel von C1 zu Pi-
+ano schon bewältigt 
+ 
+ 
+ 
+(Das steht anderen C1-
+Kunden noch bevor) 
+ 
+ 
+ 
+ 
+Hintergrund: Beschluss 
+zum Wechsel bereits 
+2020 erfolgt 
+ 
+ 
+ 
+ 
+Migrationsprojekt von 
+November 2020 bis 
+Oktober 2021 
+ 
+kein Big Bang, sukzes-
+sives Vorgehen 
+ 
+Piano präsentiert Ta-
+media als Erfolgsge-
+schichte; Tamedia be-
+stätigt das 
+ 
+ 
+alte Systemumgebung 
+(C1, SAP u.v.m.) war zu 
+unflexibel 
+ 
+ 
+ 
+ 
+erst heute möglich:  
+ 
+• differenzierendes 
+Abomarketing 
+ 
+QUELLEN:
+NACHRICHTEN AUS VERLAGEN
+UND VERLAGSVERTRIEBEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 3
+Die Möglichkeit, neue Aboangebote sehr zeitnah und mit nur wenigen Klicks und Justie-
+rungen anlegen zu können, nutzt Islers Marketingteam für zahlreiche Tests und für eine 
+enge Zusammenarbeit mit der Redaktion. Mitarbeiter seines Teams sitzen in der Redak-
+tion und können darum tagesaktuell mitverfolgen, wenn sich Themen entwickeln, die sich 
+für die Abowerbung anbieten. Von heute auf morgen kann Tamedia nun passende Aboan-
+gebote erstellen, wenn die Redaktion an Inhalten arbeitet, die sich zum Beispiel für ein 
+befristetes Angebot eignen (Artikelserien; alle Ausgaben, die in einem thematisch be-
+stimmten Zeitraum wie der Basler Fasnacht oder während eines Sportevents oder auch 
+einer kurzfristig entstandenen Nachrichtenlage erscheinen) oder für eine passende Mar-
+ketingidee [pvd denkt hier beispielsweise an die zahlreichen '9€-Tickets', die sich deutsche 
+Abomarketer im Sommer hatten einfallen lassen. Aber just dieses Thema war für den 
+Schweizer Verlag natürlich keines].  
+Ein Schweiz-typisches Testszenario, das Tamedia mittlerweile umgesetzt hat und vor-
+her nicht umsetzen konnte, ist die Fragestellung, ob die vor einer Abobestellung obligato-
+rische Registrierung ein Umweg ist oder ein Abo-Booster. Bisher führt der Weg zum Abo 
+nur über eine Registrierung im Tausch gegen 14 Tage Gratis-Probelesen. Nun erprobt der 
+Verlag, ob an dieser Stelle ein sofort bestellbares Probeabo nicht effektiver ist. 
+Solange man sich aus den bei Piano verfügbaren Abomodellen oder Kundensegmenten 
+bediene, sei die Einrichtung eines neuen Angebotes eine Angelegenheit von wenigen 
+Klicks, die der verantwortliche Marketingmanager vornehmen kann. Marc Isler spricht 
+hier von "Out-of-the-Box-Segmenten". Früher habe man dafür die IT-Kollegen beauftragen 
+müssen, was zu entsprechend langen Umsetzungszeiten und hohen Hürden vor der Um-
+setzung eines solchen Tests geführt habe. "Während die IT-Kollegen früher die neuen Abo-
+Modelle gebaut haben, können dank der Piano-Plattform jetzt auch Nicht-Techniker neue 
+Segmente und Abos erstellen." Bisher sei ihm, Isler, noch keine Angebotsidee gekommen, 
+die er nicht mit den via Piano verfügbaren Modellen habe abbilden können. 
+Nun gibt es bei Tamedia zum Beispiel ein Familienabo, Firmenlizenzabos, ein 'All-Access'-
+Abo, das den Zugang zu allen Bezahlwebsites des Verlages ermöglicht oder ein Abo für 
+ 
+ 
+• viele Tests schnell 
+anlegen und durch-
+führen können 
+ 
+ 
+ 
+• flexibles und agiles 
+Zusammenarbeiten 
+mit der Redaktion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bsp. aktuelle Testfrage: 
+ist [schweiz-typische] 
+obligatorische Vorab- 
+Registrierung sinnvoll? 
+ 
+ 
+ 
+ 
+ 
+ 
+Heute klicken Marke-
+tingmanager zusam-
+men, was früher kom-
+plexe Projekte waren 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 4
+Leser unter 25 Jahre. Und die ganze Organisation agiert deutlich flexibler und agiler. Und 
+in der Konsequenz auch viel erfolgreicher. "Seit Einführung von Piano verkaufen wir 
+dank Segmentierung deutlich besser: die Anzahl der Neuabschlüsse liegt um +61% über 
+dem Vorjahreswert", berichtet Isler gegenüber pv digest. 
+Neben der sehr viel höheren Flexibilität stellt Isler auch deutliche Einsparungen heraus, 
+die sich für sein Unternehmen durch die Ablösung der veralteten Systemarchitektur erge-
+ben hätten. "Die IT-Koste sanken enorm" heißt es in einem Pressetext zu diesem Thema, 
+weil durch Nutzung der Piano-Standards auf teures Customizing verzichtet werden könne. 
+Tamedia zählt derzeit über 150.000 Digitalabos, die alle mit mindestens 15CHF monatlich 
+berechnet werden. Bis 2023 wolle man diese Zahl auf 200.000 steigern und langfristig will 
+Tamedia sein publizistisches Geschäft allein mit den Erlösen aus dem Verkauf von 
+Digitalabos finanzieren.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+neue Angebotsformen 
+z.B. Familienabo, Fir-
+menabo, U25-Abo, 
+Schweiz-Flatrate 
+=>+61% Abos 
+ 
+ 
+ 
+ 
+deutlich gesunkene IT-
+Kosten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint Die Grundlage dieses Artikels ist ein PR-Text der Firma Piano. Wir verfol-
+gen die Erfolgsgeschichte von Paid Content bei Tamedia aber seit langem und wir haben 
+für diesen Beitrag ausführlich mit Marc Isler gesprochen. 
+Auch über den Umstand, dass Tamedia schon einmal eine ehrgeizige Messlatte aufge-
+legt und danach gerissen hatte. 2019 hatte der damalige Geschäftsführer für den Be-
+reich Bezahlmedien 230.000 Digitalabos für das Jahr 2021 avisiert. Daran will sich heute 
+bei Tamedia niemand mehr erinnern. Außerdem zähle man heute viel konservativer, 
+meint Isler. Er sieht sich und seinen Konzern mit der neuen IT-Umgebung und einem 
+sehr viel agileren Digitalabomarketing auf dem richtigen Weg zum neuen Nordstern. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 5
+ 
+Zum aktuellen Stand bei PUR-Abos und der erstaunliche 
+Erfolg von Contentpass 
+P 
+PUR-Abos /  
+Contentpass 
+ 
+Es ist gerade einmal viereinhalb Jahre her, dass die österreichische Tageszeitung Der 
+Standard, die immer schon ein Digitalvorreiter war, das PUR-Abo erfunden hat. Mit die-
+sem Angebot wollte der Standard vor allem eine Lösung für seine zahlreichen werbeblo-
+ckierenden Leser schaffen. Denn die Website war damals komplett gratis nutzbar. Gleich-
+zeitig zeichnete sich die Leserschaft durch einen sehr hohen Anteil datenschutzorientier-
+ter und an Anonymität interessierter Nutzer aus, weswegen der Standard überdurch-
+schnittlich unter Adblockern litt.  
+Auf den Appell an die Adblockernutzer, freiwillig zu bezahlen ("Fair Use-Abo"), hatten zu 
+wenige der Werbeverweigerer reagiert. Mit dem PUR-Abo schaffte der Standard eine be-
+zahlpflichtige  Alternative zu Werbeeinblendungen und vor allem auch zum in seinem 
+Nutzerkreis oft sehr kritisch betrachteten Tracking. 
+Damit hat der Standard im deutschen Sprachraum die am schnellsten adaptierte, sich 
+großflächig verbreitendste Aboform geschaffen. Nachdem Anfang 2020 Der Spiegel und 
+Die Zeit dem österreichischen Vorbild gefolgt sind, sind PUR-Abos heute ein alltägli-
+ches Phänomen nicht nur auf Pressewebsites.  
+Die Motivation hinter diesem PUR-Boom ist allerdings meistens eine andere. Weniger 
+die Forderung der Nutzer nach Tracking- und Werbefreiheit oder die Phantasie, auf die-
+sem Weg relevante Aboerlöse zu generieren  als vielmehr die verbraucher- und daten-
+schutzrechtlichen Anforderungen der Gesetzgeber befördern das explosive Wachs-
+tum solcher Angebote. Die PUR-Abos werden von den Verlagen als rechtskonforme Lö-
+sungen für das Einholen der für das Nutzertracking notwendigen Einverständnisse erach-
+tet. Sie bieten eine klare Alternative: entweder für Werbe- und Trackingfreiheit bezahlen 
+oder in Werbung und Tracking inklusive Cookies einwilligen. 
+ 
+ 
+ 
+ 
+PUR-Abo = Werbe- und 
+Trackingfreiheit gegen 
+Bezahlung 
+ 
+ 
+ 
+ 
+ 
+erfunden von Der Stan-
+dard 
+ 
+ 
+ 
+sehr schnelle Verbrei-
+tung in Deutschland 
+und Österreich 
+ 
+ 
+ 
+ 
+weniger, weil die Ver-
+lage eine Erlösquelle 
+darin sehen 
+ 
+sondern weil sie damit 
+rechtsgültige Werbe- 
+und Trackingeinver-
+ständnisse einholen 
+ 
+ 
+ 
+ 
+ 
+… einzuholen glaubten 
+ 
+ 
+ 
+ 
+ 
+weil Datenschutzbe-
+hörden ihre Meinung 
+zum Thema änderten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[pvd: genauer müsste man sagen: "Die PUR-Abos wurden von den Verlagen als rechtskonforme 
+Lösungen für das Einholen der für das Nutzertracking notwendigen Einverständnisse erachtet". 
+Denn mittlerweile verbreitet sich zunehmend die Erkenntnis, dass viele der auf Länderebene 
+verantwortlichen Behörden der Auffassung sind, dass die PUR-Abos nicht wirksam oder 
+datenschutzrechtlich nicht einwandfrei sind. 
+"Nicht mehr der Auffassung sind", müsste man ebenfalls sagen. Auf dem Distribution Summit 
+des MVFP Anfang September hat Zeit Online-Geschäftsführer Enrique Tarragona berichtet, dass 
+die für ihn zuständige Hamburger Datenschutzbehörde in der Vergangenheit sogar aktiv zur 
+Installation eines PUR-Abos in der heute praktizierten Form aufgefordert hatte und nunmehr 
+aber der Meinung ist, dass dieses Angebot doch nicht datenschutzrechtskonform ist. "Ohne, 
+dass sich zwischenzeitlich die maßgeblichen gesetzlichen Grundlagen verändert hätten", sagte 
+Tarragona. 
+Ein Treiber der PUR-Abo-kritischen Einschätzungen der Behörden sind diverse von der öster-
+reichischen Datenschutzinitiative noyb angestoßene Verfahren, die das Ziel verfolgen, PUR-
+Abos zumindest in der heute geläufigen Form zu verhindern. Darüber hat pv digest in der Sep-
+temberausgabe des Vorjahres ausführlich berichtet.] 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 6
+Contentpass 
+Wie schnell sich PUR-Abos in der jüngeren Vergangenheit verbreitet haben, das zeigt 
+der Erfolg des deutschen Dienstleisters Contentpass. Es ist noch nicht einmal zwei 
+Jahre her, dass erste kleinere Websites das PUR-Abo von Contentpass installiert ha-
+ben. Und nur 15 Monate, seit Content-Pass mit T-Online eine der größten Websites über-
+haupt als Kunden gewinnen konnte. Dennoch zählt das Unternehmen heute schon 160 
+Kunden, die seine Lösung implementiert haben oder – wie T-Online – die dahinterste-
+hende Technologie im Rahmen einer White Label-Lösung nutzen. 
+Während Contentpass als Technologieanbieter äußerlich unbemerkt im Hintergrund 
+bleibt, ist das Contentpass PUR-Abo, das die meisten seiner Kunden-Websites nutzen, 
+groß gedacht und reicht weit über die verlagsseitige Organisation des Umgangs mit 
+den Nutzerpräferenzen hinaus. 
+Denn das Contentpass PUR-Abo verspricht dem Nutzer Werbe- und Trackingfreiheit 
+auf allen Websites, die es anbieten, für nur einen überschaubaren Preis. Der beträgt 
+derzeit 1,99€ pro Monat. Dafür kann man zum Beispiel werbe- und trackingfrei bei TV Di-
+gital, ÖkoTest, PC Welt oder inFRanken.de surfen. Im Vergleich zu den meistens jeweils 
+ca. 5€, die für Werbe- und Trackingfreiheit auf einzelnen Websites wie spiegel.de oder 
+zeit.de bezahlt werden müssen oder sogar 8€, die das PUR-Abo beim Standard mittler-
+weile kostet, ist das verlagsübergreifende Contentpass-PUR-Abo ein Schnäppchen. Das 
+werde zwar in absehbarer Zeit teurer werden, wie Gründer und Geschäftsführer Dirk 
+Freytag gegenüber pv digest ankündigt. Es werde aber in absehbarer Zeit nicht teurer 
+als die 5€ werden, die momentan anderswo für Werbe- und Trackingfreiheit auf einzel-
+nen Websites zu bezahlen sind.  
+Wie praktisch alle PUR-Abo-Anbieter berichtet auch Freytag davon, dass die allermeis-
+ten Nutzer sich angesichts der Alternative für kostenloses Surfen mit Werbeeinverständ-
+nis entscheiden. Selbst die 1,99€, mit denen man sich beim Contentpass PUR-Abo Tra-
+cking- und Werbefrei heit auf zahlreichen Websites erkauft, sind eine Hürde, über die 
+kaum ein Nutzer springt. Nennenswerte Erlöse erzielen mit ihren PUR-Modellen in der 
+Regel nur solche Websites, die sehr viele Nutzer haben und somit auch bei Umwand-
+lungsquoten im sehr niedrigen Bereich zu bedeutsamen PUR-Abo-Mengen und -umsät-
+zen gelangen. 
+Contentpass 
+deutscher Anbieter; 
+erste Kunden live seit 2 
+Jahren 
+ 
+Renommierkunde T-
+Online seit 15 Monaten 
+ 
+rund 160 Kundenweb-
+sites insgesamt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contentpass PUR-Abo 
+= 1x bezahlen, bei al-
+len Teilnehmern 
+werbe-&trackingfrei 
+ 
+ 
+…für z.Z. 1,99€ 
+ 
+und perspektivisch für 
+maximal 5€ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Auch Contentpass ge-
+neriert nur wenige 
+Abos aber viele Einver-
+ständnisse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 7
+Aber auch die kleinen Umsätze der wenigen Bezahler müssen verteilt werden. Hier ver-
+folgt Contentpass eine gleichzeitig originelle und sehr transparente Strategie. Statt die 
+Aboerlöse nach streitbaren und variablen Schlüsseln zu verteilen, kauft Contentpass 
+den teilnehmenden Websites die Werbeflächen, die nun frei bleiben müssen, einfach 
+ab. Entsprechend sei es auch eine individuelle Verhandlungssache, wie viel jeder Verlag 
+pro Nutzungsvorgang durch einen Contentpass-Abonnenten verdient. Es seien aber in 
+jedem Fall die vom Verlag tatsächlich im Markt realisierten Werbeverkaufspreise, die 
+Contentpass bezahle, sagt Freytag. 
+Darüber hinaus würden die Verlage, die Contentpass nutzen, aber auch noch von hö-
+heren Werbeerlösen bei den Nutzern profitieren, die kein PUR-Abo abschließen. Denn 
+diese Nutzer hätten mit ihrer Entscheidung gegen das PUR-Abo und für Werbung und 
+Tracking ein klares Einverständnis erteilt, das im Werbemarkt zu höheren Preisen und 
+teils sogar zu Werbekunden führe, die auf eine besonders unbezweifelbare Consent-Poli-
+tik Wert legen und darum ohne PUR-Alternative gar keine Werbung buchen würden, sagt 
+Dirk Freytag. 
+Dass das funktioniert, das hatte im vergangenen Herbst schon Klaus Dünisch, Leiter 
+Produktmanagement und Entwicklung bei InFranken.de, gegenüber KressPro berichtet. 
+Das PUR-Abo von Contentpass sei kein Bestseller bei InFranken.de, sagte Dünisch da-
+mals. Monatlich entscheide sich nur eine zweistellige Nutzerzahl dafür. Aber die Werbe-
+erlöse seiner Website seien nach Einführung des PUR-Abos so gestiegen, dass InFran-
+ken heute auf Paid Content in herkömmlicher Form [Paywall] ganz verzichten kann. 
+Wie viele SaaS-Anbieter behauptet Freytag, dass seine Technologie ohne großen Auf-
+wand und sehr schnell implementiert werden könne. Den größten Aufwand bei der Ein-
+führung des Contentpass PUR-Abos bereite es, die Liste aller Werbetracker zu erstel-
+len, die bei den PUR-Abonnenten deaktiviert werden müssen. Wenn das einmal erledigt 
+sei, dann könne das Contentpass PUR-Abo in sehr kurzer Zeit – eine Realisierung sei in-
+nerhalb von nur drei Stunden erfolgt – implementiert werden. 
+Bisher ist Contentpass nur in Deutschland, Österreich und der Schweiz aktiv und steht 
+für Nutzer in der gesamten EU und der Schweiz zur Verfügung. Für nicht-deutschspra-
+chige Nutzer stehen bereits übersetzte Schnittstellen auf Englisch, Französisch und Pol-
+nisch bereit. 
+Contentpass bezahlt 
+Verlage für entgangene 
+Werbeerlöse nach Ist-
+Tarifen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zusätzlich verspricht es 
+höhere Werbeerlöse 
+bei den Nutzern mit 
+Einverständnis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Noch wird Contentpass 
+nur von Publishern in 
+D/A/CH genutzt 
+ 
+ 
+pvd meint Die datenschutzrechtliche Groteske rund um PUR-Abos ist ein Drama. 16 
+Länderbehörden in Deutschland, die nationale österreichische Datenaufsicht und per-
+spektivisch die erst noch bevorstehenden Interpretationen aus anderen EU-Ländern 
+machen jede Investition in ein PUR-Angebot zu einer Wette über die Zeitspanne, inner-
+halb derer man die jeweilige Variante wird betreiben können, ganz gleich mit wie viel 
+Bemühen um Rechtskonformität sie von Anfang an gestaltet wurde. 
+Ein übergreifendes Angebot, das zumindest zweifelsfrei notwendige Anpassungen an 
+einen sich evtl. herausbildenden Konsens der Datenschützer für alle Teilnehmer imple-
+mentiert, ist da eine attraktive Variante. Dieser Beitrag ist kein bezahltes Advertorial. 
+Aber der Contentpass-Ansatz hat unsere Redaktion überzeugt. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 8
+ 
+ 
+Dagens Næringsliv: Lifestyle&Genuss als Paid Content  
+94 
+Lifestyle Paid Con-
+tent 
+ 
+Die norwegische Wirtschaftszeitung Dagens Næringsliv (DN) hatte am ersten September 
+letzten Jahres Inhalte rund um das Thema Weingenuss zusammengefasst, neu strukturiert 
+und teils mit zusätzlichen Services versehen hinter die Paywall gestellt. Nur bezahlende 
+Nutzer können seitdem in einer Datenbank mit über 60.000 Weinen recherchieren 
+(hier profitiert der Verlag von einem staatlichen Monopol auf den Weinverkauf, wodurch 
+landesweit vollständige Daten aus einer einzigen Quelle verfügbar sind), einzelne Weine 
+als persönliche Favoriten anlegen, Notizen dazu abspeichern, eigene Bewertungen abge-
+ben und die Bewertungsdurchschnitte anderer Nutzer ansehen. 
+Vorher waren etliche Inhalte rund um das Thema Wein (zum Beispiel wöchentliche Wein-
+besprechungen im Bewegtbildformat, ein Podcast) gratis verfügbar. Auch die Wein-Daten-
+bank konnte vorher – wenn auch in ei-
+nem deutlich weniger komfortablen 
+Format – gratis genutzt werden. An-
+dere Weininhalte (Weinbesprechun-
+gen im Textformat, ein Newsletter oder 
+eine Webinar-Serie zum Thema Wein-
+Tasting) stehen schon seit längerem 
+hinter der Paywall.  
+Die ersten vier Monate, seit die vorher 
+gratis verfügbaren Datenbankinhalte 
+hinter der Paywall standen, zeigten, 
+dass die Nutzer den Schritt akzeptiert 
+haben. Die Anzahl der PageViews 
+stieg um rund 7%, die Visits sogar um 21% und die Unique Visitors um ganze 37%.  
+Die genaue Auswirkung auf Kundenbindung/Churn kann der Verlag noch nicht liefern. 
+Das Abomarketing berichtet über ein immer noch wachsendes Interesse an allen Webin-
+halten und besonders an der Datenbank. Die Datenbank sei eines der am meisten ge-
+nutzten Features des teuersten Abopaketes der Zeitung und sie habe auch mehrfach 
+Nutzer dazu motiviert, vom günstigen Basisabo zur teureren Variante zu wechseln. 
+ 
+ 
+norwegische Zeitung 
+stellt Weindatenbank 
+und andere Wein-In-
+halte hinter Paywall 
+ 
+(nachdem die Inhalte 
+neu strukturiert und 
+komfortabler zugäng-
+lich gemacht wurden) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Seitdem steigt die Nut-
+zung dieser Inhalte so-
+gar 
+ 
+ 
+ 
+ 
+Nicht zuletzt auch aus einem datenschutzfernen Grund: Nach nur anderthalb Jahren hat 
+Contentpass eine dreistellige Anzahl Publisher dafür gewonnen, sich eine einzige Be-
+zahllösung zu teilen. Das PUR-Abo von Contentpass dürfte vielleicht sogar weltweit das 
+der Anzahl der teilnehmenden Publisher nach größte verlagsübergreifende Abomodell 
+für Webinhalte sein.  
+Nur einmal bezahlen, sich dafür nur einmal registrieren und dann ganz vielen verschie-
+dene – am liebsten natürlich Alle! – Digitalpresseangebote nutzen können. Davon ist 
+Contentpass zwar noch Lichtjahre entfernt. Es kommt dieser Vision aber näher als alle 
+bisherigen Versuche inklusive eines mit Top-Prominenz vorangetriebenen Modells wie 
+Scroll von Chartbeat-Gründer Tony Haile (vgl. pv digest #2/2020 und #2/2021). 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 9
+ 
+'Gaming' und 'Kochen' bereichern Lesermarktgeschäft 
+der New York Times 
+3 
+B54 
+Spielen und Kochen 
+mit der NYT 
+ 
+Spiele, Spieleabos und mit Spielen generierte Abos 
+Die New York Times hatte Anfang dieses Jahres das sehr populäre, bei Millionen Menschen 
+auf der ganzen Welt beliebte digitale Wörterspiel Wordle übernommen. Das kann seitdem 
+zwar weiterhin gratis gespielt werden. Aber die Zeitung sieht in den Wordle-Spielern ein 
+großes Potenzial, das sie zu bezahlenden Nutzern ihres Digitalspieleabos oder sogar 
+des Gesamtpaketes inklusive der journalistischen Inhalte wandeln kann. "Wir sehen 
+Wordle als eine unglaubliche Chance, alle diese Leute mit unseren Spielen bekanntzuma-
+chen", sagt Digitalspielechef Jonathan Knight. 
+Und nicht nur das. "In den letzten Wochen hat sich definitiv 
+gezeigt, dass die Leute, wenn wir ihnen schließlich ein 
+Spieleabo anbieten und dabei die Wahl lassen, entweder 
+das Spieleabo oder das größere New York Times-Bündel 
+zu abonnieren, dann wählen die Leute das Bündel". 
+ 
+Seit der Wordle-Akquise erreiche die NYT mit ihrem Spiele-
+angebot ein geografisch deutlich weiter verbreitetes Pub-
+likum. Und nicht wenige aus diesem Publikum folgten dem 
+von Knight designten Funnel zum Bezahl-Abo, berichtet Di-
+giday. Außerdem kann die Zeitung die Reichweites des 
+Spiels im Werbemarkt mo-
+netarisieren 
+und 
+durch 
+Merchandising, zum Beispiel ein Wordle-Brettspiel. 
+ 
+ 
+Kochen, Kochzutaten und Kochrezepteabos 
+Die New York Times hat das Geschäftsmodell ihres Kochre-
+zepteablegers Cooking um den Verkauf von Kochboxen er-
+weitert. Für 95$ können Cooking-Leser von Gastköchen be-
+stückte Zusammenstellungen lang haltbarer Kochzuta-
+ten inklusive zugehöriger Kochanleitungen erwerben.  
+ 
+Die Gastköche können auch live im Rahmen von Koch-
+Events erlebt werden, für die Eintrittspreise zwischen 75$ 
+und 150$ aufgerufen werden, berichtet Hollywoodreporter. 
+ 
+Im Dezember hatte das digitale Kochangebot der New 
+York Times die Marke von 1Mio bezahlenden Abonnen-
+ten überschritten. 
+ 
+ 
+ 
+ 
+Anfang 2022: NYT 
+übernimmt das be-
+liebte Digitalspiel  
+Wordle 
+ 
+Marketingchance 
+durch Wordle-Reich-
+weite 
+ 
+ 
+Angeblich bevorzugen 
+so gelockte Neubestel-
+ler das 'große' Abo vor 
+dem Spieleabo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Neben Paid Content 
+wird Wordle auch via 
+Werbung&Merchandi-
+sing monetarisiert 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NYT verkauft jetzt 
+Kochzutaten-Zusam-
+menstellungen à 95$ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NYT Cooking: >1Mio 
+Abos 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 10
+ 
+         
+P 
+      
+Marktentwicklung
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im 
+September 2022, zu Anzahl 
+und Erscheinungsweise siehe 
+"Daten Cockpit Handel")  
+   
+ 
+Marktentwicklung
+Preise
+ 
+neu eingeführte Zeitschriften 
+Print, Presse-Apps in ausge-
+wählten Stores 
+   
+ 
+Marktentwicklung
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+Preise bei neuen Zeitschriften) 
+  
+ 
+DATEN COCKPIT VERLAGE
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 11
+ 
+ 
+ 
+ 
+ 
+tl;dr: Verhandlungen zwischen 'G13' und Grossisten  
+P 
+G13 vs. Grosso 
+ 
+Auf den folgenden Seiten dokumentieren wir ausführlich zwei (fach)öffentlich gehaltene 
+Reden zu den laufenden Verhandlungen um das Pressevertriebssystem. In beiden Reden 
+finden sich zahlreiche Andeutungen auf das, was in diesen höchst vertraulich gehaltenen 
+Verhandlungen besprochen wird (bzw. werden soll). Für eilige Leser geben wir folgend 
+zunächst eine stark vereinfachte, von uns überspitzte und zu großen Teilen auf kaum 
+überprüfbaren Gerüchten basierende Zusammenfassung der Gesprächslage: 
+> Für die Verlagsseite verhandeln pro forma 13 Verlage. Das sind die sieben Verlage, die 
+bereits die letzte Handelsspannenvereinbarung gemeinsam verhandelt hatten (Axel 
+Springer, Bauer, Burda, Der Spiegel, Funke, Gruner+Jahr, Klambt) und weitere sechs 
+Verlage, die bisher aber öffentlich nicht benannt/bestätigt wurden (Delius Klasing – 
+jüngst von der Verlagsgruppe Klambt übernommen!, Eat Smarter, VF Verlag, PPV Me-
+dien, Kelter Verlag, Stiftung Warentest). 
+> Selbst um diese 13 Namen wird ein Geheimnis gemacht. Mehrfache hartnäckige Nach-
+fragen von pv digest an den MVFP und an die bekannten Verhandlungsführer Bauer und 
+Burda, wenigstens 'offiziell' bekannt zu machen, wer hier die gesamte Verlagswelt vertre-
+ten soll, wurden nicht beantwortet [bitte beachten Sie hierzu das PS auf Seite 1]. 
+> Tatsächlich verhandelt nur eine Delegation dieser Verlage, augenscheinlich unter der 
+Federführung der Bauer Mediengruppe 
+> Die umstrittenste Forderung der Verlagsseite wird unter dem Stichwort 'Cost-Plus' 
+diskutiert. Damit gemeint ist die Offenlegung der betriebswirtschaftlichen Daten aller 
+Grossofirmen mit dem Ziel, daraus eine auf den tatsächlichen Kosten basierende Vergü-
+tungssystematik abzuleiten 
+> Darüber hinaus gefordert wird eine Herausnahme bisher von den Grossisten im Rah-
+men der Handelsspannenregelung erbrachter 'Extraleistungen', die stattdessen 
+dann nur von den Verlagen zu bezahlen wären, die diese auch in Anspruch nehmen. Bei-
+spielhaft und an erster Stelle genannt werden hier Marketingleistungen des Grosso-Au-
+ßendienstes. Aber denkbar wäre auch, dass die ganz großen Verlage nicht einmal mehr 
+die Disposition als Kernleistung eines Grossounternehmens ansehen wollen. 
+> Die Grossisten betonen ihre Eigenschaft als selbstständige Unternehmer und wollen auf 
+keinen Fall der Forderung nachgeben, ihre Kosten komplett offenzulegen. Jedenfalls nicht 
+einseitig. Man wolle auf Augenhöhe verhandeln. Über das Thema einseitige Offenle-
+gung der Kosten will die Grossoseite gar nicht erst sprechen. Über diesen Punkt ist 
+der Verhandlungsfaden seit Wochen abgerissen.  
+ 
+ 
+Nächste 2 Artikel doku-
+mentieren Reden zu 
+den laufenden Ver-
+handlungen 
+ 
+pointierte, gerüchte-
+basierte Zusammen-
+fassung der aktuellen 
+Situation: 
+ 
+• G13 = G7 + Delius 
+Klasing, Eat Smarter, 
+VF Verlag, PPV Me-
+dien, Kelter, Stiftung 
+Warentest 
+ 
+ 
+• nicht einmal diese 
+Auflistung wollen die 
+G13 öffentlich be-
+kannt geben 
+ 
+• für die Verlage ver-
+handelt de facto nur 
+ein Teil der G13 
+ 
+• umstrittenste Forde-
+rung: Grossisten sol-
+len ihre Bücher of-
+fen legen 
+ 
+ 
+• darüber hinaus: nur 
+noch abgespeckte 
+Inklusivleistungen 
+des Grosso 
+ 
+ 
+ 
+ 
+• Grossisten sehen 
+sich als selbststän-
+dige Unternehmer 
+ 
+wollen keine 'open 
+books' 
+ 
+ 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 12
+> Die Grossoseite möchte am bestehenden Vergütungssystem nicht drehen. Grossisten 
+werden derzeit über die Handelsspanne vergütet, die sich aus der Differenz ihrer Ein-
+kaufspreise bei den Verlagen und ihrer Verkaufspreise an den Einzelhandel ergibt. Diese 
+Vergütung muss erhöht werden, weil Absatz- und Umsatzmengen deutlich zurückge-
+gangen sind und gleichzeitig viele Kosten stark angestiegen sind. 
+> Wie von der Verlagsseite seit Jahren eingefordert, reduzieren Grossisten die Kosten auf 
+ihrer Seite durch Zusammenlegungen, Fusionen und Kooperationen.  
+> Eine weitere Idee zum Kostensparen verfolgen sie mit dem Vorschlag, die Erscheinungs-
+termine von Presseprodukten – und damit die Ausliefermengen – gleichmäßiger über 
+die Wochentage zu verteilen. 
+> Die Grossisten haben bereits im Frühjahr einen konkreten Vorschlag für eine neue 
+Handelsspannenregelung vorgelegt. 
+> 6 der G13 Verlage (nicht Klambt und statt Gruner+Jahr unterschrieben von Bertelsmann) 
+haben Ende September ein Schreiben an das Bundeskartellamt gerichtet, in dem sie 
+sondieren, ob die Behörde es ihnen durchgehen lassen würde, ein ganz neues Vertriebs-
+system – am Grossoverband vorbei – aufzustellen. 
+• Grossisten: bisherige 
+Vergütungslogik bei-
+behalten! (aber hö-
+here Vergütung!) 
+ 
+ 
+ 
+• Kostenminimierung 
+durch Fusionen etc. 
+ 
+• Vorschlag: Verlage 
+sollen EVTs gleich-
+mäßiger verteilen 
+ 
+• konkreter Grosso-
+vorschlag liegt auf 
+dem Tisch 
+• G6 (G7 außer 
+Klambt) klären mit 
+Kartellamt: muss 
+Grosso sein? 
+ 
+ 
+"Lessen Sie uns gemeinsam neue Strukturen bauen!" 
+Die Rede von Ingo Klinge auf dem Distribution Summit 
+P 
+Ingo Klinge zum Pres-
+severtriebssystem 
+ 
+Auf dem Distribution Summit des MVFP hielt der oberste Zeitschriftenmanager der Bauer 
+Media Group Anfang September eine bemerkenswerte Rede. Im Ton freundlich zuge-
+wandt, aber in der Sache äußerst streitlustig, skizzierte Ingo Klinge seine Erwartungen an 
+die derzeit laufenden Verhandlungen von 13 Verlagen ('G13') mit der Spitze des Pres-
+segrossoverbandes.  
+Wir dokumentieren hier den Redetext Ingo Klinges, basierend auf dem uns vom Verlag 
+zur Verfügung gestellten Redemanuskript. Dieses haben wir um der Prägnanz willen und 
+für eine bessere Lesbarkeit leicht gekürzt und um Flüchtigkeitsschreibfehler bereinigt. 
+Auch die Hervorhebungen und Zwischenüberschriften kommen aus unserer Redaktion. 
+Ingo Klinge, CEO Publishing Germany Bauer Media Group, 1.9.2022: 
+"Jeder hat das Recht, seine Meinung in Wort, Schrift und 
+Bild frei zu äußern und zu verbreiten und sich aus allgemein 
+zugänglichen Quellen ungehindert zu unterrichten (Art. 5, 
+Abs 1 GG). 
+Wir als Verlage sind – neben anderen Mediengattungen – 
+Voraussetzung und Garant für das Gelingen unserer frei-
+heitlich demokratischen Grundordnung, Garant für die 
+Pressfreiheit. 
+Die Digitalisierung unserer Welt, die Digitalisierung der 
+freien Presse führt uns allen täglich und sehr praktisch vor 
+Augen, was Journalistinnen und Journalisten, was Medien in 
+unserer Gesellschaft tatsächlich leisten – und was sie in Zu-
+kunft immer stärker werden leisten müssen, damit die 
+ 
+ 
+Zeitschriftenchef der 
+Bauer Media Group 
+über seine Vorstellun-
+gen zum Grossosystem 
+ 
+ 
+ 
+Dokumentation der 
+Rede auf dem MVFP-
+Distribution Summit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wir Verlage sind (u.a.) 
+Garant für das Gelin-
+gen der demokrati-
+schen Ordnung 
+ 
+ 
+ 
+Digitalisierung verän-
+dert die Welt gesell-
+schaftlich  
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 13
+wichtige öffentliche Debattenkultur auch weiter stattfindet und gelingen kann, damit un-
+terschiedliche Meinungen ihren Platz finden und von der großen Mehrheit als wichtig und 
+wertvoll für unser Zusammenleben respektiert werden. 
+Auch wirtschaftlich verändert die Digitalisierung unsere Welt seit vielen Jahren. Sie ver-
+ändert unsere Unternehmen, unsere Art zu arbeiten, unsere Erlösströme. Leserinnen und 
+Leser verabschieden sich in andere Kanäle, Menschen kaufen weniger Druckerzeugnisse. 
+Die Geschwindigkeit, in der sich dieser Wandel vollzieht, nimmt von Jahr zu Jahr zu. 2022 
+wird sich nach unserer Einschätzung wohl zum vorläufigen wirtschaftlichen Tief-
+punkt in der Geschichte des Printgeschäfts entwickeln. 
+Diesem Strukturwandel unserer Branche, diesen Veränderungen im Verhalten von Nut-
+zerinnen und Nutzern müssen wir uns stellen. Ein guter Anfang ist, den Strukturwandel zu 
+akzeptieren und zu verstehen. Die Welt verändert sich – und das in atemberaubender 
+Geschwindigkeit. Es liegt alleine an uns, ob wir als Verlegerinnen und Verleger und als 
+Managerinnen und Manager die richtigen Schlüsse ziehen, die richtigen Wege einschlagen 
+und ob wir dies schnell und konsequent genug tun. 
+Wir als Unternehmerinnen und Unternehmer sind gefragt. Unsere Geschäftsmodelle 
+müssen funktionieren, wir müssen mit neuen Ideen, mit Innovationen und mit einem 
+klaren Blick unsere Zukunft gestalten.  
+Neue Wege, neue Kanäle zu Leserinnen und Lesern durch Digitalisierung. Das sind die 
+wichtigen Themen, mit denen wir uns beschäftigen und die folgerichtig die großen Themen 
+dieses Summits sind. Allerdings müssen wir uns der Ambidextrie in der Transformation 
+unserer Branche bewusst sein. Auch dem Erfolg unserer gedruckten Produkte, unserer 
+Zeitschriften müssen wir unsere Aufmerksamkeit widmen. Denn seine Wirtschaftlichkeit 
+bezahlt für viele von uns diese Transformation. Für andere wird der physische Vertrieb 
+auch langfristig ein wichtiger Teil des Geschäftsmodells bleiben.  
+Die Rolle der Verlage bei der Sicherung des Pressevertriebssystems 
+(…) Wie schaffen wir es, für die kommenden Jahre ein stabiles und finanzierbares Presse-
+vertriebssystem zu erhalten? Es gilt für uns die Frage, wie wir als Presseverlage unsere 
+Zukunft gemeinsam gestalten. Wir brauchen den Wettbewerb zwischen uns, um un-
+sere Inhalte, den Wettbewerb im Diskurs von Meinungen, den Wettbewerb um unsere 
+Zielgruppen. Aber wir brauchen Gemeinsamkeit und Geschlossenheit, wenn es um 
+die Zukunft der Systeme geht, die diese Inhalte tragen und Basis für diesen Wettbe-
+werb sind.  
+Denn wir sind es – die Verlage – die dafür sorgen müssen, dass freier, professionell 
+gemachter Journalismus finanzierbar bleibt, und das gelingt uns nur in wirtschaftlich 
+gesunden Unternehmen, in Verlagen, die Geld verdienen. Denn nur so erhalten wir uns 
+die Unabhängigkeit, die unsere Pressefreiheit trägt. 
+Der physische Vertrieb von Presseerzeugnissen wird – gerade in den kommenden Jah-
+ren – eine der wichtigsten Grundvoraussetzungen für diese wirtschaftliche Stabilität 
+und Leistungsfähigkeit unserer Häuser sein. Und um es ganz klar zu sagen. Wir brauchen 
+nicht nur ein bezahlbares Vertriebs-System.  
+Wir werden uns als Verlage in Zukunft auch (stärker als in der Vergangenheit) selbst 
+darum kümmern müssen, dass es ein solches Vertriebssystem überhaupt gibt! Was 
+sind die Fakten:  
+> 60% der Erlöse unserer gesamten Branche hängen am physischen Pressevertrieb. 
+Der größte Teil davon am derzeitigen Grosso-System. 
+ 
+ 
+ 
+ 
+und auch wirtschaft-
+lich 
+ 
+2022 wird Tiefpunkt in 
+der Geschichte ge-
+druckter Presse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Verlagsseite muss die 
+Zukunft gestalten 
+ 
+ 
+ 
+ 
+Digitalisierung fußt auf 
+Erfolg der gedruckten 
+Produkte 
+ 
+ 
+ 
+ 
+ 
+Wie kann das Presse-
+vertriebssystem gesi-
+chert werden? 
+ 
+indem Verlage publizis-
+tisch konkurrieren, bei 
+'Inhalte tragenden Sys-
+temen' kooperieren 
+ 
+Verlage müssen Geld 
+verdienen, um unab-
+hängig zu sein 
+ 
+Vertrieb "gerade in den 
+kommenden Jahren 
+Grundvoraussetzung 
+für Wirtschaftlichkeit" 
+ 
+Wir Verlage müssen 
+uns selbst kümmern, 
+dass es ein stabiles 
+Vertriebssystem gibt 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 14
+> Im Jahr 2020 hat das System eine Absatzmenge von 1.198.000.000 Exemplaren bewegt. 
+70% weniger als im Jahr 2000. Unsere Prognose für 2030 geht von 460.000.000 aus. Das 
+sind nur noch 12% der Menge aus dem Jahr 2000 und noch einmal 61% weniger als 
+2020.  
+Wir sehen durch die toxische Kombination aus den langfristig strukturellen Marktver-
+änderungen und dem Booster eines 'Perfect Storms' in unserer Volkswirtschaft, der 
+auch über diese Branche mit aller Macht hineinbricht, eine ernsthafte Gefährdung für 
+ein zukunftsfähiges, flächendeckendes und diskriminierungsfreies Grosso-Vertriebssys-
+tem. 
+FAZIT: Diese zu erwartenden Umsatz-Verluste werden das Pressevertriebssystem an 
+seine Grenzen bringen. Schneller als uns allen lieb ist. Unsere Analysen und Prognosen, 
+die gemeinsame Arbeit der G13 und nicht zuletzt die Prognosen von z.B. KPMG für unsere 
+Branche kommen immer zu demselben Schluss:  
+Diese Umsatz-Verluste sind in den Grenzen des heutigen Vertriebssystems nicht 
+durch 'einfache' Kosteneinsparungen aufzufangen – diese Vorstellung ist eine Illusion. 
+Auch durch eine einfache Erhöhung der Handelsspannen im Rahmen des bestehenden 
+Vertriebssystems können sie nicht aufgefangen werden. Die Belastung für uns Verlage 
+wäre nicht zu tragen. Für einige wäre sie existenzbedrohend. 
+Unser Ziel als Verlage ist es, ein stabiles, verlässliches und bezahlbares Pressevertriebs-
+system zur Verfügung zu haben. Das bestehende System wird in der Zukunft weder die 
+Stabilität, noch die Verlässlichkeit oder die Bezahlbarkeit sicherstellen.  
+Wir müssen daher an einer grundlegenden Reform und Neuaufstellung des Vertriebs-
+systems arbeiten. 
+Erwartungen an die laufenden Verhandlungen mit den Pressegrossisten 
+Was heißt das für die aktuellen Gespräche zwischen Grossisten und Verlagen:  
+Den genannten Realitäten können wir nicht mit 'Business as usual', mit geübten Verhand-
+lungs-Routinen begegnen. 
+Über Jahrzehnte war es für uns alle selbstverständlich im bestehenden System zu ver-
+handeln. Natürlich war es mit einem zähen Ringen um die Strukturen im System, um Kos-
+tenverteilung im System verbunden. Über viele Jahre nach einem bekannten und klar de-
+finierten Drehbuch. Klar war immer: Das System an sich steht und funktioniert.  
+Meine Damen und Herren, dieses System steht nicht mehr! Das Drehbuch der ver-
+gangenen Jahre ist wertlos. Gemeinsam müssen wir umdenken. 
+Es geht in diesem Jahr nicht nur um die Verhandlung neuer Handelsspannen. Wir müssen 
+reden über  
+> gravierende, strukturelle Veränderungen des Systems, insbesondere in den nicht-
+logistischen Bereichen, um das System leistungsfähig, aber auch schlank zu machen 
+und maximale Synergien zu heben (weniger Einheiten, idealerweise maximale Zentrali-
+sierung nicht logistischer Leistungen) 
+> vertriebliche Leistungen, die im Laufe der Jahrzehnte immer komplexer und auf-
+wändiger geworden sind (Überprüfen, ob wirklich noch nötig oder bezahlbar, z.B. Nach- 
+und Wiederauslieferungen bei immer niedrigeren VDs, Anlieferzeiten, aber auch die Ar-
+beitsteilung zwischen Verlagen und Grossisten z.B. im Bereich Key-Account Management) 
+  
+ 
+ 
+ 
+ 
+ 
+Absatzrückgänge + 
+Perfect Storm in der 
+Volkswirtschaft = ernst-
+hafte Gefährdung 
+ 
+ 
+ 
+Alle Analysen&Progno-
+sen ergeben: 
+ 
+ 
+ 
+ 
+Kosten einsparen oder 
+Grosso-HSP erhöhen 
+genügt nicht  
+ 
+ 
+Das bestehende Sys-
+tem ist nicht zukunfts-
+fähig 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In den laufenden Ver-
+handlungen geht es 
+nicht um Handelsspan-
+nen 
+ 
+Wir müssen reden 
+über: 
+ 
+• Fusionen und Zent-
+ralisierung der 
+nicht-logistischen 
+Bereiche 
+ 
+• abgespecktes Leis-
+tungsangebot 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 15
+> Transparenz in Kostenstrukturen der Grossisten, Transparenz regionaler Kostenun-
+terschiede bei gleichzeitiger Garantie, dass jeder Grossist die zur Sicherstellung des 
+Vertriebs notwendigen Kosten (plus einer angemessenen Marge) bekommt 
+> Verhinderung von Quersubventionierung anderer, grossovertriebsfremder Aktivitäten, 
+die evtl. sogar im Wettbewerb zu den Verlagen stehen (Logistik, Nationalvertriebe z.B.) 
+> Konzeption eines kostenbasierten Vergütungssystems, wodurch Kosten und Leistun-
+gen regelmäßig bewertet und in Einklang gebracht werden 
+> ein Vergütungssystem, das beiden Seiten Sicherheit gibt (dem Grossisten, dass das 
+Vertriebssystem auch künftig monetär abgesichert ist; uns Verlagen, dass wir nicht mehr 
+als nötig in dieses durch uns abgesicherte System zahlen)  
+Wir Verlage können und werden in Zukunft nicht einfach das bezahlen, was als Gegen-
+leistung gefordert wird. Denn genau dazu würde es in der Zukunft innerhalb des beste-
+henden Systems kommen müssen.  
+Wenn die Marktentwicklung uns Verlage dazu zwingt, höhere Kosten zu akzeptieren, 
+dann müssen wir wissen, dass alle Effizienzen gehoben sind, wir müssen wissen, wofür wir 
+zahlen.  
+Und wir Verlage werden in Zukunft die Systemstabilität in unseren Händen haben 
+und kontrollieren. Einen Systemausfall können und werden wir nicht riskieren. Dafür be-
+nötigen wir Garantien, wir brauchen volle Transparenz. 
+Liebe Verlagskolleginnen und Verlagskollegen,  
+was ich beschrieben habe, ist eine strukturelle Systemkrise im Vertriebssystem Grosso, 
+keine strukturelle Krise bei uns Verlagen. Wenn wir diese Systemkrise im Grosso nicht ge-
+meinsam bewältigen, kann diese auch für uns Verlage bedrohlich werden. 
+Das bedeutet für uns Verlage: 
+> Wir müssen schnell handeln  
+> Wir müssen konsequent handeln und dürfen keine falschen Kompromisse akzeptieren 
+> Es darf bei uns Verlagen keinen Kampf um Partikularinteressen geben  
+> Es darf keinerlei Denkverbote geben im Ringen um die beste Lösung 
+> Wir müssen es schaffen, die Systemessentials zu sichern bei gleichzeitigem, fundamen-
+talem Umbau des Systems. 
+In den vergangenen Wochen und Monaten haben wir das als Verlage bereits sehr gut 
+gemeinsam hinbekommen. Alle Verlage der G13 und alle über den MVFP involvierten Ver-
+lage bewerten sowohl die Situation als auch die daraus abgeleiteten Maßnahmen als al-
+ternativlos und stehen eng zusammen. Genau diese Geschlossenheit werden wir auch in 
+den kommenden Monaten zeigen.  
+Appell an die Verhandlungsführer der Pressegrossisten 
+Sehr geehrte Damen und Herren, lieber Herr Nolte, verehrte Grossisten.  
+Die Entwicklung der wirtschaftlichen Rahmendaten ist offensichtlich. Die Prognosen für 
+die kommenden Monate und Jahre liegen vor. Der Veränderungsdruck ist unbestritten, 
+unsere gemeinsamen Probleme sind glasklar und für jeden ersichtlich. 
+Analysen, Ideen und Gesprächs-Ansätze liegen seitens der Verlage seit Monaten auf dem 
+Tisch. Dies sind die Themen, über die wir gemeinsam sprechen müssen. Denn gemeinsam 
+können wir ein zukunftsfähiges NEUES System bauen, das unsere Branche in die Zu-
+kunft trägt. 
+• Offenlegung der 
+Kosten der Grossis-
+ten 
+ 
+• quersubventionierte, 
+grossoferne Aktivitä-
+ten 
+• Vergütung nach Lo-
+gik 'Kosten+X' 
+• Sicherheit, dass 
+nicht zu wenig und 
+nicht zu viel bezahlt 
+wird 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wir Verlage werden in 
+Zukunft System in den 
+Händen haben und 
+kontrollieren 
+ 
+ 
+ 
+ 
+Wir Verlage müssen 
+ 
+• schnell handeln 
+• keine falschen Kom-
+promisse machen 
+• nicht egoistisch sein 
+• keine Denkverbote 
+zulassen 
+• System fundamental 
+umbauen und dabei 
+'Essentials' sichern 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appell an Grossisten 
+ 
+ 
+ 
+Verlagsideen liegen auf 
+dem Tisch, bauen Sie 
+mit am neuen System 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 16
+Als Verlagen ist uns sehr bewusst, dass diese Gespräche für sie nicht leicht zu führen sind. 
+Uns ist bewusst, dass viele dieser Themen beiden Seiten viel abverlangen. Gleichzeitig ist 
+uns klar, dass nur eine solch grundsätzliche Diskussion zu einem zukunftssicheren System, 
+zu einer langfristig stabilen Lösung führt.  
+Der Verweis auf Tabuthemen oder Vorbedingungen für weitere Gespräche zu stellen, 
+wird das gemeinsame System nicht retten, sondern uns dem Abgrund näherbringen. 
+Verantwortung ist gefragt, nicht Besitzstandswahrung. Wer das nicht erkennt, verweigert 
+sich der Realität und gefährdet die Pressevielfalt in Deutschland. Wir brauchen strukturelle 
+Reformen, um den flächendeckenden Vertrieb zu erhalten.  
+Eine grundsätzliche Verweigerung von Gesprächen über Reformen, eine Verweige-
+rung über einzelne Punkte zu sprechen ist gleichbedeutend mit einer Verweigerung 
+der Realität.  
+Ich möchte daher auch diese Gelegenheit nutzen:  
+Lassen Sie uns die Realitäten schonungslos anerkennen und lassen sie uns gemeinsam 
+über diese Realität sprechen.  
+Lassen Sie uns gemeinsam akzeptieren, dass die wirtschaftlichen Herausforderun-
+gen der kommenden Jahre mit nichts zu vergleichen sind, was wir in der Vergangen-
+heit erlebt haben. 
+Lassen sie uns gemeinsam verstehen, dass wir das Pressevertriebssystem in Deutschland 
+grundlegend reformieren müssen. 
+Lassen Sie uns diese neuen Strukturen gemeinsam bauen. 
+Lassen Sie uns die Gespräche ergebnissoffen und ohne die Vorab-Verweigerung zu ein-
+zelnen Punkten aufnehmen.  
+Und um es klar zu sagen: Wir alle wollen ein System, das auch in Zukunft einen diskrimi-
+nierungs-freien Zugang zum System und vor allem die Verbreitung und Überall-Erhält-
+lichkeit von Presse garantiert. Wir bekennen uns ausdrücklich zu den System-Essentials 
+als Grundlage des Presse-Vertriebssystems. 
+Organisatorische und inhaltliche Strukturen des technischen Vertriebssystems 
+sind ausdrücklich nicht [pvd: Unterstreichung I.Klinge] Teil dieser Essentials. Und sie wer-
+den auch nicht alleine durch jahrzehntelange 'geübte Praxis' zu einem System-Essential. 
+Begonnen habe ich mit Artikel 5 unseres Grundgesetzes. Schließen möchte ich mit dem 
+Zitat eines Bundespräsidenten.  
+„Wer nichts verändern will, wird auch das verlieren, was er bewahren möchte.“     
+Lassen Sie uns – in diesem Sinne – alle gemeinsam die kommenden Wochen und Monate 
+ergebnissoffen, ohne Verweigerung angehen und lassen sie uns eine Lösung für eine ge-
+meinsame Zukunft finden. 
+Wir Verlage verlangen 
+viel, aber anders geht 
+es nicht 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabus und Vorbedin-
+gungen sind Realitäts-
+verweigerung 
+ 
+ 
+ 
+ 
+ 
+aktuelle Herausforde-
+rungen ohne histori-
+sche Parallele 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wir wollen System, das 
+Diskriminierungsfrei-
+heit & "vor allem" [!] 
+Ubiquität sichert 
+ 
+ 
+bestehende Organisa-
+tion des Grossosystems 
+ist kein 'Essential' 
+ 
+ 
+ 
+ 
+ 
+"Cost-Plus verursacht systemisch unfaire Ergebnisse" 
+P 
+Frank Noltes Antwort 
+ 
+Wie erwartet nutzte der Grossoverbandsvorsitzende Frank Nolte die Eröffnungsrede 
+zur Jahrestagung seines Verbandes am 27. September zu einer Erwiderung der oben vor-
+gestellten Keynote Ingo Klinges. Wir dokumentieren die wesentlichen Passagen aus Nol-
+tes Rede auf Basis des uns zur Verfügung Redemanuskriptes, das wir zu diesem Zweck 
+gekürzt und überarbeitet und mit Zwischenüberschriften versehen haben. Etwaige Abwei-
+chungen zum tatsächlichen Wortlaut der Rede gehen dabei zu unseren Lasten.  
+ 
+ 
+ 
+ 
+Dokumentation der 
+Rede zur Eröffnung der 
+Jahrestagung des 
+GVPG 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 17
+"Guten Tag und 'Welcome back' geschätzte Kollegin-
+nen und Kollegen, liebe Gäste! 
+  
+Krisen seien immer auch 'Sternstunden mutiger 
+und verantwortungsbereiter Unternehmerinnen 
+und Unternehmer', sagte Dr. Mathias Döpfner 
+jüngst auf dem BDZV-Kongress. Wie wahr! Die Erfah-
+rungen aus der Pandemie zeigen, dass unsere Bran-
+che stark, flexibel und kreativ ist. Die besten Voraus-
+setzungen für eine erfolgreiche Zukunft des Presse-
+vertriebs im Wandel. 
+Zum wirtschaftlichen Umfeld der Verhandlungen 
+Es gibt eine Vielzahl von Themen, die unsere Branche beschäftigen. Erst die Corona-Pan-
+demie und nun eine Wirtschafts- und Energiekrise. Die wirtschaftlichen und sozialen Fol-
+gen bereiten Bürgern, Wirtschaft und Politik Sorgen. Mit Beginn des russischen Angriffs-
+krieges Ende Februar verstärken die enorm steigenden Verbraucherpreise die Konsumzu-
+rückhaltung. Davon ist auch der Printmarkt betroffen. Im ersten Halbjahr 2022 gingen der 
+Presse-Absatz und -Umsatz um mehr als 10 Prozent zurück. Das gab es so noch nie. 
+Damit nicht genug, kommen auf die Branche zusätzlich enorme Belastungen zu. Verlage 
+sprechen davon, dass die Existenz vieler Medienhäuser und die Pressezustellung ge-
+fährdet seien. Für das Presse-Grosso muss ich sagen, dass die Lage nicht minder ange-
+spannt ist – obwohl wir bereits in den letzten Jahren die Grosso-Betriebe radikal umgebaut 
+haben. In der Vergangenheit konnten wir prekäre Entwicklungen durch betriebliche Maß-
+nahmen, überbetriebliche Kooperationen und Konzentration beherrschen. Die derzeitige 
+Kostenexplosion in verschiedenen Bereichen lässt sich leider nur wenig beeinflussen. Al-
+lein im ersten Halbjahr 2022 sind unsere Treibstoff- und teilweise auch die Personalkosten 
+deutlich zweistellig angestiegen. Das geht an die Substanz. 
+Vor diesem Hintergrund ist es erstaunlich, dass manche Verlage in den derzeitigen Span-
+nenverhandlungen weitreichende Forderungen an das Grosso stellen. Wir sollen die Ver-
+triebspreise zumindest stabil halten. Verlage bräuchten Substanz für die Transformation 
+in den Online Journalismus, so die Begründung. Manche Aussagen von Verlagsseite aus 
+der jüngeren Vergangenheit könnten missverstanden werden in dem Sinne, dass Print gar 
+keine Zukunft mehr habe.  
+Ich meine, dass wir mit solchen Konnotationen vorsichtig sein müssen. Warum sollten 
+sich Werbekunden und Einzelhandelspartner noch für Print interessieren und engagieren? 
+Im Moment gelingt es uns und unserer Großkundenbetreuung, einen großflächigen Rück-
+bau von Regalflächen zu verhindern. Und warum sollte das Presse-Grosso selbst an-
+sonsten noch in die Marktbearbeitung und strukturelle Anpassungen investieren? 
+Vielmehr tragen Verlage und Pressehandel in diesen Zeiten eine besondere Verant-
+wortung für die Sicherung einer freien Presse und eines stabilen Pressevertriebssystems 
+als gesellschaftlich unverzichtbare Güter. Die Produktion und der Vertrieb müssen finan-
+ziert werden können und für alle Beteiligten der Wertschöpfungskette wirtschaftlich at-
+traktiv bleiben. 
+Angesichts der schwierigen Rahmenbedingungen und unterschiedlichen Interessen sind 
+die laufenden Gespräche über eine neue Branchenvereinbarung nicht einfach. Nach einer 
+Verhandlungspause haben wir jüngst vereinbart, die Gespräche Mitte Oktober fortzuset-
+zen. Verlage und Presse-Grosso brauchen für die nächsten Jahre klare und 
+ 
+ 
+ 
+ 
+ 
+ 
+"Krisen sind Sternstun-
+den mutiger Unterneh-
+mer" (M. Döpfner) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pressabsatz und -um-
+satz stärker rückläufig 
+als je zuvor 
+ 
+ 
+ 
+ 
+ 
+Verlage: unsere Exis-
+tenz gefährdend! 
+ 
+Grosso: unsere auch! 
+ 
+ 
+Kostenexplosion lässt 
+sich nicht durch Ein-
+sparungen auffangen 
+ 
+ 
+unverständlich, wie 
+man nun von den 
+Grossisten stabile 
+Preise erwarten kann 
+ 
+ 
+ 
+Vorsicht: Print nicht 
+totreden! 
+ 
+ 
+ 
+ 
+Print-Vertrieb muss für 
+alle Beteiligten wirt-
+schaftlich attraktiv 
+bleiben 
+ 
+ 
+Wir brauchen klare 
+und verbindliche Rege-
+lungen für die nächs-
+ten Jahre 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 18
+verbindliche Regelungen für die Zusammenarbeit, um sich voll auf die Anforderungen 
+des Marktes und den Wandel konzentrieren zu können. 
+Erwartungen der Grossisten an die laufenden Verhandlungen 
+Wichtig ist vor allem, dass wir unser gemeinsames Pressevertriebssystem zukunftsfähig 
+machen, und dass wir ein agiles Vergütungssystem mit intelligenten Mechanismen zur 
+Nachsteuerung entwickeln, um auf unterschiedliche Entwicklungen reagieren zu können. 
+Eines möchte ich deutlich sagen: Das Presse-Grosso hat in der Vergangenheit in schöner 
+Regelmäßigkeit erhebliche Margenkürzungen hinnehmen müssen. Noch nie waren die Ra-
+batte, die das Presse-Grosso für seine Leistungen erhält, so niedrig wie heute, speziell für 
+hochauflagige Titel. Umgekehrt war der Vertrieb für die Verlage noch nie so günstig. 
+Gleichzeitig sind die Anforderungen stetig gestiegen. Das können wir uns schlicht und ein-
+fach nicht mehr leisten. Schließlich haben wir den im allgemeinen Interesse stehenden 
+Auftrag, unsere System-Dienstleistungen zur Grundversorgung mit Presseerzeugnissen 
+weiterhin überall sicherstellen. 
+Klare Kante zeigen gegen "Frontalangriff" 
+Und daher sind die Verhandlungen jetzt an einem Punkt, wo wir als Grossisten ganz klare 
+Kante zeigen müssen. Wir wollen selbstverständlich auf Augenhöhe verhandeln. Des-
+wegen beugen wir uns keinem Cost-Plus-Modell. Die Gründe habe ich erläutert: ein sol-
+ches System der einseitigen Kostentransparenz zu Gunsten nur einer Partei führt immer 
+zur maximalen Erpressbarkeit der anderen Partei. Cost-Plus verursacht systemisch unfaire 
+Ergebnisse. 
+Weil wir dieses Vorgehen geschlossen ablehnen, versuchen die Verlage der G13-Verhand-
+lungsdelegation nun ihren Instrumenten-Koffer zu erweitern, indem sie sich untereinan-
+der über sog. Zukunftsmodelle eines Pressevertriebssystems abstimmen oder austau-
+schen wollen. Da auf der Verlagsseite offensichtlich selbst Zweifel an der rechtlichen Zu-
+lässigkeit eines solchen Vorgehens bestehen, sind die Verlage Bauer, Bertelsmann, 
+Burda, Funke, Spiegel und Springer auf das Kartellamt zugegangen. Ein entsprechen-
+des Schreiben liegt uns seit Freitagabend vor. 
+Wir halten dieses Vorgehen trotz vorheriger Ankündigung durch Teile der Verhandlungs-
+delegation für einen Frontalangriff auf das Grosso und unser Pressevertriebssystem. 
+Und ich sage Ihnen heute in aller Deutlichkeit, dass wir uns mit allen, auch juristischen 
+Mitteln dagegen wehren werden. 
+Denn uns wurde ganz offen gesagt, dass diese Initiative auch zu sogenannten Zukunfts-
+modellen ohne das Grosso oder mit nur einzelnen Grossobetrieben führen könne, weil mit 
+uns als derzeitigem Verhandlungspartner ja keine Einigung absehbar sei. Oder allenfalls 
+auf eine Übergangsregelung. 
+Machen wir uns nichts vor: Es geht darum, den Druck in den laufenden Verhandlungen 
+zu erhöhen. Und es geht darum, langfristig im Gespräch mit einzelnen Grossisten genau 
+das zu erreichen, was wir als Verband auf einstimmigen Mitgliederbeschluss hin entschie-
+den ablehnen. Indem man sich als Gruppe marktstarker Verlage – und das sind die G13 
+– dann mit einem gemeinsam entwickelten System einzelnen Grossobetrieben gegen-
+über in eine ungleich mächtigere Position bringt, als das heute vorgesehen ist.  
+Genau das wollten der Gesetzgeber und die Richterinnen und Richter des BGH verhin-
+dern, als sie dem Grossoverband das Recht zustanden, Branchenvereinbarungen für den 
+Pressevertrieb zentral zu verhandeln. Weil der einzelne Grossist im Vergleich viel zu klein 
+ist. Und nur in der Folge erhielten Vereinigungen von Verlagen das Recht, sich ihrerseits zu 
+ 
+ 
+ 
+ 
+ 
+agiles Vergütungssys-
+tem mit intelligenten 
+Mechanismen 
+ 
+ 
+Grosso hat jahrelang 
+Margenkürzungen er-
+fahren 
+ 
+Vertrieb war für Ver-
+lage noch nie so güns-
+tig wie heute 
+ 
+ 
+ 
+ 
+klare Kante: Wir beu-
+gen uns keinem Cost-
+Plus Modell … 
+Das verursacht syste-
+misch unfaire Ergeb-
+nisse 
+ 
+G7 minus Klambt ha-
+ben Bundeskartellamt 
+angeschrieben 
+um zweifelhafte Alter-
+nativen zum Grosso-
+system abzuklären 
+ 
+ 
+Frontalangriff auf das 
+Grosso und unser Pres-
+severtriebssystem 
+ 
+ 
+Zukunftsmodelle ohne 
+Grosso oder unter Be-
+teiligung nur einzelner 
+Grossofirmen 
+ 
+ 
+Ziel der G13: einseitig 
+ihre Position ggü. 
+Grosso stärken 
+ 
+ 
+ 
+ 
+Genau das wollten Ge-
+setzgeber und BGH 
+verhindern 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 19
+genau diesem Zweck zu koordinieren. Die entsprechende Regelung im GWB ist ohne das 
+Grosso sinn- und inhaltsleer! Das Grosso ist der Garant des Systems. 
+Verlage versuchen nun, den Sachverhalt umzudrehen mit dem Ziel, das Machtgleichge-
+wicht zu ihren Gunsten zu verschieben: Ich zitiere aus dem uns vorliegenden Schreiben 
+an das Bundeskartellamt: 
+> Ob die zu entwickelnden Modelle letztlich geeignet sind und unter Beteiligung der Gros-
+sisten realisiert werden, ist derzeit völlig offen. 
+> Wir stehen zum Leitbild des § 30 Abs. 2a GWB [*s.u.] und wollen dieses Leitbild zu-
+kunftssicher erhalten. 
+> Wir agieren 'treuhänderisch' für alle Verlage und die ganze 'Pressebranche', also 
+gerade nicht gegen das Grosso. 
+Das ist scheinheilig, meine Damen und Herren: Wer über 'alternative Zukunftsmodelle' 
+ohne Beteiligung des Grossos nachdenkt, agiert per se gegen das Grosso – entgegen aller 
+anderslautenden Beteuerungen. Und selbst wenn einzelne Grosso-Unternehmer danach 
+noch Teil dieses neuen Systems sein werden, dann weil sie von einer Gemeinschaft von 
+Verlagen kontrolliert werden, und von ihnen nur noch eine nach dem Cost-Plus-Prinzip 
+ermittelte kleinstmögliche Rendite zugeteilt bekommen. 
+Das entspricht sicher nicht mehr dem Leitbild, das der Gesetzgeber des § 30 Abs. 2a 
+GWB [*s.u.] vor Augen hatte, und dessen Zukunftssicherung die Verlage sich angeblich so 
+sehr verpflichtet fühlen. Hier braucht es von Verlagsseite mehr als ein bloßes Lippenbe-
+kenntnis, und zwar die Fortsetzung der Verhandlungen mit dem Grosso. 
+Ingo Klinge hat auf dem Distribution Summit Vieles gesagt, was ich anders sehe, ganz 
+direkt an das Grosso adressiert, aber auch das hier. Ich zitiere: '(…) Lassen Sie uns gemein-
+sam verstehen, dass wir das Pressevertriebssystem in Deutschland grundlegend refor-
+mieren müssen und lassen Sie uns diese neuen Strukturen gemeinsam bauen.' 
+Wenn das ernst gemeint ist, dann verhandeln Sie, also die G13 – mit uns, Ihrem im GWB 
+vorgesehenen Verhandlungspartner, dem Grossoverband. Wir wollen – ich sage das heute 
+noch mal öffentlich und in aller Klarheit – wir wollen, wie oft vorschnell behauptet wird, 
+keine bestehenden Strukturen, einzelnen Grossobetriebe oder Leistungsvereinbarungen 
+zementieren oder Besitzstände bewahren. Wir werden in diesem schrumpfenden Markt 
+wie die Verlage in diesem Jahr massive Ergebnisrückgänge hinnehmen müssen. Dennoch 
+haben wir in den Verhandlungen ein Angebot unterbreitet, das die aktuellen und dro-
+henden Umsatzrückgänge und Kostensteigerungen fair verteilt – und nicht das Grosso 
+wirtschaftlich absichert und die Verlage an den Rand des Ruins treibt. Wir werden das in 
+der nächsten Verhandlungsrunde an Beispielen nachweisen.  
+Wir haben ein nie dagewesenes Maß an Transparenz in Bezug auf die Wirtschaftlichkeit 
+der Betriebe angeboten. Und wir teilen sogar die Einschätzung, dass die Anzahl der 
+Grossofirmen in den nächsten zwei, drei Jahren nochmals deutlich zurückgehen wird: 
+durch selbstbestimmte, in Teilen bereits eingeleitete Zusammenschlüsse.  
+Das geht alles ohne Cost-Plus und mittels fairer gemeinsamer Überlegungen, wie ein 
+noch schlankeres deutsches Pressevertriebssystem in 2026 aussehen muss. Und im Rah-
+men von Verhandlungen auf Augenhöhe, auch über die Höhe der Vergütung für die Dienst-
+leistungen in diesem System. Viele Verlage haben im Vergleich zu uns gute oder jeden-
+falls bessere Ergebnisse und deutlich höhere Renditen und vor allem im Rahmen der 
+Digitalisierung ganz andere Chancen! 
+ 
+ 
+ 
+ 
+Zitate aus dem 
+Schreiben an das Kar-
+tellamt: 
+ 
+• Ob Grosso noch 
+eine Rolle spielt, ist 
+offen 
+• Wir stehen zu §30 
+Abs. 2a GWB [*, s.u.] 
+ 
+• Wir agieren treu-
+händerisch 
+ 
+ 
+Das ist scheinheilig 
+ 
+ 
+ 
+ 
+ 
+ 
+Das entspricht nicht 
+§30 Abs. 2a GWB  
+[*, s.u.] 
+ 
+ 
+ 
+Ingo Klinge: 'Lassen Sie 
+uns gemeinsam neue 
+Strukturen bauen' 
+ 
+ 
+Dann verhandeln Sie 
+mit uns! 
+ 
+ 
+ 
+ 
+Wir haben ein faires 
+Angebot unterbreitet 
+ 
+ 
+ 
+nie dagewesenes Maß 
+an Transparenz ange-
+boten 
+ 
+ 
+ 
+ 
+Viele Verlage haben 
+bessere Ergebnisse als 
+Grossisten und vor al-
+lem mehr Chancen 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 20
+Noch gibt es dieses einmalige Pressevertriebssystem, von dem wir alle noch möglichst 
+lange leben möchten, mit seinen Print-Erlösen, von denen Sie nach eigenem Bekunden 
+noch lange abhängig sind und die Sie für die Transformation brauchen. Wir, die selbstän-
+digen Unternehmer, haben in den letzten Jahrzehnten flexible Lösungen gefunden und 
+notwendige Anpassungen realisiert, um das System zu stabilisieren, wenn sich die Rah-
+menbedingungen verändern. Und wir werden auch diesmal einen guten Weg finden, 
+dieses System zukunftssicher aufzustellen, wenn Sie von den Vorstellungen ablassen, 
+die einige unter Ihnen im Moment so lautstark artikulieren. 
+Ich bitte daher alle: Stecken Sie nicht das Haus an, in dem wir gemeinsam sitzen. Zündeln 
+Sie nicht an einem funktionierenden System, das noch allen Verlagen und Titeln offensteht, 
+und das weiterhin weltweit als vorbildlich gilt. Sie wissen genau, wie es im Ausland aus-
+sieht und welche nachteiligen Bedingungen die Verlage dort haben. 
+Sprechen Sie mit uns über die Frage der Konditionen und über die Frage, wie unser Ver-
+triebssystem zukünftig aufgestellt sein soll – wir sind dazu bereit. Das ist mein dringender 
+Appell an Sie alle heute. 
+Wie geht es jetzt weiter? Der Grosso-Verband hat mit den selbstständigen Mitgliedern in 
+mehreren Zukunfts-Workshops Vorschläge zur nachhaltigen Fortentwicklung des be-
+währten Pressevertriebssystems erarbeitet. Die Mitglieder haben, wie bereits erwähnt, 
+die Absicht, weiter in Projekte zur Zentralisierung und Standardisierung von bestimmten 
+Funktionen und Leistungen zu investieren – wenn diese wirtschaftlich sinnvoll sind und die 
+Vorteile mögliche nachteilige Entwicklungen überwiegen. 
+Aus unserer Sicht ist noch etwas anderes essenziell. Nämlich die Überprüfung der An-
+forderungen an das Vertriebssystem, speziell von nice-to-have-Leistungen sowie die Op-
+timierung der gesamten Supply Chain. Ziel aller Bestrebungen muss es sein, unser Sorti-
+ment und die Prozesse für unsere Partner im Einzelhandel attraktiv zu halten. Deshalb 
+müssen wir etwa über Themen wie eine gleichmäßigere Verteilung der heute stark 
+schwankenden Ausliefermengen an den Werktagen und die weitere Digitalisierung der 
+Prozesse zwischen Verlagen, Presse-Grosso und Einzelhandel sprechen. Aber es macht er-
+forderlich, dass sich Verlage und viele einzelne Titel im Markt von bestimmten liebgewon-
+nenen Gewohnheiten verabschieden müssen. 
+ 
+ 
+ 
+ 
+Wir selbstständigen 
+Unternehmer haben 
+bisher immer Lösun-
+gen gefunden 
+ 
+ 
+ 
+ 
+"Stecken Sie nicht das 
+Haus an, in dem wir 
+gemeinsam sitzen" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+notwendig neben Zent-
+ralisierung und Stan-
+dardisierung: 
+ 
+• Leistungen der 
+Grossoseite über-
+prüfen 
+• EVTs von Magazinen 
+besser über die Wo-
+che verteilen 
+• digitalisieren 
+ 
+ 
+[pvd: § 30 Abs. 2a 
+GWB:  Verhandlungsal-
+lianzen nur für Verein-
+barungen mit Grosso] 
+ 
+LINKTIPP 
+ 
+In-App-Inhalte bei Apple jetzt immer teurer als 0,99€ 
+P 
+Apple In-App-Verkauf 
+ 
+Apple hat am 5. Oktober die Preie für In-App-Käufe erhöht. In der gesamten Eurozone 
+und zahlreichen anderen Ländern (nicht aber z.B. in den USA!) hat es die Preise der jewei-
+ligen Preisstufen angehoben. In Europa bedeutet das das Ende der 99Cent-Angebote. 
+Zwischen gratis und 'kleinstmöglicher Preis' (Preisstufe 1) liegen nun 1,10€ statt vorher 99 
+Cent.  
+ 
+ 
+Apple mit neuer Preis-
+stufenliste 
+ 
+Der günstigste In-App-
+Preis ist jetzt 1,10€ 
+ 
+ 
+[*] § 30 Abs. 2a GWB lautet: Das grundsätzliche Verbot von wettbewerbsbeschränken-
+den Vereinbarungen "gilt nicht für Branchenvereinbarungen zwischen Vereinigungen 
+von… Presseverlagen… und Vereinigungen von deren Abnehmern, soweit in diesen 
+Branchenvereinbarungen der flächendeckende und diskriminierungsfreie Vertrieb von 
+Zeitungs- und Zeitschriftensortimenten durch die Presse-Grossisten… geregelt sind". 
+[pv-digest.de/linkliste Link3] 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 21
+ 
+         
+ 
+    P2 
+  
+Index
+Marktentwicklung 
+Einzelhandel
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland) 
+ 
+  
+ 
+Marktentwicklung 
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neueinfüh-
+rungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+  
+ 
+Marktentwicklung
+digitaler Vertrieb
+ 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATEN COCKPIT HANDEL UND ABSATZ 
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 22
+ 
+ 
+ 
+ 
+ 
+Blick zurück in die Zukunft: pvd-Paywallbenchmarks 
+P 
+pvd Nachhaltigkeits-
+Check 
+ 
+Wenn zwei Zeitungen in ihrem Kundenbestand gleich viele Digitalabos zählen, dann ist 
+lange noch nicht ausgemacht, dass beide Titel über einen vergleichbaren Erfolg im digita-
+len Vertrieb sprechen können. Denn wenn zum Beispiel die Mittelbayerische Zeitung der 
+IVW zuletzt knapp 13.000 täglich verkaufte digitale Nutzungsrechte gemeldet hat, dann 
+liegt sie bei dieser Kennzahl zwar gleichauf mit der Passauer Neuen Presse. Berücksichtigt 
+man aber, dass die Mittelbayerische Zeitung als verkaufte Auflage 'nur' 92.000 Exemplare 
+meldet, während die Passauer Neue Presse auf beinahe 150.000 kommt, dann liegt doch 
+die Einschätzung nahe, dass relativ zum Potenzial des jeweiligen Marktes die 12.000 Abos 
+aus Regensburg einen relativ größeren Erfolg darstellen als die gleiche Menge digitaler 
+Nutzungsrechte aus der Region Passau. 
+Man kann argumentieren, dass die verkaufte Auflage nicht viel zu tun hat mit der Menge 
+der Online-Abonnenten. Wir würden dagegenhalten. Denn Zeitungen haben über Jahr-
+zehnte daran gearbeitet, ihre Leserschaftspotenziale bestmöglich auszuschöpfen. Das 
+maximale Paid Content-Potenzial dürfte in einem sinnvoll betrachtbaren Verhältnis 
+zur Leserschaft der Printzeitungen stehen und damit auch zur Menge der verkauften 
+Exemplare. 
+Die 20 deutschen und österreichischen Titel, die ihre Paid Content-Ergebnisse an die 
+IVW bzw. die ÖAK melden, 
+melden derzeit im Durch-
+schnitt eine Menge ver-
+kaufter digitaler Nutzungs-
+rechte, in der Größenord-
+nung von einem Fünftel 
+(18,2%) ihrer jeweiligen 
+Mengen 
+verkaufter 
+Exemplare (Print + E-Pa-
+per), Dabei ist die Spann-
+breite groß. Ganz oben in 
+einer Rangliste nach dieser 
+Kennzahl steht Die Welt, 
+die für den Juli 206.000 
+Paid Content-Zahler mel-
+dete und für das zweite 
+Quartal 
+knapp 
+320.000 
+verkaufte Auflage von Welt 
+ 
+vor 1 Jahr: pvd stellt 
+Benchmarkwerte für 
+Paid Content bei Zei-
+tungen vor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paid Content-Nutzer 
+im Verhältnis zur ver-
+kauften Auflage 
+ 
+ 
+Ø18,2% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+ANALYSEN UND DATEN
+#10/21 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 23
+und Welt am Sonntag. Damit erreicht das Paid Content-Angebot der Welt der Menge nach 
+einen Wert von 65% der verkauften Menge der Zeitungsausgaben. 
+Der Eindruck, dass die Mittelbayerische Zeitung ihren Paid Content-Markt besser aus-
+schöpft als die Passauer Neue Presse, verstärkt sich noch, wenn man die digitale Reich-
+weite, gemessen an den monatlichen Visits laut Schätzungen des Dienstleisters Simi-
+larweb, misst. Denn danach registriert mittelbayerische.de monatlich rund 2,4Mio Visits, 
+und das ist das Potenzial, aus dem die Paywall Abonnenten schöpfen kann. PNP.de da-
+gegen kommt auf 5,6Mio Visits, also auf eine mehr als doppelt so große Reichweite.  
+Die Anzahl der Paid Content-Zahler der Mittelbayerischen Zeitung entspricht derzeit ei-
+ner Quote von 5,4 Bezah-
+lern je 1.000 monatlicher 
+Visits. Bei der Passauer 
+Neuen Presse sind es nur 
+2,3 Bezahler je 1.000 mo-
+natlicher Visits. Eine Rang-
+reihe der 20 Zeitungen mit 
+zertifizierten Angaben zum 
+Paid Content-Erfolg führt 
+die Rheinpfalz an. Die mel-
+det derzeit 16,37 verkauf-
+ter 
+digitaler 
+Nutzungs-
+rechte je 1.000 Visits.  
+[Allerdings bezahlen über 
+90% dieser Digitalabon-
+nenten nicht den regulären 
+Preis des Rheinpfalz Plus-
+Abos, sondern im Rahmen 
+von 'Kombi-Abos' einen Betrag unterhalb von 2€, wie aus den IVW-Details hervorgeht. Be-
+trachtet man die Preise, dann relativiert sich auch der Ausschöpfungsvorsprung der Mit-
+telbayerischen Zeitung gegenüber der Passauer Neuen Presse. Denn deutlich mehr als die 
+Hälfte der Paid Content-Nutzer der Mittelbayerischen bezahlen weniger als 2€ monatlich.  
+Bei der Passauer Neuen Presse bezahlen fast alle Paid Content-Nutzer mehr.] 
+Im Durchschnitt erzielen die hier betrachteten Angebote einen Wert von 3,4 Paid Con-
+tent-Zahlern je 1.000 monatlicher Visits. Mit nur 0,04 Bezahlern liegt der niedrigste Wert 
+in dieser Aufstellung um etwa den Faktor 400 unter dem Spitzenwert der Rheinpfalz. (Beim 
+oben vorgestellten Verhältnis zur verkauften Auflage unterscheiden sich der Spitzenreiter 
+und das Schlusslicht der Rangliste 'nur' um den Faktor 100). 
+Diese und weitere Benchmarkwerte hat pv digest zum ersten Mal in der Vorjahresaus-
+gabe vorgestellt. Wie hat sich die Menge der Paid Content-Bezahler seit unserem Be-
+richt im vergangenen Jahr entwickelt? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paid Content Nutzer 
+im Verhältnis zur 
+Reichweite (Visits) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ø3,4/1.000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wachstum in 12 Mo-
+naten: 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 24
+Drei der hier betrachteten Titel melden aktuell mehr als doppelt so viele Paid Content-
+Leser wie vor 12 Monaten: die Tiroler Tageszeitung, die Eßlinger Zeitung und die Kleine 
+Zeitung. Die Tiroler Tageszeitung meldet heute sogar 6x mehr Bezahler als noch vor einem 
+Jahr. Damals war die Paywall der Tiroler Tageszeitung allerdings auch gerade erst drei Mo-
+nate alt. Im Durchschnitt sind die hier betrachteten Angebote in den letzten 12 Mo-
+naten um 53% gewachsen. Nur ein Angebot, das Plus-Abo des österreichischen Boule-
+vardmediums oe24, ist in dieser Zeit um fast 20% geschrumpft. Damit unterscheiden sich 
+der Bestwert in dieser Betrachtung und das Schlusslicht nur um den Faktor 8. 
+Weil die österreichischen 
+Paywalls deutlich später ein-
+gerichtet wurden als die Be-
+zahlschranken bei den deut-
+schen Medien, überrascht es 
+nur wenig, dass die österrei-
+chischen Titel bei den Aus-
+schöpfungskennzahlen 
+(noch) hinterherhinken, beim 
+Wachstum 
+aber 
+meistens 
+recht weit vorne liegen. Eine 
+andere Rangliste, bei der ös-
+terreichische Titel Spitzen-
+plätze 
+belegen 
+(kurioser-
+weise aber auch die rote La-
+terne tragen), entsteht bei 
+Betrachtung der (regulären!) 
+Preise. Das teuerste Plus-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ø+53% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ØPreis reguläres Digital-
+abo: 9,55€ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 25
+Abo in dieser Betrachtung bieten die Vorarlberger Nachrichten. Deren Plus-Abo kostete im 
+Vorjahr noch 9,99€. Jetzt sind die Premiuminhalte der Zeitungswebsite mit den Premium-
+inhalten zweier anderer, zum Verlag gehörender Angebote gebündelt (V+ Abo). Dafür müs-
+sen monatlich 14,99€ bezahlt werden. Das ist ein Plus von 50%. Im Durchschnitt haben 
+sich die hier betrachteten Plus-Abos um 10% verteuert. 
+[Aber Vorsicht: diese Aufstellung betrachtet die regulären Preise der Plus-Abos im ersten 
+Jahr. Die Paid Content-Mengen beinhalten auch Digitalabos, die zu deutlich geringeren 
+Preisen verkauft werden. Das können in Einzelfällen – vgl. unsere Anmerkung zur Rhein-
+pfalz weiter oben – auch fast alle ausgewiesenen Digitalabos sein.] 
+Die übrigen in diesem Benchmark verwendeten Kennzahlen haben sich im Durch-
+schnitt in den letzten 12 Monaten wie folgt entwickelt: 
+> Paid Content-Nutzungsrechte im Verhältnis zur verkauften Auflage: 
+2021: 14,1%   2022: 18,2% 
+> Paid Content-Nutzungsrechte im Verhältnis zur Reichweite (je 1.000 monatliche Visits) 
+2021: 2,9  
+ 2022: 3,4 
+> Durchschnittlicher Preis Plus-Abo: 
+2021: 8,72€ 
+ 2022: 9,55€ 
+ 
+Überblick Paid Content Benchmarks 20 Zeitungen: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Entwicklung der ØKPI 
+in 12 Monaten: 
+ 
+• +29% Paid Con-
+tent/vk-Auflage 
+ 
+• +17% Paid Con-
+tent/1.000 Visits 
+ 
+ 
+• ØPreis + 9,5% 
+ 
+ 
+ 
+ 
+Pianos Benchmarkdaten zu Paywall-KPI 
+P 
+Paid Content Bench-
+marks 
+ 
+Zum zweiten Mal hat der Paywall- und Digitalabomanagementdienstleister Piano einen 
+Benchmark-Report veröffentlicht. Der präsentiert aggregierte Durchschnittsdaten zu ver-
+schiedenen Kennzahlen über alle (?!) Piano-Kunden hinweg. Diese Kunden sind so unter-
+schiedlich und die Datenbasis so wenig transparent, dass die Ergebnisse mit Vorsicht zu 
+genießen sind. Sie sind aber in jedem Fall ein hervorragender Anlass, sich Fragen zu 
+ 
+ 
+ 
+Piano veröffentlicht 
+Report mit Durch-
+schnitts-KPI 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 26
+stellen, die im Rahmen dieses Reports vielleicht nur anscheinend, vielleicht aber auch tat-
+sächlich beantwortet werden. 
+Für die Details empfehlen wir die Lektüre des gut lesbar aufbereiteten, englischsprachi-
+gen Originalreports [pv-digest.de/linkliste Link1], weil die deutsche Übersetzung [pv-di-
+gest.de/linkliste Link2] nicht gut gelungen ist. 
+Wir überspitzen im Folgenden die spannendsten Ergebnisse und hoffen so, unseren 
+Lesern eine Anregung zu geben, tief in die eigenen Daten und die eigenen Paid Content-
+Prozesse einzusteigen. 
+Nach den Schläfern sind Neubesteller die Risikogruppe #1 
+Ein Drittel aller aktiven Kündigungen (im Unterschied zu passiven Kündigungen wie 
+zum Beispiel gescheiterte Kreditkarteneinzüge) erfolgt im 24h-Zeitfenster unmittelbar 
+nach der Bestellung. 
+Schläfer/Zombies bilden einen großen Teil der bezahlenden Abonnenten. Der 
+Churn in dieser Gruppe liegt bei unter 10% 
+40% der Kunden einer durchschnittlichen Abowebsite sind Schläfer (oder 'Zombies'), die 
+zwar bezahlen, das Angebot aber gar nicht nutzen. "In einem beliebigen Monat bleiben 
+90% der Schläfer einfach inaktiv [pvd: d.h. sie kündigen nicht! => weniger als 10% mo-
+natlicher Churn]. Nur wenn sie aufwachen, steigen ihre Kündigungsquoten steil an, so dass 
+Schläfer rund 30% der aktiven Kündiger ausmachen", schreibt Piano in seinem Report. 
+Die Umwandlungsquoten verschiedener Nutzergruppen in der Neukundengewin-
+nung liegen teils Lichtjahre auseinander 
+Anonyme Nutzer, die an die Paywall stoßen, werden nur selten zu bezahlenden Abon-
+nenten. Im Durchschnitt passiert das nur in einem von 500 Fällen (0,22% Umwandlungs-
+rate anonymer Nutzer). Bekannte Nutzer, also solche, die bereits Daten zu ihrer Person 
+hinterlassen 
+haben, 
+wandeln 
+im 
+Durchschnitt 
+50x 
+häufiger 
+(9,88% 
+ 
+ 
+ 
+ 
+ 
+LESEEMPFEHLUNG 
+LINKTIPP 
+ 
+Die spannendsten 
+Facts [von pvd zuge-
+spitzt] 
+ 
+ 
+1/3 aller Kündigungen 
+sind Sofortkündigun-
+gen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40% aller Abos sind 
+Schläfer 
+ 
+Churnquote Schlöfer: 
+<10%/Monat 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Registrierte Nutzer 
+wandeln 50x besser 
+als anonyme Nutzer 
+pvd meint Piano selbst leitet daraus ab, dass das Onboarding von zentraler Bedeu-
+tung ist und unmittelbar nach der Bestellung beginnen muss; zum Beispiel in Form einer 
+Begrüßungs-E-Mail, der Einladung zum App-Download oder Hinweisen auf die nun nutz-
+baren Abovorteile. 
+Das ist sicher richtig. Dennoch dürfte ein guter Teil dieser Sofortkündigungen erfolgen, 
+weil die Neuabonnenten Angst haben, andernfalls einen Kündigungstermin zu verpas-
+sen und in einen lange laufenden Abovertrag zu geraten. Wer hier im Onboarding ver-
+sprechen kann, dass eine Kündigung jederzeit fristlos möglich ist, der hat ein Pfund in 
+der Hand, mit dem er wuchern sollte. 
+pvd meint Mit unter 10% monatlichem Churn ist der durchschnittliche Schläfer nicht 
+schlechter gebunden als Durchschnittsabonnenten von manchen Angeboten mit 
+schlechter Kundenbindung. Schläfer mit Engagement-Maßnahmen zu aktivieren, um sie 
+zu regelmäßigen Nutzern zu machen, ist eine gute Idee. Ob die Idee sich in der Realität 
+bewährt, sollte aber kritisch überprüft werden. Eventuell lebt es sich besser, wenn man 
+eine Churnquote von 'nur' 10% für diese Problemkunden akzeptiert. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 27
+Umwandlungsquote). Piano erklärt diese drastische Abweichung damit, dass ein großer 
+Teil der bekannten Nutzer seine Daten bei einem Checkout-Prozess hinterlassen hat, 
+der anschließend nicht abgeschlossen wurde. Solche Kunden, die schon einmal in den 
+Abo-Bestellprozess eingestiegen sind, schließen mit hoher Wahrscheinlichkeit ein Abo ab, 
+wenn sie erneut auf die Paywall stoßen. 
+Betrachtet man nur solche Publisher, die mit Marketingaktivitäten um registrierte Nutzer 
+werben, die zum Beispiel mit Registrierungswalls die Anzahl der bekannten Nutzer stei-
+gern, dann reduziert sich der Abstand zwischen beiden Gruppen. Solche gezielt gewor-
+benen registrierten Nutzer, die nicht schon einmal in einen Bestellprozess eingestiegen 
+sind, sind immer noch 10 bis 15 Mal umwandlungsfreudiger als die anonymen Nutzer. 
+Nutzer reagieren auf Desktop-Geräten und mobilen Geräten jeweils ungefähr gleich, 
+wenn Ihnen ein Aboangebot gemacht wird. Etwa 1,5 von 100 Nutzern klicken darauf. Aber 
+danach fallen beide Gruppen weit auseinander. Über 40% der Nutzer, die auf einem Desk-
+top-PC auf ein Aboangebot geklickt haben, bestellen das Abo danach tatsächlich. Die Nut-
+zer mobiler Geräte dagegen schließen nicht einmal halb so oft den initialen Klick mit 
+einer Bestellung ab. Piano vermutet, das liege unter anderem an für die mobilen Geräte 
+nicht optimal gestalteten Bestellprozessen. 
+Piano hält es auch für vorstellbar, dass für Nutzer mobiler Geräte eine andere Ansprache, 
+andere Angebotsformen oder sogar ein anderes Pricing notwendig wären, damit sie 
+ebenso häufig bestellen wie die Nutzer auf Desktop-Rechnern. 
+Maschinenintelligenz 
+Durch Maschinenlernen gesteuerte Inhalte sind messbar effektiver als von Men-
+schen gesteuerte Inhalte-Empfehlungen. Publisher, die bei der Empfehlung von Inhal-
+ten auf selbstoptimierende Systeme setzen, verzeichnen im Durchschnitt 60% mehr Klicks 
+ 
+… weil es sich dabei 
+oft um Bestellprozess-
+Abbrecher handelt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Auf dem Smartphone 
+klicken ebenso viele 
+Nutzer auf Abower-
+bung wie auf dem PC 
+ 
+… sie bestellen das 
+Abo dann aber nur 
+halb so oft 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+'Künstliche Intelligenz' 
+macht erfolgreichere 
+Leseempfehlungen 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 28
+auf die entsprechenden Links als Publisher, bei denen Menschen darüber entscheiden, 
+welche Artikel zur Lektüre empfohlen werden. 
+Von Facebook kommende Nutzer wandeln nicht um? Das kommt drauf an! 
+Viele Publisher sind enttäuscht über die schwachen Umwandlungsquoten von Nutzern, 
+die über bei Facebook gepostete Links auf die Bezahlinhalte gestoßen sind. Piano-Daten 
+machen das verständlich. Wenn man sich den letzten Klick vor einer Abobestellung an-
+sieht, dann sind die Umwandlungsquoten von Facebook-'Referrals' 10x schwächer als 
+die der Nutzer, die über eine Suchmaschine den Weg zur Website gefunden haben. Und 
+letztere wiederum wandeln nur halb so oft, wie Direktaufrufer einer Website. 
+Dieses Bild ändert sich aber stark, wenn man statt des letzten Klicks eines Nutzers den 
+ersten Klick betrachtet, also die Quelle des ersten Kontaktes mit dem Bezahlangebot 
+(innerhalb eines 30-Tage-Zeitfensters). Bei dieser Kennzahl liegen Suchmaschinentreffer 
+gleichauf mit den Direktaufrufern. Und die Facebook-Umwandlungsquote verzehn-
+facht sich und erscheint gar nicht mehr so schwach.  
+Was aber gilt: je mehr verschiedene 'Referrals' Nutzern zugeordnet werden können, 
+also je mehr unterschiedliche Wege sie gehen, um zum Bezahlangebot zu kommen, desto 
+höher ist deren Umwandlungswahrscheinlichkeit.  
+…und was es sonst noch zu lernen gibt 
+Von bereits als Abonnenten gewonnenen Nutzern, die die Website direkt aufrufen, be-
+richtet Piano, dass diese deutlich engagierter [also auch besser gebunden] als Abonnenten 
+sind, die erst zur Nutzung animiert werden müssen. An durchschnittlich sechs Tagen 
+pro Monat nutzen die Direktaufrufer das von ihnen abonnierte Produkt. Müssen die 
+Abonnenten durch E-Mails/Newsletter zur Nutzung animiert werden, dann halbiert sich 
+dieser Wert. Und wenn sie 'nur' durch Social Media oder die Treffer einer Suchmaschine 
+daran erinnert werden, dass es sich lohnt, die Bezahlwebsite zu nutzen, dann reduziert 
+sich die durchschnittliche monatliche Anzahl der Nutzungstage auf nur noch 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nutzer, die von Face-
+book kommen, bestel-
+len keine Abos?!? 
+ 
+ 
+ 
+ 
+ 
+Das kommt drauf 
+an… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Direktaufrufer ragen 
+nur bei der Messme-
+thode 'letzter Klick vor 
+Abo' deutlich heraus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aber direktaufrufende 
+Abonnenten sind viel 
+engagierter als akti-
+vierte Abonnenten 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 29
+ 
+ 
+ 
+ 
+ 
+c/o Andreas Mundt, Bundeskartellamt 
+P 
+über die G13 
+ 
+Lieber Herr Mundt, 
+womöglich ist es Ihnen persönlich gar nicht bewusst, aber Ihre zuständigen 
+ReferatsleiterInnen kennen das Thema: In der von Ihnen de-kartellisierten deutschen Wirt-
+schaftslandschaft gibt es ein kleines gallisches Dorf, in dem Wettbewerbsmechanismen 
+weitgehend ausgesetzt sind. Dieses gallische Dorf ist das Pressevertriebssystem und 
+hier gibt es Flächenmonopole, Preisbindung und Sondererlaubnisse für marktbeherr-
+schende Unternehmen, ihre Interessen im Rahmen von Verhandlungsallianzen zu bündeln 
+und diese gegenüber in der Wertschöpfungskette nachgelagerten Unternehmen gemein-
+sam zu vertreten. 
+Ich will sie mit den Details dieser Mini-Branche nicht langweilen. Sie werden Ihre wertvolle 
+Zeit für Großindustrien wie Einzelhandel oder Telekommunikation verwenden wollen. 
+Aber in einer Sache möchte ich Sie um Hilfestellung bitten. Ihre Behörde hat vor etwa 
+zwei Jahren deutlich gemacht, dass ein von 7 Großverlagen im eigenen Interesse gestalte-
+tes Vertragswerk nicht mit dem Kartellrecht vereinbar war, weil es nicht die Interessen der 
+ganzen Pressebranche hinreichend berücksichtigte. Um so einer Situation zu entgehen, 
+haben die sieben Verlage von damals sechs weitere Verlage in ihren Kreis aufgenom-
+men und behaupten nun, in dieser Konstellation die Interessen der ganzen Branche zu 
+vertreten. Nach allem, was man hört, fand das die Zustimmung der zuständigen Mitarbei-
+ter Ihrer Behörde.  
+Was genau Ihre Kollegen mit den sieben Verlagen besprochen haben, welche Auflagen 
+sie möglicherweise gemacht haben, ob sie Vorbehalte formuliert haben, das alles ist un-
+bekannt. Aber es besteht die Befürchtung, dass das OK Ihrer Behörde eine Carte blan-
+che ist, und dass die nun laufenden Verhandlungen von Seiten der G13 nach deren Gusto 
+gestaltet werden können. 
+In der Mini-Branche, von der ich spreche, gibt es tausende betroffene Unternehmen, 
+die nun darauf vertrauen müssen, dass diese 13 Verlage auch ihre Interessen vertreten. 
+Das ist viel verlangt.  
+Ich möchte Ihnen hiermit zur Kenntnis geben, dass die 13 Verlage nichts – damit meine 
+ich: gar nichts! – tun, um dieses Vertrauen aufzubauen. Außer Allgemeinplätzen verra-
+ten diese 13 Verlage nicht, mit welchen Ideen und Vorstellungen sie die Interessen ihrer 
+Branche vertreten wollen. Sie stellen selbst Minimalinformationen zu ihrem Vorgehen un-
+ter die höchste Geheimhaltungsstufe. Sie verraten trotz mehrfacher unmissverständli-
+cher Anfragen auf allen denkbaren Kanälen nicht einmal, wer sie sind, diese 13 Verlage. 
+Wenn nicht direkt beteiligte Verlage wissen wollen, wer vorgeblich ihre Interessen vertritt, 
+dann erfahren sie das nur über Gerüchte und vom Hörensagen. Das ist absurd.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Im Pressevertrieb ist 
+der Wettbewerb weit-
+gehend ausgeschaltet 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kartellamt: Großver-
+lage dürfen nicht nur 
+zum eigenen Nutzen 
+koalieren 
+ 
+Großverlage (G7) jetzt 
+zusammen mit 6 klei-
+neren Verlagen (=G13) 
+ 
+ 
+Gibt es weitere Aufla-
+gen durch das Kartell-
+amt? 
+ 
+oder Carte blanche 
+für Verlagsallianz? 
+ 
+Verlage (minus G13) 
+müssen darauf ver-
+trauen, dass G13 treu-
+händerisch agieren 
+ 
+G13 unternehmen 
+nichts, um dieses Ver-
+trauen zu befördern 
+keine konkreten Infor-
+mationen über ihre 
+Verhandlungsführung 
+nicht einmal Informa-
+tion über 'wer sind die 
+G13?' 
+QUELLEN:
+MEINUNGEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 30
+Es fällt sehr schwer, auf dieser Grundlage das Vertrauen zu entwickeln, dass hier nicht 
+ein Minimalkonsens von 13 Partikularinteressen vertreten wird, sondern tatsächlich das 
+Interesse des Großen Ganzen [bitte beachten Sie hierzu das PS auf Seite 1]. 
+Bitte verdonnern Sie diesen Closed Shop zu etwas mehr Bemühen darum, um das Ver-
+trauen aller von seiner Verhandlungsführung Abhängigen zu werben. 
+ 
+Wie soll so Vertrauen 
+entstehen? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Andreas Masüger ist auf Pietro Supino als Präsident des Verbandes Schweizer Medien 
+gefolgt. 
+Geschäftsführer Oliver Radtke hat Gruner&Jahr RTL verlassen. 
+Andreas Rast ist neuer Geschäftsführer bei Die Presse.  
+Christopher Sima ist auf Michael Eder gefolgt als CEO der Krone Multimedia GmbH & 
+Co KG. 
+Wiebke Meeder ist beim Handelsblatt als Marketingchefin und Mitglied der Geschäfts-
+leitung auf Kim Robertz gefolgt. 
+Claas Schmedtje hat die Geschäftsführung der Funke Regionalmedien Hamburg auf-
+gegeben. Neuer Geschäftsführer für Hamburger Abendblatt & Co ist Christian Siebert. 
+Dittmar Jurko ist jetzt Managing Director für das Yellow- und Celebrity-Segment der 
+Bauer Media Group. Er folgt auf Walter A. Fuchs, der in Rente gegangen ist. 
+Geschäftsführerin Miriam Walter verlässt "im Herbst" das Schweizer Bezahlangebot Die 
+Republik. Amanda Strub und Katharina Hemmer übernehmen interimistisch. 
+ 
+P 
+2 
+13 
+14 
+17 
+72 
+83 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oliver Wurm publiziert E-Paper only-Zeitschrift 
+P 
+E-Paper only-Mag 
+ 
+Der agile Verleger Oliver Wurm ('Das Neue Testament als Maga-
+zin', 'Das Grundgesetz als Magazin') hat eine neue Zeitschrift 
+lanciert. In #kroos90 stellen neunzig Prominente je eine 
+Frage an den Fußballer Toni Kroos. Hintergrund ist, dass die-
+ser jüngst einen Sportjournalisten mit den Worten "Du hattest 
+90 Minuten Zeit, Dir vernünftige Fragen zu überlegen. Und dann 
+stellst Du mir zwei so Scheißfragen" abgekanzelt hatte.  
+Das Magazin erscheint nur als E-Paper zum Preis von 1,90€. 
+90 Cent davon gehen an die Toni-Kroos-Stiftung. Der Verkauf er-
+folgt über United Kiosk.  
+ 
+ 
+ 
+Oliver Wurm mit aktu-
+ellem, anlassbezoge-
+nem Magazinprojekt 
+ 
+ 
+ 
+ 
+ 
+ 
+#kroos90 erscheint 
+nur als E-Paper via 
+United Kiosk à 1,90€ 
+Personalien 
+QUELLEN:
+PERSONALIEN
+VermischtesVermischtes 
+VERMISCHTES
+Vermischtes 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 31
+letzte_Worte 
+'Cost-Plus' für Paid Content. Jetzt! 
+ 
+Nur wenige Fragen thematisieren wir so
+häufig wie die, was der richtige Preis für ein
+digitales Presseprodukt ist. Darauf haben
+wir zwar keine eindeutige Antwort gefun-
+den. Aber wir empfehlen doch immer eine
+klare strategische Richtung: nicht zu billig! 
+'Nicht zu billig' interpretieren einige we-
+nige Publikationen als 'teurer als das ent-
+sprechende Printprodukt'. 
+'Nicht zu billig' bedeutet für eine ganze
+Reihe selbstbewusster digitaler Presse-
+medien: nicht billiger als das Printprodukt. 
+Die Vorwärtsverteidiger des Gedankens,
+dass digitale Presse nicht billiger sein sollte
+als die Papierprodukte, argumentieren
+gerne so: es kommt auf den Inhalt an, nicht
+auf die 'Darreichungsform'. 
+Das stimmt. Einerseits. Andererseits re-
+flektieren Preise in einer Marktwirtschaft
+nicht vor allem den Wert einer Sache. Son-
+dern erstens und theoretisch nur den Wert,
+den die Käufer dieser Sache zuschreiben.
+Und zweitens und in der Realität auch das
+Ergebnis einer 'Kosten plus X'-Kalkulation
+('Cost-Plus'; auch wenn der Begriff derzeit
+eine heiße Kartoffel ist). 
+Produkte und Dienstleistungen werden
+langfristig entweder zu Preisen verkauft, die
+ihre Herstellkosten decken und dem ver-
+antwortlichen Unternehmer eine ihn zufrie-
+denstellende Rendite erwirtschaften. Oder
+sie werden langfristig nicht verkauft. 
+Sowohl die Kosten als auch die Gewinner-
+wartungen verändern sich im Zeitverlauf.
+Darum verändern sich auch die Preise. 
+ Das akzeptieren auch Konsumenten, deren
+Einkommen sich ja ebenfalls verändert. 
+Aktuell erleben wir gewaltige Verschiebun-
+gen bei Kosten, Preisen und auch beim ver-
+fügbaren Einkommen.  
+Diese Verschiebungen sind allerdings
+nicht für alle und alles Betroffene(n) gleich.
+Papier herzustellen, zu bedrucken und zu 
+bewegen hat sich rasant verteuert und wird
+womöglich demnächst in großem Umfang 
+gar nicht mehr möglich sein (Stichworte 
+Gasnotstand, Ad Blue-Mangel). Die Kosten
+für das Produzieren von E-Papern, Apps, 
+Websites, Podcasts und anderen digitalen
+Formaten steigen im Vergleich zu den Print-
+kosten nur in vernachlässigbarem Umfang. 
+Viele Konsumenten empfinden immer 
+schon, dass ein digitales Produkt billiger
+sein sollte als ein physisches Produkt. Ver-
+lagsmanager halten dagegen: Ihr unter-
+schätzt die Digitalkosten! Wir verdienen we-
+niger mit digitaler Werbung. Die Umsatz-
+steuer ist bei digitalen Produkten höher. 
+Das war früher schon oft fadenscheinig 
+und ist heute schlicht falsch. Letzteres ist
+seit Jahren nicht mehr der Fall. Die Werbe-
+erlöse spielen eine immer kleinere Rolle.
+Und natürlich sind die Kosten der digitalen
+Produkte viel geringer. 
+Das Kosten+X Modell läuft für Print und 
+Paid Content derzeit weit auseinander. Das
+muss sich in den Preisen widerspiegeln. 
+Jetzt! Das ist eine Frage des kaufmänni-
+schen Anstands. Und vielleicht sogar die 
+Chance für einen Digitalisierungsturbo. 
+ 
+… letzte Worte 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 10/2022  ׀SEITE 32
+ 
+ 
+ 
+ 
+ 
+Über pv digest 
+ 
+pv digest ist ein Informationsdienst auf Expertenniveau für das Top-Management 
+rund um das Thema Lesermarkt und Vertrieb journalistischer Produkte. pv digest 
+beruht auf eigenen Recherchen und auf Zusammenfassungen an anderer Stelle ver-
+öffentlichter Informationen und bietet einen einzigartigen Überblick über alle stra-
+tegisch relevanten Vertriebsthemen. pv digest unternimmt in der Regel keine Prü-
+fung wiedergegebener Inhalte und übernimmt keine Garantien für die inhaltliche 
+Korrektheit von Informationen. Genutzte Quellen in pv digest sind in der vorliegen-
+den Ausgabe wie folgt codiert: 
+ 
+ 
+Quellenverzeichnis Ausgabe 10/2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum und 
+Kontaktdaten 
+ 
+HERAUSGEBER: 
+Markus Schöberl (v.i.S.d.P.) 
+Lessingstraße 24 
+22087 Hamburg 
+Telefon: 040 308 901 09 
+e-mail: schoeberl@pv-digest.de 
+www.pv-digest.de 
+ 
+pv digest erscheint 11x jährlich,  
+in der Regel am fünften Werktag 
+eines Monats, als personalisiertes  
+PDF-Dokument 
+ 
+PREISE: 
+Regulärer Bezug Deutschland:  
+pro Ausgabe 78€ zzgl. USt., im 
+Jahresabo 781€ zzgl. Ust. 
+ 
+Sonderpreise für Mengenabos  
+oder Firmenlizenzen auf Anfrage 
+ 
+BESTELLUNGEN UND  
+SERVICEFRAGEN:  
+e-mail: abo@pv-digest.de 
+Telefon: 040 308 901 09 
+Post: Lessingstraße 24,  
+22087 Hamburg 
+ 
+Bankverbindung: 
+Hamburger Sparkasse 
+BIC:  HASPDEHHXXX 
+IBAN: DE82 2005 0550 1237 1348 10 
+ 
+ 
+ 
+COPYRIGHT: 
+pv digest ist ein empfängerge-
+bundener Informationsservice 
+ 
+ 
+Vervielfältigung und elektroni-
+sche Weitergabe sind untersagt 
+ 
+ACHTUNG: der nächste pv digest
+erscheint am 8. November 2022

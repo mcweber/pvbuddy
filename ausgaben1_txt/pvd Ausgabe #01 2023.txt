@@ -1,0 +1,3137 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäftsmodell 
+und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonnement. Und dafür, 
+dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+Ausgabe 1/2023 
+Liebe Leserinnen und Leser, 
+das Gros der Berichte in pv digest be-
+zieht sich auf das Marketing bzw. den 
+Vertrieb von Presseprodukten, be-
+sonders digitaler Presseprodukte. 
+Mir ist dabei in den letzten Jahren im-
+mer stärker bewusst geworden, dass 
+besonders bei digitalen Angeboten 
+häufig keine sinnvolle Trennung zwi-
+schen diesen Themen und Fragestel-
+lungen aus den Bereichen Produkt-
+entwicklung oder sogar Redaktion 
+mehr vorgenommen werden kann. Das wird auch auf den folgenden Seiten deutlich, 
+wo ich über einen der weltweit wichtigsten Versuche berichte, eine Unternehmung 
+für lokaljournalistischen Paid Content aufzubauen. Unser gemeinsames Interesse 
+dabei gilt sicher vor allem dem Geschäftsmodell. Aber dessen Erfolg hängt nicht zuerst 
+am Marketing oder gar Vertrieb, sondern an der Produktgestaltung, wie der seiner-
+seits sehr interessante Gründer und CEO von Lookout Local, Ken Doctor, erzählt. 
+Themen des Lesermarkt-Marketings bleiben das Kerngebiet von pv digest. Ich denke, 
+unter den Lesern versammelt sich mittlerweile der mit Abstand größte Teil des Bran-
+chen Know-Hows zu allen Fragen aus diesem Bereich. Darum habe ich eine Befragung 
+unter den pvd-Lesern durchgeführt: was haben Sie zum Thema Churn-Reduzierung 
+gelernt? Vielen Dank allen, die sich daran beteiligt haben. Ihre Antworten habe ich für 
+Sie ab Seite 22 aufbereitet. 
+Wie immer seit Erscheinen von pv digest (seit bald 10 Jahren schon, vgl. S. 16) habe ich 
+für diese Januar-Ausgabe alle mir verfügbaren Informationen und plausiblen Annah-
+men zusammengetragen, um einen Schätzwert für die Paid Content-Umsätze deut-
+scher Digitaljournalismusangebote zu ermitteln. Zum ersten Mal liegt dieser Wert im 
+zehnstelligen Euro-Bereich (vgl. S.18ff). Paid Content in Deutschlands ist jetzt – in 
+der Sprache der Venture-Kapitalgeber – ein Einhorn. 
+Ich wünsche Ihnen einen guten und verkaufsstarken Monat. 
+Markus Schöberl, Herausgeber pv digest 
+Der pv digest 
+Quick Guide 
+ 
+Das Wichtigste in 15 Minuten 
+ 
+ 
+Für Zeitschriften- 
+Verlage 
+Für Zeitungs/ 
+News-Verlage 
+Zu Paid Content 
+ 
+Für Handels- 
+Verantwortliche 
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.10 
+Analysen und  
+Daten                 
+ 
+S.18 
+Meinungen 
+ 
+S.27 
+Personalien 
+ 
+S.29 
+Branchennews 
+&-recht 
+ 
+S.30 
+letzte Worte 
+S.31 
+Editorial 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 2
+ 
+ 
+ 
+ 
+ 
+11 Learnings über digitalen Lokaljournalismus  
+P 
+20 
+Lokaljournalismus di-
+gital only 
+ 
+Was passiert, wenn ein ehemaliger Manager und späterer 
+hauptberuflicher Experte oder Fachjournalist für die Digitali-
+sierung von Zeitungen eine digitale Lokalzeitung gründet 
+und dabei bestmöglich versucht, sein Wissen und seine Vorstel-
+lungen mit den Zwängen der Realität (verfügbare Mittel, verfügbare Zeit, Wettbewerb usw.) 
+zu verheiraten? 
+Auf diese sehr spannende Frage wird die Beobachtung von Ken Doctor und des von ihm 
+im November 2020 online gebrachten Mediums Lookout Santa Cruz eine Antwort ge-
+ben. Ken Doctor war pv digest-Lesern lange als führender Experte für den amerikanischen 
+Zeitungsmarkt bekannt. Seine wechselvolle berufliche Biographie begann er als Redakteur 
+einer Lokalzeitung, führte dann über Managementaufgaben beim Zeitungskonzern Knight 
+Ridder zu einer langen Phase, in der Doctor als Fachbuch-Erfolgsautor (Newsonomics) und 
+hauptberuflich als Digital-Publishing-Experte und Berater aktiv war. In dieser Zeit haben 
+wir ihn mehrfach mit Informationen und Einschätzungen zum nordamerikanischen Zei-
+tungsmarkt zitiert. 
+Anfang 2019 gründete er das gemeinwohlorientierte For-Profit-Unternehmen Lookout. 
+Damit wollte er den Beweis erbringen, dass es immer noch ein Geschäftsmodell für lokalen 
+Journalismus gibt. Dieses Modell sollte überwiegend lesermarktfinanziert sein, sich als 
+zentraler Bestandteil und Mitspieler der Gesellschaft ('Community') vor Ort begreifen 
+und alles so publizieren, dass es vor allem auf Smartphones optimal gelesen und ge-
+nutzt werden kann. Mit diesem Konzept, einer großzügigen, mehrere Millionen Dollar 
+umfassenden Finanzierung, unter anderem durch Google, diverse Journalismus- und lo-
+kale gemeinnützige Stiftungen, und der Dachmarke 'Lookout' hatte (und hat) Doctor den 
+Aufbau einer ganzen Kette nativer digitaler Zeitungsmedien für lokale Märkte vor Augen. 
+Den Anfang (über den er bisher nicht hinausgekommen ist) machte Lookout Santa Cruz, 
+ein digitales Medium für seine rund eine Viertelmillion zählende Heimatstadt Santa Cruz, 
+deren etablierte Lokalzeitung in die Hände des radikal auf Kostensenkung und das Aus-
+melken von Cash Cows spezialisierten Zeitungskonsolidierers Alden Capital geraten ist. 
+Diese Geschichte haben wir ausführlich in den Ausgaben #11/2019 und #9/2020 erzählt. 
+Lookout Santa Cruz erlebte einen holprigen Start, in dessen Verlauf einige Planungsvor-
+gaben deutlich modifiziert wurden. Insbesondere erwies sich das Lesermarktgeschäft 
+(das Abo kostet 17$ monatlich oder 187$ im Jahresabo) als zäher, als Doctor es erwartet 
+hatte, während gleichzeitig das lokale Werbegeschäft positiv überraschte. 'Branded Con-
+tent', also für Werbekunden gestaltete (und klar gekennzeichnete!) Beiträge erwiesen sich, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vorheriger Experte Ken 
+Doctor ist seit 2019 
+Publisher einer digita-
+len Lokalzeitung 
+ 
+ 
+Go Live von Lookout 
+Santa Cruz im Novem-
+ber 2020 
+ 
+ 
+ 
+ 
+Konzept: 
+• lesermarktfinanziert 
+• Community-orien-
+tiert 
+• Smarphone-op-
+timiert 
+ 
+ 
+ 
+geplant: Rollout in an-
+dere Märkte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abo: 17$ monatlich 
+oder 187$ pro Jahr 
+ 
+ 
+QUELLEN:
+NACHRICHTEN AUS VERLAGEN
+UND VERLAGSVERTRIEBEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 3
+laut Doctor, als "Home Run". Zu kämpfen hatte Lookout mit der Technik. Die eingekauften 
+Saas-Lösungen für die diversen Aufgabenbereiche spielten nicht reibungslos zusammen. 
+Auch in Kalifornien erwies sich die Gewinnung und Bindung guter Mitarbeiter als eine Her-
+ausforderung.  
+Im Sommer letzten Jahres, etwa ein Jahr vor dem geplanten 
+und so immer noch erwarteten Break Even, beschrieb 
+KressPro das Medium Lookout Santa Cruz so: "Lookout klingt 
+nicht wie eine Zeitungs-Website und sieht auch nicht so aus. 
+... Design von Lookout intuitiv für die digitale und vor al-
+lem mobile Nutzung optimiert (ohne native App) und losge-
+löst von jeglichen Printmetaphern". 
+Zuletzt zählte Lookout 7.000 bezahlte Mitgliedschaften 
+und sah sich auf dem Weg zu 10.000 in den ersten Monaten 
+dieses Jahres. Bezahlte Mitgliedschaften sind dabei nicht nur 
+Einzelabos, sondern auch Firmenabos, Schüler-, Studenten- 
+oder Lehrkräfteabos. Die tragen nur zu einem guten Drittel zu 
+den Erlösen bei. 50% der Erlöse kommen aus der Werbung 
+und 15% aus Spenden für konkrete Projekte. 
+"Wir behaupten jetzt noch keinen Erfolg [pvd: nämlich die 
+wirtschaftliche Tragfähigkeit noch in diesem Sommer]. Aber 
+der ist in Reichweite, obwohl wir uns bereits für die Ausdeh-
+nung in andere Lokalmärkte ['Communities'] vorbereiten", be-
+richtet Doctor. Wir haben ein echtes lokales Nachrichtenun-
+ternehmen, das bei allen Benchmarks gut wächst – Reich-
+weite, Umsatz, lokales Ansehen und Glaubwürdigkeit – mit ei-
+nem Team von 15 Vollzeitkräften" [10 Journalisten und fünf 
+kaufmännische Mitarbeiter]. "Ohne Druckkosten geben wir un-
+ser Geld zu 80% für Personal aus – ein wahnsinniger Vorteil auf 
+dem Weg nach vorne. So sehr investigativer Journalismus ['Ac-
+countability'] das Herz unserer Mission ist, so sehr wird er nie-
+mals alle Rechnungen bezahlen oder auch nur genügend Leser 
+verschaffen… Darum offerieren wir auch Veranstaltungskalen-
+der, Rätsel, Todesanzeigen, eine Stellenbörse und eine Mei-
+nungsplattform für Stimmen aus der Community. So zentral 
+politische und gesellschaftliche Berichterstattung ist, so sehr ist 
+es die Breite der Inhalte, die Gelegenheitsnutzer zu Lesern ma-
+chen. Vor allem Essen&Trinken. Aber auch Kunst, Bildung, Life-
+style, Gesundheitsthemen und Kultur sind das, was Leser wol-
+len." 
+Nun, zu Beginn des dritten Jahres seine Startups, hat Ken Doctor eine Liste mit 11 Lear-
+nings zu digitalen lokaljournalistischen Angeboten veröffentlicht, die sehr gute Anre-
+gungen für alle bietet, die in diesem Bereich aktiv sind. 
+Bisher enttäuscht der 
+Lesermarkt und das 
+Werbegeschäft über-
+rascht positiv 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+zuletzt 7.000 bezahlte 
+Abos (inkl. Mehrfach-
+Lizenzen, rabattierte 
+Abos usw.) 
+ 
+ 
+derzeit 50% der Erlöse 
+aus Werbung, nur 35% 
+aus Abos 
+ 
+ 
+Break Even in Sicht 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 Mitarbeiter (10 
+Journalisten, 5 Kauf-
+leute) 
+ 
+ 
+ 
+ 
+ 
+ 
+Journalismus allein ge-
+nügt nicht; eine breite 
+Palette Inhalte ist 
+Pflicht 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 4
+11 Learnings über digital only Lokaljournalismus 
+> Habe Geduld und auch den Mut, voranzugehen. Für ein innovatives Angebot, das etwas  
+Neues sein will, das sich nicht an bekannten Vorbildern orientiert (Zeitungen, Blogs), hel-
+fen keine Befragungen potenzieller Nutzer und man darf auch nicht erwarten, dass es 
+sofort Akzeptanz findet. Es kann fünf oder sechs Kontakte mit dem Angebot benötigen, 
+bevor die Nutzer es überhaupt tatsächlich wahrnehmen oder gar sein Konzept ver-
+stehen. 
+> Eine Mischfinanzierung (Lesermarkt, Werbung, vielleicht auch Events oder gar Spenden) 
+ist erfolgversprechender als ein Geschäftsmodell, das nur auf einer Erlös-Säule fußt. 
+> Handeln Sie als ein echter Partner für die Marketingbedürfnisse ihrer lokalen Kunden. 
+"Werbung macht die Hälfte unserer Umsätze aus und hat sich im vergangenen Jahr ver-
+doppelt". Das gelingt, wenn man sich als Partner für die Kommunikationsbedürfnisse 
+der lokalen Unternehmen versteht, wenn man auf programmatische Werbung verzich-
+tet und auch innovativ bei den Formaten ist. 
+> Bewegen Sie sich flexibel in Richtung eines 'Mitgliedschaft 2.0'-Programms. Lookout 
+Santa Cruz sei mit einer harten Hochpreis-Paywall gestartet. Und das sei eine gute Ent-
+scheidung gewesen, weil man sich so die Unterstützung der Kernlesergruppe gesichert 
+habe. Aber nun biete man eine Vielzahl unterschiedlicher (bezahlter) Zugänge an, zum 
+Beispiel Studentenabos, Gruppenabos, Firmenabos oder gesponsorte Abos. "Zugangs-
+kontrolle" sei fundamental, aber mittlerweile gehe man mit dem Thema viel phantasie-
+voller um als zu Beginn. 
+> Zeigen Sie sich. Nicht nur als Medienpartner von Events. Sondern nehmen Sie persönlich 
+an Veranstaltungen teil. Es gebe nichts Besseres als Face-to-Face-Begegnungen. 
+> Binden Sie Schüler und Studenten umfangreich ein. Das Studentenabo sei ein No-Brai-
+ner. Aber Lookout Local nutze Sponsoring-Modelle (inclusive Googles News Initiative) um 
+maximal viele studentische Leser zu gewinnen. Man gewinne gezielt studentische 
+Stimmen für die Berichterstattung. Man habe ein lokalnachrichtenbasiertes Curriculum 
+entwickelt, das nun in Schulen und Hochschulen genutzt werde. 
+> Planung ist gut, aber es bleibt sehr viel Bedarf an Improvisation. 
+> Team-Building braucht Zeit. Und nichts trägt so sehr dazu bei, wie gemeinsam genutzte 
+Büroräume. 
+> Demokratie ist lokal. Polarisierung ist auch ein lokales Phänomen, aber auf lokaler Ebene 
+sieht sie anders aus als in der lautstark geführten nationalen Debatte. Mit viel Arbeit und 
+guten Recherchen könne man sich hier als ein von allen Seiten akzeptierter Informa-
+tionslieferant positionieren. 
+> Die technische Basis eines digitalen lokaljournalistischen Angebotes sei unnötig kom-
+pliziert. Man arbeite sehr viel auf der Basis von Tech, ohne aber ein Tech-Unternehmen 
+zu sein. Die genutzten Instrumente für Content-Management, Publishing, Paywall, 
+11 Learnings von 
+Lookout Santa Cruz 
+ 
+ 
+• Erfolg braucht Zeit 
+und Ausdauer 
+ 
+ 
+ 
+ 
+• Mischfinanzierung 
+ist gutes Modell 
+ 
+ 
+• sich als Partner der 
+lokalen Werbetrei-
+benden verstehen 
+ 
+ 
+ 
+ 
+ 
+ 
+• flexible und varian-
+tenreiche Abo-/Mit-
+gliedschaftsange-
+bote machen 
+ 
+ 
+ 
+ 
+• auch physisch prä-
+sent sein 
+ 
+ 
+• Schüler und Studen-
+ten auch inhaltlich 
+einbinden 
+ 
+ 
+ 
+• Spontaneität ist 
+wichtig 
+• Team Building => 
+gemeinsame Büros 
+ 
+• sich mit guten Re-
+cherchen gegen Po-
+larisierung wappnen 
+ 
+ 
+ 
+• Technik ist eine Rie-
+sen-Herausforde-
+rung 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 5
+Kundenverwaltung oder Analytics seien ein Patchwork nur mäßig gut miteinander zu-
+sammenarbeitender Lösungen. 
+> Schließen Sie Freundschaften und stützen Sie sich darauf. Lookout Local arbeite eng mit 
+anderen lokaljournalistischen Startups zusammen und man entwickele zunehmend 
+gemeinsam genutzte Ressourcen. 
+ 
+ 
+ 
+ 
+• mit anderen ähnli-
+chen Medien koope-
+rieren 
+ 
+El Diario sieht Missbrauch bei 'freiwilligem' Bezahlmodell 
+97 
+El Diario 
+ 
+Das Spanische El Diario, bisher eines der wenigen Digitalpressemedien, die auf das Modell 
+freiwilliger Bezahlungen setzen, führt Premium-Artikel ein, also Inhalte, die nur für be-
+zahlende Leser zur Verfügung stehen. Die Digital CEO des spanischen Publishers, Rosalía 
+Lloret, sagt, dieses Modell, bei dem "Abonnenten offensichtlich einige Vorteile haben", 
+habe sich "praktisch bei allen Medien" durchgesetzt. 
+Außerdem sieht Gesamt-CEO Ignacio Escolar trotz Freiwilligkeit des Mitgliedschafts-
+modells zunehmende Missbrauchsfälle. Bezahlende Mitglieder haben bei El Diario (wie 
+auch beim weltweit bekanntesten und ebenfalls mit der Freiwilligkeit hadernden Fall The 
+Guardian) heute schon Vorteile, darunter Werbefreiheit, exklusive Newsletter, Kommen-
+tarmöglichkeiten usw.  
+Seit Dezember 2020 ist die Gratislektüre ohnehin schon per Meter-Limit beschränkt. 
+Ab dem elften Artikel stoßen Gratisleser bei El Diario an eine Paywall, die sie aber auch zu 
+einem ermäßigten Preis oder sogar durch Inanspruchnahme eines Angebotes für bedürf-
+tige Leser gratis durchschreiten können. 
+Um finanzschwache Personen in der Corona-Krise nicht auszuschließen, hatte El Diario 
+in den ersten Wochen der Corona-Krise die kostenlose Mitgliedschaft eingeführt. Diese 
+Möglichkeit, die Mitglieder-exklusiven Vorteile in Anspruch zu nehmen, beanspruchen 
+mittlerweile mehr als 22.000 Personen. "Hier haben wir kürzlich zahlreiche Missbrauchs-
+fälle entdeckt: Leute, die dieses Angebot nutzen, um einfach nicht zu bezahlen, obwohl sie 
+bezahlen könnten", erzählt Escolar. Ab jetzt müssen Gratismitglieder ihre Bedürftigkeit an-
+hand von Dokumenten nachweisen. 
+Bisher schien El Diario mit seinem Modell äußerst erfolgreich unterwegs. Rund 60.000 
+Nutzer bezahlen freiwillig, im Regelfall 8€ pro Monat. Das Jahr 2021 wurde mit knapp 
+11Mio€ Umsatz und 1Mio€ Nettoergebnis abgeschlossen. Die Hälfte des Umsatzes steu-
+erten die freiwilligen Bezahler bei. Inflationsbedingt sieht El Diario aber ein schwieriges 
+Jahr 2023 voraus. 
+ 
+ 
+ 
+digitale Zeitung mit 
+Freiwillig-Paywall führt 
+Bezahl-Artikel ein 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+schon seit 12/2020 en-
+det ie Freiwilligkeit bei 
+Artikel #11 
+ 
+ 
+aber; wer sich als be-
+dürftig deklariert, der 
+liest bisher alles gratis 
+ 
+d.s. mittlerweile 22.000 
+Nutzer, darunter "zahl-
+reiche Missbrauchs-
+fälle" 
+ 
+ 
+ 
+ 
+El Diario ist/war zuletzt 
+profitabel 
+ 
+pvd meint freiwilliges Bezahlen ist ein Konzept, das äußerst sympathisch ist und gar 
+nicht selten überraschend erfolgreich. Aber es stößt an Grenzen, wenn der Lesermarkt 
+zunehmend die wichtigste Finanzierungsquelle darstellt. Beim Guardian diagnostizieren 
+wir seit Jahren eine schleichende und heimliche Abkehr vom freiwillig-Mantra (vgl. zu-
+letzt pvd #9/2022). Nun fällt El Diario um. Von der Taz ist in dieser Hinsicht noch nichts 
+zu hören. Aber wir wären nicht überrascht, wenn sich das bald änderte. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 6
+ 
+Werbung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe 
+von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende Abonnenten ma-
+chen Sie das möglich.  
+ 
+Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet 
+wird. Das ist durch den regulären Abopreis nicht abgedeckt.  
+ 
+Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen. Für mehrere Abos 
+innerhalb eines Unternehmens kann ich Ihnen attraktive Mehrfachlizenzen anbieten. Ich 
+verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: 
+schoeberl@pv-digest.de, Tel.: +49 40 308 901 09. 
+ 
+ 
+ 
+ 
+ 
+ 
+Nein, das mache ich 
+nicht. Warum unter-
+stützt Du diesen 
+Dienst nicht mit ei-
+nem eigenen Abo? 
+Kannst Du mir 
+pv digest  
+weiterleiten? 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 7
+ 
+Blick zurück in die Zukunft: Wie Le Figaro mit dem un-
+erlaubten 'Teilen' von Nutzerkonten umgeht 
+102 
+pvd Nachhaltigkeits-
+Check 
+ 
+Die häufigste Form der Umgehung von Paywalls dürfte es sein, sich mit den Login-Daten 
+eines Bekannten, der für das jeweilige Digitalabo schon bezahlt, anzumelden. Verlage ge-
+hen mit diesem Thema unterschiedlich um. Das hat zum Beispiel unsere Untersuchung 
+zum Thema 'Gerätelimits' in pvd #1/2021 gezeigt. Eine Möglichkeit, um damit umzuge-
+hen, sind Abos, die das Anlegen mehrerer Nutzerkonten ermöglichen. Dieses "Thema 
+kommt langsam. Unser Tipp: es wird aber gewaltig kommen". So begann ein Kommentar 
+in der Vorjahresausgabe. 'Gewaltig' ist das Thema bisher aber noch nicht. 
+Die französische Zeitung Le Figaro hat nun auf ihrer Website einen Mechanismus im-
+plementiert, der bewirkt, dass ein und derselbe Inhalt nicht ohne Weiteres gleichzeitig auf 
+mehreren Geräten gelesen werden kann. 'Product Owner' Ludovic Lacroix berichtet, dass 
+man dabei sehr sorgfältig vorgegangen sei. Die Herausforderung sei, den Prozess und die 
+Kommunikation so auszugestalten, dass gleichzeitig keine Verärgerung bei den Abonnen-
+ten hervorgerufen wird und dennoch eine Motivation erzeugt, mit dem Thema im Sinn des 
+Verlages umzugehen. 
+Die Abonnenten nicht zu verärgern ist einerseits offensichtlich sinnvoll. Lacroix weist an-
+dererseits aber auch darauf hin, dass das Teilen von Accounts keineswegs vor allem einen 
+Missbrauchstatbestand darstellt. Sondern, dass etwas teilen wollen ein grundlegendes 
+menschliches Bedürfnis ist und das Ermöglichen des Teilens eine Serviceleistung.  
+Der Figaro stellt diesen Service in Form von zwei Upgrades zu seinem monatlich 9,99€ 
+teuren Standarddigitalabo zur Verfügung. Für 14,99€ können für ein Abo drei gleichbe-
+rechtigte Nutzer angemeldet werden; für 19,99€ sogar fünf. 
+(Beide Upsellpakete beinhalten weitere Exklusivvorteile, zum Beispiel bestimmte 
+Newsletter, das E-Paper, die Nutzung der Koch- und der Spiele-App der Zeitung usw.) 
+Wenn nun ein zweiter Nutzer mit identischen Logindaten einen Bezahl-Artikel aufruft, 
+dann wird für den ersten Nutzer [!] der Artikel mit einem Popup überblendet. Mit ei-
+nem simplen Klick ('Hier meine Lektüre fortsetzen') kann der erste Nutzer weiterlesen. 
+Nur im Kleingedruckten wird ihm nahegelegt, sein Abopaket zu 'managen'. Das erzeuge 
+das richtige Maß an Bewusstsein bei den Abonnenten dafür, dass es vorgesehen Lösungen 
+für das Teilen von Abos gibt, ohne sie allzu sehr zu frustrieren.  
+Diese Ausformung des Umgangs mit dem unerwünschten Teilen von Artikeln im Rahmen 
+des digitalen Basispaketes sei das Resultat zahlreicher Protoypen, Tests und der Zusam-
+menarbeit von UX Designern, Produktverantwortlichen und Kundenservicemitarbeitern. 
+Der Prozess sei gleichzeitig leicht zu verstehen und vermeide einen negativen Ein-
+druck der Upsellangebote. "Viel Arbeit wurde auch darauf verwendet, dass die Texte, die 
+wir gegenüber unseren Nutzern verwenden, für diese verständlich bleiben, im Einklang 
+mit unserem Branding und unserer Marketingstrategie". 
+Leider verrät Lacroix nicht konkret, wie die ersten Erfahrungen mit dem neu installierten 
+Prozess ausfallen. Man habe "sehr wenig negatives Feedback von Abonnenten" erhalten. 
+Man sei nun in der Lage, mit hoher Präzision zu messen, welche Accounts am häufigsten 
+geteilt werden und "ganz besonders, die Accounts zu identifizieren, die von Angestellten 
+ 
+vor 1 Jahr: pvd erwar-
+tet Boom bei 'Mehrere-
+Nutzer-Aboangeboten' 
+ 
+ 
+ 
+ 
+Der ist bisher ausge-
+blieben 
+ 
+ 
+ 
+Beispiel: Le Figaro im-
+plementiert Mehrfach-
+nutzungssperre, die 
+nicht allzu sehr ärgert 
+ 
+ 
+ 
+ 
+Teilen von Abos nicht 
+immer Missbrauch, 
+sondern auch mensch-
+liches Bedürfnis 
+ 
+ 
+3 Abopakete; die bei-
+den teureren mit 3 
+bzw. 5 erlaubten Zu-
+gängen u.v.m. 
+ 
+ 
+ 
+ 
+Anti-Missbrauchs-Me-
+chanismus: überblen-
+dendes Popup, das 
+leicht wegklickbar ist 
+ 
+ 
+ 
+ 
+ 
+ 
+Diese Lösung sei inten-
+siv erprobt, verständ-
+lich und CI-konform 
+ 
+ 
+ 
+ 
+ 
+bisher "sehr wenig ne-
+gatives Feedback" 
+ 
+ 
+#1/22 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 8
+innerhalb 
+eines 
+Unterneh-
+mens geteilt werden. Das be-
+deutet prospektive Kunden für 
+unsere B2B-Angebote." Lacroix 
+resümiert: "Die ersten Ergeb-
+nisse waren äußerst positiv. 
+Nun wollen wir dieses System 
+auf unsere Apps und unsere 
+Sub-Domains ausdehnen und 
+gleichzeitig die Reibungslosig-
+keit ("Fluidity") unserer Kun-
+denerfahrung 
+weiterentwi-
+ckeln". 
+ 
+'Missbrauchs'fälle in-
+nerhalb von Unterneh-
+men => Chance für Fir-
+menabos 
+ 
+Pink News installiert Nur-gute-Nachrichten-Filter 
+26 
+96 
+Produktentwicklung 
+ 
+Das 
+englischsprachige 
+digitale 
+LGBTQ+ 
+Medium Pink (immerhin 100Mio monatliche 
+Nutzer) bietet nun einen Gute-Nachrichten-
+Filter an. Damit können sich die Nutzer all die 
+Negativmeldungen vom Hals halten, die nach 
+derzeitigem Kenntnisstand eine Ursache der 
+'Nachrichtenmüdigkeit' vieler und besonders 
+junger Menschen sein sollen. 
+Laut CPO Sarah Watson hätten 25% der 
+Nutzer sich im Rahmen einer Befragung dieses 
+Feature gewünscht. Das passt auch zu Daten 
+aus dem letzten Reuters Digital News Report, 
+laut denen eine der wichtigsten Ursachen für die zunehmende Ignoranz gegenüber 
+Nachrichtenmedien ist, dass diese einen schlechten Einfluss auf die persönliche 
+Stimmung haben. 
+Mit Hilfe des neuen Filters können die Pink News-Leser nach Bedarf nun dafür sorgen, 
+dass Ihnen die aktuelle Nachrichtenauswahl keine schlechte Laune macht. Der Filter ist 
+bisher nur in der App implementiert. Auf der Website soll er im kommenden Jahr 
+eingebaut werden. Bis dahin kann das Portal noch relevante Daten sammeln. Denn heute 
+schon fragt es seine Leser auf der Website am Ende von Artikeln, welchen Effekt sie auf die 
+Stimmung der Leser hatten. Das schaffe 
+neue, 
+zusätzliche 
+Möglichkeiten, 
+sagt 
+Watson. Zum Beispiel könne man auf dieser 
+Basis viel besser einen Newsletter mit 
+'herzerwärmenden' Beiträgen anbieten, als 
+wenn man diesen automatisiert nur anhand 
+von Schlagworten kuratieren würde." 
+ 
+ 
+LGBTQ-Medium in-
+stalliert Filtermöglich-
+keit: nur gute Nach-
+richten anzeigen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schlechte Nachrichten 
+sind eine wichtige Ur-
+sache für Nicht-Nut-
+zung 
+ 
+ 
+ 
+ 
+ 
+ 
+Gute-Laune-Filter bis-
+her nur in der App 
+ 
+ 
+ 
+ 
+Im Web wird zu jedem 
+Artikel Gefühls-Feed-
+back abgefragt 
+ 
+ 
+ 
+Potenzial für neue, 
+emotionsbasiert kura-
+tierte Angebote 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 9
+ 
+         
+P 
+      
+Marktentwicklung
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im 
+Dezember 2022, zu Anzahl 
+und Erscheinungsweise siehe 
+"Daten Cockpit Handel")  
+   
+ 
+Marktentwicklung
+Preise
+ 
+neu eingeführte Zeitschriften 
+Print, Presse-Apps in ausge-
+wählten Stores 
+   
+ 
+Marktentwicklung
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+Preise bei neuen Zeitschriften) 
+  
+ 
+DATEN COCKPIT VERLAGE
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 10
+ 
+ 
+ 
+ 
+ 
+Ehastra (Presseeinzelhändler-Statistik) 2022 
+P 
+Ehastra 2022 
+ 
+"Die vergleichsweise moderate Entwicklung unseres Händlernetzes ist angesichts der wirt-
+schaftlichen Herausforderungen in Folge des russischen Angriffs auf die Ukraine bemer-
+kenswert. Der presseführende Einzelhandel tritt offensichtlich steigenden Energiepreisen, 
+Personalnot und allgemeiner Kaufzurückhaltung entschieden entgegen" verzuckert An-
+dreas Obervoßbeck, Vorstand Marktanalyse des Gesamtverbandes Pressegroßhandel, ein 
+Datum aus der diesjährigen Presseeinzelhändlerstatistik Ehastra. Denn die jährliche Zäh-
+lung und Vermessung aller presseführenden Einzelhändler in Deutschland erbrachte die 
+immer noch beeindruckende Gesamtzahl von 85.7687 Presse verkaufenden Einzel-
+händlern. Diese Gesamtzahl ist im Vergleich zum Vorjahr 'nur' um 3,9% kleiner geworden. 
+Besonders stabil hat sich die Anzahl der Presse verkaufenden Discounter (-0,1%), Tankstel-
+len (-0,4%) aber auch der Lebensmittelhändler & Supermärkte (-1,4%) und der Großformen 
+des Lebensmittelhandels (-2,4%) entwickelt. Mit 23,58 laufenden Metern Regalborde ist 
+auch die für das Pressesortiment durchschnittlich zur Verfügung gestellte Fläche bei den 
+verbliebenen Händlern fast stabil. 
+Allerdings bieten die Händler immer weniger Titel an. Diese Tatsache wird in der Präsen-
+tation der Daten beschönigend als ein Rückgang beim Anteil der 'überlasteten' Regale 
+dargestellt. Von 29,06% auf 22,34% ist der Anteil der Händler zurückgegangen, die mehr 
+als die in ihrem individuellen Fall von den Pressegrossisten als optimal erachtete Anzahl 
+Titel anbieten. Und um mehr als 20% 'überlasten' nur noch 7,5% (2021 waren es noch 
+11,01%) der Händler ihre Regale. So deutlich hat sich diese Kennzahl seit ihrer Einführung 
+noch nicht bewegt. 
+Das führt unter dem Strich dazu, dass in allen Geschäftsarten die Anzahl der durch-
+schnittlich angebotenen Titel zurückging. Im Durchschnitt aller Geschäftsarten findet ein 
+Kunde heute 162 verschiedene Titel im Presseregal. 2021 waren das noch 175. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In den letzten 12 Mo-
+naten verringerte sich 
+die Anzahl der Presse-
+händler 'nur' um 3,9% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+deutlich weniger Händ-
+ler, die mehr als 12,5 
+Titel pro Bordmeter 
+präsentieren 
+ 
+ 
+ 
+ 
+Rückgang der ø Sorti-
+mentsbreite von 175 
+auf 162 versch. Titel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 11
+Das ist ein sehr 
+deutlicher Rück-
+gang der einem 
+langjährigen 
+Trend folgt. Es 
+gibt immer we-
+niger 
+Ge-
+schäfte, die ein 
+sehr 
+breites 
+Pressesorti-
+ment 
+führen. 
+Die 
+Anzahlen 
+von 
+Händlern 
+mit vielen Titeln 
+im Angebot sin-
+ken 
+deutlich 
+schneller als die Anzahlen von Händlern mit weniger Titeln, wie die Grafik dokumentiert. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Seit Jahren nimmt die 
+Anzahl Händler mit 
+breitem Sortiment be-
+sonders schnell ab 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amazon steigt weitgehend aus dem Presseverkauf aus 
+P 
+Amazon steigt aus 
+Presseverkauf aus 
+ 
+Amazon wird den Verkauf gedruckter und auch digitaler Presse weitgehend beenden. Das 
+betrifft sowohl den Verkauf von Abos gedruckter und digitaler Zeitschriften als auch 
+die Ausgaben für Amazons Lesegerät Kindle. Was es weiterhin geben wird, ist eine 
+ 
+ 
+Amazon beendet Ver-
+kauf von Print- und Di-
+gitalabos 
+pvd meint Quantitäten als Fixstern zu begreifen ohne Rücksicht auf die Qualität der 
+damit gezählten Objekte (hier: Einzelhändler), ist eine unselige Gewohnheit, die sich an 
+vielen Stellen des Print-Einzelvertriebssystems wiederfindet. 
+Sinnvoll ist das selten. Zur Anzahl der angebotenen Titel hatten wir an unseren Bericht 
+zur Ehastra des Vorjahres Daten einer 'Käufermarktstudie' angefügt, die der Zeitschrif-
+tenverlegerverband VDZ damals zusammen mit dem Gesamtverband Pressegrosso ver-
+öffentlicht hatte. Diese Studie legte nahe, dass eine gegenteilige Strategie erfolgverspre-
+chender im Sinne der Händler und der Verlage wäre. 
+Statt aus der eigenen Studie den naheliegenden Schluss zu ziehen, lieber zu viele als 
+zu wenige Titel im Regal anzubieten, scheinen die Grossisten in diesem Jahr ihren von 
+Großverlagen gepushten Kurs der 'Regalentlastung' noch einmal deutlich verschärft zu 
+haben. Das ist unverantwortlich und nicht im Interesse der allermeisten Verlage, Titel 
+und Einzelhändler. 
+(Auf eine entsprechende Nachfrage von pv digest verwies der Grossoverband auf eine 
+Vielzahl Ursachen für den Rückgang bei dieser Kennzahl. Die "Sortimentspflege" sei im-
+mer im Fokus. Im Übrigen sieht man beim Verband Ursachen für den deutlichen Rück-
+gang der Regal'überlastung' aber auch zum Beispiel in wirtschaftlich bedingten Titelein-
+stellungen und verringerten Erscheinungsfrequenzen.) 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 12
+Auswahl digitaler Magazine, die im Flatrate-Angebote Kindle Unlimited enthalten ist. Und 
+auch gedruckte Einzelhefte werden weiterhin von Amazon angeboten werden. 
+Amazon verspricht, dass es sich nur sukzessive aus dem Geschäft zurückzieht (geplant ist 
+ein Ausstiegs-Zeitraum von 6-9 Monaten), damit die Auswirkungen sich für alle Beteilig-
+ten in überschaubaren Grenzen halten. 
+Gegenüber pv digest begründet ein Amazon-Sprecher den weitgehenden Ausstieg aus 
+dem Pressevertriebsgeschäft so: "Im Rahmen der jährlichen Überprüfung unserer Ge-
+schäftsstrategie schauen wir uns jedes unserer Angebote an und überlegen, was wir ver-
+ändern sollten. Nach einer Analyse des Verkaufs von Zeitschriften- und Zeitungs-
+abonnements sowie von Einzelausgaben haben wir die schwierige Entscheidung ge-
+troffen, diese Services zu beenden. Wir machen uns diese Entscheidung nicht leicht und 
+stellen diese Angebote schrittweise über mehrere Monate hinweg ein. Währenddessen 
+werden wir Kund:innen, Verkaufspartnern und Verlagen weiterhin zur Seite stehen." 
+ 
+ 
+ 
+ 
+ 
+Ausstieg soll sich 6-9 
+Monate hinziehen 
+ 
+ 
+Apple schenkt App-Publishern zu Nikolaus hunderte 
+neuer Preispunkte 
+P 
+In-App Verkauf bei 
+Apple 
+ 
+Mit seinem Appstore hat Apple einen sehr reibungslos arbeitenden Marktplatz für den 
+Verkauf digitaler Inhalte geschaffen. Das lässt sich nicht in Abrede stellen. Zu den Beson-
+derheiten dieses Marktplatzes gehört aber auch, dass Verkäufer die Preise ihrer Angebote 
+nicht beliebig bestimmen können, sondern dass sie sich für Preise aus einer abgeschlos-
+senen Liste verfügbarer Preispunkte bedienen müssen. Genauer und noch beschränk-
+ter: sie wählen eine 'Preisstufe', die Apple mit einem monetären Wert verheiratet. In unre-
+gelmäßigen Abständen ändert Apple diesen monetären Wert, so dass etwas, das einmal 
+79 Cent gekostet hat, plötzlich 89 Cent kosten konnte, es sei denn, der Verkäufer änderte 
+die von ihm vergebene Preisstufe auf eine, die in der neuen Systematik dem alten Wert 
+entspricht. Und vorausgesetzt, Apple stellte auch in der neuen Systematik noch eine 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inhalte in Apples 
+Appstore können nur 
+zu vorgegebenen Prei-
+sen verkauft werden 
+ 
+ 
+ 
+ 
+ 
+pvd meint als Amazon in den Verkauf von Presse einstieg, da waren Phantasien 
+nicht unbegründet. Das Unternehmen war damals noch viel mehr ein Buchhändler, das 
+Geschäft mit dem Verkauf von Texten viel näher an der Kern-DNA des Handelsriesen als 
+heute. Außerdem verfügt Amazon mit dem Kindle über eine technische Lösung, die zwar 
+bei der Darstellung von Bildern überfordert ist, die aber digitales mobiles Lesen von Tex-
+ten ungemein erleichtert. 
+Dennoch hat Amazon dieses Geschäft niemals in mehr als wenigen Kernmärkten be-
+trieben (USA, Großbritannien, Deutschland und Frankreich). Und schon lange spüren 
+Verlage, die ihre Titel gerne neu in das Amazon-Sortiment hätten aufnehmen lassen, 
+dass sie dafür wenig Unterstützung erhalten. 
+In Deutschland konnten die Phantasien noch einmal aufflammen, als Amazon beim Spie-
+gel Verlag die bekannte Vertriebsmanagerin Wiebke Meeder abgeworben hatte. Aber 
+die ist längst – nach nicht einmal 12 Monaten beim Handelskonzern – weitergezogen 
+und heute CMO bei der Handelsblatt Media Group. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 13
+Preisstufe zur Verfügung, die dem alten Preispunkt entsprach. Vor gar nicht langer Zeit 
+(pvd #10/2022) haben wir noch berichtet, dass Apple auf diesem Weg Preise unterhalb von 
+1€ verunmöglicht hatte, weil es den Gegenwert der niedrigsten Preisstufe auf 1,10€ ange-
+hoben hatte. 
+Das ist der Hintergrund, den man Kopf haben muss, wenn man Apples am Nikolaustag 
+veröffentlichte Pressemitteilung liest, die ein wenig so klingt, als habe Apple das Bezahlen 
+mit Geld neu erfunden und radikal verbessert. Darin feiert sich der Konzern, "700 neue 
+Preispunkte" zur Verfügung zu stellen. "Alle App-Developer werden die Möglichkeit ha-
+ben, aus 900 Preispunkten zu wählen, was fast zehn Mal so viele sind, wie sie den meisten 
+Apps bisher zur Verfügung standen." 600 neue Preispunkte gebe es jetzt, die "schon bei 
+0,29$ anfangen" und "auf Nachfrage weitere hundert, die bis 10.000$" gehen können. 
+Für In-App-Abos stehen die neuen Preispunkte sofort zur Verfügung. Für In-App-Einzelver-
+käufe "ab dem kommenden Frühjahr". 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+statt rund 90 mögli-
+cher Preise gibt es nun 
+(für Abos) bzw. ab 
+Frühjahr (EinzelVK) 900 
+ 
+Cafeyn will das nicht-schwedische Geschäft von Readly 
+übernehmen 
+P 
+Bonnier&Cafeyn wol-
+len Readly schlucken 
+ 
+Der schwedische Verlagskonzern Bonnier will Readly schlucken. Da er dazu die 
+Aktienmehrheit erwerben muss, hat er über eine Tochtergesellschaft Aktionären ein 
+Kaufangebot unterbreitet. Pro Aktie will er ihnen 12 Schwedische Kronen (ca. 1,10€) 
+bezahlen. Das ist ein Plus von etwa 75% gegenüber dem Durchschnittskurs der letzten 
+sechs Monate. Readly empfiehlt seinen Aktionären, das Angebot anzunehmen. Allerdings 
+haben mehrere Großanteilseigner, unter anderem der größte Readly-Gesellschafter 
+Swedbank Robur, das Angebot als zu niedrig abgelehnt. 
+Die Transaktion wäre nur die Vorstufe zu einem weiteren Deal. Cafeyn, der französische 
+Readly-Wettbewerber, der außerhalb von pv digest im deutschen Sprachraum bisher 
+kaum Aufmerksamkeit gefunden hat (Berichte über Cafeyn bzw. Le Kiosk, wie das 
+Unternehmen vorher hieß, finden Sie z.B. inden pvd-Ausgaben #2/2022, #7/2021, #9/2020 
+u.a.m.), will das nicht-schwedische Geschäft von Readly anschließend von Bonnier 
+übernehmen 
+(bzw. 
+zunächst 
+als 
+Lizenznehmer 
+betreiben, 
+wie 
+es 
+in 
+einer 
+Angebotsunterlage für die Aktionäre heißt). Dazu haben der schwedische Verlag und der 
+französische Digitalkiosk eine "strategische Partnefschaft" vereinbart. 
+ 
+ 
+Bonnier will Readly für 
+12SKR (1,10€) / Aktie 
+übernehmen 
+ 
+ 
+noch aber zieren sich 
+einige Groß-Gesell-
+schafter 
+ 
+ 
+Anschließend soll 
+Cafeyn das Geschäft 
+außerhalb Schwedens 
+übernehmen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint Zwischen 29 Cent und 10.000 Dollar passen üblicherweise fast 1Mio Preis-
+punkte. Es ist geradezu dadaesk, wie sich Apple hier dafür feiert, aus diesem Universum 
+an möglichen Preisen, statt vorher etwa 300 jetzt 900 zur Verfügung zu stellen. Natürlich 
+gibt es (möglicherweise gute) Gründe für Apples Preispunktlogik. Aber die zentralkomi-
+teehafte Selbstbeweihräucherung, die Apple hier zur Schau trägt, ist schwer erträglich. 
+Strategisch bemerkenswert ist in diesem Zusammenhang die neuerliche Privilegierung 
+von Aboangeboten, die viel früher von der neuen Preispunktvielfalt Gebrauch machen 
+können als Einmalverkaufsangebote. Erneut gewinnt man dadurch den Eindruck, dass 
+Apple Umsätze viel lieber durch Abos generiert sieht als durch Einzelverkäufe. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 14
+Cafyen übernähme – liefe alles wie geplant – das Geschäft vor allem in den großen 
+Readly-Märkten Deutschland, Großbritannien und 'Rest-of-World'. Damit würde 
+Cafeyn endlich tatsächlich Zugriff auf den deutschen Markt erhalten. Das hatte Cafeyn-
+Gründer und CEO Ari Assuied schon 2014 für einen damals deutlich näher liegenden 
+Zeitraum ins Auge gefasst. 
+Cafeyn käme durch diese Transaktion auch in den Besitz seins ehemaligen nationalen 
+Wettbewerbers epresse.fr, den Readly erst vor etwas über einem Jahr geschluckt hatte. 
+Da somit der Bericht zum dritten Quartal 2022, der im November veröffentlicht wurde, 
+womöglich der letzte öffentlich zugängliche Unternehmensbericht von Readly 
+bleiben wird, veröffentlich wir hier zum letzten Mal unsere Übersicht der wichtigsten 
+kaufmännischen Eckdaten des Presseflatrateanbieters.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+zum voraussichtlich 
+letzten Mal: Eckdaten 
+zum Readly-Geschäft 
+pvd meint kann es nur einen geben? So sieht es aus. Und der Last Man Standing 
+wäre dann Cafeyn, das ja auch den niederländischen Digitalkiosk Blendle schon vor län-
+gerer Zeit übernommen hatte. Für Publisher ist das keine gute Nachricht. Damit wächst 
+die Verhandlungsmacht des Vertriebspartners. Für alle Konsumenten, die Interesse an 
+einem Flatrateangebot für digitale Presse haben, ist die Nachricht dagegen keine 
+schlechte. Cafeyn war immer schon der agilere und auch technisch ehrgeizigere Anbie-
+ter (z.B. hat Cafeyn viel früher als Readly die Magazinausgaben in einen Artikelstrom 
+zerlegt, der für die Nutzung auf Smartphones optimiert ist). Außerdem schien Readly in 
+den letzten Quartalen die Luft beim Abowachstum auszugehen. In einer so frühen Phase 
+ist das für ein Startup existenzbedrohend.  
+In der März-Ausgabe des letzten Jahres hatten wir auf den abgestürzten Aktienkurs von 
+Readly verwiesen und unsere Kernkompetenz mit einer Kaufempfehlung für das Wert-
+papier überschritten. Wer damals zugeschlagen hat, der erlitt noch einmal deutliche Ver-
+luste, bevor die Aktie nun, durch die Ankündigung von Bonnier, ziemlich genau wieder 
+dort notiert, wo sie damals stand. Wir hatten den Wert des Abonnentenbestandes von 
+Readly für eine Wertgarantie angesehen und auf potenzielle Käufer verwiesen. Cafeyn 
+haben wir damals explizit als einen Kandidaten für eine mögliche Übernahme genannt. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 15
+ 
+Readly nennt erstmals Zahlen zur Zeitungsnutzung 
+P 
+Daten zur Readly-
+Nutzung 
+ 
+Readly hat noch einmal einen 'Trends Report' für 2022 veröffentlicht (Der Berichtszeitraum 
+darin ist die Periode vom 1.11.2021 bis zum 31.10.2022). Erstmals beinhaltet dieser Report 
+auch detaillierte Daten zur Zeitungslektüre auf Readly. Im vergangenen Jahr wurden dem-
+nach im Rahmen der Flatrate 112Mio Zeitschriftenausgaben und 34Mio Zeitungsausgaben 
+gelesen. Da Readly im Vorjahr (vgl. pv digest #1/2022) noch von 120Mio gelesenen Zeit-
+schriftenausgaben gesprochen hat, muss man schlussfolgern, dass das zunehmende An-
+gebot von Tageszeitungsausgaben zu Lasten der Zeitschriftenlektüre ging. Insgesamt 
+wurden im Berichtszeitraum 146Mio Ausgaben gelesen (PZ+TZ).  
+Nach wie vor ist Readly ein Angebot, das vor allem auf Tablet-Geräten genutzt wird. Je 
+nach Land und Mediengattung sind es nur zwischen 11% und 16% der Ausgaben, die 
+auf Smartphones gelesen werden. Sowohl in Schweden als auch in Großbritannien ist 
+der Anteil der Smartphonelektüren bei Tageszeitungen geringer als bei Zeitschriften. In 
+Deutschland dagegen wurden 13% der Zeitungsausgaben und nur 12% der Magazinaus-
+gaben auf Smartphones gelesen. 
+ 
+ 
+lt. Readly Trends Re-
+port zwischen 11/21 
+und 10/22 bei Readly 
+gelesen: 
+ 
+• 120Mio Zeitschriften 
+• 34Mio Zeitungen 
+ 
+ 
+ 
+davon nur zwischen 
+11% und 16% auf 
+Smartphones 
+ 
+(in Deutschland 13% 
+der TZ- und 12% der 
+PZ-Ausgaben auf 
+Smartphones) 
+ 
+True Crime dominiert Rangliste erfolgreichsten Bezahl-
+Podcasts 
+P 
+Bezahl-Podcasts 
+ 
+Apple hat erstmals Ranglisten der über Apple Podcasts ausgespielten Podcasts veröf-
+fentlicht. In der Rangliste der 'besten Abo-Podcasts', also der erfolgreichsten Hör-Bezahl-
+angebote, zeigt Apple 13 Shows. Nicht weniger als 10 Shows davon sind aus dem True 
+Crime-Segment.  
+ 
+Bei Apple [und vermut-
+lich auch anderswo]: 
+Hörer bezahlen v.a. für 
+'True Crime'-Podcasts 
+pvd meint dividiert man die Readly-Umsätze im Zeitraum Q4/2021 bis Q3/2022 
+durch diese Anzahl gelesener Ausgaben, dann hat Readly pro gelesener Ausgabe rund 
+36Cent erwirtschaftet. Bei einer durchschnittlichen Auszahlungsquote von 67% haben 
+Verlage pro gelesener Ausgabe [d.h.: pro geöffnetem und mindestens einmal umgeblät-
+tertem E-Paper] rund 24Cent erhalten. Das ist – besonders wenn man die zahlreichen 
+Massentitel und die gar nicht mehr so wenigen Readly-only Zweitverwertungs E-Paper 
+('Exclusives') berücksichtigt, die sich auch hinter diesen Zahlen verbergen – kein schlech-
+ter Wert. Sollte Readly vom Markt verschwinden oder durch den zukünftigen Besitzer 
+deutlich umgestaltet werden, werden das einige Verlage sehr bedauern, die auf anderen 
+Vertriebswegen selbst mit ihren gedruckten Ausgaben weniger Erlös erzielen. 
+Deutlich wird nun auch ein weiterer Grund, warum Readly im letzten Jahr nicht mehr 
+wachsen konnte. Nicht nur, weil es bei den Marketingkosten gespart hat. Sondern auch, 
+weil die mobile Nutzung, also die Lektüre auf Smartphones statt auf Tablet-Geräten, im 
+ganz niedrig zweistelligen Bereich feststeckt, während die allgemeine Nutzung digitaler 
+Angebote sich immer mehr auf Smartphones verlagert.  
+Hieraus können alle Digitalpublisher eine Lehre ziehen: Wer sich den Leser mit einem 
+großen Bildschirm vor Augen vorstellt, der denkt falsch. Digitale Presse muss für kleine 
+Handybildschirme gestaltet werden, wenn sie ein Zukunftsprodukt sein will. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 16
+ 
+Werbung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 17
+ 
+         
+ 
+    P2 
+  
+Index
+Marktentwicklung
+Einzelhandel
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland,  
+Datenstand KW 47) 
+ 
+  
+ 
+Marktentwicklung
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neueinfüh-
+rungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+  
+ 
+Marktentwicklung
+digitaler Vertrieb
+ 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATEN COCKPIT HANDEL UND ABSATZ
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 18
+ 
+ 
+ 
+ 
+ 
+Deutsche Publikumsmedien erzielen jährliche Paid Con-
+tent-Umsätze oberhalb 1Mrd€ 
+P 
+Paid Content 
+Deutschland 
+ 
+Die jährlichen Paid Content-Umsätze deutscher Pressemedien haben die 1Mrd€ Umsatz-
+schwelle überschritten. Unser aktueller Schätzwert für die auf 12 Monate hochgerech-
+neten aktuellen digitalen Vertriebs-Umsätze von Zeitungs- und Zeitschriftenverlagen 
+sowie digital only publizierenden journalistischen Medien ist 1.079Mio€. Gegenüber Vor-
+jahr ist dieser Wert um 23% gewachsen. Trotz aller Krisen und zahlreicher Meldungen über 
+steigende Kündigerzahlen zeigt sich das Wachstum im digitalen Lesermarkt damit zumin-
+dest umsatzseitig ungebremst. 
+Das Wachstum stammt ganz 
+überwiegend aus Mengenstei-
+gerungen. Von den knapp 
+200Mio€, um die der deutsche 
+Paid Content-Markt in den 
+letzten 12 Monaten gewach-
+sen ist, ist weniger als ein 
+Zehntel auf Preiserhöhungen 
+bei Digitalabos zurückzufüh-
+ren. Über 90% des Markt-
+wachstums kommt durch 
+größere Mengen zusammen, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aktuelle 'Run Rate' 
+Paid Content-Umsätze 
+deutscher Publikums-
+medien: 1,079Mrd€ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++23% zum Vorjahr, 
+überwiegend durch 
+mehr Digitalabos 
+ 
+ 
+Preissteigerungen tra-
+gen zu rund 10% zum 
+Umsatzwachstum bei 
+ 
+ 
+ 
+QUELLEN: 
+ANALYSEN UND DATEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 19
+nur 10% aus Preissteigerungen. Gewachsen sind dabei sowohl die Mengen der E-Paper-
+Abonnenten als auch der Plus-Abo-Kunden und auch – in geringerem Umfang, weil es sich 
+hier ohnehin nur noch um vorherige Ausnahmefälle handelt – die Menge der Tageszeitun-
+gen, die vor ihren Webangeboten eine Paywall installiert haben.  
+Gut zwei Drittel dieser 
+Umsätze werden von Zei-
+tungsverlagen 
+erwirt-
+schaftet. Zeitschriften zu-
+sammen mit sämtlichen di-
+gital 
+only 
+publizierenden 
+journalistischen Medien tra-
+gen nur zu 36% zu den Ge-
+samtumsätzen bei. Wie im 
+Vorjahr und auch schon im 
+Vor-Vorjahr ist dieser Anteil 
+aber immerhin um 4%-
+Punkte gestiegen. 
+Mit 5% Anteil am Ge-
+samtmarkt und fast 12% 
+nur an den Umsätzen der 
+regionalen 
+Tageszeitun-
+gen spielen die Umsätze aus dem sonstigen Verkauf von E-Papern immer noch eine 
+große Rolle. Hierbei handelt es sich um die Erlöse aus dem stark vergünstigten Verkauf 
+von E-Paper-Abos an Printabonnenten.  
+Dass man 
+Abonnenten 
+der gedruck-
+ten Ausgabe 
+einen Extra-
+Obolus da-
+für 
+abver-
+langt, 
+dass 
+sie Zugang 
+zu 
+einer 
+Bildschirm-
+kopie 
+des 
+von 
+ihnen 
+schon teuer 
+bezahlten Papierproduktes erhalten, ist alles andere als eine Selbstverständlichkeit. 
+Wenn man den Erfolg der Ibbenbürener Volkszeitung bei der Heranführung von Printle-
+sern an digitale Produkte kennt und weiß, dass diese Zeitung ihn vor allem darauf zurück-
+führt, dass ihre Abonnenten schon lange ohne Extra-Aufpreis auch das E-Paper lesen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nur 36% der Paid 
+Content-Umsätze 
+kommen nicht von Ta-
+geszeitungen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Immer noch hat der 
+sonstige Verkauf von 
+E-Papern einen signifi-
+kanten Umsatzanteil 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Extrakosten, damit 
+Printabonnenten das 
+E-Paper lesen können, 
+sind fragwürdig 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 20
+können (vgl. pvd #11/2022), dann könnte man diese Angebotspolitik auch strategisch für 
+einen Fehler halten. Aber viele Verlage wollen heute nicht auf die Extraerlöse verzichten, 
+die meistens aus der Not heraus geboren worden sind, dass bis Ende 2019 gedruckte und 
+digitale Produkte unterschiedlich besteuert wurden und Print+Digitalabokombinationen 
+zu einer sehr hohen Steuerbelastung führen konnten. 
+Die überregionalen Tageszeitungen verhalten sich hier auch nicht anders. Dass die Er-
+löse aus dem 'sonstigen Verkauf' in Ihrem Paid Content-Mix einen kleineren Anteil haben, 
+liegt vielmehr daran, dass sie mittlerweile einen sehr relevanten Umsatz mit ihren 
+Paywall-/Plus-Abos generieren. Bemerkenswert ist, dass wir die In-App-Umsätze bei den 
+überregionalen Tagestiteln größer finden als die Umsätze mit den SV-E-Papern. 
+Für das Marktsegment 'Zeitschriften&Sonstige' können wir solche Betrachtungen nicht 
+anbieten. Das liegt einerseits daran, dass wir für den '&Sonstige'-Part eine ganze Reihe 
+vereinfachende Annahmen treffen. Zum anderen bilden nur wenige Titel einen sehr gro-
+ßen Teil dieses Segments. Allein die Zeit, die wir wie alle Wochenzeitungen einordnen, 
+steht für mehr als ein Fünftel der Paid Content-Umsätze dieses Marktsegmentes. Wir se-
+hen Die Zeit mittlerweile als das nach Paid Content-Umsatz größte Pressemedium in 
+Deutschland.  
+Beispiel IVZ: Digitali-
+sierungserfolg dank 
+Verzicht auf solche 
+Zusatzerlöse 
+ 
+ 
+ 
+ 
+überregionale TZ mit 
+signifikanten Plus-
+Abo-Erlösen 
+ 
+und mit mehr In-App 
+als SV-Erlösen 
+ 
+ 
+ 
+ 
+ 
+ 
+Die Zeit ist Deutsch-
+lands Paid Content-
+umsatzstärkstes Me-
+dium 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 21
+Zur Datengrundlage dieses Beitrags: 
+Unsere Marktschätzung beruht auf einer Vielzahl von Annahmen und Durchschnittswer-
+ten. Dank des hohen Anteils der E-Paper-Erlöse und der weit verbreiteten Meldung der E-
+Paper-Auflagen sowie der IVW-Statistik Paid Content, fußt ein großer Teil unser Markt-
+schätzung bei den Zeitungen auf öffentlich verfügbaren Mengenangaben. Hier müs-
+sen also 'nur' die zugehörigen durchschnittlichen Preise geschätzt werden. 
+Das Segment der Zeitschriften ist um einiges weniger transparent. Viele Titel melden 
+gar keine Auflagendaten an die IVW. Und die Produktvielfalt im Bereich digitaler Bezahlan-
+gebote ist deutlich größer als bei den Zeitungen – auch wenn dabei unter dem Strich viel 
+weniger erlöst wird.  
+Noch unsicherer ist die Schätzung der Paid Content-Umsätze mit innovativen, oft nicht 
+aus dem Bereich etablierter Verlage stammender digitaler Bezahlangebote. Aber auch 
+hier stehen teilweise mehr oder weniger belastbare Informationen zur Verfügung, 
+von Geschäftsberichten (z.B. Readly, Stiftung Warentest) über Selbstauskünfte (z.B. Steady) 
+bis hin zu punktuellen Beobachtungen und Aussagen im Rahmen von Medienberichten 
+und Konferenzen oder Daten aus eigenen Recherchen. 
+Unser Kalkulationsmodell beruht auf folgenden Parametern und Annahmen. 
+>  Für die überregionalen Zeitungen, für Bild und für ausgewählte regionale Zeitungen haben wir an-
+hand der IVW-Daten (E-Paper-Auflagen, soweit vorhanden Paid Content-Meldungen an die IVW) und weite-
+rer uns bekannter Daten zu übrigen Digitalprodukten eine auf den Details der Auflagenstruktur und der 
+jeweiligen individuellen Angebotspreise beruhende Abschätzung vorgenommen. 
+> Die E-Paper-Erlöse der übrigen regionalen (inkl. lokalen) Tageszeitungen haben wir entsprechend der 
+IVW-Angaben (Tageszeitungen gesamt abzgl. Mengen einzeln betrachteter Titel) und per repräsentativer 
+Stichprobe ermittelten Durchschnittspreisen (monatlich 27,92€ für E-Paper-Abos und 6,84€ für E-Paper 
+Sonderverkäufe) kalkuliert. 
+> Längst hat die Mehrheit aller Tageszeitungen vor ihren Webangeboten eine Paywall installiert. Aber nicht 
+alle diese Titel generieren Paywall-only-Erlöse. Bei manchen Titeln berechtigt nur ein E-Paper-Abo auch zur 
+Nutzung der bezahlpflichtigen Webinhalte, so dass die Paywall keine zusätzlichen Erlöse generiert. Wir un-
+terstellen, dass im Branchenschnitt 80% aller Zeitungen ein separates Webabo anbieten, und dass da-
+bei ein Webabo-Kundenbestand in Höhe von 7% der verkauften Zeitungsauflage erreicht wurde. Für diese 
+reinen Paywall-Abos sehen wir einen Monats-Durchschnittspreis von 8,34€. 
+> Auch für digital herausragende Zeitschriften und Wochenzeitungen haben wir anhand der IVW- Daten 
+eine auf den Details der Auflagenstruktur und der jeweiligen individuellen Angebotspreise beru-
+hende Einzel-Abschätzung vorgenommen. Hinzu kommen Umsatzwerte, die sich aus öffentlich gemach-
+ten Aussagen aus einzelnen Verlagen und auch aus Hintergrundinformationen für pv digest ergeben. 
+> Für die Abschätzung der Paid Content Erlöse der übrigen Zeitschriften (inkl. Wochenzeitungen und Spe-
+cial Interest Magazine aber keine Fachzeitschriften) mit IVW-Meldung haben wir die Erlöse aus dem Verkauf 
+von E-Papern auf Basis der IVW-Zahlen mit Durchschnittspreisen ermittelt. Die per Abonnement als E-
+Paper verkauften betroffenen Zeitschriften erscheinen zu sehr unterschiedlichen Preisen und unterschied-
+lich häufig. Für die Kalkulation haben wir einen repräsentativen Mittelwert herangezogen. Basis für dessen 
+Erläuterungen zur 
+Schätzmethode: 
+ 
+ 
+wo immer möglich 
+verfügbare Mengen x 
+ø Schätzpreise 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Datengrundlagen, Pa-
+rameter&Annahmen: 
+ 
+• E-Paper&Paywalls 
+überregionale und 
+große regionale TZ 
+auf Basis IVW 
+ 
+ 
+ 
+• E-Paper restliche 
+TZ: Schätz-/øWerte 
+ 
+ 
+ 
+ 
+ 
+• Paywallerlöse rest-
+liche TZ: 
+Schätz-/øWerte 
+ 
+ 
+ 
+ 
+• E-Paper große PZ 
+(inkl. WZ) auf Basis 
+IVW 
+ 
+ 
+ 
+• E-Paper restliche 
+PZ: Schätz-/øWerte 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 22
+Berechnung sind Durchschnittswerte, die wir aus einem proportional gewichteten Mix der nach E-Paper-
+Auflage größten Zeitschriften und einer Stichprobe aus allen übrigen Titeln berechnet haben. Unser 'Durch-
+schnitts-E-Paper' einer Zeitschrift kostet 9,84€ pro Monat im regulären Abo und 1,41€ im sonstigen Verkauf. 
+> Für die E-Paper von Zeitschriften (inkl. Romanhefte!) ohne IVW-Meldung haben wir einen Betrag von 
+43Mio€ (20% der E-Paper-Umsätze der Titel mit IVW-Meldung) pauschal angenommen. Für alle übrigen 
+Paywall-, App- und sonstigen Angebote für bezahlpflichtigen digitalen Publikumsjournalismus haben wir 
+pauschal weitere 40Mio€ angenommen. Beide Positionen können wir zu einem großen Teil mit konkreten 
+Beispielen belegen. 
+ 
+ 
+ 
+ 
+ 
+• Paid Content PZ 
+ohne IVW und sons-
+tige Angebote: 
+Schätz-/øWerte 
+ 
+ 
+Was die pv digest-Community zum Thema Churn-Redu-
+zierung gelernt hat 
+P 
+Anti-Churn Branchen 
+Know-how:  
+ 
+Nach den boomartigen Zuwachsmengen bei Digitalabos in den Corona-Jahren 2020 und 
+2021 erlebten viele Verlage eine Phase der Ernüchterung. Die neuen Abonnenten kündig-
+ten nicht selten nach kurzer Zeit ihre Abos wieder. Das ist zwar ein immer schon beobacht-
+bares Verhaltensmuster neuer Abonnenten – auch von neuen Printabonnenten – aber es 
+sorgte doch dafür, dass 'Churn' eines der großen Themen im Jahr 2022 war. 
+Selbst wenn man die überdurchschnittlichen Abgangsquoten von Neulesern als ein nor-
+males Phänomen begreift, so ist das aktive Bemühen um eine höhere Kundenbindung res-
+pektive geringere Abgangsquoten doch eine sinnvolle Schwerpunktsetzung. Die hat in vie-
+len Häusern stattgefunden, so dass wir davon ausgehen, dass im vergangenen Jahr bran-
+chenweit ein erheblicher Kompetenzaufbau zum Thema Churn-Management statt-
+gefunden hat. 
+Weil wir gleichzeitig davon ausgehen, dass sich unter den pv digest-Lesern der größte Teil 
+der kompetenten und erfahrenen Paid Content-Verantwortlichen im deutschsprachigen 
+Raum findet, haben wir unsere Leser mit Digitalabomanagementverantwortung um die 
+Teilnahme an einer Befragung gebeten. Von 105 angeschriebenen Paid Content-Exper-
+ten haben wir 18 beantwortete Fragebögen erhalten. Der folgende Bericht stützt sich auf 
+diese Erhebung. 
+Unsere erste Frage war als offene Frage formuliert. So wollten wir mit wenig Vorab-Ein-
+flussnahme erfragen, welches Instrument im jeweiligen Unternehmen als das eine, erfolg-
+reichste Instrument zur Verringerung der Abgangsquoten angesehen wird. Die Frage lau-
+tete: "Bitte möglichst kurz & knapp: was hat sich für Ihr Digitalabo als die wirksamste 
+Methode zur Kundenbindung, als die effektivste Maßnahme gegen Churn erwiesen?" 
+ 
+Die offenen Antworten auf diese Frage können wir fünf Kategorien zuordnen: 
+ 
+Anti-Churn- 
+Kategorie 
+Text offene Antworten 
+1 Angebotsformen 
+Bundle-Angebote / Einführung Flex-Abo / Hoher Rabatt auf das 
+Digitalabo (z.B. halbes Jahr zum halben Preis) / churngefähr-
+dete Abonnenten auf Jahresabos switchen 
+2 Apps 
+App Download / Alles, was hilft, Nutzungsgewohnheiten und -
+häufigkeiten aufzubauen, z.B. App und Newsletter / App-Nut-
+zung 
+ 
+ 
+ 
+hoher Churn ist nor-
+mal bei neuen Abon-
+nenten 
+ 
+ 
+ 
+immer sinnvoll: Anti-
+Churn-Maßnahmen 
+ 
+ 
+2022 wurde hierzu 
+viel gelernt 
+ 
+ 
+ 
+ 
+ 
+Befragung von pv di-
+gest-Lesern: 
+ 
+ 
+ 
+ 
+ 
+ 
+(offene) Frage 1: was 
+ist bei Ihnen die effek-
+tivste Maßnahme ge-
+gen Churn? 
+ 
+ 
+Antworten lassen sich 
+fünf Kategorien zu-
+ordnen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 23
+3 Kundenservicemaß-
+nahmen 
+Servicecenter, ausgestattet mit (beschränkter) Kompetenz für 
+das Verhandeln von Konditionen / Maßnahmen gegen Nicht-
+zahler 
+4 Maßnahmen auf In-
+halte-Ebene 
+Push, Bildergalerien / Content Marketing auf B2B Plattformen / 
+Aktivität der Kunden tracken und Content produzieren, der 
+Kunden zur Nutzung animiert / Personalisierung / Engaging 
+Content 
+5 Newsletter 
+Einführen von automatisierten E-Mail Journeys für Onboarding 
+/ Newsletter und Push / personalisierte Newsletter mit maßge-
+schneiderten Zusammenfassungen von Themen 
+Um die jeweiligen Maßnahmen ihrer Nutzung nach zu quantifizieren, haben wir in einer 
+zweiten Frage eine abgeschlossene Liste möglicher Churn-Maßnahmen vorgestellt und um 
+die Markierung jeweils genutzter Maßnahmen gebeten. Hier wurde am häufigsten 'Perso-
+nalisierungs-Angebote' angekreuzt. Es folgen gleichauf Probeangebote mit längerer Lauf-
+zeit und die Chefredakteurs-E-Mail.  
+Grafik: Häufigkeit von Kundenbindungsmaßnahmen, die im eigenen Haus erfolg-
+reich genutzt werden 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(geschlossene) Frage 
+2: erfolgreich genutzte 
+Anti-Churn-Maßnah-
+men 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Personalisierung 
+ 
+• Probeabos mit län-
+gerer Laufzeit 
+ 
+• Chefredakteurs-
+Mail 
+ 
+• App-Downloads ini-
+tiieren 
+ 
+• … (u.v.m.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 24
+Was uns hier auffällt, das ist, dass es zwar eine Maßnahme gibt, die am häufigsten ange-
+kreuzt wurde, dass diese Maßnahme aber nicht mit deutlichem Abstand vor den nächst-
+häufigsten Maßnahmen rangiert. Und dass wir die ersten vier häufigsten Maßnahmen alle 
+einer je eigenen Kategorie zuordnen: Maßnahmen auf Inhalte-Ebene, Angebotsformen, 
+Newsletter, Apps. Offensichtlich gibt es bisher keinen gemeinsamen, verallgemeiner-
+baren und auf einige wenige Basisinstrumente reduzierbaren Erfahrungsschatz.  
+[pvd: …abgesehen davon, dass Rabatte auf den Abopreis ein sehr wirksames Instru-
+ment zur Abwehr von Kündigungen sind. Nicht umsonst rangiert 'hoher Rabatt auf das 
+Digitalabo' weit oben in der Liste der offenen Antworten auf Frage eins. Und die Consul-
+ting-Tochter der Financial Times hat kürzlich von einer Befragung von 50 'führenden' Digi-
+talaboverlagen berichtet, die zu zwei Dritteln im Gewähren hoher Rabatte das wirksamste 
+Mittel gegen Churn sehen. Nach unserem Verständnis ist das aber keine Anti-Churn-
+Maßnahme, weil sie ja erst nach der Kündigung greift. Unter Anti-Churn-Maßnahmen ver-
+stehen wir alle Maßnahmen, die Kündigungen verhindern. Nach einer ausgesprochenen 
+Kündigung folgen Versuche zur Abwehr dieser Kündigung und danach die Kündigerrück-
+gewinnung. Das sind zwei sehr wichtige, aber andere Themenfelder.] 
+Um sicherzustellen, dass wir mit unseren Frageformulierungen keine wesentlichen In-
+strumente übersehen, haben wir schließlich noch die folgende, wiederum offene Frage 
+gestellt: In dieser Liste haben mir folgende Maßnahmen gefehlt, die bei uns gut wir-
+ken. 
+Hierauf haben wir sieben Antworten erhalten, von denen vier, also mehr als die Hälfte, 
+in die Kategorie Angebotsformen fallen. 
+ 
+ 
+Anti-Churn- 
+Kategorie 
+Text offene Antworten 
+1 Angebotsformen 
+Probeabo zum Sonderpreis plus Prämie / Rückgewinner-Ange-
+bote (Preis) / Einführung von Print & Digital Kombiabos / Likely 
+to Churn-Abonnenten mit reduzierten Angeboten und längerer 
+Laufzeit halten. 
+2 Apps 
+keine Nennung 
+3 Kundenservicemaß-
+nahmen 
+Zahlungsweise von Rechnung auf BEZ oder PayPal umstellen 
+4 Maßnahmen auf In-
+halte-Ebene 
+keine Nennung 
+5 Newsletter 
+Artikel die in NL frei sind 
+6 ohne Kategorisierung 
+Marketing Automation zur Kündiger-Rückgewinnung (E-Mail) 
+ 
+Schließlich haben wir noch nach Maßnahmen gefragt, mit denen keine eigenen Erfah-
+rungen gemacht wurden, über die man aber gerne mehr wüsste. Hiermit haben wir ei-
+nen kleinen Blumenstrauß möglicher Anti-Churn-Instrumente initiiert, die sich überwie-
+gend keiner der oben gebildeten Kategorien zuordnen lassen.  
+ 
+ 
+auffällig: keine ein-
+zelne Maßnahme mit 
+großem Abstand am 
+häufigsten genannt 
+ 
+ 
+ 
+ 
+ 
+[evtl. abgesehen von 
+Rabatten im Rahmen 
+der Kündigerabwehr / 
+-rückgewinnung 
+ 
+ 
+=> d.i. aber kein Anti-
+Churn mehr] 
+ 
+ 
+ 
+ 
+ 
+ 
+(offene)Frage 3: was 
+wirkt bei Ihnen noch 
+gut? 
+ 
+ 
+ 
+Die meisten Antwor-
+ten beziehen sich auf 
+Angebotsformen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(offene) Frage 4: wo-
+mit keine eigenen Er-
+fahrungen; wüssten 
+aber gerne mehr? 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 25
+Die offenen Antworten auf diese Frage lauteten: 
+> "Churn Prediction auf Basis von Nutzungsdaten" 
+> "Regelmäßiger Insiderblick hinter die Kulissen der Redaktion" 
+> "Vorteilsclub/Treuekarte mit weiteren Vorteilen für Digitalabos (z.B. Vergünstigungen bei 
+lokalen Händlern, Treuepunkte etc.)" 
+> "Gamification und User Generated Content, personalisierte Content-Hinweise" 
+> "Interviews mit Kündigern, um die Beweggründe zu erforschen (Zoom, Telefonat)" 
+> "Social als Kanal, um auch treue Kunden zu erreichen und auf die Seite zu ziehen." 
+Diese letzte Frage macht noch einmal deutlich: es besteht keine breite Übereinstimmung 
+zur Frage, mit welchen Instrumenten Churn am effektivsten bekämpft und Kunden am 
+wirkungsvollsten gebunden werden können. Weder sehen wir eine einzelne Maßnahme, 
+die auffällig häufig genannt wurde, noch auch nur eine Maßnahmengruppe (Kategorie), 
+die gedanklich nach oben sortiert werden sollte, wenn man nach den wirkungsvollsten 
+Anti-Churn-Maßnahmen sucht.  
+Überspitzt könnte man sagen, 'anything goes'. Denn zwar können wir hier über keinen 
+Expertenkonsens berichten. Aber über eine überraschend einheitliche Überzeugung, 
+dass man dem Thema Churn beikommen kann. Von 18 Befragten sagen 15, "Ja, wir sind 
+zuversichtlich, dass wir im kommenden Jahr mit unseren Maßnahmen die Kundenbindung 
+erhöhen und den Churn bei unserem Digitalabo verringern werden". 
+Das ist umso weniger selbstverständlich, als wir hier pessimistischeren Managern eine 
+Hintertür weit aufgemacht hatten. Nur zwei Befragte nutzten diese und wählten die Option 
+"So planen wir zwar, aber persönlich bin ich da nicht so optimistisch". 
+Nur ein Befrager oder eine Befragte berichten über ihr Unternehmen "Wir erwarten 
+für das kommende Jahr keine bessere Kundenbindung". 
+Einzelfallbericht zum Thema Anti-Churn 
+Zeitnah zu unserer Untersuchung veröffentlichte KressPro eine Beilage zum Thema 
+'Strategien gegen Kündigungen im digitalen Vertrieb'. Darin berichtet das Medienma-
+gazin über Gespräche mit verantwortlichen Managern bei mehreren Verlagen. Ergänzend 
+zu unserer Befragung fanden wir dort noch folgende hilfreiche Erfahrungsberichte bzw. 
+Einschätzungen: 
+ 
+> Die FAZ hat bei per Churnscore als hochgefährdet eingestuften Abonnenten ihres Aus-
+gabenproduktes festgestellt, dass Outbound Calls, in denen ein kleines Treugeschenk 
+angeboten wurde, die Kündigerquote wirksam verringern. (Am besten sollen Ge-
+schenke aus dem eigenen Produktportfolio gewirkt haben, genannt wurde ein FAZ 
+Quarterly Abo). Die Digitalabokündigerquote sei durch einen solchen Anruf um 50% re-
+duziert worden, die Kündigerquote Print um 25%.  
+Mit vergleichbaren E-Mails hat die FAZ keine oder kaum eine Wirkung erzielt. 
+ 
+ 
+ 
+ 
+ 
+Antworten sehr vielfäl-
+tig 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fazit: es gibt nicht die 
+eine, wichtigste Maß-
+nahme 
+ 
+ 
+ 
+ 
+ 
+aber: breite Überzeu-
+gung, dass man er-
+folgreich aktiv gegen 
+Churn angehen kann 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Einzelfallberichte 
+ 
+ 
+ 
+• FAZ: erfolgreich mit 
+Outbound-Calls & 
+Treuegeschenken 
+ 
+ 
+ 
+ 
+ 
+E-Mails ohne ver-
+gleichbaren Erfolg 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 26
+Weil die Outbound-Kampagne hohe Kosten verursacht, dürfte sich die Aktion aber nur 
+für Abonnenten des teuren Ausgabenproduktes (E-Paper, Multimedia-Ausgaben-App) 
+rechnen, nicht bei Abonnenten des günstigeren FAZ+ Abos. 
+ 
+> Die Zeit misst derzeit bei ihren Digitalabos eine Churnquote von 3% pro Monat. Dabei 
+zählt die Wochenzeitung aber nur solche Abos als Churn, die vorher für mindestens vier 
+Monate zum regulären Preis abonniert hatten, also einen von Probeabokündigern oder 
+Nichtzahlern unbeeinflussten Churn. 
+Diese niedrige Quote weiter zu verbessern ist eine Herausforderung. Bisher hat die Zeit 
+keine wirksame Maßnahme identifiziert, um per Churnscore identifizierte hoch kün-
+digungsgeneigte Kunden an der Kündigung zu hindern. Einen Grund dafür kennen pv 
+digest-Leser schon seit unserem Interview mit Zeit-Manager Sascha Bossen in der Vor-
+jahresausgabe: die Zeit macht die Erfahrung, dass Kündiger sich von Anfang an an-
+ders verhalten als Nicht-Kündiger. Eine Kündigung lässt sich also weniger durch eine 
+Veränderung des Nutzungsverhaltens erkennen (oder gar verhindern) als vielmehr am 
+Verhalten neuer Abonnenten ab Beginn des Abos. 
+Entsprechend verfolgt die Zeit als Kundenbindungsstrategie das Ziel, ihre Kunden frü-
+hestmöglich dazu zu bewegen, Nutzungsgewohnheiten zu entwickeln; zum Beispiel 
+durch eine Hinführung zur App-Nutzung.  
+Bei neuen Abonnenten versucht die Zeit auch gezielt zu verhindern, dass diese sich in der 
+Fülle des Angebotes verlieren oder davon überfordert fühlen. Neue Abonnenten beglei-
+tet Die Zeit darum eng mit Leseempfehlungen und Nutzungstipps.  
+Durch alle in diese Richtung wirkenden Maßnahmen sei es gelungen, das Engagement 
+neuer Abonnenten in den ersten Tagen eines Abos um 10% zu steigern und die folgende 
+Umwandlungsquote in ein reguläres Abo um 12%, sagt Sascha Bossen. 
+Der berichtet auch von guten Erfahrungen mit Zoom-Calls mit Nutzern, um so im di-
+rekten Gespräch mehr über deren Erfahrungen zu lernen. "Im Gespräch mit fünf bis zehn 
+Abonnenten kann man wahnsinnig viel herausfinden und diese Erkenntnisse lassen 
+sich in der Regel auf die breite Masse übertragen". 
+ 
+> Sowohl die Zeit als auch die Neue Pressegesellschaft machen gute Erfahrungen mit Ar-
+tikelmerklisten. Die NPG darüber hinaus mit Personalisierungsoptionen wie dem Fol-
+gen von Themen oder Autoren. 
+ 
+> Die Badische Zeitung integriert derzeit ein per Lizenz eingekauftes digitales Rätsel- und 
+Sudoku-Produkt. Von dieser Arti nichtjournalistischer Produkte erhofft sich die Zeitung 
+ebenfalls eine Steigerung bei der Nutzungsgewohnheit. 
+hohe Kosten => nur 
+für Hochpreisabos 
+wirtschaftlich 
+ 
+ 
+ 
+ 
+• Die Zeit: 3% monat-
+liche Churn bei Re-
+gelpreisabos 
+ 
+ 
+ 
+ 
+ 
+keine wirksame 
+Maßnahme zur 
+Bindung hoch ge-
+fährdeter Abos 
+ 
+ 
+ 
+ 
+ 
+Strategie: Anti-
+Churn ab Tag 1 des 
+Abos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Zoom-)Gespräche 
+mit Nutzern sehr 
+hilfreich 
+ 
+ 
+ 
+ 
+ 
+• Artikelmerklisten, 
+Themen&Autoren 
+folgen binden Abos 
+ 
+ 
+• Badische Zeitung 
+erhofft sich Ge-
+wohnheitsbildung 
+per Rätselprodukt 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 27
+ 
+ 
+ 
+ 
+ 
+Zurück im Rampenlicht: Micropayments/Einzelartikel-
+verkauf 
+P 
+Micropayments / 
+Einzelartikelverkauf 
+ 
+"Das andere Trendthema im Moment [pvd: neben der Fußball-WM] sind Micropayments, 
+ein Thema, das immer wieder einmal seinen kurzen Moment im Rampenlicht hat, bevor 
+es wieder ausglüht". So teasert die aus den letzten beiden Ausgaben bekannte Poool-Ma-
+nagerin Madeleine White einen Beitrag des in den USA prominenten Medienjournalisten 
+Mark Sternberg (Adweek) an. Der schreibt ohne erkennbaren Anlass zum x-ten Mal Ar-
+gumente auf, warum der Einzelverkauf journalistischer Artikel 'nicht funktionieren 
+kann' [zum Beispiel, dass man einer Artikelüberschrift nicht ansehen könne, ob der Artikel 
+sein Geld wert sei mit der Folge, dass Enttäuschung und Käuferfrustration beim Einzelarti-
+kelverkauf journalistischer Texte geradezu vorprogrammiert seien. Wer es nachlesen 
+möchte, findet den Artikel hier pv-digest.de/linkliste Link1]. 
+Interessant ist weniger, was Sternberg über Micropayments denkt als die Tatsache, dass 
+das Thema ohne erkennbaren Anlass derzeit an allen Ecken und Enden auftaucht. Auch 
+einer der Säulenheiligen der Techbloggerszene, Brian Morissey, widmete Micropay-
+ments eine aktuelle Ausgabe seines sehr erfolgreichen Newsletters The Rebooting 
+[pv-digest.de/linkliste Link2]. Immerhin präsentiert er originellere Gedanken als Sternberg. 
+So fügt Morrissey der Liste der Argumente, warum das Modell 'nicht funktionieren kann', 
+die Behauptung hinzu, dass Publisher mit dem Verkauf einzelner Artikel die Einnahmen 
+aus den Abos nichtnutzender Abonnenten [Schläfer/Zombies] gefährden würden. Die 
+seien ein elementarer Bestandteil des Erfolges, den Verlage mit Digitalabos haben. 
+Am Ende seines Beitrags, sehr überraschend, kommt Morrissey dann zum dem 
+Schluss, dass "irgendwann, nur deshalb, weil Micropayments intuitiv Sinn machen, ir-
+gendjemand einen Weg finden wird, sie für alle Marktteilnehmer gangbar zu machen". 
+Das könnten zum Beispiel die Gründer der Twitter-Alternative Post sein. Diese "Plattform 
+für echte Menschen, echte Nachrichten und zivile Konversationen" hat kürzlich der ehe-
+malige CEO des Navigationssystems Waze, Noam Bardin, gelauncht. "Post will ein Ge-
+schäft rund um Micropayments für Nachrichten aufbauen", beschreibt Niemanlab-
+Chefredakteurin Laura Hazard Owen die Pläne des jungen Unternehmens. Die haben so-
+gar die bekannte Venture Capital-Firma Andreessen Horowitz dazu verleitet, Geld in das 
+Unternehmen zu investieren. Die Nachrichtenagentur Reuters ist der erste Publishing-
+Kunde, der auf Post einzelne Artikel verkauft; gegen 'Punkte', also ein virtuelles Guthaben, 
+dass Post-Nutzer zum Kauf von Artikeln einsetzen [Wer sich dazu ausführlicher informie-
+ren möchte: pv-digest.de/linkliste Link3]. 
+Und damit ist die Liste der aktuellen Berührungspunkte zur Idee, einzelne Inhalte zu ver-
+kaufen, lange nicht abgeschlossen. Zwei davon stellen wir in je einem eigenen Artikel vor. 
+ 
+ 
+aktuelles Trendthema: 
+Micropayments 
+ 
+ 
+ 
+ 
+ 
+Bsp1: Medienjourna-
+list Markt Sternberg 
+ 
+ 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+Bsp2: Tech-Experte 
+Brian Morrissey 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bsp3: Social Media-
+Startup Post 
+ 
+ 
+"Geschäftsmodell 
+rund um Micropay-
+ments für Nachrich-
+ten" 
+ 
+ 
+LESEEMPFEHLUNG 
+QUELLEN: 
+MEINUNGEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 28
+ 
+"begrenzte Flexibilität", nicht mehr "Nein". Die 
+Washington Post denkt über Micropayments nach. 
+96 
+Micropayments bei 
+der Washington Post 
+ 
+Jez Walters, Publisher der englischen Website Whats New in Publishing, berichtet von der 
+Web Summit Konferenz, die Anfang November in Lissabon stattgefunden hat, dass man 
+dort "zunehmend rund um das Thema Micropayments gesprochen" habe. Darauf hat er 
+dann Joy Robins, Chief Revenue Officer bei der Washington Post, zum Thema befragt. Die 
+windet sich auf eine Weise heraus, bei der uns auffällt, dass sie die Idee des Einzelver-
+kaufs von Artikeln nicht ausdrücklich ablehnt:  
+"Ich glaube schon, dass es ein Produkt gibt, dass nicht bloß der 'Von-Anfang-bis-Ende-
+Zugang' ist, den ein volles Abo gewährt. Ob das Micropayments sind, ist immer noch dis-
+kutabel/fragwürdig ("debatable"). ... Wie dem auch sei, wir experimentieren tatsächlich mit 
+unterschiedlichen Wegen, den Lesern Zugang ... zu verschaffen. Das ist doch nur pragma-
+tisch, ganz besonders dann, wenn eine neue Generation Abonnenten erwachsen wird, 
+die eigene Vorstellungen davon hat, was sie von einem Produkt erwartet, besonders von 
+der Flexibilität.  (...) Wir erforschen das intern mit unserem '5 bis 25'-Team (5Mio Abos bis 
+2025) und das schaut sich Produkte an, die nicht unser digitales Vollabo sind, sondern die 
+einen mehr eingeschränkten Zugang anbieten. Das machen wir aber nicht nebenher, son-
+dern wir gehen dabei in die Tiefe ... Es gibt da ein großes Risiko für den Abobestand. Die 
+Möglichkeit, dass die Abonnenten auf ein weniger wertiges Angebot herunterwechseln, ist 
+wirklich problematisch. Wir denken an eine begrenzte Flexibilität ... Der Punkt ist aber, dass 
+wir offen sein müssen für flexiblere Angebote". 
+ 
+ 
+ 
+ 
+Bsp4: Thema der 
+Stunde auf der Web 
+Summit Konferenz 
+ 
+ 
+ 
+ 
+CRO Washington Post: 
+ 
+Es gibt Produkte jen-
+seits des vollen Abos; 
+vielleicht sind das 
+Micropayments 
+ 
+ 
+ 
+ 
+ 
+Risiko für den Abobe-
+stand => Flexibilität 
+begrenzen, aber offen 
+sein dafür! 
+ 
+ 
+Laterpay heißt jetzt Supertab 
+P 
+Einzelartikelverkauf 
+ 
+"Eine Lösung, die es einfach macht, digitale Güter und Leistungen über verschiedene 
+Websites, Geräte und offene Plattformen hinweg zu kaufen. Mit nur einem Klick 
+verpflichten sich die Nutzer zum Kauf. Wir aggregieren diese Käufe und fordern zur 
+Bezahlung auf, sobald die 5€-Schwelle überschritten wurde".  
+So heißt es auf Englisch auf der ... Laterpay-Website? Fast. Den Bezahldienst Laterpay gibt 
+es nicht mehr (vgl. zuletzt pvd #11/2021). Aber es gibt einen Dienst der anders heißt, der 
+jedoch strukturell die Geschäftsidee von Laterpay wiederaufleben lassen will. Dieser 
+Dienst heißt Supertab. Supertab.co ist die Website, auf die Laterpays URL heute verweist. 
+Und Supertabs CEO ist der Gründer und CEO von Laterpay, Cosmin Ene. 
+Der möchte auf Anfrage noch nicht über seine 'neue' Unternehmung sprechen. Er wolle 
+zunächst Publishingpartner gewinnen[pvd: und etwas vorzuweisen haben], bevor er an die 
+Öffentlichkeit geht, begründete Ene gegenüber pv digest seinen Wunsch nach erst 
+ 
+ 
+ 
+Bsp5: Laterpay Su-
+pertab 
+ 
+ 
+ 
+Supertab bei Produkt, 
+Gesellschaftsrecht, Ma-
+nagement direkter La-
+terpay- Nachfolger 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint Einzelartikelverkäufe werden kommen. Das ist unsere Überzeugung. Ob 
+als Micropayments oder relative Hochpreisangebote und ob mit oder ohne mengen- 
+oder nutzertypengesteuerte Beschränkungen, ist offen. Dass ein Digitalaboflaggschiff-
+medium wie die Washington Post sich nicht mehr in die Phalanx der 'Niemals'-Sager 
+einreiht, sehen wir dabei als eine deutliche Bestärkung unserer Überzeugung. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 29
+späterer Beantwortung unserer Fragen. Per E-Mail reicht er einen Fahrplan nach: "Wir 
+werden im Q1 ein Produkt starten, das dazu gedacht ist, zusätzliche Einnahmen neben 
+Werbung und Abo zu generieren. Wir starten in den USA und planen in Q2 auch nach 
+Europa damit zu kommen." 
+geplanter US-Launch 
+im Q1  
+geplanter EU-Start im 
+Q2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bei der österreichischen Zeitschrift profil folgt Richard Grasl als Geschäftsführer auf 
+Thomas Kralinger. Letzterer bleibt Geschäftsführer von Kurier und Mediaprint. Grasl 
+bleibt stellvertretender Chefredakteur des Kurier. 
+Die bisher nur ad interim agierenden Katharina Hemmer und Amanda Strub bleiben 
+Geschäftsführerinnen beim Schweizer Digitalamedium Die Republik. 
+Bei der Verlagsgruppe Oberpfalz Medien hat Chefredakteur Kai Gohlke die Leitung des 
+Geschäftsbereiches Lesermarkt übernommen. 
+Sven Volpert ist neuer Geschäftsführer der Kundenservicetochter der RP Mediengruppe 
+Digital Dialog GmbH und der RP Logistik GmbH. Vorgänger Jörg Unruh hat das Unterneh-
+men verlassen. 
+Horizont-Verlagsleiter Peter Gerich hat die dfv Mediengruppe verlassen.  
+Ole Jendis wird am März Verlagsleiter Fachinformationen beim Tagesspiegel. 
+P 
+10 
+17 
+ 
+Personalien 
+QUELLEN:
+PERSONALIEN
+pvd meint Der Wunsch, nicht vorzeitig an die Öffentlichkeit zu gehen, ist in diesem 
+Fall verständlich und klug. Aber wir lassen uns die Gelegenheit zu einem kleinen 'Scoop' 
+nicht entgehen. Digitale Einzelartikelkäufe sind nun einmal unser Steckenpferd. Wir sind 
+überzeugt, dass die digitale Pressebranche dieses Vertriebsmodell benötigt.  
+Das Scheitern von Laterpay hat uns in dieser Überzeugung nie irritiert. Abgesehen da-
+von, dass die Monetarisierung via Laterpay viel erfolgreicher war, als es oft wahrgenom-
+men und vor allem nachträglich in Abrede gestellt wurde: Das Scheitern eines frühen 
+Anbieters darf nicht das letzte Wort zu einem grundlegend innovativen und alternativen 
+Modell sein. Einzelartikelvertriebsdienstleister sprießen derzeit wie Pilze aus dem Bo-
+den. Vor allem Indien und andere asiatische Märkte sind hier sehr fruchtbar.  
+Es kann nicht schaden, wenn westliche Publisher auch westliche Dienstleister zur Aus-
+wahl haben. Nur unter dem Namen Laterpay wäre kein Erfolg mehr möglich, selbst 
+dann, wenn die Zeit für den digitalen Einzelinhaltevertrieb endlich gekommen wäre. Ein 
+Neustart unter neuem Namen ist eine gute Strategie. Ob der Neustart unter neuem Fir-
+mennamen aber mit dem bekannten und vielleicht auch in der Verlagswelt 'verbrannten' 
+CEO gelingen kann, ist eine andere Frage. 
+Immerhin: Laterpay ist auch gescheitert, weil viel zu wenige Verlage bereit waren, sich 
+einem solchen gemeinsam genutzten Bezahlmodell anzuschließen. Der Fall Content-
+pass, den wir im Oktober ausführlich vorgestellt haben, zeigt, dass zumindest an dieser 
+Stelle heute viel mehr möglich ist als noch vor 3-5 Jahren. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 30
+ 
+ 
+ 
+ 
+ 
+Hohe Abopreise für Schweizer Leser – eine Chance für 
+findige Abowerbeunternehmen?! 
+3 
+Pressepreise Schweiz 
+ 
+André Bähler, Leiter Politik und Wirtschaft bei der Schweizer Stiftung Konsumentenschutz, 
+hat vielleicht eine gute Idee für das WBZ-Geschäft. Im Interview mit dem Schweizer Rund-
+funksender SRF erklärt Bähler, warum ein Schweizer Leser nicht das Recht hat, gedruckte 
+Zeitschriften zum gleichen Preis zu beziehen, wie sie in Deutschland an Abonnenten ver-
+sendet werden. Deutsche Presse ist in der Schweiz, gemessen an den Preisen für die 
+gleichen Objekte in Deutschland, beinahe irrwitzig teuer. 
+[Darüber hat pv digest schon häufiger berichtet. Die Diagnose gilt nicht nur für deutsche 
+Presse, sondern für die meisten Nicht-Schweizer Titel, die in der Schweiz verkauft werden.] 
+Laut SRF wollte nun "ein Mann" wissen, ob er sich nicht auf das Verbot des Geoblockings 
+berufen könne. Bähler erklärt im Interview mit dem Sender, dass dieses Verbot nur für 
+digitale Presse gilt, nicht aber für physische Lieferungen. Hier müssten Schweizer Leser 
+höhere Preise akzeptieren [pvd: ob sie so hohe Preise akzeptieren müssen, wie sie derzeit 
+gefordert werden, lässt Bähler offen]. 
+Und dann sagt er zu diesem Thema: "Es gibt keine Lieferpflicht ins Ausland zum gleichen 
+Preis. Denkbar wäre ein Zwischenhändler, wie bei den Paketen. Pakete kann man sich 
+an eine Adresse in Deutschland liefern lassen und dort abholen – oder der Zwischenhänd-
+ler schickt sie selbst weiter. Das wäre prinzipiell auch bei Zeitschriften denkbar. Aber so-
+weit ich weiss, gibt es noch kein solches Angebot." 
+ 
+ 
+Deutsche (und andere) 
+ausländische Presse 
+wird in der Schweiz 
+sehr teuer verkauft 
+ 
+ 
+ 
+ 
+Frage: darf das sein 
+oder ist das verbotenes 
+Geoblocking? 
+ 
+Experte: Geoblocking-
+Verbot gilt nicht für 
+physische Lieferungen 
+ 
+ 
+ 
+ 
+denkbar: Zwischenhan-
+del mit deutscher An-
+lieferadresse 
+ 
+ 
+ 
+ 
+Berichterstattung für Sportwetten-Fans: ein Themen-
+feld für Paid Content-Anbieter?! 
+91 
+redaktionelle Ange-
+bote für Sportwetten 
+ 
+(Sport-)Wetten sind aufgrund der Suchtgefahr, die von ihnen ausgeht, ein schwieriges Ge-
+schäftsfeld. Außer Zweifel steht, dass in diesem Bereich sehr erfolgreiche Geschäfts-
+modelle aufgebaut werden können. 
+Das amerikanische Fachmedium Editor&Publisher widmet der Frage, wie Zeitungsver-
+lage vom Interesse weiter Teile ihres Publikums an diesem Thema und der noch sehr jun-
+gen, weitgehenden Liberalisierung des Wettgeschäfts in den USA profitieren können, in-
+dem sie für Sportwettende relevante und recherchierte Inhalte anbieten, einen aus-
+führlichen Beitrag. Wer sich zu diesem Thema inspirieren lassen möchte, dem empfehlen 
+wir das zur Lektüre [pv-digest.de/linkliste Link4]. 
+ 
+ 
+ 
+ 
+ 
+ 
+Editor&Publisher be-
+richtet über Angebote 
+von US-Zeitungsverla-
+gen 
+ 
+ 
+LESEEMPFEHLUNG 
+Branchennews 
+QUELLEN:
+BRANCHENNEWS & -RECHT
+pvd meint das klingt nach der Chance für ein Arbitrage-Geschäft. WBZ-Unternehmen 
+(oder auch andere agile Vertriebsunternehmen) könnten sich vielleicht erfolgreich als 
+solche 'Zwischenhändler' positionieren. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 31
+l 
+zte_Worte 
+ChatGPT: Warum spricht alle Welt 
+plötzlich über Künstliche Intelligenz? 
+ 
+Sie haben in den letzten Wochen keinen Text 
+gelesen, der von der Hype-Software ChatGPT 
+getextet wurde? Glückwunsch. Dann leben Sie 
+außerhalb der Medienblase. 
+Uns hat ChatGPT mehrfach extrem verblüfft 
+und beeindruckt. Aber Angst haben wir so 
+lange keine davor, so lange die Software einen 
+Text wie den folgenden ausspuckt, nachdem 
+man sie mehrfach aufgefordert hat, lustig zu 
+formulieren: 
+ 
+ 
+ 
+Haben Sie sich auch schon gefragt, warum 
+plötzlich alle Welt von Künstlicher Intelli-
+genz spricht? Keine Sorge,Sie sind nicht al-
+leine. Aber keine Angst, ich bin hier, um 
+Licht ins Dunkel zu bringen. 
+Erstens, KI ist überall! Von Sprachassisten-
+ten wie Siri und Alexa, die uns dabei helfen, 
+unseren Tag zu planen, bis hin zu selbstfah-
+renden Autos, die bald auf unseren Straßen 
+unterwegs sein könnten – KI ist überall. Je 
+mehr sie in unseren Alltag integriert wird, 
+desto mehr reden wir darüber. 
+Zweitens, KI wird immer mächtiger. Früher 
+war sie nur in der Lage, einfache Aufgaben 
+zu erledigen, aber heute kann sie komplexe 
+Probleme lösen und Entscheidungen tref-
+fen, die menschlichem Denken ähnlich sind. 
+ Das macht sie zu einer wichtigen Technolo-
+gie, die das Potenzial hat, unser Leben und 
+Arbeiten grundlegend zu verändern. 
+Drittens, KI ist in den Medien angesagt. Egal, 
+ob es um die Möglichkeiten von KI in der 
+Medizin geht oder um ihre Auswirkungen 
+auf die Arbeitswelt – es gibt immer span-
+nende Geschichten, die die Aufmerksam-
+keit der Öffentlichkeit auf sich ziehen. 
+Also, keine Sorge, Sie sind nicht der Ein-
+zige, der sich wundert, warum plötzlich alle
+Welt von KI spricht. Es ist einfach überall, 
+wird immer mächtiger und ist ein angesag-
+tes Thema in den Medien. Aber keine Angst,
+Sie müssen sich nicht in KI-Technologie ein-
+arbeiten, um in der Gesellschaft mithalten
+zu können. Aber wer weiß, vielleicht werden 
+Sie ja bald von einem selbstfahrenden Auto
+zur Arbeit gefahren! 
+ 
+Nur für den Fall, dass Sie hinter dem Mond le-
+ben oder besseres zu tun haben: Der vorange-
+hende Text wurde von der 'KI'-Software Chat-
+GPT geschrieben, der wir folgenden Auftrag er-
+teilt hatten: 'Schreibe mir eine launige Ko-
+lumne mit 250 Wörtern zum Thema 'Warum
+jetzt alle Welt von Künstlicher Intelligenz
+spricht'. Und nachdem wir eine erste Version
+mit der Aufforderung 'Bitte ein bisschen lusti-
+ger formulieren' abgelehnt hatten. 
+ 
+ 
+ 
+… letzte Worte 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+pv digest ist ein hochspezialisierter Dienst für eine kleine Fach-Community. Die unbezahlte Vervielfältigung ('Weiterleiten') gefährdet unser Geschäfts-
+modell und letztlich das Erscheinen von pv digest. Umgekehrt trägt jedes Abo dazu bei, unseren Dienst zu ermöglichen. Vielen Dank für Ihr Abonne-
+ment. Und dafür, dass Sie diese Ausgabe als Ihre ganz persönliche Ausgabe behandeln. Bitte beachten Sie auch unsere Anzeige auf Seite 6. 
+ 
+AUSGABE 1/2023  ׀SEITE 32
+ 
+ 
+Über pv digest 
+ 
+pv digest ist ein Informationsdienst auf Expertenniveau für das Top-Management 
+rund um das Thema Lesermarkt und Vertrieb journalistischer Produkte. pv digest 
+beruht auf eigenen Recherchen und auf Zusammenfassungen an anderer Stelle ver-
+öffentlichter Informationen und bietet einen einzigartigen Überblick über alle stra-
+tegisch relevanten Vertriebsthemen. pv digest unternimmt in der Regel keine Prü-
+fung wiedergegebener Inhalte und übernimmt keine Garantien für die inhaltliche 
+Korrektheit von Informationen. Genutzte Quellen in pv digest sind in der vorliegen-
+den Ausgabe wie folgt codiert: 
+ 
+ 
+Quellenverzeichnis Ausgabe 1/2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum und 
+Kontaktdaten 
+ 
+HERAUSGEBER: 
+Markus Schöberl (v.i.S.d.P.) 
+Lessingstraße 24 
+22087 Hamburg 
+Telefon: 040 308 901 09 
+e-mail: schoeberl@pv-digest.de 
+www.pv-digest.de 
+ 
+pv digest erscheint 11x jährlich,  
+in der Regel am fünften Werktag 
+eines Monats, als personalisiertes  
+PDF-Dokument 
+ 
+PREISE: 
+Regulärer Bezug Deutschland:  
+pro Ausgabe 78€ zzgl. USt., im 
+Jahresabo 781€ zzgl. Ust. 
+ 
+Sonderpreise für Mengenabos  
+oder Firmenlizenzen auf Anfrage 
+ 
+BESTELLUNGEN UND  
+SERVICEFRAGEN:  
+e-mail: abo@pv-digest.de 
+Telefon: 040 308 901 09 
+Post: Lessingstraße 24,  
+22087 Hamburg 
+ 
+Bankverbindung: 
+Hamburger Sparkasse 
+BIC:  HASPDEHHXXX 
+IBAN: DE82 2005 0550 1237 1348 10 
+ 
+ 
+ 
+COPYRIGHT: 
+pv digest ist ein empfängerge-
+bundener Informationsservice 
+ 
+ 
+Vervielfältigung und elektroni-
+sche Weitergabe sind untersagt 
+ 
+ACHTUNG: der nächste pv digest 
+erscheint am 7. Februar 2023 

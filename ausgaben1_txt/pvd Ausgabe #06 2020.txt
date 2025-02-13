@@ -1,0 +1,3066 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urheber-
+recht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens bieten wir 
+attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+Ausgabe 6/2020 
+Liebe Leserinnen und Leser, 
+seit Jahren werben Verlage weltweit um mehr gesetzliche 
+Regulierung für die Internetriesen. Datenschutz, Leis-
+tungsschutz, Steuergerechtigkeit sind nur einige der The-
+men, die dabei eine Rolle spielen. Nicht immer ist die Po-
+sition der Verlage unangreifbar. Was unangreifbar sein 
+muss, das ist allerdings das geltende Recht. Die 'Steuer-
+gestaltung' von Apple und Google mag eine moralische 
+Frage sein. Dass Apple und Google den Mehrwertsteu-
+ervorteil ignorieren, den Presse und Bücher in vielen 
+Ländern genießen, ist definitiv inakzeptabel. Sie berechnen einen falschen, nämlich 
+den regulären Mehrwertsteuersatz. Es geht dabei 'nur' um überschaubare Millionen-
+summen. Bei kleinen Verlagen um die Portokasse. Darum drängt das Thema kaufmän-
+nisch nicht. Aber aus prinzipiellen Erwägungen heraus meine ich, dass die Verlagsver-
+bände hier sehr viel lauter aufschreien sollten. Mehr dazu ab Seite 25. 
+In der letzten Ausgabe habe ich zahlreiche Erfolgsbeispiele für die Monetarisierung mit 
+freiwilligen Bezahlungen vorgestellt. Ausgerechnet der weltweit bekannteste Muster-
+fall dieser Bezahlstrategie, der Guardian, setzt aber längst sehr stark auch auf nicht-
+freiwilliges Bezahlen. Das habe ich vor einem Jahr schon diagnostiziert. Es bestätigt 
+sich nun (ab S.5). Ebenfalls vor einem Jahr hatte ich ein Projekt vorgestellt, dass aus 
+SMS-Inhalten Bezahlinhalte macht. Der Bericht ab Seite 16 zeigt, dass aus dem Pro-
+jekt ein Unternehmen geworden ist. 
+In der März-Ausgabe hatte pv digest intensiv die Frage beleuchtet, ob es eigentlich 
+stimmt, dass die umsatzstarken Titel den Presse-Einzelhandel auf besondere Weise 
+stützen. Für die April-Ausgabe war vorgesehen, die gleiche Frage für das Pressegrosso 
+zu beantworten. Dann kam Corona. Und der entsprechende Bericht kommt darum 
+erst heute ab Seite 12. 
+Ich wünsche Ihnen weiterhin Gesundheit, eine anregende Lektüre und einen verkaufs-
+starken Monat. 
+ 
+ 
+Markus Schöberl, Herausgeber pv digest 
+Der pv digest 
+Quick Guide 
+ 
+Das Wichtigste in 15 Minuten 
+ 
+ 
+Für Zeitschriften- 
+Verlage 
+Für Zeitungs/ 
+News-Verlage 
+Für digitale  
+Verlagsangebote 
+Für Handels- 
+Verantwortliche 
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.  2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.12 
+Analysen und  
+Daten                 
+ 
+S.22 
+Meinungen 
+ 
+S.23 
+Personalien 
+ 
+S.24 
+Branchennews- 
+& Recht 
+ 
+S.25 
+Vermischtes 
+ 
+S.28 
+letzte Worte 
+S.30 
+Editorial 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 2
+ 
+ 
+ 
+ 
+ 
+½ Jahr nach dem Launch: Erfahrungen mit SZ Plus 
+P 
+6 Monate SZ Plus 
+ 
+Vor einem halben Jahr, am 12. November 2019, zog die Süddeutsche Zeitung den Vorhang 
+beiseite und veröffentlichte Ihr neues, 3-stufiges Digitalabomodell. Zur Erinnerung: Alle 
+drei Angebote arbeiten mit einem Einstiegspreis für die ersten 12 Monate und einem Preis 
+für die Zeit danach. 
+> SZ Plus Basis kostet 9,99€ (später 14,99€) und bietet den Zugang zu allen Inhalten auf 
+der Website [das sind nach unserer Verprobung im Großen und Ganzen alle Artikel, die 
+die Redaktion produziert]. 
+> SZ Plus Wochenende kostet 19,99€ (später 24,99€) und beinhaltet zusätzlich die digi-
+tale Freitags- und Samstagsausgabe, das digitale SZ Magazin und die sonntägliche di-
+gitale Sportausgabe. 
+> SZ Plus Komplett kostet 29,99€ (später 36,99€) und beinhaltet alle Digitalangebote der 
+Süddeutschen, also zusätzlich das E-Paper und die Nutzung der Zeitungs-App an allen 
+Tagen der Woche. 
+Wir haben mit Johannes Hauner, Mitglied der Geschäftslei-
+tung (Markt & Produkt) bei Süddeutsche Zeitung Digitale Me-
+dien GmbH, über die Erfahrungen mit dem originellen, in die-
+ser Dreistufigkeit einmaligen Angebotsmodell gesprochen.  
+Markus Schöberl: Guten Tag Herr Hauner, es ist jetzt Anfang Mai. 
+Sie erleben, wie jedermann, sehr ungewöhnliche Zeiten, die uns 
+auch schon zweimal gezwungen haben, dieses Telefonat zu ver-
+schieben. Trotzdem möchte ich Sie bitten, bei Ihren Antworten 
+möglichst auch immer deutlich zu machen, wo Sie über Erfah-
+rungen bis zum Beginn der Coronakrise sprechen und wo Sie ggf. 
+besondere Corona-Effekte feststellen. Denn völlig unabhängig 
+von Ihrem noch immer jungen Angebotsmodell erlebt ja auch Ihre Zeitung aktuell einen immen-
+sen Nachfrageschub. 
+Johannes Hauner: "Man kann das gut trennen. Wobei ich auch sagen möchte, dass wir 
+gerade in dieser Sonder-Situation sehen, dass uns das neue Modell sehr guttut, und 
+wir sind froh, genau dieses Modell gewählt zu haben, nachdem wir vorher lange und sehr 
+intensiv getestet hatten. Denn unser Angebot ist nun sehr klar strukturiert. Das bestätigen 
+uns Kunden und auch Kollegen in anderen Verlagen. Unsere Kommunikation ist stringent, 
+und dabei steht nicht der Preis im Vordergrund, sondern die Flexibilität, also dass der 
+Kunde auswählen kann, was am besten zu ihm passt." 
+Dass Sie vor dem Launch intensiv getestet hatten, das haben Sie immer betont. Verraten Sie, 
+was Sie dabei getestet haben und vielleicht auch, was sich bei den Tests nicht bewährt hat? 
+ 
+ 
+ 
+3-stufiges Digitalabo-
+angebot seit 11/2019 
+ 
+ 
+• 9,99€(14,99€) für 
+Web only 
+ 
+ 
+ 
+• 19,99€ (24,99€) für 
+Komplettangebot am 
+Wochenende 
+ 
+• 29,99€ (36,99€) für 
+Komplett an allen Ta-
+gen 
+ 
+ 
+ 
+Interview mit Johan-
+nes Hauner, SZ Digi-
+tale Medien 
+ 
+ 
+ 
+ 
+ 
+ 
+bitte möglichst deutlich 
+machen: was sind 
+Corona-Effekte, was 
+sind Modell-Effekte 
+ 
+ 
+ 
+ 
+ 
+'kein Problem; gerade 
+in der Sonder-Situation 
+bewährt sich das Mo-
+dell' 
+ 
+ 
+ 
+ 
+ 
+Was hatten Sie vor 
+dem Launch getestet? 
+ 
+ 
+QUELLEN:
+NACHRICHTEN AUS VERLAGEN
+UND VERLAGSVERTRIEBEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 3
+"Wir haben alles getestet, Angebote, Preise, Formulierungen, Landingpages, den Zu-
+schnitt der Angebote. Also: was genau bekommt der Abonnent im jeweiligen Package wirk-
+lich? Wir haben dabei gelernt, was die Abonnenten wollen, was sie sofort verstehen und 
+was nicht funktioniert. Der Einzelartikelverkauf zum Beispiel funktioniert nicht." 
+Neben der Dreistufigkeit ist der 'Zuschnitt' im deutschen überregionalen Markt tatsächlich sehr 
+ungewöhnlich. Denn für 10€ bekommt man, das sagen Sie nicht laut, aber das ist das Ergebnis 
+meiner Verprobung, Zugang zu allen Artikeln der SZ. 
+"Das sagen wir nicht, weil es erstens nicht immer stimmt. Und vor allem zweitens nicht, 
+weil wir unser Angebot gerade nicht über die Menge dessen, was der Abonnent lesen 
+kann, definieren, sondern über die Form, in der es angeboten wird. Es sind unterschied-
+liche Produktvarianten, die wir auf die drei Abo-Angebote aufgeteilt haben." 
+Ein Abo für die Plus-Inhalte im Web und ein Abo inklusive der täglichen Zeitungsausgaben, 
+soweit so üblich. Und dann noch ein Abo für das Web unter Woche aber inklusive der digitalen 
+Zeitungausgaben am Wochenende. Wie werden diese 3 Pakete angenommen? 
+"Tatsächlich entscheiden sich die wenigsten Kunden für das Wochenend-Angebot, das 
+sind etwas mehr als 10% der Neubestellungen. Trotzdem ist dieses Angebot im Sorti-
+ment unverzichtbar, und wir sehen hier für die Zukunft sowohl Upsell-Chancen bei den 
+Basis-Abonnenten wie auch eine Fallback-Option im Rahmen der Kündigerbehandlung 
+beim Komplett-Paket. Beim Komplett-Paket haben wir immer noch mindestens so viele 
+Neubestellungen wie vor Einführung des 'Basis'-Angebotes. Das haben wir nach den Tests 
+so erwartet, und das war für uns auch eine Bedingung für die Einführung von 'SZ Plus 
+Basis'. Insgesamt haben wir derzeit 130.000 bezahlende Abonnenten, von denen unge-
+fähr 80.000 für das Komplett-Paket bezahlen und der Rest für 'SZ Plus Basis' und 'SZ Plus 
+Wochenende'. Dazu kommen noch einmal rund 20.000 Leser in der Probephase, da haben 
+wir in den Corona-Wochen, wie andere auch, einen starken Schub." 
+Haben Sie schon Erkenntnisse zur Wandlung der Abos aus dieser Zeit? 
+"Diese Probeabos wandeln mindestens genauso gut in bezahlte Abos wie die Probe-
+abos vor Corona. Zur langfristigen Haltbarkeit kann ich noch nichts sagen". 
+Was wissen Sie über die neu gewonnenen Plus-Abonnenten? Sind das Menschen, die zum ers-
+ten Mal ein Abo bei Ihnen abschließen, oder waren das oft auch schon früher einmal Zeitungs- 
+oder Digitalabonnenten? Und wie stellt sich die Alters- und auch die Geschlechterverteilung 
+bei den Plus-Abonnenten im Unterschied zu den SZ Plus Komplett-Abonnenten oder gar den 
+Printabonnenten dar? 
+"Wir erreichen mit dem Basis-Paket – und so ist das Angebot auch zugeschnitten – vor 
+allem Neukunden, die uns bisher zwar online genutzt haben, aber kein Abo abgeschlos-
+sen haben. Die neuen Abonnenten sind etwas jünger, weiblicher und regionaler als die 
+bisherigen Digital-Abonnenten." 
+Ich denke mir, dass Sie bei der Einführung auch Sorgen hatten wegen einer möglichen Kan-
+nibalisierung, also dass 'Komplett'-Kunden auf das günstige 'Basis'-Abo wechseln; besonders, 
+wenn sie einmal bemerken, dass sie damit im Großen und Ganzen die gleichen Inhalte im Zugriff 
+haben. 
+'alles; Angebote, Preise, 
+Kommunikation…' 
+ 
+ 
+ 
+ 
+für 10€ erhält man 
+nun Zugang zu allen 
+SZ-Inhalten 
+ 
+ 
+'nicht garantiert; da-
+rum geht es auch 
+nicht. Es geht um Pro-
+dukte, nicht Mengen' 
+ 
+ 
+wie werden die 3 Pro-
+dukte angenommen? 
+ 
+ 
+ 
+'nur 10% nehmen das 
+Wochenendangebot 
+ 
+ 
+rund 50.000 insgesamt 
+für die beiden Basis-
+Pakete 
+ 
+ 
+80.000 Komplett-Kun-
+den; genauso viele Zu-
+gänge wie vor dem Ba-
+sis-Launch' 
+ 
+ 
+Umwandlung der 
+Corona-proben? 
+ 
+'wie vor Corona' 
+ 
+ 
+Wer abonniert SZ Plus 
+Basis? 
+ 
+ 
+ 
+ 
+'vor allem Webnutzer, 
+die vorher kein Abo 
+hatten. Jüngere, mehr 
+Frauen, regionaler' 
+ 
+ 
+ 
+ 
+Sorgen wegen mögli-
+cher 'Downgrades'? 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 4
+"Nein, hatten wir nicht. Das war eines der wichtigsten Test-Themen vor der Einführung. 
+Wir sehen kaum Downgrades. Auch das zeigt, dass das Portfolio, so wie es ist, gelungen 
+ist. Und dass die Abgrenzung nach Produktvarianten funktioniert. Die Komplett-Kunden 
+wollen auch die Zeitungsausgabe nutzen, und zwar besonders die App-Ausgabe. Es geht 
+nicht darum, die Angebote über den inhaltlichen Umfang abzugrenzen, sondern darum 
+deutlich zu machen, dass es um unterschiedliche Produktvarianten geht." 
+Sehen Sie nach sechs Monaten auch Punkte, wo Sie nachbessern wollen, wo sie andere Ideen 
+umsetzen wollen? 
+"Ideen haben wir immer. Aber unser Angebot hat sich bisher bestens bewährt. Wir haben 
+darum auch in der Corona-Phase keinerlei Sonderaktionen gemacht, keine Extrara-
+batte wie einige Wettbewerber." 
+Zum Schluss möchte ich noch auf ein Thema kommen, von dem Sie oben schon gesagt haben, 
+dass es nicht funktioniert: der Einzelartikelverkauf. Ich unterschreibe, dass man darauf sein 
+Geschäftsmodell nicht allein gründen kann. Aber ist es nicht so, dass ganz viele sporadische 
+Nutzer, die durch Social Media oder durch die Websuche nur einmal, spontan auf Ihre Website 
+kommen, ausgesperrt werden? Und das passiert Nutzern nicht nur bei der Süddeutschen, son-
+dern immer häufiger auch anderswo. Ich habe das mal eine toxische Umwelt genannt, die durch 
+die Paywalls entsteht, weil die Nutzer immer häufiger vor einer Paywall stehen, an der man nur 
+mit einem Abo vorbeikommt. Aber man kann doch nicht jedes Medium abonnieren, bei dem 
+man einmal zufällig auf einen spannenden Artikel stößt! 
+"Wenn man strategisch denkt, wenn man ein so flexibles Angebot hat wie wir, dann passt 
+dazu kein Einzelartikelverkauf. Das kann nur mit einem Abomodell funktionieren. Das se-
+hen Sie bei anderen Plattformen auch. Netflix oder Spotify verkaufen auch keine Filme 
+oder Musikstücke einzeln. In Deutschland hatten wir im überregionalen Bereich außerdem 
+immer schon eine Wettbewerbssituation, ein pluralistisches Angebot mehrerer Bezahl-
+medien, ganz anders als beispielsweise in Amerika. Und für die Inhalte in der Zeitung gibt 
+es immer noch die Möglichkeit, ein E-Paper einzeln zu kaufen oder einen Wochenpass in 
+der App. Wir wollen mit unseren Digitalabos unser journalistisches Produkt finanzieren 
+können, in der Qualität, die wir haben. Das geht nur mit einem Abomodell." 
+Kurz vor Redaktionsschluss haben wir entdeckt, dass die Süddeutsche für Ihr SZ Plus-
+Angebot eine Zahl (Monatswert April) an die IVW gemeldet hat, die diesen Wert in der 
+'Ausweisung Paid Content' veröffentlicht. Diese Statistik wurde vor genau sechs Jahren 
+zum ersten Mal veröffentlicht. Aber bisher nennen dort nur Bild, Welt und Kieler Nachrich-
+ten die Mengen ihrer Paid Content-Nutzer. Eine auf den letzten Drücker nachgereichte 
+Frage, was die SZ motiviert, diese totgeglaubte Statistik zu nutzen, wollte Johannes 
+Hauner vor Redaktionsschluss nicht mehr beantworten. 
+ 
+'Nein, das hatten wir 
+getestet. Kunden wäh-
+len ihr bevorzugtes 
+Produkt' 
+ 
+ 
+ 
+ 
+ 
+Änderungsbedarf? 
+ 
+ 
+'Nein' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Warum kein Einzelarti-
+kelverkauf? Man kann 
+nicht alles abonnieren! 
+ 
+ 
+ 
+ 
+ 
+ 
+'auch Netflix und Spo-
+tify verkaufen nur Abos 
+ 
+ 
+Viele Artikel können 
+per Einzelkauf der Zei-
+tung erworben werden 
+ 
+ 
+Qualitätsprodukt lässt 
+sich nur mit Abo finan-
+zieren' 
+ 
+ 
+ 
+ 
+SZ meldet die Menge 
+der SZ Plus-Abonnen-
+ten an die IVW Paid 
+Content-Statistik 
+ 
+Das nutzungsabhängige B2B-Preismodell der FT 
+94 
+Pricing B2B-Abos 
+ 
+Die Financial Times berechnet mehreren Lesern in einem Unternehmen nicht nur beson-
+dere Abopreise. Sondern sie gestaltet diese Preise auch ungewöhnlich, nämlich in Abhän-
+gigkeit von der individuellen Nutzungsintensität. Digitalchef Tom Betts bezeichnet sein 
+B2B-Preismodell als "Engagement-based". 
+ 
+ 
+Financial Times be-
+preist Firmenabos 
+nach Nutzungsintensi-
+tät 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 5
+Alle Mitarbeiter von Unternehmen, die ein Firmenabo für die digitalen Angebote der FT 
+abgeschlossen haben, haben Zugriff auf alle Inhalte, die ansonsten hinter einer harten 
+Paywall stehen. Dazu müssen sich nur für die Nutzung registrieren. Die Nutzung von 
+bis zu acht Beiträgen pro Monat ist dann gratis. Für alle Mitarbeiter, die neun oder 
+mehr FT-Artikel in einem Monat lesen, bezahlen die Unternehmen.  
+Beim Abschluss eines Vertrages über ein Firmenabo wird zunächst eine geschätzte An-
+zahl solcher Intensivleser unterstellt. Je mehr davon für ein Unternehmen arbeiten, desto 
+stärker sinkt der Preis je Intensivnutzer. Bei acht Intensivnutzern bezahlen Unterneh-
+men zum Beispiel 392£ jährlich für jeden dieser Nutzer. Sind es 128 solcher Intensivnutzer, 
+dann sinkt der Preis je Einzelnutzer auf 319£. [pvd: für ein digitales Basispaket bezahlen 
+Einzelabonnenten 396£ pro Jahr. Wenn sie alle digitalen Inhalte und auch das E-Paper nut-
+zen wollen, dann sind es 618£.] 
+Die Financial Times misst dann die tatsächliche Nutzung aller registrierten Leser bei 
+einer Firma. Einmal pro Jahr wird Bilanz gezogen. Übersteigt dabei die Anzahl der Inten-
+sivnutzer die im Rahmenvertrag vereinbarte Menge, dann bietet die FT ihrem Firmenkun-
+den einen neuen Gesamtpreis an.  
+Von den Firmen beauftragte 'Administratoren' haben jederzeit Einsicht in die Nutzungs-
+messungen der FT und können sich damit selbst ein Bild der Nutzung bei ihren Mitar-
+beitern und entsprechend zu den entstehenden Kosten machen. Sie können die Nut-
+zung für einzelne Mitarbeiter beschränken, Mitarbeitern bestimmte Themenfelder zuwei-
+sen oder Warnmeldungen bei Erreichen bestimmter Nutzungsmengen definieren. 
+Mit diesem Modell sei es möglich, Firmenabos fair zu bepreisen, meint Betts. Von der 
+zunächst unlimitierten Nutzungsmöglichkeit vor der jährlichen Neuverhandlung der Abo-
+preise profitiere auch die FT. Mit Hilfe der nachvollziehbaren Nutzungsintensität hat die 
+Zeitungen eine gute Verhandlungsbasis für Preissteigerungen. 
+Zwei Drittel der mittlerweile über 1Mio Financial Times-Abonnements sind solche B2B-
+Abos von Intensivnutzern. 
+ 
+ 
+bis 8 Artikel/Mo-
+nat/Nutzer gratis 
+ 
+ab 9 Artikel Bezahl-Abo 
+ 
+ 
+ 
+je mehr Intensivnutzer 
+(=Nutzer, für die be-
+zahlt wird) desto nied-
+rigerer Preis/Nutzer 
+ 
+ 
+ 
+ 
+ 
+ 
+Überprüfung des Rah-
+menvertrages 1xp.a. 
+ 
+ 
+ 
+ 
+'Administratoren' in 
+den Firmen haben Zu-
+gang zu den Nutzungs-
+daten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2/3 FT-Abos sind Men-
+genabos 
+ 
+ 
+Beim 
+'freiwillig-Bezahlen'-Flaggschiff 
+The 
+Guardian 
+wachsen besonders die normalen Abos 
+P 
+The Guardian 
+ 
+Der Guardian berichtet mit Stand Ende März [überwiegend noch unbeeinflusst vom 
+Corona-Boom] von 821.000 regelmäßig bezahlenden Lesern. Gegenüber dem gleichen 
+Stichtag im Vorjahr ist das ein Plus von 19%. Darunter sind 446.000 "recurring contribu-
+tors, patrons and members", also Personen, die in den vergangenen Jahren unter einem 
+der verschiedenen verwendeten Label für das freiwillige Bezahlen gewonnen wurden. Im 
+März 2019 waren das noch 371.000. Dieser Wert ist also um 20% gewachsen. 
+In der Vorjahresausgabe hatten wir ebenfalls über den Jahresbericht des englischen 
+Verlages berichtet und die zugehörige Vertriebsstrategie analysiert. Dabei kamen wir zu 
+dem Schluss, dass die Zeitung zwar weiterhin die Freiwilligkeit ihres Supporter-Modells auf 
+das Schild hebt. Dass sie aber erstens wesentlich hartnäckiger zu freiwilligen Bezah-
+lungen aufruft als in den ersten Jahren des zunächst als 'Mitgliedschaft' vermarkteten 
+Monetarisierungsmodells. 
+ 
+ 
+ 
++19% regelmäßig be-
+zahlende Leser beim 
+'Alles auch gratis'-
+Flaggschiff 
+ 
+ 
+ 
+ 
+aber: spätestens seit 
+letztem Jahr wird for-
+ciert um Bezahler ge-
+worben 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 6
+Zweitens kamen wir in der Vorjahresausgabe zu dem Schluss, dass sich der Guardian 
+zukünftiges Wachstum wohl vermehrt im Bereich nicht freiwilliger Bezahlangebote 
+verspricht. Denn auch die gibt es bei dieser Zeitung. Nicht nur die weiterhin verkauften 
+Printexemplare (deren Abo-Auflage im letzten Geschäftsjahr überraschend nicht sank, 
+sondern sogar um 3% auf 111.000 angestiegen ist). Sondern auch bezahlpflichtige digitale 
+Angebote. Das ist beim Guardian zum einen die App für Smartphones. Die ist zwar auch 
+gratis nutzbar. Aber Bezahler profitieren von Werbefreiheit, der Möglichkeit zum Offline-
+Lesen und von zwei jeweils auf eigene Art besonders zusammengestellten Artikelübersich-
+ten, die das Entdecken von Inhalten und das Lesevergnügen verbessern sollen. Außerdem 
+gibt es für bezahlende Abonnenten auch eine tägliche digitale Ausgabe, also ein abge-
+schlossenes Zeitungsangebot statt einer grenzenlosen Artikelauswahl. Die zugehörige Gu-
+ardian Daily App wurde im letzten Oktober gelauncht und habe "besonders" zum Wachs-
+tum der Digitalabos beigetragen, wie der Verlag meldet. 
+Für diese digitalen Bezahlangebote meldet der Guardian 265.000 Abos mit Stand März 
+2020. Im Vorjahr waren das noch 191.000. Die Zahl der Digitalabonnenten ist damit um 
+39% gewachsen; doppelt so schnell wie die Anzahl freiwilliger Unterstützer. 
+Gar nicht gewachsen ist die Anzahl der Unterstützer, die freiwillig ein- oder mehrmals 
+(aber eben nicht regelmäßig) bezahlt haben. Das waren in den 12 Monaten bis zum März 
+2020 342.000, zwölf Monate vorher 341.000. 
+ 
+ 
+ 
+insbesondere auch mit 
+Angeboten, für die be-
+zahlt werden muss  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anzahl nicht-freiwilli-
+ger Bezahler wächst 
+um +39% => doppelt 
+so schnell 
+ 
+ 
+ 
+Format Live-Journalismus wird erwachsen  
+P 
+B54 
+Live-Journalismus 
+ 
+In den vergangenen Jahren haben wir gelegentlich über das Phänomen Live-Journalismus 
+berichtet, zuletzt ausführlich in der Vorjahresausgabe. Darunter verstehen wir Bühnen-
+Shows, die mit allen denkbaren Elementen der Vor-Ort-Unterhaltung – zum Beispiel 
+schauspielerische Darstellung, Musik, Tanz, Film – journalistische, das heißt faktenba-
+sierte Inhalte, präsentieren. Die erfolgreichsten dieser 'Publisher' bespielen ausver-
+kaufte Theatersäle mit vierstelligen Besucherzahlen. In Europa besonders erfolgreich sind 
+das dänische Zetland und das französische Live Magazine. Der Pionier und das mit Ab-
+stand größte Unternehmen dieses bei uns immer noch wenig bekannten Zweiges des 
+ 
+ 
+ 
+ 
+Live-Journalismus = 
+journalistische Inhalte 
+via Schauspiel etc. auf 
+Bühnen darstellen 
+ 
+ 
+ 
+ 
+ 
+pvd meint unsere Diagnose war zutreffend. 'Freiwillig Bezahlen' ist ein faszinieren-
+des Modell (vgl. auch unsere ausführliche Berichterstattung zu diesem Thema in der 
+Mai-Ausgabe). 'Bezahlen, um dafür etwas zu bekommen', funktioniert aber in der Breite 
+wohl besser. In den USA ist das dort sehr bekannte Politik- und Kulturmedium Slate im 
+letzten Monat ein gutes Stück von der Idee der Freiwilligkeit zurückgetreten. Slate hat 
+seit Jahren ein Mitgliedschaftsmodell mit nur wenigen handfesten Exklusiv-Vorteilen für 
+die Bezahler. Seit Mai hat es auch eine Metered Paywall. 
+Sehr weit in die andere Richtung hat sich dagegen die zukünftige Taz-Geschäftsführerin 
+Aline Lüllmann aus dem Fenster gelehnt. Der Kopf hinter dem freiwilligen Bezahlmodell 
+'taz zahl ich' – rund 18 Monate älter als das Mitgliedschaftsmodell des Guardian – hat im 
+Interview mit der Deutschen Presseagentur angekündigt, dass die alternative Tageszei-
+tung niemals eine Paywall haben werde. "Das schließen wir aus. Das widerspricht der 
+Grundhaltung der taz." 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 7
+Publikumsjournalismus ist das amerikanische Pop-Up-Magazine. Seit Ende 2018 ist die Ex-
+Frau von Amazon-Gründer Jeff Bezos, Laurene Powell, die sich bei mehreren amerikani-
+schen Qualitätsmedien eingekauft hat, Eignerin auch dieses Unternehmens.  
+Sollte es noch Zweifel daran geben, dass dieser Publikationsform der Schritt vom Expe-
+riment zur Etablierung gelingen kann, dann werden die vielleicht durch die jüngste Nach-
+richt zum Pop-Up-Magazin zerstreut. Dessen Mitarbeiter haben sich gewerkschaftlich 
+organisiert. In einer Mitteilung heißt es: "Wir, die Mitarbeiter von Pop-Up Magazine Pro-
+ductions, sind stolz auf die tief recherchierten, wunderschön designten Geschichten, die 
+Pop-Up und California Sunday [pvd: ein vom Unternehmen veröffentlichtes zweimonatli-
+ches Printprodukt] produzieren und auf unsere Rolle dabei, diese Geschichten zu unserem 
+Publikum und unseren Lesern zu bringen. Um unsere Rechte als Mitarbeiter zu schützen 
+und um die Stimme von Pop-Up Magazine Productions für die Zukunft zu sichern, haben 
+wir entschieden, uns der NewsGuild[-Gewerkschaft] anzuschließen." Im Anschluss erklä-
+ren die Mitarbeiter, dass die Vorbereitung dieses Schritts schon seit mehr als einem Jahr 
+andauere, dass aber die mit der Corona-Krise verbundenen Unsicherheiten umso deutli-
+cher gemacht hätten, wie wichtig eine solche kollektive Interessenvertretung sei. 
+Die Corona-bedingten Einschränkungen sind für Live-Journalismus besonders gra-
+vierend. Das französische Live Magazine musste 16 Shows canceln. Zoom sei keine alter-
+native Lösung, sagt Gründerin Florence Kessler. Aber man arbeite mit Hochdruck an For-
+maten mit mehr "'Massenmedien'-Charakter, Radio, Fernsehen und Plattformen, bei de-
+nen wir auf die erzählerische Expertise und das Talent der Autoren, Journalisten und Kre-
+ativen aufsetzen können, mit denen wir zusammenarbeiten." 
+Auch hier ist das Pop-Up-Magazine seinen Nachahmern voraus. Wegen der Corona-Krise 
+gibt es gleich zwei Grundprinzipien auf. Bisher galt: die Shows, die in großen Theatersälen 
+der USA bis zu vierstellige Besucherzahlen hatten, sind ausschließlich live zu erleben. Es 
+gibt keine Videoaufzeichnungen (jedenfalls keine, die den Weg ins Internet finden). Das 
+muss nun heißen: es gab keine Bewegtbilder von Shows des Pop-Up-Magazins im Internet. 
+Seit Ende Mai gibt es bei Youtube das Video 'The Spring Issue: At Home' [pv-di-
+gest.de/linkliste Link1]. Das von Google finanzierte 50 Minuten-Video präsentiert – wie die 
+Live Shows auch – mehrere Stücke zu unterschiedlichen Themen und nutzt viele verschie-
+dene Darstellungsformen, Video, Graphiken, Ton und Musik. Um ein kohärentes Gesamt-
+produkt zu erzeugen, wurde das Video auch nicht live aufgezeichnet, sondern nachträglich 
+editiert. Live-Journalismus ist das also auch nicht mehr – eher 'Theaterbühnen-Journalis-
+mus' bzw. in diesem Fall eine 'Zeitschrift als Video'. 
+[n.b.: im letzten Jahr hatte Pop-Up für die 'Spring-Tour' 15.000 Tickets verkauft. Bei einem 
+geschätzten Durchschnittspreis von 50$ wären das 750.000$ Vertriebsumsatz. Etwa das 
+1,5fache sollen als Sponsoring-Einnahmen hinzukommen.] 
+ 
+ 
+ 
+ 
+ 
+ 
+Zeichen für Etablie-
+rung: 
+ 
+ 
+ 
+Beim Pionier Pop-Up 
+Magazine organisieren 
+sich die Mitarbeiter 
+nun gewerkschaftlich 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lockdown trifft Live-
+Journalismus hart 
+ 
+ 
+Live-Magazine plant 
+Formate mit 'Massen-
+medien-Charakter' 
+ 
+ 
+Pop-Up Magazine ver-
+öffentlicht erstmals 
+eine Videoaufzeich-
+nung 
+ 
+LINKTIPP 
+ 
+ 
+ 
+ 
+ 
+ 
+Norwegen: Amedia mit Flatrate für alle seine 75 Titel 
+74 
+Lokalzeitungsflatrate 
+ 
+Mit "+ Alle" bieten die 75 Lokaltitel des norwegischen Zeitungskonzerns Amedia eine lan-
+desweite Flatrate an. Das '+Alle'-Digitalabo kostet monatlich 249 norwegische Kronen 
+(rund 23€). Weil die einzelnen Lokalzeitungen zu unterschiedlichen Preisen verkauft wer-
+den, bedeutet das einen unterschiedlich hohen Aufpreis auf den Abopreis der bereits 
+ 
+ 
+norwegischer Zeitungs-
+konzern Amedia mit '+ 
+Alle'-Angebot 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 8
+abonnierten Zeitung. Für Abonnenten der teuersten bisherigen Digitalabos ist '+Alle' nur 
+20 Kronen, also nicht einmal 2€, teurer als das Digitalabo ihrer Zeitung allein. 
+Amedia hatte im März die Paywalls für die Abonnenten seiner Titel kostenlos durchlässig 
+gemacht. Seitdem konnten sich die rund 630.000 Abonnenten der 75 Titel nicht nur über 
+die Corona-Krise in ihrer Heimatregion informieren, sondern auch über die lokalen The-
+men in praktisch allen anderen Regionen Norwegens, in denen Amedia-Titel erscheinen. 
+Dieses Gratisangebot ist nun also zu einer Bezahlflatrate umgestaltet. 
+für einen kleinen Abo-
+Aufpreis Zugang zu al-
+len Paywallinhalten 
+des Konzerns 
+ 
+ 
+bisher 75 Titel mit 
+630.000 Abonnenten 
+ 
+Steingarts Startup The Pioneer hat noch viel Luft zur 
+selbst aufgelegten Messlatte 
+P 
+The Pioneer ist ge-
+startet 
+ 
+Zunächst noch mit dem 'Ich bin nur vorläufig'-Hinweis "beta" ist die Website thepioneer.de 
+gestartet, auf der Gabor Steingarts Journalismus-Startup seine digitalen Angebote ("Analy-
+sen, Grafiken, Videos und Fotos") unter einem Label zusammenfasst und dabei endlich 
+den Schleier vor seinem Bezahlmodell lüftet. 
+Bezahlt werden soll (bisher) vor allem für Newsletter, 'Briefings'. Flaggschiff ist dabei 
+der tägliche Politik-Newsletter 'Hauptstadt – Das Briefing'. Ebenfalls Bezahlern vorbehalten 
+ist das seltener erscheinende 'Tech Briefing'. Weitere Nischen-Newsletter sollen dazukom-
+men. Als Gratisangebot bestehen bleibt die Keimzelle des Unternehmens, das Morning 
+Briefing. Mehrere Podcasts sind bisher für jedermann kostenlos nutzbar. Ungewöhnlich 
+ist ein weiteres Goodie für Bezahler: die dürfen alle Infografiken von The Pioneer "her-
+unterladen und unter Nennung der Quelle für Ihre Präsentationen nutzen." 
+Wer auf alle Inhalte von The Pioneer zugreifen möchte, der soll 25€ pro Monat bezahlen. 
+Er kann aber auch 50€/Monat bezahlen, wenn er freiwillig "einen essentiellen Beitrag für 
+den stetigen Ausbau unserer Crew und den Aufbau neuer journalistischer Projekte" leisten 
+möchte oder 833€ (!) (pro Monat!) um "unserer Mission richtig Schubkraft zu verleihen". 
+Für die resultierenden knapp 10.000€ pro Jahr werden "exklusive Vorteile" versprochen, 
+die man aber individuell per E-Mail erfragen muss. Das Manager Magazin berichtet, dass 
+potenziellen Großgeldgebern noch teurere Angebote gemacht werden – bis hinauf zu 
+100.000€ für einen lebenslangen Pioneer-Status, die Teilnahme an allen Veranstaltungen, 
+die Möglichkeit das Redaktionsschiff privat zu chartern u.a.m. 
+"Für Nachwuchs-Pioneers, beispielsweise Studentinnen und Studenten", gibt es auch ein 
+10€/Monat-Angebot. Dieser Status wird nicht weiter überprüft. Wer sein Ego mit dem 
+'Nachwuchs'-Label versöhnen kann, der bekommt die Bezahl-Inhalte ohne Vorlage eines 
+Studentenausweises für weniger als die Hälfte des regulären Preises. Kündigen muss 
+man sein Abo gegebenenfalls ganz konventionell. Mit 7 Tagen Vorlauf und ohne zeitge-
+mäße 1-Klick-Technik. 
+In einem kurzen Auftritt beim #BeBeta-Digitalkongress des BDZV, der im letzten Monat 
+als Online-Veranstaltung stattfand, hat Chefredakteur Michael Bröcker aufgezählt, was 
+das Angebot von The Pioneer besonders machen soll: 
+> Es erscheint digital only – es werde auch keine monatlichen oder quartalsweise erschei-
+nenden gedruckten Begleitprodukte geben. 
+> Es ist werbefrei. 
+ 
+ 
+Gabor Steingart bün-
+delt seine Inhalte unter 
+thepioneer.de 
+ 
+ 
+ 
+hinter der Paywall ste-
+hen Newsletter 
+ 
+ 
+ 
+Bezahler dürfen Info-
+grafiken nutzen 
+ 
+ 
+als Preis werden 25€ 
+pro Monat empfohlen 
+ 
+50€ oder 833€ pro Mo-
+nat können auch ge-
+wählt werden 
+ 
+ 
+noch viel teurere Pa-
+kete werden angebo-
+ten 
+ 
+ 
+10€ pro Monat sind 
+auch möglich 
+ 
+ 
+Kündigungsmodalitä-
+ten sind nicht ganz so 
+modern 
+ 
+ 
+ 
+USPs (laut Chefredak-
+teur Bröcker) 
+ 
+• digital only 
+ 
+• werbefrei 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 9
+> Man will sich aus der Journalismus-Blase herausarbeiten und Themen anders angehen, 
+als 'die anderen Medien'. 
+> Das soll auch dadurch gelingen, dass man mit den Lesern auf Augenhöhe kommuniziert 
+und die Expertise der eigenen Community in die Berichterstattung einfließen lässt. 
+> "Fewer but better stories." 
+• 'anders als andere' 
+ 
+ 
+ 
+• Leser-Community 
+ 
+ 
+• weniger aber besser 
+ 
+ 
+3 Fragen am Ende des Bestellprozesses steigern Engage-
+ment und Haltbarkeit von Nikkei.com-Abonnenten 
+94 
+Kundenbindung 
+ 
+Yosuke Suzuki, General Mana-
+ger Digital Business Develop-
+ment für Nikkei Amerika, berich-
+tet über eine simple aber ef-
+fektive Kundenbindungsmaß-
+nahme der japanischen Wirt-
+schaftszeitung bzw. ihres digita-
+len Ablegers Nikkei.com. Dieses 
+Digitalangebot ging vor 10 Jah-
+ren online und verzeichnet seit-
+dem steigende Abonnentenzah-
+len; zuletzt sogar stärker wach-
+sende Abonnentenzahlen, wie die Grafik zeigt.  
+Ein Grund für den Wachstumserfolg des mit 40$ pro Monat nicht gerade günstigen Digi-
+talzeitungsangebotes sei die mit monatlich nur 1,5% Abgängen sehr niedrige 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nikkei.com: (zuletzt be-
+schleunigt) steigender 
+Abobestand 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40$/Monat 
+ 
+pvd meint: Klingt gut. Hat man aber alles schon mal gehört und versprochen bekom-
+men. Wirklich besonders ist hier nur, dass bei The Pioneer eines der ganz großen Egos 
+der etablierten Medienszene den Zampano gibt. Und selbst hier sagen Schweizer Leser 
+zurecht: 'Wir kennen das schon' (von Die Republik). 
+Unsere Sympathie für sein anfangs wie ein Selfpublishing-Startup erscheinendes Medi-
+enunternehmen hat Steingart verspielt. Was er in seinem Newsletter an Selbstüber-
+schätzung bekundet, und was er an Axel-Springer- (und evtl. auch eigenen) Millionen für 
+dieses Projekt verpulvert hat, das steht in keinem Verhältnis zu dem, was thepioneer.de 
+bisher tatsächlich bietet. Das ist zwar trotzdem das spannendste deutsche Medienstar-
+tup seit der Financial Times Deutschland. Es ist aber auch sehr vom gleichen Schicksal 
+(viel mehr Kosten als Erlöse) bedroht. 
+Das Preismodell changiert zwischen 'Soviel-Du-kannst-aber-mindestens-10€' und 'Sta-
+tussymbol-Niveau'. Die Welt der Journalismusfinanzierung neu erfunden hat Steingart 
+trotz vieler vollmundiger Ankündigungen damit nicht. Ganz offensichtlich versucht er 
+eine 'Community' zu kreieren, die sich emotional mit der behaupteten einzigartigen Un-
+abhängigkeit einfangen lässt. Das dürfte auf die Dauer schwer werden. Seine 
+Selbstüberhöhung wird früher oder später zur Ernüchterung führen, wenn die Pioneers 
+merken, dass auch bei The Pioneer nur mit Wasser gekocht wird. Und die Rolle des Quer-
+denkers hat mehr als nur Berührungspunkte mit der des Querulanten.  
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 10
+Kündigungsquote. Dennoch sah der Verlag an dieser Stelle einen effektiven Hebel zur Op-
+timierung des Abogeschäfts. Darum testete er im vergangenen Jahr einen Fragebogenpro-
+zess, der dabei helfen sollte, die Nutzungsintensität neuer Abonnenten zu steigern.  
+Am Ende des Abobestellprozesses bittet NikkeI: "Bitte beantworten Sie die folgenden drei 
+Fragen". Schon diese Formulierung ist Ergebnis von Tests und auf eine höchstmögliche 
+Teilnahmequote hin optimiert. Diese Formulierung führe zu mehr Beantwortungen als 
+"Danke für die Registrierung" oder Formulierungen, die nicht darauf hinweisen, dass es 
+sich um eine sehr kurze – nur 3 Fragen beinhaltende – Befragung handelt. 85% der neuen 
+Abonnenten beantworten die drei Fragen.  
+Die Antworten auf diese Fragen nutzt Nikkei, um dem Nutzer individuell eines von 
+sechs Nutzungsmustern vorzuschlagen. Das kann die Nutzung des E-Papers sein oder 
+aber der mobilen Apps, eine Empfehlung zum Umgang mit der Früh- und der Spätausgabe 
+oder ein Link zu einer App. 
+Nachdem Tests im vergangenen Jahr ergeben hatten, dass Neukunden, die den Befra-
+gungsprozess durchlaufen, eine bessere Haltbarkeit haben als eine Kontrollgruppe 
+ohne Befragung, wurde die Maßnahme in den Standard-Onboarding-Prozess im Web und 
+in den Apps aufgenommen. Mittelfristig will Nikkei testen, ob die Antworten auf die Fragen 
+auch geeignet sind, um Cross-Selling-Potenziale zu identifizieren. Wer beispielsweise in der 
+ersten Frage angibt, an Investment-Themen interessiert zu sein, der könnte sich auch für 
+das spezialisierte Aboangebot Nikkei Veritas interessieren. 
+monatliche 
+Churnquote: 1,5% 
+ 
+ 
+ 
+neu: am Ende jeder 
+Abobestellung 3 Fra-
+gen 
+ 
+ 
+85% antworten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die Antworten nutzt 
+Nikkei, um individuelle 
+Nutzungsmuster vorzu-
+schlagen 
+ 
+ 
+ 
+A/B-Test zeigte: das 
+steigert die Haltbarkeit 
+ 
+ 
+und bietet vielleicht so-
+gar Cross-Selling-Chan-
+cen 
+ 
+Neue Zürcher Zeitung mit Werbefrei-Abo 
+P 
+NZZ Werbefrei-Abo 
+ 
+ 
+ 
+Nach Der Standard, Die Zeit und Der Spiegel hat nun 
+auch die Neue Zürcher Zeitung ein 'Werbefrei'-Angebot. 
+Für 5€ monatlich zusätzlich kann man die Website und 
+die Inhalte in der NZZ-App "bis auf wenige Ausnahmen 
+absolut werbefrei genießen". Für 14,99€/Monat taucht 
+das Angebot im Rahmen des In-App-Kaufprozesses auf. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Preis: +5€ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 11
+ 
+ 
+P 
+      
+Marktentwicklung
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im 
+Mai 2020, zu Anzahl und Er-
+scheinungsweise siehe  
+"Daten Cockpit Handel")  
+  
+ 
+Marktentwicklung
+Copypreise
+ 
+neu eingeführte Zeitschriften 
+Print, Verlags-Apps in ausge-
+wählten Stores 
+   
+ 
+Marktentwicklung
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+Preise bei neuen Zeitschriften) 
+  
+ 
+ 
+ 
+DATEN COCKPIT VERLAGE 
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 12
+ 
+ 
+ 
+ 
+ 
+Wer finanziert den Grossovertrieb wirklich? 
+P 
+Pressegroßhandel 
+ 
+In der März-Ausgabe hatten wir uns der Frage gewidmet, ob es eigentlich stimmt, dass 
+umsatzstarke Titel die zentralen Stützen für 'das Vertriebssystem' sind. Wir haben dazu die 
+Kosten des Einzelhandels den Roherträgen gegenübergestellt. Dabei ergab sich ein klares 
+Bild: Umsatzstärke allein ist kein Indikator für eine Zeitschrift, die das Vertriebssystem 
+stützt. Häufig erscheinende Zeitschriften mit kleinen Copypreisen dürften unter dem Strich 
+für einen Pressehändler mehr Kosten verursachen als sie Erträge erwirtschaften. Das liegt 
+vor allem an den Personalkosten. Bei den Kosten für die Regalfläche schneiden umsatz-
+starke Titel gleich welcher Erscheinungsweise und zu welchen Preisen sie verkauft werden 
+zwar aus Sicht des Einzelhändlers deutlich besser ab. Aber dafür spielt diese Kostenart im 
+Konzert der Gesamtkosten keine große Rolle. 
+Mit Blick auf den Deckungsbeitrag kann man festhalten: nicht allein umsatzstarke, son-
+dern umsatzstarke Titel, die zu angemessenen Preisen verkauft werden und die mög-
+lichst nicht allzu häufig erscheinen, sind die Stützen des Vertriebssystems. Allerdings 
+haben wir auch festgestellt: der Einzelhandelt tickt nicht so. Der Umsatz einer Waren-
+gruppe, nicht ihr Deckungsbeitrag, ist die von den Händlern mit großem Abstand am 
+stärksten beachtete Kennzahl. 
+Wie sieht es in der vorgelagerten Handelsstufe, im Pressegroßhandel, aus? 
+Das ist im Vergleich zum Einzelhandel sehr viel schwieriger zu sagen. Denn im Unterschied 
+zu vielen tausend Lebensmittelhändlern (die wir für den Einzelhandel beispielhaft betrach-
+tet hatten) gibt es nur noch knapp 30 Grossounternehmen. Für diese liegen keine ver-
+gleichbaren Branchenstatistiken zur Kostenstruktur vor. Wir haben mit Grosso-Geschäfts-
+führern gesprochen und öffentlich verfügbare Daten ausgewertet (v.a. veröffentlichte Jah-
+resabschlüsse). Dabei sind wir auf äußerst unterschiedliche Unternehmen und Kosten-
+strukturen gestoßen, die es sehr erschweren, verallgemeinernde Aussagen zu treffen.  
+Einigkeit bestand nur in einem Punkt: die Frage der verursachungsgerechten Zuord-
+nung der Kosten für einzelne Titel bewegt und bewegte die Großhandelsunterneh-
+men durchaus. So soll es in der Vergangenheit mehrfach Versuche gegen haben, kosten-
+verursachungsgerechte Konditionenmodelle zu entwickeln. Zumindest für den internen 
+Gebrauch sind wir auf Kostenrechnungen gestoßen, die bis auf einzelne Titel herunterge-
+brochen waren. Praktisch jeder Ansprechpartner konnte ohne langes Überlegen einzelne 
+Kostentreiber aufzählen, die in einem solchen Modell zu berücksichtigen wären.  
+Aber nirgendwo sind wir auf ein Gesamtmodell gestoßen, das tauglich wäre, die Kosten 
+eines Grossounternehmens sachgerecht den einzelnen Titeln zuzuordnen. Ohne An-
+spruch auf Vollständigkeit zeigt die folgende Tabelle wesentliche Kostenpositionen ei-
+nes Pressegrossisten: 
+ 
+ 
+ 
+ 
+Behauptung: umsatz-
+starke Titel sind die 
+Stützen des Vertriebs-
+systems 
+ 
+ 
+ 
+ 
+ 
+Stimmt das eigentlich? 
+ 
+ 
+ 
+pvd #3/2020: für den 
+Einzelhandel stimmt es 
+nicht 
+ 
+ 
+ 
+ 
+Was gilt für das Presse-
+grosso? 
+ 
+ 
+Herausforderung: we-
+nige, sehr unterschied-
+liche Unternehmen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+verursachungsgerechte 
+Kostenzuordnung ist 
+bekannte Fragestellung 
+ 
+ 
+ 
+ 
+ 
+aber die Frage bleibt 
+bisher unbeantwortet 
+ 
+ 
+ 
+ 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 13
+*hohe Extrakosten für Nacht- und Wochenendarbeit => besonders aktuelle Magazine 
+und Tageszeitungen betroffen 
+(1) Kosten überwiegend proportional zu Mengen und Erscheinungstagen 
+(2) Kosten überwiegend proportional zu Mengen 
+(3) degressive Kosteneffekte: hohe Mengen führen zu deutlich niedrigeren Kosten pro Heft 
+Schon in dieser Übersicht wird klar, dass in fast allen Prozessen Kosten entstehen, die 
+sich nicht auf einzelne Titel umlegen lassen. Insbesondere der größte Kostenfaktor, näm-
+lich die Auslieferung der neuen Titel an und die Abholung nicht verkaufter Exemplare 
+aus dem Einzelhandel ist einzelnen Titeln nicht zurechenbar. Außer Frage steht aber, dass 
+'große' Titel, also solche mit hohen Roherträgen, auch einen besonders großen Anteil an 
+der Deckung dieser Kosten haben.  
+Allerdings – wir kommen ja von der Frage, ob es tatsächlich die umsatzstarken Titel sind, 
+die den Pressevertrieb finanzieren – die Roherträge je Titel sind im Grosso viel stärker 
+vom Umsatz entkoppelt als im Einzelhandel. Im Einzelhandel gibt es im Wesentlichen 
+zwei Handelsspannen (18,31% und 20,24%), die noch dazu nahe beieinander liegen. Im 
+Großen und Ganzen sind die Roherträge eines Einzelhändlers proportional zu den Umsät-
+zen, die er mit Presse erzielt. 
+Im Grosso spreizen sich Rohertrag und Umsatz viel stärker als im Einzelhandel 
+Das ist im Pressegroßhandel ganz anders. Die Handelsspannenregelung, die zwischen 
+Verlagen und Grosso regelmäßig neu verhandelt wird, bewirkt für unterschiedliche Titel 
+extrem unterschiedliche Konditionen. Titel, die regelmäßig viele Exemplare verkaufen (ho-
+her 'Absatz') profitieren von besonders niedrigen Handelsspannen. Titel mit einer kleinen 
+Auflage müssen von ihren Verkaufserlösen besonders viel an die Großhändler abtreten. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+wichtige Kostenpositio-
+nen eines Pressegros-
+sisten und deren Zure-
+chenbarkeit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+viele Kosten können 
+nicht einzelnen Titeln 
+zugerechnet werden 
+ 
+vor allem nicht die 
+Auslieferung und Abho-
+lung 
+ 
+ 
+Im EH sind Umsatz und 
+Rohertrag des Händ-
+lers nahe beieinander 
+ 
+Im Grosso klaffen sie 
+auseinander 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 14
+Bei den kleinsten Titeln verbleiben fast 30% vom Umsatz beim Großhandel. Bei Titeln ab 
+rund einer Viertelmillion Exemplaren durchschnittlichem Verkauf sind es nur etwas über 
+15% [n.b.: ein hoher Absatz ist immer ein Kostentreiber für den Großhandel; dass Titel 
+mit hohen Absätzen von besonders niedrigen Handelsspannen profitieren, macht nur 
+Sinn, wenn man annimmt, dass sie (dank vieler Verkäufe) auch hohe Deckungsbeiträge 
+erwirtschaften. Das ist aber keine Selbstverständlichkeit, wie wir am Beispiel des Einzel-
+handels bereits gezeigt haben. Ob das für den Großhandel anders ist, das ist genau die 
+Kernfrage unserer hier präsentierten Überlegungen]. 
+Zu dieser absatzabhängigen Grundregelung hinzu kommen dann noch Boni für Titel, 
+die hohe Umsätze erzielen. Solche Boni greifen ab gut 400.000€ Jahresumsatz. Ab diesem 
+Wert werden die zunächst durch die Absatzmenge definierten Handelsspannen zum Vor-
+teil der Verlage geschmälert; auf der kleinsten Bonusstufe um 2,6%-Punkte, im Maximum 
+(ab 17Mio€ Jahresumsatz, ein Wert, den keine zwei Dutzend Titel erreichen) um 7,6%-
+Punkte [n.b.: hohe Umsätze sind ein besserer Indikator für hohe Deckungsbeiträge als es 
+die Absätze sind. Aber auch bei hohen Umsätzen sind noch höhere Kosten und damit ne-
+gative Deckungsbeiträge möglich]. 
+Hier beispielhaft eine Kalkulation zur ungefähren Abschätzung der Handelsspan-
+nen und Roherträge für sechs sehr unterschiedliche Titel:  
+Wie verteilen sich Lasten und Nutzen im Gesamtmarkt? 
+Auch diese Tabelle gibt keine endgültige Antwort auf die Frage, ob es wirklich vor allem 
+die umsatzstarken Titel sind, die 'das Vertriebssystem' finanzieren. 
+In der Ausgabe #1/2019 berichteten wir, basierend auf vom Verlagsberatungsunterneh-
+men Büro Bardohn zur Verfügung gestellten Daten, über die Struktur des Einzelvertriebs-
+marktes in Deutschland. Dabei haben wir auch betrachtet, wie sich der Markt auf Zeit-
+schriften unterschiedlicher Größen verteilt. 
+ 
+Grafik: Marktanteile von Zeitschriften unterschiedlicher Größe  
+(Achtung1: um die verschiedenen Werte in einer Grafik darstellen zu können, sind die Umsätze in 
+ungewöhnlichen Einheiten, die Gesamtumsätze in 100€-Einheiten, die Durchschnittsumsätze in 10€-
+Einheiten dargestellt. Achtung2: die Grafik beinhaltet nur Titel, die ihre Auflagen an die IVW melden. 
+Rund ein Fünftel des Marktes nach Umsatz im Einzelhandel dürfte nicht enthalten sein, weil es jede 
+Menge überwiegend kleiner Zeitschriften gibt, die keine IVW-Meldung abgeben. Ebenfalls nicht 
+enthalten – aufgrund ihrer Sonderstellung – sind die Bild Zeitung und Bild am Sonntag):  
+ 
+ 
+Die Handelsspanne ist 
+eng an den Absatz ge-
+koppelt (mehr Absatz = 
+weniger HSP) 
+ 
+ 
+[eigentlich ist der Ab-
+satz ein Kostentreiber!] 
+ 
+ 
+ 
+ 
+Hinzu kommen Bonus-
+regelungen für hohe 
+Gesamtumsätze 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sehr ungefähre, bei-
+spielhafte Kalkulation 
+der Grosso-Erträge für 
+6 beispielhafte Titel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 15
+ 
+Die Grafik macht deutlich, wie wenig homogen der Pressemarkt ist. Mehr als die Hälfte 
+aller Titel mit IVW-Meldung finden sich in der Gruppe der nach Absatz kleinsten Zeitschrif-
+ten ganz links. Zusammen generieren diese Titel weniger als 10% der in der Grafik darge-
+stellten Umsätze. 
+Ganz rechts finden sich die Umsatzriesen. Die nur gut 20 Titel mit EV-Auflagen über 
+200.000 Exemplaren stehen für über ein Viertel der Umsätze. Aber: zur Deckung der Kos-
+ten der Pressegroßhändler tragen sie nach unserer Schätzung nur rund 17% bei. 18% der 
+Grosso-Roherträge dürften von den kleinsten Titeln ganz links in der vorangegangenen 
+Grafik stammen, die nicht einmal 10% des Umsatzes erzielen.  Die Titel bis 50.000 Exemp-
+lare bezahlen nach unserer Schätzung die Hälfte aller Grossokosten. Sie erzielen aber 
+nicht einmal 
+ein 
+Drittel 
+der 
+gesam-
+ten 
+Mark-
+tumsätze. 
+Zu 
+diesen 
+Schlussfolge-
+rungen kom-
+men wir an-
+hand 
+einer 
+sehr groben 
+Abschätzung 
+der 
+Grosso-
+Roherträge 
+(Grafik): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Betrachtung des Mark-
+tes der Titel mit IVW-
+Meldung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• sehr große Titel: 25% 
+der Umsätze, bezah-
+len aber nur 17% der 
+Grossokosten 
+ 
+• sehr kleine Titel: 10% 
+der Umsätze, bezah-
+len aber 18% der 
+Grossokosten 
+ 
+• Titel bis 50.000 Ex: 
+30% der Umsätze, 
+bezahlen aber 50% 
+der Grossokosten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 16
+Diese Betrachtung macht deutlich: zumindest in der Summe sind es nicht die beson-
+ders umsatzstarken Titel, die das Grossosystem finanzieren. Es sind die vielen umsatz-
+schwachen Titel, die den größeren Teil der Grossokosten tragen. Möglicherweise verursa-
+chen diese kleinen, umsatzschwachen Titel den größten Teil der Kosten des Grossosys-
+tems. Das ist ohne eine titelbezogene Kostenrechnung nicht festzustellen. Grundsätzlich 
+gilt, dass die kleinen Titel sicherlich überproportionale Kosten in allen Positionen erzeugen, 
+die je Exemplar entstehen. Dagegen erscheinen sie in aller Regel viel seltener als die gro-
+ßen umsatzstarken Titel und in viel geringeren Auflagen. Sie werden auch an viel weniger 
+Verkaufsstellen ausgeliefert und belasten damit den größten Kostenfaktor der Grossisten 
+nur unterdurchschnittlich. Sie subventionieren außerdem alle Prozesse, deren Kosten vor 
+allem von Erscheinungsweise und Heftmengen getrieben werden. 
+ 
+PS: wir haben mehrfach und mit langem Vorlauf beim Grossoverband und dessen 
+Vorsitzenden um eine Rückmeldung auf unsere Überlegungen gebeten. Wir haben 
+keine Antwort erhalten. Das waren unsere Fragen: 
+1) 
+Auf Basis öffentlich verfügbarer Daten mit dem Stand Jan 2019 komme ich überschlägig zu 
+folgenden Verhältnissen 
+a. 
+die 20 absatzstärksten Zeitschriften im Grossovertrieb generieren etwa 25% 
+der Umsätze aber weniger als 20% der Grosso-Roherträge 
+b. 
+sehr kleine Titel (bis 10.000 Ex Absatz) erzielen in Summe weniger als 10% der 
+Umsätze, stehen aber für ungefähr die gleiche Gesamtsumme bei den 
+Grosso-Roherträgen wie die Top20 Titel 
+c.       Titel bis 50.000 Exemplaren Verkauf generieren weniger als ein Drittel der 
+Umsätze aber rund die Hälfte der Grosso-Roherträge 
+Meine Frage: diese Werte deuten an, dass kleine, in Summe wenig umsatzstarke Titel den 
+größten Teil der Grossokosten finanzieren. Trifft das nach Ihrem aktuellen Wissensstand zu? 
+Falls nicht: wie stellt sich die Situation für Sie dar? 
+2) 
+Den Roherträgen stehen Kosten gegenüber. Welche Erkenntnisse haben Sie mit Blick auf die 
+Kosten? Verursachen die vielen kleinen Titel Kosten, die in der Summe den oben skizzierten 
+Verhältnissen entsprechen, so dass die Lastenverteilung als angemessen erscheint? 
+3) 
+Im Einzelhandel ist die Anzahl der Erscheinungstermine ein maßgeblicher Kostentreiber. Wie 
+stellt sich das für den Großhandel dar? Insbesondere für Tageszeitungen? Erzeugen diese 
+im Großhandel an der Anzahl der Escheinungstage gemessen vergleichbare Kosten wie Zeit-
+schriften? 
+Fazit: die kleinen, nicht 
+die großen Titel finan-
+zieren das Grossosys-
+tem 
+ 
+ 
+ 
+Womöglich ist das fair 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Der Grossoverband be-
+antwortet hierzu keine 
+Fragen 
+ 
+ 
+ 
+ 
+Blick zurück in die Zukunft: Paid Content als SMS-Abo 
+p 
+pvd Nachhaltigkeits-
+Check 
+ 
+Seit exakt 12 Monaten berichtet pv digest über – teils schon sehr erfolgreiche – Ansätze, 
+Social Media- und andere (ggf. vermeintliche) digitale 1:1-Beziehungen über Nutzerzah-
+lungen zu monetarisieren. Zuletzt in der April-Ausgabe darüber, wie 'Influencer' mit Be-
+zahlinhalten statt mit Werbung Geld verdienen; davor im Februar über die Plattform Only 
+Fans, auf der (vor allem) Erotikinhalte als bezahlpflichtige Social Media-Beziehungen insze-
+niert werden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#6/19 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 17
+Unser erster Bericht zu diesem Trend erschien vor 12 Monaten. Darin ging es um ein 
+Projekt aus dem amerikanischen Zeitungskonzern Advance Media. Der hatte eine 
+Plattform gestartet, auf der einzelne Redakteure regelmäßig und gegen Bezahlung SMS-
+Nachrichten zu ihren Themen versenden und (gelegentlich) auch auf SMS-Rückmeldungen 
+reagieren. Die Plattform ermöglicht den Massenversand von SMS, das Monitoring der zent-
+ralen KPI und das Abomanagement inklusive Bezahlabwicklung, "Nicht umsonst wird das 
+Angebot als 'Projekt' vermarktet", haben wir über das Startup berichtet, das damals als 
+'Project Text' auftrat [Texting ist in den USA ein für das Versenden von SMS-Nachrichten 
+gebräuchlicher Ausdruck]. 
+Aus dem Projekt ist mittlerweile eine langfristig planende Unternehmung geworden. 
+Im Oktober erfolgte eine Umfirmierung in 'Subtext', eine Zusammenziehung aus Text 
+(SMS) und Subscription (Abonnement). Gleichzeitig wurden in Summe 1 Mio versendete 
+Kurzbotschaften vermeldet und eine Churnquote von 3% [pvd: 'monatlich' darf dazu ge-
+dacht werden]. 
+Seit Juni beschäftigt Subtext eine vertriebsverantwortliche 'Audience Growth'-Managerin, 
+JulieAnn McKellogg. Die erzählte im November in einem ausführlichen Interview mit Pub-
+exec unter anderem: sowohl kleine wie große Publisher seien mit Subtext erfolgreich. De-
+ren Themenbandbreite reiche von Lokalpolitik über Sport bis hin zu speziellen Wirtschafts-
+themen. SMS seien ein sehr direkter Kanal, auf dem praktisch jede gesendete Nachricht 
+auch gelesen werde. Die Publisher mit einem Bezahlmodell "nehmen 80% der durch 
+sie erzielten Umsätze mit nach Hause, die anderen grob gesagt 20% gehen für Daten und 
+Transaktionskosten drauf und bleiben bei Subtext". Wer mehr über die Technik und Nut-
+zungsmöglichkeiten von Subtext erfahren möchte, sollte das Interview komplett lesen: [pv-
+digest.de/linkliste Link2].  
+ 
+Vor 12 Monaten berichteten wir 
+kurz über den Sportreporter Doug 
+Lesmerises von Cleveland.com. Des-
+sen Bezahl-Kanal 'Buckeye Talk' 
+sei immer noch erfolgreich und 
+eine ideale Ergänzung zum zugehö-
+rigen Podcast, sagt der beim Zei-
+tungskonzern Advance für das Star-
+tup verantwortliche Manager Mike 
+Donoghue. Lesmerises nutze Sub-
+text für Fragen an seine Community 
+und binde die Antworten dort sehr 
+geschickt ein.  
+Nicht erfolgreich war anscheinend der Versuch der Cleveland.com-Redaktion, einen be-
+zahlten Kanal für 'hyperlokale', echte Vor-Ort-Informationen zu launchen. Im Sommer 
+startete die Journalistin Emily Bamforth einen Kanal für die Gemeinde Lakewood, auf dem 
+sie für 3,99$/Monat zweimal täglich SMS zu Themen wie Straßensperrungen, Restauran-
+teröffnungen oder -schließungen und Regelungen der örtlichen Behörden versendete. 
+ 
+ 
+vor 1 Jahr: Project Text 
+testet Paid Content per 
+SMS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mittlerweile als Unter-
+nehmen gefestigt und 
+neu benannt: Subtext 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Publisher erhalten 80% 
+der Aboerlöse, 20% 
+Subtext (bzw. Transak-
+tionskosten) 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+Erfolgreiches Beispiel: 
+SMS-Abo zu lokalen 
+Football-Themen  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nicht erfolgreich war 
+ein Kanal mit lokalen 
+Alltagsinformationen 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 18
+ 
+1.500-2.000 Abonnenten hatte sich ihr Verlag dafür erhofft. Allerdings gibt es das Angebot 
+schon nicht mehr. Donoghue ist unserer Bitte, mehr zu dieser Erfahrung zu sagen, nicht 
+nachgekommen. 
+Ganz aktuell zählt Subtext mehr als 200 solcher 'Hosts', also einzelne Anbieter bzw. Ka-
+näle für SMS-Abos. Allerdings sind längst nicht mehr alle diese Abos bezahlte Abos. 
+Manche Verlage nutzen Subtext-Abos als Anreicherung für Ihre eigenen Bezahlangebote 
+und bieten bezahlenden Abonnenten den SMS-Austausch mit Redakteuren als Zusatznut-
+zen. Andere Publisher versenden via Subtext kostenlose SMS an alle interessierten Emp-
+fänger, um über diesen Kanal Reichweiteneffekte zu erzielen oder andere Angebote zu 
+vermarkten. Neben Advance nutzen mittlerweile auch die Großverlage Hearst und 
+McClatchy die Plattform und auch der bekannte Digital only-Publisher Buzzfeed. Insbeson-
+dere im Rahmen der Corona-Krise kamen viele neue kostenlose Kanäle und Nutzer hinzu. 
+Wenn Subtext von aktuell 260.000 Endnutzern spricht, dann muss das mitgedacht wer-
+den.  
+Über den neuesten Stand und die Erfahrungen im ersten Jahr haben wir ein ausführliches 
+E-Mail-Interview mit Advance-Manager Mike Donoghue geführt. pv digest-Abonnenten 
+senden wir die kompletten Fragen und Antworten gerne zu. Bei Interesse schreiben Sie 
+eine kurze Mail an abo@pv-digest.de. Die wichtigsten Informationen daraus: 
+Nur 50 der mehr als 200 derzeit über Subtext angebotenen Kanäle sind kostenpflich-
+tig. Nur 50.000 der 260.000 Endnutzer stammen aus der Zeit vor Corona bzw. nutzen 
+Angebote ohne Corona-Bezug. "Die Aufteilung der Abonnenten ist 50% gratis, 25% als Zu-
+satznutzen [pvd: eines anderen Abos] und 25% als Bezahlabo", schreibt Donoghue. 
+Wir habe ihm auch einige Fragen zur Technik und zu den weiteren Plänen gestellt. Das 
+einzige Datum, das Subtext von den Abonnenten unbedingt benötige, sei die Handynum-
+mer. Häufig würden auch E-Mail-Adresse und Name erfragt, manchmal auch noch mehr. 
+Aber das sei eine Entscheidung der Publisher, die auch Eigner der so generierten Daten 
+seien. Bisher ist das Subtext-Angebot auf Publisher aus den USA beschränkt. Aber schon 
+im nächsten Monat solle ein Kanal aus Kanada online gehen. "Wir arbeiten an den techni-
+schen und rechtlichen Kniffligkeiten einer internationalen Unternehmung. Wir denken, 
+Westeuropa wird die nächste Region sein, in die wir expandieren." 
+ 
+ 
+ 
+ 
+ 
+ 
+aktuelle KPI: 
+• >200 Kanäle/Hosts 
+• 50/200 Kanäle be-
+zahlpflichtig 
+• 260.000 Endnutzer 
+• davon 50.000 ohne 
+Corona-Sonderef-
+fekte 
+• 25% der Endnutzer 
+bezahlen an Subtext 
+•  25% haben Zugang 
+nur im Rahmen eines 
+anderen Bezahlabos 
+• 50% nutzen gratis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Expansion nach Eu-
+ropa geplant 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint Subtext ist immer noch im Projektstadium, zumindest wenn es um die 
+Frage geht, ob sowohl die Publisher als auch Subtext selbst mit dem SMS-Dienst genug 
+Geld verdienen können, um diesen zufriedenstellend zu betreiben. Wenn bisher nur 
+50.000 Abonnenten unabhängig von Corona-fokussierten Angeboten gewonnen wur-
+den und von denen nur 25%, also ca. 12.500 bezahlen – typischerweise 4$/Monat, also 
+rund 50.000$ pro Monat insgesamt – dann ist Subtext immer noch ein zartes Pflänzchen. 
+Vor dem Hintergrund eines deutlichen Trends zu bezahlten 1:1-Beziehungen sehen wir 
+hier dennoch eine Chance. Entweder für Subtext oder für den nächsten besseren Dienst-
+leister, der eine solche Publishing- und zugleich Monetarisierungsplattform anbietet. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 19
+ 
+Schweitzer Fachinformationen übernimmt iKiosk 
+P 
+Schweitzer + iKiosk 
+ 
+Ende April hat der Fachbuchhändler Schweitzer Fachinformationen den E-Paper-Kiosk iKi-
+osk von Axel Springer übernommen. Schon seit 2016 kooperierten die beiden Unterneh-
+men. Mit dem iKiosk konnte Schweitzer seitdem seinen B2B-Kunden einen zeitgemäßen 
+Zugang zu den digitalen Ausgaben der im iKiosk erhältlichen E-Paper von Tageszeitungen 
+und Publikumszeitschriften anbieten. Insbesondere das Sortiment im Bereich Tageszei-
+tungen wurde in diesem Zeitraum deutlich erweitert. 
+Laut Philipp Neie, Geschäftsführer von Schweitzer Fachinformationen, wurden über den 
+iKiosk monatlich zuletzt rund 13.000 Zeitungsausgaben verkauft und etwa 30.000 
+Zeitschriften. Diese Absatzmengen hätten sich in den 2 Jahren davor um ungefähr 20% 
+(Zeitungen) und 50% (Zeitschriften) gesteigert. Hinzu kamen zuletzt B2B Abos, überwie-
+gend von Zeitungen, mit einer Jahresrechnungssumme von 700.000€. 
+Für die Zukunft plant Neie eine Erweiterung des iKiosk-Sortiments um Fachzeitschrif-
+ten. Damit will er seinen Firmenkunden ein möglichst breites Sortiment digitaler Informa-
+tionen gebündelt in einem Vertriebskanal anbieten. Gleichzeitig habe er, genau wie die von 
+Springer übernommenen Mitarbeiter, aber auch Ideen für eine Weiterentwicklung des 
+B2C-Geschäfts. 
+ 
+ 
+ 
+Schweitzer Fachinfor-
+mationen hat iKiosk 
+übernommen 
+ 
+ 
+ 
+Monatlicher Absatz zu-
+letzt rund 30.000 Ma-
+gazine und 13.000 Zei-
+tungen 
+ 
++700.000€ B2B-Abo-
+Umsatz 
+ 
+Plan: Fachzeitschriften 
+im Kiosk-Sortiment 
+ 
+ 
+Cafeyn übernimmt SFR Presse 
+79 
+3 
+Cafeyn + SFR Presse 
+ 
+Der französische Digitalkiosk Cafeyn hat das Geschäft der Digitalpresseflatrate SFR über-
+nommen. Diese Flatrate wurde vom Mobilfunkprovider SFR aufgebaut, der das Digi-
+talpresseangebot nutzte, um aus den Mehrwertsteuerprivilegien für digitale Presse Mobil-
+funkpakete zu schneidern, die anfangs Millionen-Steuerersparnisse mit sich brachten. 
+Darüber haben wir in der Vergangenheit mehrfach berichtet. Die Verknüpfung von 
+ 
+ 
+Französischer Flatrate-
+anbieter Cafeyn kauft 
+SFR Presse-Flatrateki-
+osk 
+ 
+ 
+pvd meint der iKiosk war ein Pionier beim Aufbau verlagsübergreifender Vertriebs-
+plattformen für digitale Presse. Er hat aber niemals eine Flughöhe erreicht, die den Am-
+bitionen des Großkonzerns Axel Springer gerecht wurde (Wir schätzen wir die Brutto-
+Umsätze der Plattform aus dem E-Paper-Vertrieb auf zwischen 1Mio€ und 2Mio€ p.a.). 
+Schon länger gab es Gerüchte, dass Springer sich vom iKiosk trennen wollte. Dass der 
+Digitalkonzern diese Vertriebsplattform für E-Paper bis zum Schluss in der Regie seines 
+Printbereiches gelassen hat, spricht Bände. Es ist gut möglich, dass Schweitzer nicht viel 
+mehr als den berühmten symbolischen Euro bezahlen musste. Eine Beendigung des iKi-
+osks wäre den Fachinformationsanbieter ungleich teurer gekommen. Er hätte sich um 
+eine alternative Lösung kümmern müssen für die immer noch wenigen aber nicht ver-
+nachlässigbaren B2B-Kunden, die den zentralen Zugang zu digitaler Lektüre schätzen. 
+Wenn Schweitzer dadurch motiviert ist, die Plattform weiter zu entwickeln, dann könnte 
+davon auch das Geschäft mit den Endkunden profitieren. Vielleicht sogar eines Tages 
+mit Angeboten, die sich vom 1:1-Printabbild lösen, und die zeitgemäße und vor allem 
+mobilgerechte Darstellungsformen der Presseinhalte beinhalten. Wir glauben durchaus, 
+dass es eine Nische für einen titel- und verlagsübergreifenden Digitalkiosk gibt. Mindes-
+tens, solange sich keine verlagsübergreifenden Paywallmodelle durchsetzen. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 20
+Mobilfunk- (und anderen) Verträgen mit einer Presseflatrate haben später mehrere fran-
+zösische Unternehmen kopiert. Das erklärt teilweise die großen Auflagenerfolge, die fran-
+zösische Digitalmedien in der Vergangenheit vorzuweisen hatten. Zuletzt (vgl. pvd 
+#4/2018) berichteten wir allerdings, dass das Steuerschlupfloch geschlossen wurde. Au-
+genscheinlich hat Frankreichs zweitgrößter Mobilfunkprovider danach sein Interesse am 
+Betrieb einer Presseflatrate verloren.  
+Le Figaro berichtet, dass Cafeyn für das Geschäft rund 5Mio€ bezahlt haben soll. Für 
+diesen Preis hat Cafeyn nicht nur SFR Presse gekauft, sondern auch das Digital Publi-
+shing-Dienstleistungsgeschäft Milibris, dass der SFR Mutterkonzern Altice im Jahr 2017 
+akquiriert hatte. Weil Milibris auch in Kanada aktiv ist, behauptet Cafeyn-Chef Ari Assuied, 
+die Neuakquisition diene auch der internationalen Expansion seines Unternehmens. 
+Cafeyn hat bisher Ableger in mehreren Ländern Europas. Über die Umsätze des Unterneh-
+mens gibt es keine öffentlichen Informationen. "Wir verlieren kein Geld" behauptet As-
+suied zur Profitabilität. Allerdings ist er ein Meister der öffentlichen Schönrednerei. Schon 
+vor fünf Jahren (vgl. pvd #5/2015) kündigte er an, nach Deutschland expandieren und bin-
+nen 3 Jahren "europäischer Marktführer im digitalen Pressevertrieb" werden zu wollen. 
+Bisher ist nicht einmal der Schritt nach Deutschland erfolgt. 
+ 
+SFR hat früher – wie 
+andere Mobilfunker 
+auch – mit Digital-
+presse Steuern gespart 
+ 
+ 
+ 
+ 
+ 
+Kauf für 5Mio€ bein-
+haltet auch Digital 
+Publishing Dienstleister 
+Milibris 
+ 
+ 
+Expansion angekündigt 
+ 
+ 
+ 
+ 
+ 
+ 
+nicht zum ersten Mal 
+ 
+ 
+Pressevertrieb in Frankreich in der Sackgasse 
+P 
+PresseVT Frankreich 
+ 
+In der letzten Ausgabe hatten wir ein Jahr zurückgeblickt und über den Versuch berichtet, 
+das französische Pressevertriebssystem neu aufzustellen. Unser Resümee war ernüch-
+ternd: alle Bemühungen haben nur auf eine "Zielgerade in die Sackgasse" geführt. 
+Im letzten Monat hat sich die Geschwindigkeit auf diesem Weg noch einmal beschleunigt. 
+Aufgrund der in pvd #5 berichteten Insolvenzerklärung des wichtigsten Vertriebsdienst-
+leisters Presstalis, musste das Pariser Handelsgericht über dessen Fortbestand urteilen. 
+Die Richter gestatteten zwar die Aufrechterhaltung des Betriebs für weitere zwei Monate 
+unter strengen Auflagen. Aber sie verfügten die Schließung von zwei Tochterunterneh-
+men, die in Regionen außerhalb des Großraums Paris für die Presselogistik verantwortlich 
+sind, und die rund 10.000 der 22.000 französischen Presseverkaufsstellen beliefern.  
+Diese Tochterunternehmen haben aber 500 Mitarbeiter, deutlich mehr als die Hälfte 
+aller Angestellten von Presstalis. Die gewerkschaftlich organisierten Mitarbeiter wollen die 
+Schießung ihrer Betriebe nicht hinnehmen und bestreiken seitdem die Presseausliefe-
+rung. "Dritte Woche ohne Zeitungen für einen Teil Frankreichs", betitelte die Zeitung La 
+Provence ihren Bericht zum Thema am 25. Mai.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gericht verfügt: 
+Presstalis darf noch 
+(mind.) 2 Monate wei-
+termachen  
+ 
+aber Töchter SAD und 
+Soprocom müssen 
+schließen 
+ 
+ 
+Streiks stören Versor-
+gung mit Print abseits 
+von Paris seit 3 Wo-
+chen massiv 
+ 
+ 
+pvd meint: Das Wort 'Krise' ist eine Untertreibung. Außerhalb des Pariser Groß-
+raums, sogar in den Großstädten Lyon und Marseille, sind weite Teile der französischen 
+Bevölkerung vom Zugang zu einem Pressevollsortiment abgeschnitten. Die Bestreikung 
+eines Pleiteunternehmens schwächt dessen Position natürlich immer noch weiter. Die 
+einzige Ausflucht, auf die die Gewerkschaften setzen, ist staatliche Hilfe. Der Staat sieht 
+aber, dass es zwischen und Zeitungen und Zeitschriften derzeit keine Aussicht auf einen 
+Kompromiss gibt. In Frankreich könnte man bald erstmals erleben, dass nationale und 
+internationale Tagespresse nur noch digital verfügbar sein wird. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 21
+ 
+   
+ 
+    P2 
+  
+Index
+Marktentwicklung
+Einzelhandel
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland) 
+ 
+  
+ 
+Marktentwicklung
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neueinfüh-
+rungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+ 
+ 
+Marktentwicklung
+digitaler Vertrieb
+ 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATEN COCKPIT HANDEL UND ABSATZ 
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 22
+ 
+ 
+ 
+ 
+ 
+Google-Suchtrends signalisieren Bezahlbereitschaft 
+74 
+Befragung 
+ 
+Der dänische Medienanalyst Thomas Baek-
+dal hat eine Idee des Techbloggers Benedict 
+Evans weiterentwickelt. Der hatte in einer 
+Grafik die Entwicklung der von Google zur 
+Verfügung gestellten Such-Häufigkeits-In-
+dizes für die Worte "best" und "free" 
+über die letzten 15 Jahre dargestellt. Die 
+Pointe: während 2004 mehr als doppelt so 
+häufig 
+nach 
+'kostenlos' 
+wie 
+nach 
+der/die/das 'beste(n)' gesucht wurde, lag 
+die Häufigkeit der Suchvorgänge nach bei-
+den Begriffen im Jahr 2010 ungefähr gleich-
+auf. Seitdem zählt Google mit steigender 
+Tendenz mehr Suchen, die "best" beinhal-
+ten im Vergleich zu "free". Zurzeit scheint 
+das Interesse an Qualität, so gemessen, 
+viermal höher als das an "free". 
+Baekdal hat diesen Analyseansatz um den 
+Begriff "cheap" ergänzt und Trends für 
+mehrere Länder ermittelt. Das Ergebnis ist 
+oft ähnlich, wobei in Europa 'gratis' immer 
+noch die Oberhand zu haben scheint. 
+Baekdal gibt selbst zu bedenken, dass die 
+anders verlaufenden Kurven durch Über-
+setzungsprobleme verursacht sein könnten 
+[pvd: im flexionslosen Englisch, passen 
+'best' und free' in allen Fällen und im Singu-
+lar und Plural. Im Deutschen müsste man 
+stattdessen jeweils drei Suchworte untersu-
+chen, zum Beispiel beste/besten/bestes. 
+Ähnliches gilt für Französisch und auch 
+Baekdals Muttersprache Dänisch.] 
+Aus Sicht von Baekdal und vermutlich 
+auch aus Sicht von Ideengeber Evans zeigen 
+diese Kurven eine Prioritätenverschiebung 
+beim Interesse der Konsumenten, weg von 
+'vor allem billig' hin zu 'vor allem gut'. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Google-Suchtrends: 
+ 
+ 
+seit 16 Jahren wird mit 
+abnehmender Häufig-
+keit nach 'kostenlos' 
+gesucht 
+ 
+und mit seigender 
+Häufigkeit nach Quali-
+tät 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Im englischsprachigen 
+Raum hat das Such-
+wort 'best' längst 'free' 
+überholt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In Europa liegt 'gratis' 
+noch mehr oder weni-
+ger deutlich vor 'bes-
+ten' 
+ 
+ 
+[=> auch ein linguisti-
+scher Effekt?!] 
+ 
+QUELLEN: 
+ANALYSEN UND DATEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 23
+ 
+IPPT (Index Presseprodukte auf Tablets) 
+P 
+IPPT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-App-Umsätze von 
+Presse-Apps in Relation 
+zu den IAPs anderer 
+Apps 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Flatrates allein 'retten' nicht einmal die Musikindustrie 
+3 
+Flatratevertrieb 
+ 
+Mark Mulligan, als Chef der spezialisierten Analysefirma MIDiA Research einer der kompe-
+tentesten Beobachter der Musikindustrie, berichtet von heftigen, durch die Corona-Krise 
+neu entflammten Branchendiskussionen. Es geht um die alte, durch starkes Wachstum 
+zuletzt in den Hintergrund gedrängte Frage, ob die Ausschüttungen von Spotify&Co sowie 
+die Verteilung dieser Erlöse zwischen Spotify, Musikverlagen und Künstlern nicht massiv 
+zugunsten letzterer verändert werden müssten. 
+Kurz gesagt lautet seine Antwort 'nein'. Seine Begründung: das würde nur wenig bringen 
+aber viel riskieren. Dass es wenig bringen würde, verdeutlicht er an einer Szenario-Kalku-
+lation. Selbst wenn die Verteilung der Gelder zugunsten der Künstler deutlich verändert 
+würde, und wenn außerdem der Preis der Spotify-Flatrate um 25% stiege, würde das nur 
+einen geringen Teil der Corona-bedingten Verluste der Musiker ausgleichen. Das liegt da-
+ran, dass die Erlöse aus den Musikflatrates zwar seit Jahren stark wachsen [pvd: und 
+mittlerweile historisch betrachtet längst wieder auf einem Hoch sind, das nur von den 
+etwa 15 Boom-Jahren zwischen 1993 und 2008 übertroffen wird, vgl. unseren Bericht in 
+pvd #4/2019]. Dass sich aber das Einkommen der Künstler längst stark auf den Verkauf 
+von Tickets für Konzerte verlagert hat. Mit Hilfe des Musikstreamings erzielen die Musiker 
+vor allem die Reichweiten, die notwendig sind, um Konzerttickets oder Merchandising-Pro-
+dukte zu verkaufen. Musikstreaming "war effektiv gesehen Marketing, für das die Künstler 
+[auch noch] bezahlt wurden", sagt Mulligan. Ohne die Einnahmen aus Konzerten funk-
+tioniere das Musik-Ökosystem nicht. 
+ 
+ 
+ 
+neue alte Frage in der 
+Musikindustrie: sollten 
+Musiker mehr an Spo-
+tify verdienen? 
+ 
+ 
+ 
+Branchenanalyst zeigt: 
+das würde gegen 
+Corona-Folgen kaum 
+helfen  
+ 
+ 
+Flatrate-Umsätze sind 
+zwar längst auf hohem 
+Niveau wachsend 
+ 
+aber trotzdem nur ein 
+Zubrot, 'Werbung, mit 
+der man auch noch 
+Geld verdient' 
+ 
+Ohne Konzerte ist das 
+Ökosystem Musik nicht 
+tragfähig 
+ 
+ 
+QUELLEN:
+MEINUNGEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 24
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+ 
+ 
+ 
+CEO Markus Reithwieser hat die Haufe Group verlassen. Für ihn übernehmen Birte Ha-
+ckenjos als CEO und Harald Wagner als CFO. 
+Ab 1. Dezember soll Rolf Grummel Geschäftsführer beim Allgäuer Zeitungsverlag sein. 
+Er folgt dann auf Markus Brehm. 
+Heiko Gregor ist neuer Geschäftsführer beim Jahreszeiten Verlag. Zum August folgt er 
+dann als CEO auf Jörg Hausendorf. 
+Geschäftsführerin Susan Molzow hat die Hamburger Morgenpost verlassen. Neuverle-
+ger Arist von Harpe übernimmt. 
+Kay Labinsky übernimmt am 1. Juli die Geschäftsführung des Super Illu-Verlags von 
+Heinz Scheiner. 
+Roberts Reisch hat beim Alfons W. Gentner Verlag die Rolle des Verlegers und Geschäfts-
+führers von seinem Vater, Erwin Fidelis Reisch, übernommen. 
+Frank Gloystein ist nun Publisher für das Magazin Landlust aus der Deutschen Medien-
+Manufaktur. 
+Anna van Koetsveld ist neue stellvertretende Verlagsgeschäftsführerin für die Frauen-
+Titel der Bauer Medien Group. 
+ 
+P 
+1 
+2 
+17 
+85 
+ 
+ 
+Personalien 
+QUELLEN:
+PERSONALIEN
+Branchennews 
+pvd meint: außerdem rechnet Mulligan in seinem Beitrag noch vor, dass eine Ver-
+schiebung von Preisen und Vergütungsregelungen vermutlich dazu führen würde, dass 
+Spotify deutlich hinter die Musikangebote von Apple, Google und Amazon zurückfiele 
+und damit die Abhängigkeit der Künstler noch weiter vergrößern würde. Wir empfehlen 
+den Beitrag allen Lesern zur Lektüre, die sich mit Flatrate-Modellen beschäftigen.  
+[pv-digest.de/linkliste Link3]. 
+Aus Sicht von Mulligan funktioniert das Modell '10€ für Alles', nicht als Ersatz für das 
+vorherige Vertriebsmodell der Musikindustrie. Es ist für ihn nur ein Teil eines Ökosys-
+tems, das sich runderneuert hat und das nur in der Summe seiner Teile funktioniert. 
+Auf die Verlagsbranche übertragen heißt das: die Idee 'Alles für 10€' würde nicht einmal 
+dann aufgehen, wenn sie in der Musikindustrie genügend Erlöse für alle Beteiligten ge-
+nerieren könnte. Das war immer schon unsere Position. Mulligan macht nun deutlich, 
+dass dieses Modell noch nicht einmal in der Lage ist, die Musikindustrie zu finanzieren. 
+Andererseits dürfte manche Presseflatrate den Spieß umdrehen: Readly&Co generieren 
+nicht nur Vertriebsumsätze, sondern auch (vielleicht) anzeigenrelevante Reichweite. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 25
+ 
+ 
+ 
+ 
+ 
+7% auf alles (außer auf digitale Presse in den Appstores) P 
+Apple kassiert zu viel 
+Mehrwertsteuer 
+ 
+Jahrelang haben die deutschen Presseverbände (wie auch die Buchverlage, wie auch viele 
+Kollegen im EU-Ausland) dafür gekämpft, dass auf digitale Presse der gleiche, ermäßigte 
+Mehrwertsteuersatz angewendet wird, wie auf gedruckte Presse. Ende 2020 war es in 
+Deutschland endlich soweit. Mit seiner Veröffentlichung am 17. Dezember 2019 trat das 
+"Gesetz zur weiteren steuerlichen Förderung der Elektromobilität und zur Änderung wei-
+terer steuerlicher Vorschriften" in Kraft. Seitdem müssen Verlage und Digitalvertriebsplatt-
+formen von jedem Paid Content-Umsatz-Euro nicht mehr 19 Cent an den Staat ab-
+führen, sondern nur noch 7 Cent. Weil unseres Wissens niemand deswegen seine Preise 
+nach unten angepasst hat, verdienen die deutschen Verlage seitdem 12 Cent pro Euro 
+mehr mit ihren digitalen Bezahlangeboten [tatsächlich wissen wir selbst europaweit nur 
+vom spanischen Digitalzeitungsangebot El Confidencial, dass es die Steuerermäßigung in 
+Form eines niedrigeren Preises an die Leser weiter gegeben hat]. Bei über 500Mio€ Jah-
+resumsatz mit Paid Content sollte das allein in Deutschland einem branchenweiten 
+Windfall-Profit von gut 60Mio€ entsprechen. In anderen Ländern der EU sieht es ähnlich 
+aus. Österreichische Verlage müssen seit 1. Januar 2020 nur 10% statt vorher 20% auf ihre 
+Nettopreise aufschlagen und an den Staat abführen. In der nicht zur EU gehörenden 
+Schweiz gilt für digitale Presse schon seit 1.1.2018 ein ermäßigter Mehrwertsteuersatz von 
+2,5% anstelle des Regelsteuersatzes von 7,7%.  
+Erfolgt der Verkauf über eine Handelsplattform, dann ist der Händler für das Entrichten 
+der Mehrwertsteuer verantwortlich. Beim Verlag kommen nur noch die um Mehrwert-
+steuer und Handelsspanne/Händlerprovision gekürzten Erlöse an. 
+Der Verkauf von Paid Content über die Apps von Apple und Google generiert unter dem 
+Strich nur einen kleinen Teil der Gesamtumsätze mit dem Vertrieb digitaler Produkte. Ver-
+nachlässigen kann man ihn aber nicht. Die Apps seien "der umwandlungsstärkste Ka-
+nal" für Bildplus-Angebote, haben wir Tobias Henning, General Manager Premium Bild-
+plus und Weltplus, in unserem letzten Bericht zu den In-App-Umsätzen in der Ausgabe 
+#12/2019 zitiert. Dort haben wir auch exemplarisch Schätzwerte für die In-App-Umsätze 
+der wichtigsten Presse-Apps aus Deutschland, Österreich und der Schweiz präsentiert. Al-
+lein diese Apps erzielen jährlich rund 15Mio€ Endkundenumsatz. 
+Wenn die Frankfurter Allgemeine Zeitung [ein beliebiges Beispiel, das zufällig den Anstoß 
+zu diesem Thema gab] eine Ausgabe über ihre Apple-App verkauft (In-App-Verkauf), dann 
+werden 19% Mehrwertsteuer berechnet. Das gleiche passiert bei einem In-App-Verkauf 
+auf Android-Handys, also über den Google Play Store. Verkauft die FAZ dagegen ein 
+Exemplar über den Kindle E-Reader, dann berechnet Amazon korrekt 7% Mehrwertsteuer. 
+Wenn das E-Paper über ikiosk.de verkauft wird, dann stehen 7% MWSt. auf der Rechnung. 
+Wenn das gleiche E-Paper über die iKiosk-App verkauft wird, dann 19%. Das ist nicht nur 
+bei der FAZ so. Das ist bei allen digitalen Presseprodukten so. Und nicht nur in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In vielen Ländern wird 
+digitale Presse endlich 
+gedruckter Presse steu-
+erlich gleichgestellt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in der Schweiz z.B. 
+schon seit Jan 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Apple und Google be-
+rechnen in den 
+Appstores immer noch 
+den regulären Satz 
+ 
+ 
+ 
+ 
+BRANCHENNEWS & -RECHT
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 26
+Deutschland, sondern auch im Ausland (dort analog nach den jeweiligen nationalen Re-
+gel- und ermäßigten Steuersätzen). 
+Vom oben erwähnten Umsatz der knapp 20 wichtigsten Presseapps sollten 14Mio€ als 
+Nettoumsatz verbucht und zwischen den Verlagen und Apple verteilt werden. Tatsächlich 
+berechnet Apple aber immer noch 19% Mehrwertsteuer; statt 14Mio€ resultieren aus dem 
+Bruttoumsatz nur 12,6Mio€ Nettoumsatz. Bei den Verlagen kommt nach Abzug der 
+Apple-Provisionen, auf ein Jahr hochgerechnet, rund 1Mio€ zu wenig an. 
+Apple und Google ignorieren das Steuerrecht – in der Schweiz schon seit zweieinhalb 
+Jahren. In Belgien belegt Apple digitale Zeitungen mit 21% Mehrwertsteuer, obwohl digitale 
+Presse dort vollständig von der Mehrwertsteuer befreit ist. Für alle In-App-Verkäufe wen-
+det Apple in jedem Land den Regelsteuersatz an. Die Appstores sind entweder nicht in 
+der Lage oder nicht willens, den Differenzierungen des Steuerrechts nachzukom-
+men. Auf unsere Nachfrage bei den Presseabteilungen von Apple und Google haben wir 
+keine Statements zu diesem Thema erhalten.  
+Wir haben uns auch als Nutzer bei Apple beklagt, weil uns ja eine falsche Rechnung für 
+den Testkauf der digitalen FAZ ausgestellt wurde. Der Apple-Kundenservice behauptete, 
+"wenn Sie im iTunes, App, Mac App oder iBooks Store einkaufen, wird Ihnen der Mehrwert-
+steuersatz berechnet, der für Ihr Land gilt". Auf unseren Hinweis, dass das bei Büchern 
+und Presse seit Dezember nicht mehr der Fall ist, hieß es "wenden Sie sich bitte an die 
+Finanzbehörden Ihres Landes". 
+Diese Finanzbehörden machen sich einen genauso schlanken Fuß. Das Bundesfinanz-
+ministerium verwies uns an die Finanzbehörden der Länder. Die Hamburger Finanzbe-
+hörde sieht eine "offenbar zivilrechtliche Fragestellung" und will im Übrigen mit Ver-
+weis auf das Steuergeheimnis das Verhalten von Apple nicht bewerten.  
+In der Verlagswelt ist das Thema nur teilweise bekannt. Noch längst nicht jeder Verlag ist 
+schon auf das Thema aufmerksam geworden. Denn die kaum überprüfbaren Abrech-
+nungsdaten von Apple weisen gegenüber den Verlagen den beim Kunden angewendeten 
+Steuersatz gar nicht aus. Es ist dann Sache des Verlages, aus den von Apple zur Verfügung 
+gestellten Daten eine Rechnung an Apple zu erstellen, die für die Verbuchung der von 
+Apple an den Verlag überwiesenen Gelder zu gebrauchen ist. 
+Beim BDZV ist das Problem für Apple bekannt und wird bearbeitet, für Google nicht. Der 
+Verband Schweizer Medien behauptet auf unsere Frage, "die Thematik ist bekannt". Aber 
+die Pressestelle antwortet auch: "Der gesetzliche Rahmen – 2.5 Prozent für digitale Medi-
+enprodukte – ist klar gegeben. Wir werden prüfen, ob dieser auch eingehalten wird". Zwei-
+einhalb Jahre nach Inkrafttreten dieses gesetzlichen Rahmens und angesichts der Tatsa-
+che, dass die Frage mit einer simplen Testbestellung geklärt werden kann, erweckt das 
+nicht den Eindruck, der Verband habe sich bereits um das Thema gekümmert. 
+Wenn aber überhaupt jemand die Chance hat, Bewegung bei Apple und Google zu erzeu-
+gen, dann nur die Verbände – womöglich im internationalen Zusammenspiel. Denn die 
+wenigsten Verlage haben überhaupt einen direkten Kontakt zu Apple. Und allein hat nie-
+mand einen Hebel zur Verfügung, um sich gegen die nachteilige und nicht gesetzeskon-
+forme Steuerpraxis zu wehren. Mehrere Gesprächspartner gaben zu verstehen, dass man 
+sich mit Blick auf die Größe und Bedeutung von Apple zu diesem Thema nicht öffentlich 
+ 
+ 
+ 
+ 
+zu Lasten der Verlage 
+(alleine 1Mio€ Minder-
+einnahmen bei den 
+Top20-Presse-Apps) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Auf Presseanfrage 
+schweigen Apple und 
+Google 
+ 
+ 
+ 
+Der Kundenservice be-
+hauptet unzutreffend: 
+'wir machen alles rich-
+tig' 
+ 
+ 
+ 
+ 
+Deutsche Finanzbehör-
+den kümmern sich 
+nicht um das Problem 
+ 
+ 
+ 
+nicht alle Betroffenen, 
+nicht alle Verlage, wis-
+sen Bescheid 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Verbände in Deutsch-
+land und der Schweiz 
+beginnen sich zu küm-
+mern 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d.i. ein Verbands-
+thema, einzelne Ver-
+lage haben keine Klä-
+rungschance 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 27
+äußern möchte. Bei unserem Testfall, der FAZ, ist das Thema bekannt. Aber allein sehen 
+auch die Frankfurter keine Möglichkeit, hier eine Veränderung zu erreichen, schreibt uns 
+FAZ-Vertriebschef Stefan Buhr. "Mein Eindruck ist, dass sich Apple nicht um dieses 
+Thema kümmert. An dieser Stelle können wir vermutlich nur im Verbund mit mehreren 
+Publishern oder Verbänden etwas bewirken". 
+Es gibt weitere Betroffene. Readly erzielt durch Apple und Googles Mehrwertsteuerpra-
+xis beim In-App-Verkauf für Abonnements seiner Flatrate geringere Nettoerlöse – zu 70% 
+geht das zu Lasten der Verlage. "Die Mehrwertsteuer für In-App-Käufe wird von Apple für 
+iTunes und von Google für den PlayStore geregelt, wobei diese die Mehrwertsteuer für 
+alle digitalen Publishing-Apps, einschließlich Readly, aktuell noch auf 19% festgelegt 
+haben. Wir stehen in engem Dialog mit den Betreibern der App-Stores, um die reduzierte 
+Mehrwertsteuer von 7% auf Readly anzuwenden, behauptet Jan-Sebastian Blender, Con-
+tent Lead DACH, IT & NL bei Readly. Bei den direkt bei Readly gekauften Flatrateabos 
+komme der korrekte Mehrwertsteuersatz zur Anwendung. 
+Ulla Strauß, Vorstand der United Kiosk AG, die unter anderem den gleichnamigen Digital-
+kiosk betreibt, bestätigt, dass auch diese Vertriebsplattform betroffen ist. Hier gehe das 
+aber nicht zu Lasten der Verlage: "Für unsere Verlage reduziert sich die Marge jedoch 
+nicht um 12%-Punkte, da United Kiosk in die Bresche springt, d.h. korrekt mit dem 
+Verlag abrechnet und derzeit entsprechend doppelt leidet", mailt sie uns zu diesem 
+Thema. Der neue Besitzer des iKiosk, Schweitzer Fachinformationen (vgl. S.19), erhofft sich 
+eine Lösung durch seinen Verband, den Börsenverein des Deutschen Buchhandels. Bis 
+dahin müssen er und seine Kunden mit den Mindereinnahmen leben. 
+Dank eines persönlichen Kontaktes, so hören wir, ist es dem Börsenverein tatsächlich 
+gelungen, Kontakt zum für den europäischen Teils des Appstores verantwortlichen Apple-
+Manager aufzubauen. Der soll vor wenigen Wochen Bewegungsbereitschaft signalisiert 
+und versprochen haben, dass Apple eine Lösung erarbeitet. Apple soll sogar zugesagt 
+haben, dass die Verlage eine Kompensation erhalten. Seinen Mitgliedsverlagen über-
+mittelte der Börsenverein per Mail eine "Erklärung" von Apple, die im Wesentlichen darin 
+besteht, dass Verlage eine Excel-Tabelle ausfüllen sollen, in der sie ihre Apps und jeweils 
+einen Ansprechpartner für Apple benennen. Auf dieser Basis sollen dann anscheinend 
+Kompensationszahlungen von Apple an die App-Publisher erfolgen. 
+Diese 'Lösung' hat unseres Wissens auch der Zeitungsverlegerverband BDZV auf den 
+Weg gebracht. "Wir sind dazu [pvd: zur Mehrwertsteuerregelung] mit Apple (Europa) in 
+Gesprächen und haben dabei sehr positive Signale erhalten. Apple arbeitet an einer Lö-
+sung und hat uns signalisiert, dass für die Zwischenzeit eine Kompensation erfolgen 
+soll", lässt sich Daniela Fitzek, Steuerexpertin beim BDZV, dazu zitieren. Der VDZ steht zu 
+diesem Thema in Kontakt mit den Kollegen des Zeitungsverlegerverbandes.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Neben Verlagen sind 
+auch Digitalkioske etc 
+betroffen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+auch Buchbranche ist 
+betroffen 
+ 
+ 
+Deren Börsenverein 
+hat Kontakt zu Apple 
+herstellen können 
+ 
+ 
+und sogar eine Zusage 
+erwirkt, dass nachge-
+bessert und Kompen-
+sation gezahlt wird 
+ 
+ 
+ 
+ 
+auch BDZV-Mitglieder 
+haben Aussicht auf 
+Kompensation  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint: immerhin! Immerhin – wenn auch hinter verschlossenen Türen und ohne 
+belastbare Zusagen – signalisiert Apple, es wolle nachbessern und sogar eine Entschä-
+digung bezahlen. Wie es bei Google weitergeht ist bisher völlig unklar. Weil der Play Store 
+im Vergleich zu Apples Appstores so umsatzschwach ist, ist bisher kaum jemand über-
+haupt darauf aufmerksam geworden, dass es dort das gleiche Problem gibt. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 28
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Der Lesermarkt in der Corona-Krise – Mai-Update 
+P 
+Corona-Krise 
+ 
+Im Mai hat sich die Nachrichtenlage zur Corona-Krise beruhigt. Das bedeutet nicht, dass 
+sich auch die wirtschaftliche Situation schon deutlich entspannt hätte. Aber was aus Ver-
+lagen und Vertriebsunternehmen zum Thema zu hören war, das schrieb im Wesentlichen 
+Trends und Maßnahmen der beiden Vormonate fort. 
+Neu ist, dass nun allererste Erfahrungswerte zur Nachhaltigkeit des Digitalabo-Booms 
+bekannt werden. Und die sind ermutigend. Es gibt mehrere Einzelfälle deutschsprachiger 
+und weiterer internationaler Medien, die explizit berichten, dass die in den letzten Mo-
+naten neu gewonnenen (überwiegend Probe-)Abonnenten mindestens genauso gute, 
+wenn nicht sogar bessere Umwandlungsquoten oder Haltbarkeiten aufweisen, wie 
+die Neuzugänge der Vor-Corona-Zeit. Nur sehr selten sind uns Berichte über erhöhte Ab-
+gangsquoten begegnet. 
+Digiday berichtet mit Berufung auf Daten des Paywall-Providers Piano, dass im Durch-
+schnitt von weltweiten rund 300 Kunden die Churnquote, also die Kündigungsquote, 
+beim Wechsel vom ersten in den zweiten Abomonat im Durchschnitt seiner Kunden um 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mehrere Anzeichen, 
+dass die 'Corona-
+Boom-Abos' nicht min-
+derwertig sind 
+ 
+Umwandlung und 
+Haltbarkeit mindestens 
+durchschnittlich 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VERMISCHTES
+Vermischtes 
+Vermischtes 
+Die offene Konfrontation mit den US-Riesen wag niemand. Es kursiert das Gerücht, dass 
+Apple einzelnen Beschwerdeführern vorgeschlagen hat, statt auf der gesetzeskonfor-
+men Steuerbehandlung zu bestehen, auf den Appstore als Vertriebskanal zu verzichten. 
+Das wird als Drohung verstanden. 
+Wir glauben: eine solche Drohung wäre zahnlos. Selbst Apple oder Google dürften das 
+PR-Desaster fürchten, das Ihnen droht, wenn alle europäischen Presseverlage darüber 
+berichteten, dass die Konzerne sie vor die Wahl stellen, entweder einem Gesetzesbruch 
+zuzusehen oder auf diese Plattformen zu verzichten. Bisher ist ja schon das Lobbying in 
+Sachen Datenschutz, Leistungsschutz und Steuer-Ethik recht erfolgreich darin gewesen, 
+Bewegung bei den GAFA zu erzeugen. Ein so offensichtliches Verstoßen gegen bereits 
+geltendes Recht wäre nochmal ein ganz anderes Kaliber, um die öffentliche Meinung 
+gegen die Konzerne aufzubringen. 
+Das Steuerrecht hat sich auch früher schon einmal als scharfes Schwert bewiesen. Mit 
+Hilfe des Steuerrechts gelang seinerzeit die Verurteilung Al Capones. Der war bekannt-
+lich nicht nur ethischen Fragen gegenüber taub, sondern er beging Kapitalverbrechen, 
+die ihm die amerikanische Justiz aber nicht nachweisen konnte. Für viele Jahre hinter 
+Gitter brachten ihn die nachweisbaren Verstöße gegen das Steuerrecht. 
+Verlage und Verbände sollten die Chance nicht ungenutzt verstreichen lassen, die darin 
+liegt, an diesem Beispiel aufzuzeigen, wie ignorant Apple und Google mit ihren Interes-
+sen, ja sogar mit geltenden Gesetzen umgehen, wenn man ihnen allein und nicht mit 
+geballter Öffentlichkeit gegenübertritt. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 29
+17% gesunken sei, in Europa sogar um 34%. Auch sei weltweit der Anteil der bezahlten 
+gegenüber den kostenlosen Probeabos angestiegen.  
+Ebenfalls auf Piano-Daten beruht eine Analyse des inma-Forschers Grzegorz Piechota, 
+die mit einem Indexwert darstellt, wie viel mehr neue Abos ab März im Vergleich zum 
+Durchschnitt der Monate Januar und Februar gewonnen wurden. Obwohl der so visuali-
+sierte Boom zuletzt deutlich zurückging, befindet sich der Index immer noch auf Boom-
+Niveau.  
+Außerhalb des Digitalabogeschäfts sind positive Nachrichten rar. Um negativer Bericht-
+erstattung nicht Futter zu geben, hat es die britische Auflagenzertifizierungsorganisation 
+ABC überregionalen Tageszeitungen freigestellt, ob sie ihre monatlichen Auflagenmeldun-
+gen für jedermann öffentlich machen wollen oder nur noch für Agenturen, die vorher eine 
+Vertraulichkeitserklärung abgeben. Hintergrund sind die dramatischen Einzelverkaufsver-
+luste der englischen Tageszeitungen im Zuge der Corona-Krise. Der erste prominente Ver-
+lag, der von dieser Regelung Gebrauch macht, ist News UK, der Verlag von Times und 
+Sunday Times. Schon Anfang des Jahres hatte sich der Telegraph vollständig von der Mel-
+dung seiner Auflagen an die ABC verabschiedet. [pvd: Das dürfte das Ende der bisherigen 
+Transparenz im britischen Vertriebsmarkt bedeuten. Auch wenn die ABC betont, dass 
+es keine Pläne gebe, die Ausnahmeregelung auch auf die regionalen und lokalen Tageszei-
+tungen auszuweiten. Für Zeitschriften scheint das Thema in Großbritannien bisher nicht 
+in der Diskussion zu stehen. In den USA veröffentlichen die Verlage ihre Auflagenzahlen 
+schon seit Jahren nicht mehr.] 
+Weitere Titel haben bekanntgegeben, im Sommer zwei Hefte zu Doppelnummern zu-
+sammenzulegen (z.B. Rock Hard und Emotion). Im Vergleich zu den Vormonaten vermehrt 
+wurden auch Titeleinstellungen vermeldet (FAZ Woche, Ideat, Economist 1843).  
+Definitiv gestrichen wurden der Distripress-Kongress und die Grossotagung im Sep-
+tember. Der auch für diesen Monat vorgesehene Distribution Summit des VDZ ist dage-
+gen in den März 2021 verschoben. 
+Piano: Abgangsquote 
+nach 1. Monat in Eu-
+ropa um 34% besser 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+inma-Grafik zeigt: 
+Boom nimmt deutlich 
+ab 
+ 
+ 
+ist aber immer noch 
+sehr stark 
+ 
+ 
+ 
+ 
+ 
+ 
+ABC erlaubt nationalen 
+Zeitungen, die (schlech-
+ten) Auflagenzahlen ge-
+heim zu halten 
+ 
+ 
+Times&SunTimes ma-
+chen davon Gebrauch 
+ 
+ 
+The Telegraph meldet 
+schon länger nicht 
+mehr 
+ 
+Anfang vom Ende der 
+Auflagentransparenz? 
+(wie in den USA!) 
+ 
+ 
+ 
+Zeitschriften mit Dop-
+pelnummern und Titel-
+Einstellungen 
+ 
+September- Ver-
+triebskongresse abge-
+sagt oder verschoben 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 30
+Du sollst … lernbereit sein 
+Das Medienmagazin KressPro hat in seiner 
+jüngsten Ausgabe Digitalabos zum Schwer-
+punktthema gemacht. Gleich im Vorwort 
+formuliert Chefredakteur Markus Wiegand 
+"10 Gebote für den Digitalverkauf". Gleich 
+das zweite Gebot beruft sich auf Johannes 
+Hauner von der Süddeutschen Zeitung: Du 
+sollst Abos verkaufen und Bundle, aber 
+keine Einzelartikel. 
+Dass dieses Gebot dem Münchner Mana-
+ger hier vielleicht etwas zu pointiert in den 
+Mund gelegt wird, dass er aber im Wesent-
+lichen damit einverstanden sein dürfte, das 
+zeigt er auch im Interview mit pv digest (vgl.
+S.4). Wir hatten – völlig unabhängig, schon 
+Wochen vor Erscheinen des Kress-Heftes –
+nach seiner Meinung zum Einzelartikelver-
+kauf gefragt. Hauner hat hier eine sehr ge-
+festigte Meinung. 
+Das hat er gemein mit einer großen Mehr-
+heit der Manager bei den erfolgreichsten 
+Digitalpresseangeboten. Die Überzeugung,
+dass mit dem Verkauf einzelner Artikel
+keine nennenswerten Summen zu verdie-
+nen sind, und dass die Möglichkeit, einzelne 
+Artikel zu kaufen, das wichtige Abogeschäft 
+beschädigt, ist mindestens so verbreitet wie 
+es vor einigen Jahren noch die These war,
+dass Konsumenten 'niemals' für digitalen 
+Journalismus bezahlen werden. 
+Die große Mehrheit muss diesmal nicht 
+wieder genauso falsch liegen, wie die Paid 
+Content-Skeptiker damals. Sie sollte aber 
+etwas selbstkritischer mit der Möglichkeit 
+umgehen, dass sie falsch liegen könnte. 
+Kaum einer der felsenfest vom 'Verbot' 
+des Einzelartikelverkaufs überzeugten Paid 
+Content-Verantwortlichen hat praktische 
+ Erfahrungen mit diesem Angebotsmodell.
+Nur wenige Seiten hinter Hauners Verbots-
+Gebot berichtet KressPro über die Stiftung 
+Warentest. Die erzielt jährlich über 5Mio€ 
+mit dem Verkauf digitaler Inhalte. Etwas
+mehr als die Hälfte davon mit Abos. Aber 
+auch nur etwas weniger als die Hälfte mit 
+dem Verkauf einzelner Testberichte. Die
+Umsätze aus beiden Vertriebsmodellen 
+wachsen seit Jahren. 
+Beim Spiegel hatte man einmal Erfahrun-
+gen mit dem Einzelartikelverkauf gesam-
+melt. Tatsächlich gelernt hat man dabei nur, 
+dass Einzelverkauf anstelle von Abos nicht 
+funktioniert. Und dass wenige, schlecht 
+platzierte, einzelne Bezahlartikel auch keine 
+Riesen-Umsätze erzielen (aber immer noch 
+mehr, als man vielleicht denken würde).  
+Es stimmt zwar, dass man bei der Mutter 
+aller Flatrates, bei Spotify, keine Einzelstü-
+cke kaufen kann. Apple betreibt aber seinen 
+Einzelkiosk iTunes neben der Apple Music-
+Flatrate weiter. Netflix verkauft zwar keine 
+einzelnen Filme. Aber bei Amazon koexistie-
+ren Kindle Unlimited und der E-Book-Einzel-
+verkauf seit Jahren. 
+Das Hauptargument für den Einzelverkauf 
+von Artikeln hinter einer Paywall ist ohnehin 
+nicht der Business Case. Man kann nicht
+jede Zeitung und jedes Angebot abonnie-
+ren. Aber mit zunehmender Häufigkeit wird 
+man über Social Media et al auf Inhalte 'von 
+irgendwo' aufmerksam, die man lesen 
+möchte. Hier dem sporadischen Nutzer 
+keine Option anzubieten, ignoriert das Kun-
+denbedürfnis. Es treffen dann Web 3.0 und 
+50er-Jahre-Kundenorientierung 
+aufeinan-
+der. Das wird auf die Dauer nicht gutgehen. 
+… letzte Worte 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+Abonnenten profitieren vom Zugriff auf die App und von den ausgabenübergreifenden Recherchemöglichkeiten im Webreader. Bitte achten Sie das Urhe-
+berrecht. Nicht autorisierte elektronische Weiterleitung und Kopien dieser Ausgabe sind Diebstahl. Für die Weitergabe an Mitarbeiter Ihres Unternehmens 
+bieten wir attraktive Lizenzmodelle. Sprechen Sie uns jederzeit an: abo@pv-digest.de 
+AUSGABE 6/2020 ׀ SEITE 31
+  
+ 
+Über pv digest 
+ 
+pv digest ist ein Informationsdienst auf Expertenniveau für das Top-Management 
+rund um das Thema Lesermarkt und Vertrieb journalistischer Produkte. pv digest 
+beruht auf eigenen Recherchen und auf Zusammenfassungen an anderer Stelle ver-
+öffentlichter Informationen und bietet einen einzigartigen Überblick über alle stra-
+tegisch relevanten Vertriebsthemen. pv digest unternimmt in der Regel keine Prü-
+fung wiedergegebener Inhalte und übernimmt keine Garantien für die inhaltliche 
+Korrektheit von Informationen. Genutzte Quellen in pv digest sind in der vorliegen-
+den Ausgabe wie folgt codiert: 
+ 
+ 
+Quellenverzeichnis Ausgabe 6/2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum und 
+Kontaktdaten 
+ 
+HERAUSGEBER: 
+Markus Schöberl (v.i.S.d.P.) 
+Doverkamp 5 
+22335 Hamburg 
+Telefon: 040 308 901 09 
+e-mail: schoeberl@pv-digest.de 
+www.pv-digest.de 
+ 
+pv digest erscheint 11x jährlich,  
+in der Regel am fünften Werktag 
+eines Monats, als personalisiertes  
+PDF-Dokument 
+ 
+PREISE: 
+Regulärer Bezug Deutschland:  
+pro Ausgabe 71€ zzgl. USt., Aus-
+landspreise auf Anfrage 
+ 
+Sonderpreise für Mengenabos  
+oder Firmenlizenzen auf Anfrage 
+ 
+BESTELLUNGEN UND  
+SERVICEFRAGEN:  
+e-mail: abo@pv-digest.de 
+Telefon: 040 308 901 09 
+Post: Doverkamp 5,  
+22335 Hamburg 
+ 
+Bankverbindung: 
+Hamburger Sparkasse 
+BIC:  HASPDEHHXXX 
+IBAN: DE82 2005 0550 1237 1348 10 
+ 
+ 
+ 
+COPYRIGHT: 
+pv digest ist ein empfängerge-
+bundener Informationsservice 
+ 
+ 
+Vervielfältigung und elektroni-
+sche Weitergabe sind untersagt. 
+ 
+ 
+ACHTUNG: der nächste pv digest 
+erscheint am 7. Juli 2020 

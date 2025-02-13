@@ -1,0 +1,2998 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulären 
+Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz sinnvoll 
+ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+Ausgabe 5/2022 
+Liebe Leserinnen und Leser, 
+über zwei Jahre nach dem Ausbruch 
+der Corona-Pandemie füllt sich der 
+Terminkalender endlich wieder mit 
+Tagungen und Kongressen. Auf den 
+Bühnen dieser Events finden sich 
+häufig die teils weltbekannten 
+Leuchtturm-Cases. Das ist nicht ver-
+kehrt. Tatsächlich hat wahrscheinlich 
+kein einzelnes Medium die ganze 
+Branche mehr inspiriert und mehr 
+dazu beigetragen, dass die Chancen 
+des digitalen Nutzermarktes erkannt 
+werden, als die New York Times. Und vielleicht haben hiesige Verlage nirgendwo 
+mehr Mut für ihr eigenes Geschäft geschöpft als in Skandinavien. Trotzdem ist es 
+erfrischend, wenn man Fallstudien begegnet, die eine neue Geschichte erzählen. 
+Ab der folgenden Seite stelle ich Ihnen die Architekturplattform Competitionline 
+vor, die unter anderem die sehr geringe Churnquote 5% vorzuweisen hat. 5% pro 
+Jahr! Und ab Seite 10 lesen Sie, wie es dem Romanhefteverlag Cora gelungen ist, 
+einer ganz überwiegend älteren und weiblichen Leserschaft so erfolgreich digitale 
+Produkte zu verkaufen, dass diese für rund ein Drittel des Umsatzes stehen. 
+Für alle Lesern, die auch noch Presse auf Papier verkaufen, möchte ich die beiden 
+Berichte ab Seite 17 in den Vordergrund rücken. Ich habe mich erkundigt, wie es in 
+England weiterging, nachdem dort vor einem Jahr eine kleinere Supermarktkette 
+angekündigt hatte, gegen nutzlose Plastik-Add-Ons bei Kinderzeitschriften vorge-
+hen zu wollen. Und ich berichte über den aktuellen Stand bei der unaufhaltsamen 
+Entwicklung in Richtung kassiererlose Supermärkte. 
+Ich wünsche Ihnen einen guten und verkaufsstarken Monat, für den diese Ausgabe 
+noch viele weitere Inspirationen beinhaltet. Lassen Sie sich überraschen. 
+Markus Schöberl, Herausgeber pv digest 
+PS: Unterstützen Sie mich und pv digest mit Feedback oder Hinweisen? Hier und in 
+der Versand-E-Mail finden Sie einen Link zu einem 1-Minute Online-Fragebogen zu 
+dieser Ausgabe. 
+Der pv digest 
+Quick Guide 
+ 
+Das Wichtigste in 15 Minuten 
+ 
+ 
+Für Zeitschriften- 
+Verlage 
+Für Zeitungs/ 
+News-Verlage 
+Zu Paid Content 
+ 
+Für Handels- 
+Verantwortliche 
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.  2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.17 
+Analysen und  
+Daten                 
+ 
+S.21 
+Meinungen 
+ 
+S.26 
+Personalien 
+ 
+S.29 
+letzte Worte 
+S.30 
+Editorial 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 2
+ 
+ 
+ 
+ 
+ 
+5% Churn, 50% Umwandlung aus Probeabos: Competiti-
+online erzielt Leuchtturmwerte in der B2B-Nische 
+P 
+Paid Content B2B 
+ 
+"Wir betreiben eine Informations- und Ser-
+viceplattform für Architekten und das nä-
+here Umfeld wie Bauingenieure und Archi-
+tektur-Studenten", 
+beschreibt 
+Gründerin 
+und Geschäftsführerin Angelika Fittkau-
+Blank ihr Unternehmen.  
+Das Competitionline-Angebot setze sich 
+aus mehreren Komponenten zusammen:  
+> Ein News-Bereich mit Artikeln zu aktuellen 
+Trends und Wirtschaftsnachrichten für Ar-
+chitekten und Planungsbüros. Hier gehe es ausschließlich um die wirtschaftliche Seite 
+der Branche. Architekturkritik, ein großes Themenfeld anderer Medien, finde bei Compe-
+titionline nicht statt. 
+> Ein Ausschreibungsdienst, der tagesaktuell über Bauprojekte und Wettbewerbe infor-
+miert, um die sich Architekten und Architekturbüros bewerben können. Dieses Angebot 
+recherchiere Competitionline selbst aus über 600 Datenquellen, die teils per Schnittstelle 
+an die eigene Datenbank angebunden sind, teils per Monitoring einschlägiger Informati-
+onsdienste, die halbautomatisch beobachtet werden und teils auch schlicht durch Einzel-
+recherchen erschlossen würden. Diese Daten werden von Competitionline neu struktu-
+riert, kategorisiert und damit durchsuchbar gemacht. 
+"Aus diesen Ausschreibungsdaten können wir wunderbar auch wirtschaftliche Entwick-
+lungen herauslesen, die dann wieder Basis für unsere Berichterstattung im News-Bereich 
+sind. Uns stehen damit Informationen für Hintergrundberichte zur Verfügung, über 
+die kein anderes Medium verfügt. Für die Berichterstattung ergänzen wir die Daten um 
+Stimmen aus Interviews und Gesprächen mit Branchenexperten." 
+> Eine Präsentationplattform, auf der Architekturbüros mit Profilen vorgestellt werden. 
+Diese Profile gehen teils weit in die Tiefe. Ein einzelnes Büro kann dort schon einmal mit 
+über 100 Referenzprojekten vorgestellt werden. Die Büros können, müssen diese Profile 
+aber nicht selbst befüllen. Die Redaktion von Competitionline pflegt diese Profile im Rah-
+men der eigenen Recherchearbeiten.  
+Der Fachkräftemangel und die Möglichkeit, sich gegenüber potenziellen Mitarbeitern 
+zu präsentieren, mache diesen Teil des Angebotes zu einem ganz wichtigen Bestandteil. 
+ 
+ 
+ 
+Competitionline: Platt-
+form für Architekten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Berichterstattung 
+zur wirtschaftlichen 
+Seite von Architektur 
+ 
+ 
+ 
+ 
+ 
+• exklusiv recher-
+chierte tagesaktuelle 
+Datenbank mit Pro-
+jektausschreibungen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Präsentationsplatt-
+form für Architektur-
+büros 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+NACHRICHTEN AUS VERLAGEN
+UND VERLAGSVERTRIEBEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 3
+Aber auch für Partnerschaften, bei denen mehrere beteiligte Planungsbüros sich um 
+ein Bauvorhaben gemeinsam kümmern, seien die Profile ein sehr wertvolles Instru-
+ment, erzählt Angelika Fittkau-Blank. 
+> Teil der Plattform ist auch ein Stellenmarkt, auf dem die Planungsbüros ihre offenen 
+Stellen ausschreiben können.  
+Die meisten dieser Informationen und Dienste stehen hinter einer harten Paywall. Wer 
+sie nutzen will, muss bezahlen. Als Einzelperson 240€ im Jahr (Studenten 60€), als Unter-
+nehmen – je nach Mitarbeiterzahl – zwischen 300€ und über 1.000€. 
+Insgesamt zählt Competitionline rund 26.000 Mitglieder, d.h. Personen, die im Rahmen 
+eines dieser Angebote nutzungsberechtigt sind. Über 90% dieser Mitglieder stammen 
+aus 'Büro Mitgliedschaften', also aus Mehrfachlizenzen, die Unternehmen für ihre Mit-
+arbeiter abschließen. Aus dieser wichtigsten Umsatzquelle resultierten im vergangenen 
+Jahr rund 2Mio€ Erlös. Weitere 1,2Mio€ erwirtschaftete Competitionline mit Stellenanzei-
+gen, den verbleibenden Rest zum Gesamtumsatz von 3,4Mio€ mit dem Anzeigengeschäft. 
+Damit ist das Abonnementgeschäft heute klar die wichtigste Umsatzquelle. Das war 
+nicht immer so seit dem Launch des Angebotes im Jahr 2003. Erst seit 2009 seien die In-
+formationen rund um Ausschreibungen komplett bezahlpflichtig. "Das war ein wichtiger 
+Wendepunkt in der Unternehmensgeschichte. Vorher war die Nutzung überwiegend kos-
+tenfrei. Von 2003 bis 2009 war die Entwicklung des Unternehmens relativ überschaubar. 
+Seitdem wachsen wir in jedem Jahr mindestens zweistellig", sagt Angelika Fittkau-Blank. 
+Niedriger Churn – hohe Umwandlungsquoten 
+Das Abonnementgeschäft bei Competitionline ist bemerkenswert stabil. Die B2B-Abos 
+('Büro 
+Mitgliedschaften') 
+würden 
+kaum 
+einmal 
+gekündigt. 
+Rund 
+95% 
+der 
+ 
+ 
+ 
+ 
+ 
+• Stellenmarkt 
+ 
+ 
+harte Paywall;  
+• Einzelpersonen be-
+zahlen 240€ p.a. 
+• Unternehmenslizen-
+zen ab 300€ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26.000 Personen ha-
+ben Zugang zu den In-
+halten (=Mitglieder) 
+ 
+90% davon im Rahmen 
+von Unternehmensmit-
+gliedschaften 
+ 
+60% Umsatz aus Paid 
+Content/Mitgliedschaf-
+ten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nur 5% Churn jährlich 
+(95% Bleibequote) 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 4
+Mitgliedschaften eines Jahres bestünden auch im darauffolgenden Jahr noch fort. 
+Diese extrem hohe Kundenbindung resultiert nur aus den Produkteigenschaften. Auf Kun-
+denbindung zielende Marketingaktivi-
+täten betreibt Competitionline nicht. 
+Dass die Abonnements dennoch kaum 
+einmal gekündigt werden, liegt somit 
+daran, dass die Kunden nicht auf den 
+Nutzen des Angebotes verzichten wol-
+len. Insbesondere die Büroprofile spiel-
+ten hier eine große Rolle, mutmaßt Fitt-
+kau-Blank. Auf die umfangreichen Pro-
+file mit teils über 100 Referenzprojek-
+ten, die textlich und bildlich die Kompe-
+tenzen der einzelnen Büros belegen, 
+verzichte man nicht freiwillig. Kündi-
+gungen resultierten praktisch nur aus 
+Büroschließungen oder -umwidmun-
+gen.  
+Beinahe genauso beeindruckend wie die Haltbarkeit der bestehenden Abos sind die Um-
+wandlungsquoten in der Neukundengewinnung. Rund 50% der kostenlosen 30 Tage-
+Testmitgliedschaften für Büros (Mehrfachlizenzen) resultierten in einer bezahlten 
+Mitgliedschaft [mit anschließend sehr geringen Churnquoten, s.o.].  
+Ganz anders sieht das bei Einzelmitgliedschaften aus. Nur 17% der testweise abge-
+schlossenen Einzelmitgliedschaften führen heute zu einer bezahlten Mitgliedschaft. 
+Seit einer drastischen Preiserhöhung (Verdreifachung!) für die Einzelabos vor einem Jahr 
+ist dieses Angebot deutlich weniger attraktiv. Das sei aber durchaus das Ziel gewesen. An-
+gesichts einer De-facto-Vollbeschäftigung in der Zielgruppe der Architekten geht Competi-
+tionline davon aus, dass praktisch jeder Abonnent für eine Mehrfachlizenz in Frage kommt. 
+Man überlege sogar, Einzelmitgliedschaften gar nicht mehr anzubieten, sagt Angelika Fitt-
+kau-Blank. 
+Auf die Haltbarkeit der Einzelmitgliedschaft hat sich das neue Pricing und die stark 
+reduzierte Wandlung in bezahlte Abos sehr positiv ausgewirkt. Während früher jähr-
+lich fast ein Viertel aller Einzelmitgliedschaften wieder gekündigt wurde, scheinen die Ein-
+zelmitgliedschaften heute eher noch niedrigere Churnquoten aufzuweisen als die Büro-
+mitgliedschaften. Nur ein Jahr nach der drastischen Reform des Angebotes ist es aber si-
+cher noch zu früh, hier weitreichende Schlussfolgerungen zu ziehen. 
+Wie läuft die Neukundengewinnung für ein Angebot mit harter Paywall 
+Die 30 Tage-Testmitgliedschaft ist derzeit das einzige Angebot für Neukunden und 
+die einzige aktive Neukundengewinnungsmaßnahme. Der Kontakt mit der Paywall ist 
+die einzige Stelle, an der Competitionline zum Abschluss eines Abos/einer Mitgliedschaft 
+auffordert. "Wir nennen das aber nicht Paywall, sondern 'Member-Bridge'", sagt Fittkau-
+ 
+ 
+ 
+keine dedizierten Kun-
+denbindungsaktivitä-
+ten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+wichtig für die Kunden-
+bindung: die umfang-
+reichen Präsentations-
+profile 
+ 
+ 
+ 
+ 
+ 
+ 
+auch Unternehmens-
+mitgliedschaften begin-
+nen mit Gratis-Monat 
+=>50% Umwandlung 
+ 
+ 
+ 
+Probemonate für Ein-
+zelmitgliedschaften 
+wandeln nur zu 17% 
+ 
+(seit der Preis massiv 
+angehoben wurde; da-
+für nun auch hier gute 
+Haltbarkeiten) 
+ 
+ 
+ 
+Vor Preis-Verdreifa-
+chung: fast 25% Churn; 
+heute weniger als 5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Paywall+30 Tage Gra-
+tistest ist die einzige 
+Neukundengewin-
+nungsmaßnahme 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 5
+Blank. Das sei Brücke, an der man die Noch-Nicht-Mitglieder "an die Hand nehme und auf 
+das andere Ufer begleitet".  
+Wie gelingt es einem kleinen Nischenmedium ohne nennenswertes Marketing und mit 
+einer harten Paywall neue Kunden zu gewinnen? Die wichtigste Quelle neuer Kunden 
+sei der eigene Newsletter, der von 30.000 Noch-Nicht-Mitgliedern bezogen werde. Zwar 
+befinden sich sämtliche im Newsletter verlinkten Inhalte hinter der Paywall. Aber einige 
+wenige Informationen, die auf der Website hinter der Paywall stehen, werden im 
+Newsletter schon preisgegeben – beispielsweise die Namen von Wettbewerbsgewin-
+nern. Das scheint eine ausreichende Motivation für Noch-Nicht-Mitglieder darzustellen, 
+den täglichen Newsletter zu beziehen, sich damit täglich dem Anreiz vielversprechender 
+Inhalte auszusetzen und eventuell eines Tages auch eine bezahlte Mitgliedschaft einzuge-
+hen. Diese Conversions befördert Competitionline durch die Optimierung von Artikel-
+Überschriften oder Teaser-Texten im Newsletter. 
+Und wie finden potenzielle Interessenten den Newsletter? In geringem Umfang ('mittle-
+rer fünfstelliger Bereich') investiert Competitionline in Google-Werbung. Der größere 
+Teil, vermutet Angelika Fittkau-Blank, komme über Empfehlungen von bezahlenden Mit-
+gliedern auf das Angebot. Hier spielten auch die Hochschulen eine bedeutsame Rolle, weil 
+viele Professoren ihren Studenten Competitionline als Informationsquelle empfehlen wür-
+den.  
+Außerdem betreibt Competitionline ein Partnerprogramm, das es Hochschulen ermög-
+licht, ihren Architektur-Studenten gegen einen geringen Betrag (zwischen 1€ und 5€ jähr-
+lich pro Student) Zugang zu den Competitionline-Inhalten zu verschaffen. Hier sei das Ziel, 
+Architekten während ihres gesamten Berufslebens zu begleiten, beginnend im Studium. 
+Viele reguläre Mitgliedschaften kämen über Hochschulabgänger zustande, die dann ihre 
+Arbeitgeber auf das Angebot aufmerksam machten. 
+Frau Fittkau-Blank, was möchten Sie noch erzählen, welchen Tipp hätten Sie für die 
+Leser von pv digest? 
+"Für uns ist derzeit tatsächlich die Mitgliedschaft nach Unternehmensgröße ein 
+Game-Changer. Wir werden demnächst in unserem Aboshop auch Büromitgliedschaften 
+für sehr große Unternehmen anbieten, wo die Abos dann mehrere tausend Euro kosten 
+werden. 
+Das ist etwas, von dem ich glaube, dass viele Verlage darüber nachdenken könnten. Denn 
+vermutlich ist bei den meisten Medien ein überwiegender Teil der Leser bei einem Unter-
+nehmen beschäftigt. Wenn man viele, viele Abonnenten auf einen Schlag gewinnen 
+möchte, dann ist, auch im Tageszeitungsbereich denke ich, der Weg über die Unterneh-
+men vielversprechend. Die Möglichkeit, die Zeitung im Rahmen einer Firmenlizenz le-
+sen zu können, wäre ein sehr attraktives Incentive für Mitarbeiter, denke ich.  
+Den Unternehmen sollte man dafür nur eine Frage stellen: 'ist mein Angebot für Ihre 
+Mitarbeiter wertvoll?'. Wenn man diese Frage mit 'Ja' beantworten kann, dann kommt es 
+nur darauf an, den Unternehmen ein einfaches Angebot zu machen, ein Angebot, bei 
+dem es keine Rechnerei gibt. Das ist am besten ein Angebot, das sich an der Anzahl der 
+Mitarbeiter orientiert, nicht an der Anzahl der genutzten Zugänge. Denn wenn die 
+nicht "Paywall" son-
+dern "Member Bridge" 
+ 
+ 
+Kontakt zu neuen 
+Abonnenten über 
+Newsletter 
+ 
+ 
+alle Links im Newslet-
+ter zeigen hinter die 
+Paywall 
+ 
+ 
+USP Newsletter: einige 
+wenige Bezahl-Infor-
+mationen werde hier 
+gratis preisgegeben 
+ 
+ 
+Newsletter-Bezieher 
+über Empfehlungen 
+und Google-Werbung 
+ 
+ 
+ 
+ 
+ 
+ 
+Hochschul-Partnerpro-
+gramm: sehr günstige 
+Mitgliedschaften für 
+Studenten 
+ 
+ 
+ 
+Tipp der Competiti-
+online-Gründerin: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Firmenlizenzen bieten 
+große Chancen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+wichtig: Preise für B2B-
+Lizenzen nach Unter-
+nehmensgröße, nicht 
+nach Anzahl Nutzer 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 6
+Unternehmen anfangen zu überlegen, wie viele Zugänge sie kaufen sollen, dann be-
+ginnt die Rechnerei, dann steht auf einmal der Preis im Vordergrund und nicht mehr der 
+Nutzen, den ich von den Inhalten habe. Darum fragen wir die Unternehmen nur, wie groß 
+sie sind, und dann bekommen sie von uns den richtigen Preis." 
+ 
+ 
+ 
+ 
+Alternatives Economiques. harte Paywall, 1 Gratisarti-
+kel im Tausch gegen Newsletterregistrierung 
+96 
+P 
+Alternatives  
+Economiques 
+ 
+Alternatives Economiques ist ein 
+1980 lanciertes, monatlich er-
+scheinendes Wirtschaftsmaga-
+zin aus Frankreich. Mit über 
+80.000 verkaufter Auflage gehört 
+die Zeitschrift zu den größten 
+Wirtschaftstiteln 
+des 
+Landes. 
+21.000 Abonnenten bezahlen für 
+das Digitalabo; zwei Drittel da-
+von wiederum auch noch einen 
+Aufpreis von einem Euro mo-
+natlich, um die gedruckte Aus-
+gabe zusätzlich zu erhalten. 
+Auf der Website von Alternatives Economiques kommt die Paywalltechnik des franzö-
+sischen Anbieters Poool zum Einsatz. Dessen Marketingmanagerin Madeleine White hat 
+kürzlich über einige Erfahrungswerte des Mediums gebloggt. pv digest hat sich im Ge-
+spräch mit Frederic Desiles, Strategie- und Marketingchef bei Alternatives Economiques, 
+davon überzeugt, dass der PR-motivierte Bericht von Madeleine White belastbar ist.  
+Für das Digitalabogeschäft setzt die 
+Website 
+alternatives-economiques.fr 
+auf eine harte Paywall. Gratisnutzer 
+können aber einen Artikel lesen, 
+wenn sie sich für den Newsletter an-
+melden. Dabei hat Alternatives Econo-
+miques herausgefunden, dass die Re-
+gistrierungsquote auch vom genauen 
+Wording des Textes auf dem Anmelde-
+button abhängt. 'Beenden Sie die Lek-
+türe' war dabei zum Beispiel erfolgrei-
+cher als 'Lesen Sie weiter'. Weil alles im 
+Fluss ist, testet Alternatives Econo-
+miques auch weiterhin. Derzeit eine 
+ganz nüchterne Variante: 'Melden Sie sich für den Newsletter an'. 
+ 
+ 
+ 
+französisches Wirt-
+schaftsmagazin; 
+Ø80.000 verkaufte Ex., 
+21.000 Digitalabos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aboangebot heute lau-
+tet: Digitalabo, +1€ zu-
+sätzlich Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+harte Paywall, Newslet-
+teranmeldung schaltet 
+1 Artikel frei 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+viele Tests zur Gestal-
+tung der Newsletteran-
+meldung 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 7
+Mit diesem Mechanismus hat Alternatives Economiques die Anzahl der Newsletter-Bezie-
+her von 200.000 gegen Ende 2020 bis auf heute 360.000 steigern können. 
+Nicht nur das. "Wir haben außerdem wichtige Erkenntnisse darüber gewonnen, was 
+unsere Nutzer auf unserer Seite wertschätzen. Dank hunderter Artikel-Freischaltungen 
+täglich verstehen wir nun, welche Inhalte unser Publikum interessieren, was wiederum 
+unseren härteren Umwandlungsmaßnahmen wie Registrierung und Abobestellungen zu-
+gutekommt", sagt Frederic Desiles. 
+Der Nachteil dieser Form des Inhaltesamplings ist freilich, dass die Nutzer anonym blei-
+ben. Der Eintrag in die Empfängerliste des Newsletters ist nicht mit dem Nutzungsverhal-
+ten auf der Website verknüpft. Darum bereitet Alternatives Economiques nun eine Re-
+gistrierungswall vor. Damit wird der Publisher Nutzungsdaten erheben und individuell 
+nachvollziehen, welche Inhalte einen Nutzer interessieren und besser analysieren können, 
+an welchem Punkt dieser auf dem Weg zu einem bezahlten Abo steht.  
+Gute Erfahrungen hat Alternatives Economiques 
+auch damit gemacht, im Rahmen einer zeitlich befris-
+teten Preisaktion die Bezahldatenerfassung direkt 
+an der Paywall stattfinden zu lassen. "Wir hatten 
+eine Eingebung, dass die Anzahl der Impulsbestellun-
+gen verbessert werden könnte. Darum haben wir 
+diese Form der Paywall entwickelt, die es erlaubt, mit 
+nur einem Klick zu bestellen. Seit wird diese Strategie 
+haben, haben sich die Umwandlungsquoten an unse-
+rer Paywall um beeindruckende 40% verbessert", sagt 
+Frederic Desiles. 
+Im Gespräch mit pv digest führt er dann aus, warum 
+dieser Direktbezahlprozess bisher nur bei befristeten 
+Promotions zum Einsatz kommt und nicht auch auf 
+der normalen Paywall: In der Regel sollten den Abon-
+nenten mehrere Optionen angeboten werden, zum 
+Beispiel die Option, gegen Aufpreis auch das Printpro-
+dukt zu abonnieren oder die Wahl zwischen einem 
+monatlichen und einem Jahresabo. Diese Optionen-
+Vielfalt lasse sich aber auf der Paywall kaum darstel-
+len. Darum setzt Desiles die direkte Bezahldatenerfassung bisher nur im Rahmen von 
+Aktionen ein, bei denen ein vorab fertig geschnürtes Angebot zum Einsatz kommt. 
+ 
++80% NL-Bezieher in 
+weniger als 18 Mona-
+ten 
+ 
+ 
+wichtiges Datum: wel-
+che Beiträge führen 
+zur Newsletteranmel-
+dung 
+ 
+ 
+ 
+in Vorbereitung: Regist-
+rierungswall  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++40% Abobestellungen 
+bei Abowerbeaktionen, 
+wenn Bezahlung direkt 
+auf der Paywall erfolgt 
+ 
+ 
+Le Monde launcht tägliche englische Digitalausgabe 
+79 
+26 
+Le Monde in English 
+ 
+Die führende französische Tageszeitung Le Monde hat ein englischsprachiges Bezahlan-
+gebot gelauncht. lemonde.fr/en/ ist sehr ähnlich gestaltet wie die französischsprachige 
+Website lemonde.fr. Allerdings erscheinen alle Artikel und die gesamte Kommunikation 
+inklusive der Aboschnittstelle auf Englisch, und es werden dort täglich nur rund 70 Artikel 
+veröffentlicht. Die Übersetzungsarbeit übernehmen zwei amerikanische Agenturen 
+ 
+ 
+auf lemonde.fr/en/ er-
+scheinen täglich rund 
+70 Artikel auf Englisch 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 8
+(Proofreading Services und Lionbridge), deren Kosten durch die Nutzung von Überset-
+zungssoftware im Rahmen gehalten werden. Deren Texte werden wiederum von französi-
+schen Redakteuren geprüft, editiert und schließlich veröffentlicht. 
+Abonnenten des französischen Digitalangebotes haben Zugang auch zum neuen eng-
+lischsprachigen Angebot, wenn sie nicht nur für das günstigste Digitalabo der Zeitung be-
+zahlen ('Essentiel', 9,99€/Monat), sondern für eines der beiden teureren Aboangebote (ab 
+14,99€/Monat). Für nur-Englischsprecher ist allerdings der Preis des französischen Ba-
+sisangebotes angekündigt (9,99€/Monat). Im ersten Jahr bezahlen sie (in Europa) sogar 
+nur 2,49€ pro Monat. Die Abwicklung der weltweiten Bezahlungen läuft über den Dienst 
+Stripe. Damit können die Abonnenten oft ihre bevorzugte Bezahlmethode und ihre Hei-
+matwährung nutzen. Le Mondes Produkt- und Marketingchefin Lou Grasser sagt, für eine 
+erfolgreiche Internationalisierungsstrategie müsse man "die Gewohnheiten der Konsu-
+menten in den angezielten Ländern antizipieren und in der Lage sein, angepasste Bezahl-
+methoden anzubieten". Das bedeute zum Beispiel, in Afrika das dort sehr verbreitete Be-
+zahlen per Smartphone möglich zu machen.  
+ 
+ 
+Le Monde hat derzeit rund 420.000 Digitalabos. Davon stammen etwa 10% nicht aus 
+Frankreich. Bisher hat Le Monde ausschließlich frankophone Märke bearbeitet, beson-
+ders Afrika. Nun adressiere man "eine andere Zielgruppe, die englischsprachigen Leser, 
+die nach einer alternativen Perspektive auf europäische und internationale Nachrichten, 
+Politik, die Umweltkrise, Wirtschaft oder Kultur suchen“, sagt Louis Dreyfus, Vorstandsvor-
+sitzender Le Monde Gruppe. 
+Le Monde soll auch sehr erfolgreich dabei sein, jüngere Abonnenten zu gewinnen. Press-
+gazette berichtet, dass im vergangenen Jahr fast die Hälfte aller neuen Abonnenten jün-
+ger als 34 Jahre alt gewesen sei. 
+ 
+ 
+ 
+ 
+ 
+für französische Abon-
+nenten oberhalb des 
+Basisabos ist der Zu-
+gang inklusive 
+ 
+ 
+Abonnenten des neuen 
+Angebotes sollen spä-
+ter den Preis des frz. 
+Basisangebotes zahlen 
+ 
+Im ersten Jahr sogar 
+nur 2,49€/Monat 
+ 
+o.ä., jeweils in Landes-
+währung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+bisher etwa 40.000 
+nichtfranzösische 
+Abonnenten bei 
+420.000 Digitalabos 
+ 
+ 
+ 
+ 
+Le Monde erfolgreich 
+bei jungen Lesern  
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 9
+ 
+ 
+Daily Wire: auch 'rechte' Medien können Paid Content 
+3 
+The Daily Wire 
+ 
+Eine häufige Diagnose in pv digest lautet, dass es zwar mittlerweile auf der ganzen Welt 
+digital only erscheinende Digitalpresseangebote gibt, die sich zu großen Teilen oder 
+gar ausschließlich über Zahlungen ihrer Leser finanzieren. Dass diese Medien aber vor 
+allem aus der eher linken und alternativen Seite des politischen Spektrums stammen 
+[Ausnahmen bestätigen die Regel; zum Beispiel unsere Berichte über freiwilliges Bezahlen 
+bei Tichys Einblick (#5/2016, #11/2017) oder beim österreichischen Blogger Andreas Un-
+terberger (#10/2015). Schon das Alter dieser Berichte zeigt, dass wir bisher nicht viel über 
+Paid Content bei rechtskonservativen Medien zu berichten gefunden haben.]  
+Ein sehr konservativer – nicht 
+wenige Medienjournalisten mei-
+nen ultrarechter – Digitalpublis-
+her ist das 2015 gegründete The 
+Daily Wire. Laut einem aktuellen 
+Bericht auf forbes.com ist The 
+Daily Wire tatsächlich auch mit 
+Paid Content sehr erfolgreich. 
+600.000 Abonnenten soll das 
+Angebote derzeit zählen. Die be-
+zahlen (außerhalb von Rabattak-
+tionen) 12$ monatlich im Rahmen eines Basisangebotes oder gar 20$, wenn sie sich zu-
+sätzlich den Zugang zu digitalen Live-Events und einen 20% Rabatt im Merchandising-Shop 
+des Anbieters sichern wollen.  
+Neben dem Lesermarkt und Werbeeinnahmen tragen auch die Verkäufe diverser Pro-
+dukte signifikant zu den aktuell hochgerechnet 150Mio$ Dollar jährlicher Umsatz bei. 
+Fast 200 Mitarbeiter beschäftigt das profitable Unternehmen. 
+Bisher publiziert The Daily Wire neben der Website vor allem Podcasts. Außerdem erzie-
+len Beiträge von The Daily Wire riesige Reichweiten auf Facebook. Kritiker sehen den 
+ 
+ 
+ 
+ 
+ 
+Viele digital only er-
+scheinende Paid Con-
+tent-Angebote stehen 
+politisch eher links 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nicht so The Daily 
+Wire. 600.000 Digital-
+abos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+neben Paid Content Er-
+löse aus Werbung und 
+Merchandising 
+ 
+ 
+ 
+ 
+ 
+pvd meint Im Herbst 2014 hatte das Handelsblatt seine englischsprachige Global 
+Edition gestartet und versucht, mit der gleichen Logik wie Le Monde ein weltweites Pub-
+likum zu adressieren. Nach anfänglichen Erfolgsmeldungen in typischer Steingart-Ma-
+nier wurde das Angebot im Herbst 2018 massiv eingedampft und dümpelt seitdem vor 
+sich hin. Der Spiegel betreibt eine englischsprachige Unter-Website, die aber gratis nutz-
+bar ist und wo regelmäßig auf Englisch Artikel erscheinen, für die auf Deutsch bezahlt 
+werden muss. Zumindest in unseren Märkten kennen wir kein Beispiel für ein Medium, 
+das sich in eine andere Sprache übersetzt erfolgreich verkauft. Es gibt bei uns allerdings 
+auch kein Medium, das relativ zu seinem Print-Stammgeschäft so erfolgreich Digitalabos 
+verkauft, wie Le Monde. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 10
+Publisher gerade in diesem Bereich als einen problematischen Verbreiter von 'Fake News' 
+und realitätsverweigernden Berichten zu Themen wie Klimawandel oder Covid-19. 
+Der nun bekannt gewordene große Erfolg mit Digitalabos soll zukünftig noch beför-
+dert werden durch den Ausbau der exklusiven digitalen Inhalte. Hier setzt The Daily Wire 
+vor allem auf Unterhaltungs-Inhalte, die sich von anderen Unterhaltungs-Inhalten 
+dadurch abgrenzen, dass sie zur politischen Linie passen. Dazu zählt ein "nicht-woker" Kin-
+derkanal oder Erwachsenenunterhaltung ohne Rücksicht auf die Belange der LGBTQ-Ge-
+meinde. Satte "mindestens" 100Mio$ sollen in den kommenden drei Jahren in Unterhal-
+tungsinhalte investiert werden, kündigt Mitgründer Jeremy Boreing an. Der kommt aus der 
+Filmbranche und ist sich der Risiken, die eine solche Strategie mit sich bringt, sehr bewusst. 
+ 
+ 
+ 
+neue Strategie: Unter-
+haltungsinhalte 
+ 
+ 
+ 
+ 
+ 
+100% weibliche Leser- 30% Digitalumsatzanteil 
+P 
+Cora: Erfolg mit digi-
+talen Romanen 
+ 
+Im Cora Verlag erscheinen jährlich rund 450 neue Romanhefte und noch einmal 350 
+wiederaufgelegte ältere Produkte. Sie alle adressieren eine überwiegend weibliche Le-
+serschaft, der sie unter dem Label verschiedener Serienmarken ('Julia', 'Baccara' usw.) und 
+gut 30 'Reihen' eine verlässliche Qualität stets neu aufbereiteter Liebesromane anbieten. 
+7,5Mio Exemplare seiner Produkte verkauft der Verlag jährlich, davon rund 10% an Abon-
+nenten und nur etwas mehr als die Hälfte über den stationären Einzelhandel, wo der Ver-
+lag für seine buchartigen Produkte die Vertriebswege des Pressehandels nutzt. Etwa ein 
+Drittel seines Umsatzes erzielt der Verlag durch den Verkauf seiner Produkte in di-
+gitaler Form. 
+Gemessen an den Durchschnittswerten der übrigen im Pressehandel vertriebenen Pro-
+dukte liegt der Digitalanteil an den Umsätzen des Cora Verlages damit sehr weit vorne. Wie 
+kommt es, dass ausgerechnet ein Angebot, das sich an eher ältere und praktisch aus-
+schließlich weibliche Leser richtet, so großen Erfolg im digitalen Vertriebsmarkt hat? 
+Auf diese Frage antwortet Nicole Lüdtke, Leiterin des Bereiches Digital & New Business 
+Development beim Cora-Mutterunternehmen Verlagsgruppe HarperCollins Deutschland 
+GmbH, im Gespräch mit pv digest zunächst mit dem Stichwort 'E-Reader' und dann mit 
+einem Blick in die Vergangenheit. 
+Die ersten E-Reader seien Ende 2009 in Deutschland verfügbar gewesen. Während digi-
+tale Bücher anfangs als schlichte PDF-Dokumente angeboten wurden, ermöglichten 
+ 
+ 
+Cora Verlag publiziert 
+jährlich rund 450 neue 
+Romanhefte und legt 
+350 neu auf 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hauptvertriebsweg: 
+Pressehandel 
+ 
+rund 1/3 des Umsatzes 
+aus Verkauf digitaler 
+Produkte 
+ 
+ 
+ 
+hoher Digitalanteil bei 
+älterer weiblicher Le-
+serschaft! 
+ 
+ 
+ 
+Basis: E-Reader /  
+E-Books 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 11
+diese Geräte eine ganz neue Qualitätserfahrung beim Lesen digitaler Bücher. Allerdings 
+gab es damals kaum Lesestoff. Im PDF-Format, in dem die allerersten digitalen Bücher 
+noch publiziert wurden, seien über den Buchgroßhandel damals wenige 100 Titel verfüg-
+bar gewesen, schätzt sie.  
+Weil Cora aber aus ersten Tests schon den Eindruck gewonnen hatte, dass E-Reader für 
+die eigenen Produkte durchaus chancenreich seien, habe man sich 2010 vorgenommen, 
+gleich 3.000 Romane als E-Books aufzubereiten. Angesichts einer Backlist von zehntausen-
+den Titeln verfügte der Verlag dafür über ausreichend 'Content'. Aber längst nicht alle In-
+halte waren bereits digitalisiert; geschweige denn strukturiert verfügbar und mit den not-
+wendigen Metadaten versehen, ohne die ein Vertrieb über den Onlinehandel gar nicht 
+möglich ist. Mit viel Bereitschaft zur Improvisation, der Zusammenarbeit mit gerade erst 
+entstehenden, spezialisierten Dienstleistern und unter Nutzung von Excel-Tabellen als Er-
+satz für eine noch nicht vorhandene spezielle Verlagssoftware wurde die Zielmarke von 
+3.000 E-Books etwa ein Jahr später erreicht. "Keiner hatte damals so viele E-Books wie 
+wir", erinnert sich Nicole Lüdtke an diese Zeit. 
+Noch vor Amazon erster großer Vertriebspartner für dieses Produktsegment war Apple 
+mit dem iBooks-Store. Im Vergleich zu den übrigen dort angebotenen Produkten konnte 
+Cora mit relativ niedrigen Verkaufspreisen punkten. Während klassische Bücher in digita-
+ler Form ab neun oder zehn Euro aufwärts kosteten, verkauft Cora seine Romane zu 
+Preisen zwischen 2,99€ und 6,99€. Damit waren sie ideale Einstiegsprodukte für die E-
+Book-Pionierkunden.  
+Amazons großer Wurf danach war es, mit Hilfe seiner Empfehlungsalgorithmen und 
+Marketingmechanismen für die Sichtbarkeit der vielen E-Books zu sorgen. Ohne Me-
+tadaten zu den einzelnen Titeln wäre das gar nicht möglich gewesen. Nun konnten Kunden 
+nach bestimmten Begriffen suchen. Wer Romane liebt, in denen Milliardäre lieben, der 
+kann gezielt danach suchen. Kunden, die einmal einen Julia-Roman gelesen haben, kann 
+das Erscheinen einer neuen Ausgabe angezeigt werden. Und wenn nachts bei der Bettlek-
+türe das Buch plötzlich zu Ende ist, dann kann Amazon sofort passenden Nachschub an-
+bieten.  
+vorher waren E-Books 
+PDF-Dateien 
+ 
+ 
+ 
+ 
+ 
+ 
+Cora ist ein Pionier des 
+E-Book-Publishing  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2011: 3.000 E-Books 
+im Angebot 
+ 
+Anfangs war Apple der 
+wichtigste Vertriebs-
+partner 
+ 
+Cora-Produkte billiger 
+als 'normale' Bücher 
+=> ideale Einstiegspro-
+dukte 
+ 
+ 
+Amazon bereicherte 
+den Digitalbuchver-
+trieb um seine Marke-
+tingmechanismen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 12
+Was motiviert die Lektüre im digitalen Format? 
+Miran Bilic, Director Series bei Harper Collins Deutschland, antwortet mit einer Anekdote. 
+"Als ich 2006 hier angefangen habe, da hat man in der U-Bahn oder woanders in der Öf-
+fentlichkeit wenige Menschen gesehen, die Heftromane lesen. Viel weniger, als man an-
+hand unserer Verkaufszahlen hätte erwarten können. Das ist nichts, womit man hausieren 
+geht. Das wissen wir auch aus verschiedenen Studien und Leserbefragungen. Das ist etwas 
+zutiefst Privates. Das hat natürlich mit der erotischen Komponente unserer Romane zu 
+tun. Seit es aber massenhaft E-Reader gibt, erkenne ich doch recht häufig unsere Bücher, 
+wenn ich mal vorsichtig zu meinem Sitznachbarn hinüberluschere." 
+Nicole Lüdtke ergänzt: "Das anonyme Lesen ist am Anfang ein ganz wichtiger Punkt 
+gewesen. Es kommen dann noch Dinge hinzu wie die Möglichkeit, die Schriftgröße be-
+liebig zu wählen. Das schätzen gerade ältere Leserinnen sehr. Wir hatten in den ersten 
+Jahren die etwas kuriose Situation, dass wir riesige Wachstumsraten bei E-Books hatten, 
+400%, 500%, aber gleichzeitig einen immensen Kundenservicebedarf. Unsere Leserinnen 
+hatten das Format schnell schätzen gelernt, aber mit dem Download taten sie sich manch-
+mal noch etwas schwer. Das hat sich mittlerweile aber beinahe komplett erledigt. Wir ha-
+ben auch ganz neue Leserinnen durch unsere Preisstruktur gewonnen. Das wissen wir aus 
+Studien. Wir besetzen bei Apple und bei Amazon ein ganz eigenes Preissegment." 
+Miran Bilic: "Wir erreichen mit den E-Books auch viel jüngere Zielgruppen. Zum Bei-
+spiel sind die Verkaufszahlen unserer Bridgerton-E-Books durch die Decke gegangen, als 
+diese Serie gestartet ist. Dabei muss man wissen, dass die Serie auf alten Cora-Stoffen 
+beruht. Was wir jetzt so erfolgreich verkauft haben, das waren Neuauflagen älterer Ro-
+manhefte. Das ist auch eine Chance der digitalen Produkte, dass wir unsere älteren 
+Inhalte neu vermarkten können. Unsere älteren Leserinnen wissen das durchaus. Wir 
+machen es sogar sehr deutlich, wenn wir ältere Romane digital neue verpacken und aufle-
+gen. Man sieht es bei Instagram oder auf den Social Media-Kanälen von Netflix, dass wir 
+hier ganz neue, junge Leserinnen erreichen." 
+Umsätze mit der 'Backlist', also mit älteren, wiederaufgelegten Titeln machen heute 
+rund 60% der Cora-Umsätze aus. Neue Titel generieren damit weniger Umsatz als der 
+über zehntausend Titel umfassende Katalog älterer Romane. Neben Wiederauflagen in 
+teils neuer Verpackung verkauft Cora die alten Romane auch im Rahmen von Bundles – 
+Print und Digital-Bundles. Wobei das digitale Format deutlich mehr Spielräume für neue 
+Bündelideen bietet. 
+Nicole Lüdtke: "Als die Wachstumsraten mit neuen Romanen etwas nachgelassen haben, 
+da haben wir eine neue Content-Strategie entwickelt. Wir haben Inhalte, die schon ein-
+mal erschienen sind, neu verpackt, um neue Lesergruppen anzusprechen. Nicht um einer 
+Leserin zweimal den gleichen Roman zu verkaufen. Es ist kenntlich gemacht, dass dieser 
+Roman schon in einer anderen Ausgabe erschienen ist. Sondern um neue Leserinnen zu 
+erreichen. Die Verpackung spielt dabei nun einmal eine große Rolle. Digital können wir 
+hier viel besser differenzieren als bei den Papierprodukten." 
+Motivation für  
+digitale Lektüre? 
+ 
+ 
+ 
+ 
+'anonymes' Lesen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+technische Features 
+der E-Books (Schrift-
+größe wählen) 
+ 
+anfänglich kuriose Si-
+tuation: sehr große 
+Nachfrage + sehr viel 
+Servicebedarf 
+ 
+ 
+ 
+ 
+ 
+ 
+Jüngere Zielgruppen 
+werden erreicht 
+ 
+ 
+ 
+teilweise mit neu auf-
+gelegten älteren Pro-
+dukten 
+ 
+ 
+ 
+Backlist-Umsätze > 
+Umsatz mit Neutiteln 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Digitale Content-Strate-
+gie: die gleichen In-
+halte verschieden ver-
+packen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 13
+Ein großer Unterschied zur Vertriebsstruktur digitaler Presseprodukte ist die Bedeutung 
+des Handelspartners Amazon, dessen Umsätze weit oberhalb der Umsätze im Cora-ei-
+genen Webshop liegen. 
+Nicole Lüdtke: "Tatsächlich machen wir viel Werbung für unseren eigenen Webshop in 
+den Romanen. Unsere Zielgruppe weiß, dass es diesen Shop gibt. Neben dem reinen Ab-
+satz ist uns wichtig, hier zusätzlichen Content anzubieten, der den Leser:innen einen Mehr-
+wert bietet, einen Blick hinter die Kulissen, mehr Informationen über die Autoren. Auch die 
+Sortierung und die Auffindbarkeit der Neuerscheinungen ist hier noch kundenfreundli-
+cher, als es manch 'großer' Shop abbilden kann. Der Anteil unseres eigenen Shops ist 
+für den Buchmarkt sehr hoch". Diese Umsätze im eigenen Shop stammen vor allem aus 
+Verkäufen an eine überschaubar große Gruppe sehr loyaler Kunden. 
+Daraus folgt, dass der Handel der mit Abstand wichtigste Absatzkanal für die Cora-
+Produkte ist. Und hier wiederum spielt Amazon die größte Rolle. Aber auch die deutsche 
+Tolino-Gruppe sei vorn mit dabei. Danach komme schon der eigene Webshop.  
+Sehr viel Potenzial sehen die Cora-Manager im Bereich Hörbücher. "Das könnte noch ein-
+mal einen Schub geben wie seinerzeit die E-Books", sagt Nicole Lüdtke. Nur seien die Pro-
+duktionskosten bisher noch zu hoch. Ein E-Book könne man für 50€ konvertieren. Für ein 
+gutes Hörbuch brauche man heute noch menschliche Sprecher mit entsprechenden Kos-
+ten. Aber an der bisherigen Entwicklung sei abzusehen, dass mit Künstlicher Intelligenz 
+ausgestattete Text-to-Speech-Systeme auf den Markt kommen, die eine automatisierte 
+Hörbuchproduktion möglich machen. "Wir haben das schon probiert", erzählt Lüdtke, "die 
+ersten Ergebnisse waren… witzig, würde ich sagen. Die ganze Emotionalität, die in Roma-
+nen steckt, fehlt da noch. Es wird auch noch viel falsch ausgesprochen. Aber die Entwick-
+lung ist rasant und in zwei Jahren wird es wahrscheinlich durchaus möglich sein, mit-
+tels KI-Stimmen Romane zu produzieren, die man aufgrund ihrer Positionierung und 
+Preisstruktur sonst nicht als Hörbuch umgesetzt hat. Der Markt kann dadurch noch viel-
+fältiger werden und insbesondere für unser Segment neue Potenziale bieten. Möglicher-
+weise ein neues Zeitalter für unsere CORA-Romane." 
+Pricing 
+Mit über 10 Jahren Erfahrung im sehr erfolgreichen Verkauf digitaler Produkte – sowohl 
+digitaler Ausgaben gedruckter Produkte als auch digital only erscheinender Produkte – 
+darf man davon ausgehen, dass der Cora Verlag eine ausgereifte Preispolitik entwickelt 
+hat. Und die sieht so aus: Die digitalen Produkte sind etwas, aber nicht deutlich güns-
+tiger als ggf. vorhandene Print-Pendants. 
+"Wir versuchen einen Abstand von etwa 10% einzuhalten", sagt Nicole Lüdtke. Das sei 
+anfangs dadurch entstanden, dass man die ohnehin für Bücher niedrigen Preise der ge-
+druckten Heftromane nicht noch deutlich unterbieten wollte, "weil wir nicht in eine 
+Ramschecke geraten wollten. Wir haben dann viel getestet. Man muss auch die 99- und 
+49-Cent-Preispunkte einhalten, die die Onlineplattformen vorgeben. Wir könnten bei Ama-
+zon nicht einen Roman für 1,79€ anbieten. Wir haben dann zum Beispiel die Preise 1,99€ 
+und 2,49€ bei einem Produkt getestet, das damals 2,50€ gekostet hat. Der Unter-
+schied im Absatz war marginal. Darum haben wir uns für 2,49€ entschieden." 
+wichtigste Vertriebs-
+plattform: Amazon 
+ 
+ 
+ 
+ 
+Cora betreibt einen ei-
+genen Webshop, der 
+für Buchverlagsverhält-
+nisse sehr relevant ist 
+ 
+ 
+ 
+ 
+ 
+ 
+auch Tolino ist wichtige 
+Vertriebsplattform 
+ 
+ 
+ 
+vielversprechend: Hör-
+bücher 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+…allerdings erst, wenn 
+automatisiert mit digi-
+talen Stimmen produ-
+ziert werden kann 
+ 
+ 
+ 
+Preisgestaltung 
+ 
+10 Jahre mit viel Digi-
+talvertriebserfahrung 
+=> ausgereifte Preispo-
+litik 
+ 
+ 
+ 
+Strategie: digitale Pro-
+dukte ca. 10% günsti-
+ger als Print 
+ 
+ 
+immer notwendig: An-
+passung an die Preis-
+punkte der Digital-
+händler 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 14
+Miran Bilic ergänzt: "Das digitale Produkt war damit fast genauso teuer wie das gedruckte 
+Produkt. Heute ist dieses Printangebot mit 2,80€ deutlich teurer. Die Digitalpreise haben 
+wir bisher noch nicht nachgezogen. Mitte dieses Jahres wird das gedruckte Heft sogar 3€ 
+kosten. 
+Im Bereich der historischen Romane verkaufen wir Print zum Beispiel für 4,70€. Da kos-
+ten die digitalen Ausgaben dann 4,49€ oder 3,99€. Spannend ist, dass wir damit ein für 
+den Pressemarkt verhältnismäßig teures Produkt verkaufen. Aber mit Blick auf den Buch-
+markt ist das ein sehr niedriger Preis. Hier sieht man schön, eine wie große Rolle die 
+Wahrnehmung eines Preises spielt, wie abhängig diese Wahrnehmung davon ist, welche 
+Maßstäbe man anlegt."  
+Im Lauf der Zeit hat Cora sehr viele Experimente zur Preisgestaltung durchgeführt. Man 
+sei sich sicher, dass die aktuelle Preisstrategie die richtige ist. Mit deutlichen Preisab-
+schlägen habe man keine großen Verkaufszuwächse erzielen können. Aber Preise, die über 
+den aktuellen Preisen lagen, hätten durchaus zu erheblichen Verkaufsverlusten geführt.  
+Nicole Lüdtke: "Alle Versuche nach oben und nach unten haben uns bestätigt, dass 2,49€ 
+in diesem Fall [pvd: im Vergleich zu 2,50€/2,80€ Printpreis] ein sehr guter Preispunkt ist. 
+Im Durchschnitt, über alle unsere Produkte, liegen wir bei 8% Preisabstand zwischen 
+digitalen und gedruckten Produkten". 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Für ein gedrucktes 
+Buch sind Cora-Ro-
+mane günstig; i. Vgl. zu 
+Presse überØ teuer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+gut gesicherte Lerner-
+fahrung: höherer Digi-
+talrabatt führt nicht zu 
+viel mehr Absatz 
+ 
+aber noch höhere 
+Preise führen zu Ab-
+satzverlusten.  
+ 
+Ø alle Produkte: Digital 
+8% günstiger als Print 
+ 
+Guardian testet Paywall in seiner App 
+B51 
+The Guardian 
+ 
+Für viel Aufmerksamkeit in der an Paid Content interessierten Community hat eine Nach-
+richt der Financial Times gesorgt. Der Guardian testet momentan, die Nutzung seiner 
+Nachrichtenapp bezahlpflichtig zu machen. Die Preise sollen dabei nutzerindividuell und 
+regional variieren. Bisher bietet die App den Zugang zu allen Inhalten gratis. Nur für Extra-
+features muss bezahlt werden. 
+ 
+ 
+Das 'freiwillig Bezah-
+len'-Flaggschiff prüft, 
+News-App bezahl-
+pflichtig zu machen 
+ 
+ 
+pvd meint Es sind nun schon vier Jahre vergangen, seit wir zum ersten Mal diagnos-
+tiziert haben, dass der Guardian, weltweit am häufigsten zitiertes Beispiel für freiwilliges 
+Bezahlen, sehr wohl auch auf Digitalangebote mit Bezahlpflicht setzt. Und drei Jahre, seit 
+wir explizit berichtet haben, dass das 'Freiwillig'-Modell beim Guardian zunehmend in 
+den Hintergrund tritt. Würde aus der App ein reines Bezahlprodukt, dann, spätestens, 
+sollte klar sein, dass der Guardian meint, sein 'freiwillig'- Potenzial erschöpft zu haben. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 15
+ 
+         
+P 
+      
+Marktentwicklung
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im 
+April 2022, zu Anzahl und Er-
+scheinungsweise siehe  
+"Daten Cockpit Handel")  
+   
+ 
+Marktentwicklung
+Preise
+ 
+neu eingeführte Zeitschriften 
+Print, Presse-Apps in ausge-
+wählten Stores 
+   
+ 
+Marktentwicklung
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+Preise bei neuen Zeitschriften) 
+  
+ 
+DATEN COCKPIT VERLAGE 
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 16
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 17
+ 
+ 
+ 
+ 
+ 
+Blick zurück in die Zukunft: englische Supermarktkette 
+verbannt Plastik aus ihren Presseregalen 
+P 
+pvd Nachhaltigkeits-
+Check 
+ 
+Vor einem Jahr berichteten wir über die kurzfristig angekündigte Verbannung von Kin-
+derzeitschriften mit aufgespendetem Plastikspielzeug durch die englische Super-
+marktkette Waitrose. Die hatte – mit nur acht Wochen Vorlaufzeit und mit der unkonkreten 
+Ankündigung, Zeitschriften mit nutzlosem Plastik nicht verkaufen zu wollen – viele offene 
+Fragen produziert. Vor allem hatte die Ankündigung aber die Befürchtung hervorgerufen, 
+dass sich andere und wichtigere Handelspartner der Maßnahme anschließen könnten. 
+Was ist seitdem bei diesem Thema passiert, haben wir den besten Kenner des britischen 
+Magazinvertriebs, gefragt. Tatsächlich seien alle Supermarktketten dieser Initiative 
+gefolgt, berichtet Wessenden Briefing-Herausgeber Jim Bilton aus seinem Heimatmarkt. 
+Dabei folgten sie aber auch der frühen Klarstellung von Waitrose, dass Zugaben, die einen 
+'edukativen Wert' darstellen, weiter aufgespendet sein dürften. 
+Lediglich die große Supermarktkette Tesco habe die Initiative nicht nur aufgegriffen, son-
+dern sogar den Fokus deutlich erweitert. Bei Tesco könnten nun gar keine Zeitschriften 
+mit Plastik mehr verkauft werden. Das gelte für Add-ons auf Titeln aller Kategorien 
+(nicht nur Kinderzeitschriften) und auch für Plastikhüllen, in die Zeitschriftenbundles zu-
+sammen verpackt werden. 
+Die Folge dieser Initiativen seien trotzdem nur einige wenige Auslistungen gewesen, 
+sagt Bilton. "Im Wesentlichen hat es den Trend beschleunigt, dass Verlage sich mehr um 
+nachhaltige Printprodukte bemühen". Praktisch jeder Verlag verkünde derzeit seine 'grüne 
+Ausrichtung', die auch Aboversandhüllen oder Verkaufsdisplays berücksichtigte. 
+Insgesamt resümiert er die aktuelle Situation bei diesem Thema so: "Der grundsätzliche 
+Trend ist bei allen Einzelhändlern gleich, angeführt von Waitrose und Tesco. Es geht da-
+rum, die ganze Kategorie Zeitschriften 'grüner' zu machen. Das betrifft Umhüllungen, 
+aufgespendete Artikel, wiederverwertbare Papiere, die Abfallmengen in Logistik usw. Kin-
+derzeitschriften stehen im Fokus, wegen deren Menge an aufgespendeten Artikeln und 
+des besonders sensiblen Publikums. Es ist aber ein Thema mit wachsender Bedeutung für 
+die ganze Branche". 
+ 
+ 
+englische Supermarkt-
+kette droht Kinderzeit-
+schriften mit Auslis-
+tung wegen Plastik 
+ 
+ 
+ 
+ 
+ 
+ 
+andere Supermarktket-
+ten haben sich ange-
+schlossen 
+ 
+Ausnahme für pädago-
+gisch wertvolles Plastik 
+ 
+Tesco ging deutlich 
+weiter, verbietet aufge-
+spendetes Plastik für 
+alle Segmente 
+ 
+ 
+ 
+Verlage haben ihre 
+Produkte angepasst => 
+nur wenig Auslistungen 
+ 
+ 
+ 
+ 
+genereller Trend im 
+Presseeinzelhandel: 
+Zeitschriftenvertrieb 
+soll 'grüner' werden 
+ 
+ 
+Kassenloses Einkaufen: (noch) nicht super-simpel 
+B13 
+Bezahlen-Self-Service 
+im Supermarkt 
+ 
+Immer häufiger finden sich in Supermärkten und Discountern Selbstkassiergeräte. Statt 
+die Waren auf ein Förderband zu legen, vom Kassierer oder der Kassiererin erfassen und 
+abrechnen zu lassen, können Kunden dort die Barcodes der ausgewählten Artikel einscan-
+nen und anschließend ihren Einkauf eigenständig bezahlen. Amazon experimentiert seit 
+ 
+ 
+immer höufiger: Kas-
+sierautomaten als Al-
+ternative zur Kassiere-
+rin/zum Kassierer 
+ 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+#5/21 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 18
+Jahren sogar mit Ladengeschäften, in denen eine komplexe und vielschichtige Sensor-
+technologie das Einscannen der Barcodes unötig macht. Bei Amazon Go-Läden nimmt 
+der Kunden die Waren einfach au dem Regal und legt sie in seinen Einkaufskorb. Am Aus-
+gang ist die Gesamtsumme der Einkäufe bereits erfasst und wird bei Verlassen des Ge-
+schäftes über das Amazon-Kundenkonto bezahlt. 
+Ist der super-einfache, kassenlose Einkauf die Zukunft des (Lebensmittel-)Handels? 
+Jein, analysiert der immer lesenswerte Supermarktblog die Situation. Zwar habe zum Bei-
+spiel Amazon seine 'Nehmen Sie einfach und verlassen den Laden'-Technologie jüngst 
+auch in einem sehr großen Markt seiner US-Kette Whole Foods installiert. Aber dort müs-
+sen die Kunden schon am Eingang eine Entscheidung treffen. Wenn Sie nach dem Ein-
+kauf 'einfach hinausgehen' wollen, dann müssen sie beim Hineingehen durch eine andere 
+Eingangsschranke, als wenn sie ihre Einkäufe am Ende an einer Scannerkasse bezahlen 
+wollen. An dieser speziellen Eingangsschranke müssen sie mit dem Smartphone einen QR-
+Code scannen, um sich zu identifizieren. 
+Die Suche nach dem QR-Code-Scanner könnte dazu führen, dass sich schon am Eingang 
+die Warteschlangen bilden, die den Kunden sonst erst vor dem Bezahlvorgang entnerven. 
+Um dem Entgegenzuwirken können sich die Kunden auch mit einer mit dem Amazon-
+Konto verbundenen Kreditkarte identifizieren oder per Handflächenscan, der natürlich 
+vorher ebenfalls registriert worden sein muss.  
+"Eigentlich sind das schon wieder viel zu viele Entscheidungen dafür, dass man doch ei-
+gentlich nur schnell ein bisschen Käse und ein Brot fürs Abendessen einkaufen wollte", 
+bringt Supermarktblogger Peer Schader diese Situation auf den Punkt. Statt eines um-
+ständlichen Check-Outs erwarte den Käufer nun ein Check-In. Und die Supermärkte 
+müssen an dieser Stelle Flächen zur Verfügung stellen, die sie gerne mit dem Verzicht auf 
+Kassierer-Kassen eingespart hätten. 
+Auch andere Handelsketten entwickeln Kassenlos-Kassier-Systeme. Die sind teils weniger 
+voraussetzungsreich. Der französische Supermarktriese Carrefour setzt in einem Test-
+markt beispielsweise ebenfalls auf ein komplexes System mit zahlreichen Kameras 
+und Sensoren im Laden, die automatisch erfassen sollen, welche Produkte der Kunden 
+aus dem Regal nimmt. Am Ende des Einkaufs müssen die Kunden dann aber an einem 
+Bildschirm die erfassten Produkte kontrollieren und die Schlussabrechnung freigeben. 
+Carrefour macht in seiner Kommunikation daraus einen Vorteil. Denn wenn das System 
+Fehler macht, dann können die noch im Laden behoben werden. Wenn die Amazon-
+Technologie versagt, dann muss sich der Kunde nach dem Einkauf mit dem Kundenservice 
+auseinandersetzen. Carrefour verspricht, dass dieser letzte Schritt das Einkaufserlebnis 
+um nicht mehr als 10 Sekunden verlängert. Das klingt allerdings sehr optimistisch bzw. 
+dürfte nur für den Mini-Einkauf von Brot und Käse fürs Abendessen zutreffen. 
+Ein anderer Aspekt der Kameras+Sensoren-Technologie ist die damit verbundene Über-
+wachungsinfrastruktur. Das folgende Pressebild von Whole Foods zeigt die Menge an Ka-
+meras, die den 'Einfach-aus-dem Regal-nehmen-und-den-Laden-verlassen'-Prozess für 
+Backwaren erst ermöglichen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supermarktblog: einfa-
+cher wird das Einkau-
+fen dadurch nicht un-
+bedingt 
+ 
+ 
+Nicht einmal bei Ama-
+zons 'Einfach hinaus-
+gehen'-Prozessen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+neu: Check-In anstelle 
+des vorherigen Check-
+Outs (Kasse) 
+ 
+ 
+ 
+Auch in einem Carre-
+four-Testmarkt muss 
+nichts mehr gescannt 
+werden 
+ 
+ 
+ 
+ 
+Schlussabrechnung 
+muss dort aber freige-
+geben werden 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 19
+Für die Händler hat sich die Technologie zuletzt deutlich verbilligt. Um eine 100qm große 
+Fläche 'zu überwachen' hätte ein Supermarkt im Jahr 2017 noch 4Mio$ in Kameratechnik 
+investieren müssen. Jetzt bekomme er diese Technik für nicht einmal 200.000$, berichtete 
+Business Insider Ende 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+für 'einfach nehmen 
+und hinausgehen' nö-
+tig: ein ganzer 
+Schwarm Kameras 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kameratechnik in 4 
+Jahren um 95% billiger 
+geworden 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+pvd meint dieser krasse Kostenverfall dürfte ein Muster abgeben für die erwartbare 
+Minderung der Friktionen, die derzeit beim kassenlosen Einkaufen noch auftreten. Eher 
+früher als später wird der Alltagseinkauf im Supermarkt ein Selbstkassiererlebnis sein. 
+Und vermutlich eines, bei dem Warteschlangen kaum noch anzutreffen sind. Das bedeu-
+tet mindestens, dass alle Produkte, die im Verkauf stark von der Präsenz in der Kassen-
+zone leben, ein Problem bekommen. Das gilt auch für das Presseregal, das den gelang-
+weilt Wartenden gerne zur Unterhaltung angeboten wird. Ganz zu schweigen davon, 
+dass kassenloses Selbstkassieren nur möglich ist, wenn jedes Produkt in der Warenwirt-
+schaft des Supermarktes hinterlegt ist.  
+Das ist bei Presse bekanntermaßen nicht der Fall. Wenn Verlage zukünftig noch Zeitun-
+gen und Zeitschriften im Supermarkt verkaufen wollen, dann müssen sie und die Pres-
+segrossisten das ungeliebte Thema Pay-per-Scan (vgl. pvd #1/2019) sogar aktiv voran-
+treiben. Bisher blockieren sie das Thema eher, weil die damit verbundene Transparenz 
+und auch das erhöhte Schwund- und Inventurdifferenzrisiko nicht in ihrem Interesse 
+sind. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 20
+ 
+         
+ 
+    P2 
+  
+Index
+Marktentwicklung
+Einzelhandel
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland) 
+ 
+  
+ 
+Marktentwicklung
+Sortimentsbreite
+Deutschland
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neueinfüh-
+rungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+  
+ 
+Marktentwicklung
+digitaler Vertrieb
+ 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATEN COCKPIT HANDEL UND ABSATZ
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 21
+ 
+ 
+ 
+ 
+ 
+Langlaufende Probeangebote als Anti-Churn-Taktik 
+P 
+Probeabo-Angebote 
+ 
+Der Fall Boston Globe 
+In der Vorjahresausgabe hatten wir ausführlich über den Boston Globe berichtet. Das ist 
+unter den großen Regional-/Metropolzeitungen der USA diejenige mit dem mit Abstand 
+teuersten Digitalabo. Die Pointe unseres Berichts im Vorjahr war, dass ausgerechnet 
+diese sehr hochpreisige Zeitung ein besonders preisaggressives Probeangebot für sein Di-
+gitalabo macht. Neukunden wirbt der Boston Globe seit Jahren mit dem Angebot '6 
+Monate für 99Cent'. Wir haben berichtet, dass mit diesem Angebot nicht nur die Menge 
+der Probeabos deutlich gesteigert wurde, sondern auch deren Umwandlungsquote in ein 
+Vollabo nach Beendigung der Probephase.  
+Bis heute haben wir zu diesem Thema keine anderslautenden Informationen. Ganz im 
+Gegenteil. Ein Blogpost auf der Website des Branchenverbandes Digital Content Next be-
+richtete im März dieses Jahres, dass im Schnitt 60% der so gewonnenen Probeabonnen-
+ten auch drei Monate nach Umstellung auf den Regelpreis (rund 30$/Monat) noch ak-
+tiv sind und 30% volle zwei Jahre nach Abschluss des Probeabos [und damit 18 Monate 
+nach Umstellung auf den regulären Preis]. 
+Der Digitalabobestand des Boston Globe scheint allerdings seit unserem letzten Be-
+richt mehr oder weniger zu stagnieren. Aus damals 223.000 Digitalabos sind mit Stand 
+Dezember 2021 (der jüngste uns verfügbare Wert) 226.000 Digitalabos geworden. 
+INMA-Daten zu den Top50-Nachrichtenwebsites weltweit 
+Der Chefforscher das Nachrichtenmedienverbandes INMA, Greg Piechota, berichtet nun 
+von einer Analyse der 50 gemessen an der Zahl ihrer Digitalabonnenten größten Nachrich-
+tenmedien. Von diesen würden momentan 34 (68%) dedizierte Probeangebote für Neu-
+kunden machen. Und wiederum zwei Drittel, 23 dieser 34 Medien, würden Neukunden-
+sonderpreise für Zeiträume größer als 3 Monate anbieten. Im arithmetischen Mittel 
+seien das Probeangebote mit einer Laufzeit von 7,5 Monaten; der Median-Mittelwert liege 
+sogar bei 9,25 Monaten. 
+Diese langlaufenden Neukundenangebote seien im Schnitt 52% rabattiert gegen-
+über den Regelpreisen. Probeangebote bis zu einer Laufzeit von drei Monaten seien im 
+Schnitt um 76% rabattiert. 
+Langlaufende Probeangebote, die darauf abzielen, dass die neuen Abonnenten eine 
+verfestigte Nutzungsgewohnheit entwickeln, die dann zu deutlich besseren Umwandlungs-
+quoten führt, wenn der Schritt auf den regulären Abopreis ansteht, bezeichnet Piechota 
+als "das bestgehütete Geheimnis schnell wachsender Marken während der Covid-
+ 
+ 
+ 
+ 
+ 
+Boston Globe: Zeitung 
+mit teuerstem Digitala-
+bos macht sehr groß-
+zügige Probeangebote 
+ 
+6 Monate für 99 Cent 
+ 
+ 
+ 
+ 
+mind. 60% Umwand-
+lung in bezahlte Volla-
+bos 
+ 
+30% noch 18 Monate 
+nach Probephase aktiv 
+ 
+ 
+Digitalabobestand 
+stagniert auf hohem 
+Niveau 
+ 
+ 
+ 
+ 
+ 
+ 
+INMA: 23 der 50 größ-
+ten Paid Content-Ange-
+bote bieten Probeabos 
+> 3 Monate… 
+ 
+ 
+ 
+…die im Schnitt 52% 
+rabattiert sind 
+ 
+ 
+ 
+"langlaufende Probe-
+angebote sind das 
+bestgehütete Geheim-
+nis" 
+ 
+ 
+QUELLEN: 
+ANALYSEN UND DATEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 22
+Pandemie". Diese Strategie führe auch in den neuen Benchmarking-Statistiken seiner Or-
+ganisation zu herausragenden Ergebnissen. 
+Langlaufende Probeangebote in den D/A/CH-Märkten 
+Im deutschsprachigen Markt erscheint die 4-Wochen bzw. 1-Monatsprobe nach wie vor 
+mit Abstand die häufigste Angebotsform für neue Abonnenten zu sein. Was sich zuneh-
+mend durchsetzt, das sind Angebote, die anschließend für einen sehr lange Zeitraum, 
+typischerweise ein Jahr, einen gegenüber dem späteren Regelpreis signifikant ver-
+günstigten Preis anbieten. Beispielhaft zu nennen sind hier die Strategie von bild.de, im 
+ersten Jahr einen 50% Rabatt (3,99€ pro Monat) gegenüber dem Regelpreis (7,99€) pro Jahr 
+anzubieten. In diesem Fall müssen die Kunden vom ersten Tag an 3,99€ bezahlen. Anders 
+halten es die FAZ oder die Süddeutsche Zeitung, die einen Gratismonat anbieten, gefolgt 
+von 12 Monaten zu einem rabattierten Preis (12,78€/Monat bei der FAZ bzw. 9,99€ bei der 
+Süddeutschen), und erst im zweiten Jahr erfolgt die Berechnung zum regulären Plusabo-
+Preis (21,45€/Monat bei der FAZ bzw. 14,99€ bei der SZ). 
+ 
+Wir haben die 18 bei der IVW meldenden Paid Content-Angebote daraufhin unter-
+sucht, mit welchen Probeangeboten und -zeiträumen sie arbeiten. Ebenfalls haben wir 
+diese Betrachtung für die fünf in Österreich Paid Content-Daten an die ÖAK melden-
+den Titel angestellt. Weil die WEMF noch keine Paid Content-Meldung kennt, haben wir 
+aus 
+der 
+Schweiz 
+fünf 
+Titel 
+unter-
+schiedlicher 
+Verlagshäu-
+ser 
+ausge-
+wählt, die wir 
+mit den glei-
+chen Fragen 
+betrachtet 
+haben. 
+Deutschland 
+In Deutschland haben wir eine bemerkenswerte Gleichverteilung vorgefunden: 5 Medien 
+bieten einen Probemonat für 99 Cent, 3 den Probemonat für 1 vollen Euro. 6 Medien er-
+möglichen einen kostenlosen Test für einen Monat. Und vier Medien bieten kein Mo-
+nats- resp. 4-Wochen-Probeangebot. 
+Drei der 18 Angebote hatten zum Untersuchungszeitpunkt alternativ auch ein Probe-
+angebot mit einer Laufzeit von mehr als einem Monat. Das Plus-Modell der Augsbur-
+ger Zeitung wurde 60 Tage lang für nur 4,50€ angeboten, NWZ Online und das Plus-Abo 
+der Stuttgarter Zeitung – letzteres nur im Rahmen einer Osteraktion – konnte man für nur 
+3€ 3 Monate lang testen. Auch Werben&Verkaufen bietet ein 3-Monatsprobeabo.  
+herausragende Ergeb-
+nisse im Benchmarking 
+ 
+ 
+ 
+ 
+ 
+ 
+These; in D/A/CH domi-
+nieren Monatsproben 
+ 
+ 
+ 
+zunehmend gibt es 
+aber Angebote, die im 
+ersten Jahr vergünstigt 
+sind 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Verprobung an Me-
+dien, die Paid Content 
+an IVW bzw. ÖAK mel-
+den; &5 Schweizer TZ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deutschland 
+ 
+• Je fast gleich häufig: 
+Probemonat für 
+0,99€ oder 1€ oder 
+gratis oder keiner 
+ 
+ 
+ 
+• 3 Medien bieten zu-
+sätzlich Probeabos > 
+1 Monat an  
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 23
+ 
+Dieses kostet allerdings 19,90€, und es ist das einzige Probeangebot des Werberfachma-
+gazins. Ein Probemonat wird auf wuv.de nicht angeboten. 
+Ein ganzes Drittel, sechs der 18 Paid Content meldenden deutschen Angebote, reduziert 
+den Preis im ersten Jahr gegenüber dem Preis für längerlaufende Abos – im Durchschnitt 
+um 40%. Berücksichtigt man, dass zwei der 18 Anbieter mehr oder weniger nischige Fach-
+medien sind (das Architekturangebot Detail Inspiration und Werben&Verkaufen), die diese 
+Strategie außerdem nicht verfolgen, dann kann man festhalten, dass mehr als ein Drittel 
+der relevanten deutschen Angebote diese Preisstrategie verfolgt. 
+Nur bei zwei Zeitungsmedien haben wir übrigens eine Registrierungswall entdeckt, 
+also eine Schranke, die Nutzern einen befristeten oder anders begrenzten Zugang zu Be-
+zahlinhalten im Tausch gegen das Anlegen eines Nutzerkontos anbietet. Die Freie Presse 
+bietet im Tausch gegen eine Registrierung für volle vier Wochen den Zugang zu allen digi-
+talen Bezahlangeboten, sogar inklusive des E-Papers. Die Passauer Neue Presse setzt auf 
+eine Meter-Logik. Registrierte Gratisnutzer können pro Monat fünf Bezahlartikel lesen. 
+Österreich 
+Quantitative Analysen auf Basis von 18 Medien sind problematisch. Für die fünf öster-
+reichischen Titel mit zertifizierter Paid Content-Meldung machen sie gar keinen Sinn. Kei-
+nes der fünf Angebote (Die Presse, Kleine Zeitung, oe24, Tiroler Tageszeitung, Vorarlber-
+ger Nachrichten) berechnet im ersten Jahr einen anderen Preis als in den Folgejahren. 
+Während die Tiroler Tageszeitung überhaupt kein Probeangebot macht (jedenfalls nicht 
+außerhalb von Aktionen, die unserer Verprobung entgangen sind), kann man oe24+ und 
+VN+, das Angebot der Vorarlberger Nachrichten, vier Wochen lang kostenlos testen. Die 
+Kleine Zeitung berechnet für diesen Probe-Zeitraum 99Cent, Die Presse ungewöhnliche 
+2,50€. Keines der fünf österreichischen Nachrichtenmedien hat eine Registrierungs-
+schranke, die Bezahlinhalte im Tausch gegen eine De-Anonymisierung zur Verfügung stellt. 
+Schweiz 
+Aus der Schweiz haben wir uns die folgenden digitalen Zeitungwebsites angesehen: Ta-
+ges-Anzeiger, NZZ, Nordwestschweiz, Südostschweiz, Le Temps). Nur die Südostschweiz 
+differenziert bei ihrem Plus-Modell zwischen einem Preis von 8CHF monatlich im ers-
+ten Jahr und 12CHF im zweiten Jahr. Dafür bietet sei kein Probeabo an. Auch die NZZ 
+macht auf ihrer Website im Regelfall kein Probeangebot. Sie verlässt sich darauf, dass die 
+smarte Paywall den Noch-Nicht-Bezahlern mit ihrer eigenen Logik genügend Gratislektü-
+ren ermöglicht, um sie für das Produkt zu begeistern. Das Paid Content-Abo des Tages-
+Anzeigers kann man einen Monat lang gratis testen, das der Nordwestschweiz für 1 Fran-
+ken. Le Temps hat mit 9CHF das teuerste 1-Monats-Probeabo dieser Untersuchung im An-
+gebot. Allerdings beinhaltet das Digitalabo der französischsprachigen Zeitung immer auch 
+das E-Paper, was bei den übrigen Titeln nicht zutrifft. 
+Die Bezahlinhalte des Tages-Anzeigers kann man 2 Wochen lang gratis im Tausch 
+gegen eine Registrierung testen, die der Südostschweiz immerhin eine Woche lang gratis. 
+ 
+ 
+ 
+ 
+ 
+ 
+• 6/16 TZ rufen im 
+ersten Jahr ermäßig-
+ten Preis auf 
+ 
+ 
+ 
+ 
+ 
+ 
+• nur 2 Angebote mit 
+Registrierungswall 
+ 
+ 
+ 
+ 
+ 
+Österreich 
+ 
+ 
+• 1 TZ ohne Probemo-
+nat,  
+• 4 TZ mit Probemo-
+nat (2x gratis, je 1 x 
+0,99€ und 2,50€) 
+• keine Sonderpreise 
+im ersten Jahr 
+• keine Registrierungs-
+Wall 
+ 
+ 
+ 
+ 
+Schweiz 
+ 
+ 
+• 2 TZ ohne Probemo-
+nat 
+• 3 TZ mit Probemo-
+nat (je 1x gratis, 
+1CHF, 9CHF) 
+• Nur Südostschweiz 
+mit reduziertem 
+Preis im ersten Jahr 
+ 
+ 
+ 
+ 
+ 
+ 
+• 2 Registrierungs-
+Walls 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 24
+ 
+Erfolgshebel #1 für digital only Journalismus-Startups: 
+ein kaufmännischer Mitarbeiter 
+P 
+Organisation digita-
+ler Pressemedien 
+ 
+SembraMedia ist eine der vielen Organisationen der westlichen Welt, die sich der Förde-
+rung des unabhängigen Journalismus verschrieben haben. Der Fokus der Organisation 
+liegt auf spanischsprachigen Ländern, die mittlerweile eine ganze Reihe erfolgreicher digi-
+tal only erscheinender Pressenangebote hervorgebracht haben.  
+SembraMerdia hat nun zum zweiten Mal eine Studie durchgeführt, die "Impact, Inno-
+vationen, Bedrohungen und die Wirtschaftlichkeit digitaler Medienunternehmen in 
+Lateinamerika, Südost-Asien und Afrika" erforscht hat [pv-digest.de/linkliste Link1]. 
+Um dieses sehr weitreichende Forschungsfeld zu betrachten, haben 23 jeweils lokale For-
+scher in der jeweiligen Landessprache einen 500 Fragen umfassenden Katalog mit den 
+Verantwortlichen für 201 Digitalmedien in Ländern der genannten drei Regionen durchge-
+arbeitet. Die wichtigsten Einnahmequellen der befragten Unternehmen sind der Reihen-
+folge nach: Zuwendungen, Werbung, Erlöse aus Beratungsdiensten, Content-Verkäufe 
+B2B, Lesermarkterlöse. Im Durchschnitt beschäftigten die 201 Medien jeweils 14 Vollzeit-
+kräfte (FTEs).  
+Ein universales Rezept für den Aufbau wirtschaftlich 
+tragfähiger journalistischer Angebote wurde nicht iden-
+tifiziert. Aber doch mindestens ein sehr relevanter ge-
+meinsamer Erfahrungswert: Startups, die mindes-
+tens einen dedizierten Mitarbeiter für kaufmänni-
+sche Aufgaben (Anzeigen, Vertrieb, Business Develop-
+ment) beschäftigen, erzielten im Durchschnitt den 
+sechsfachen Umsatz gegenüber Startups, die diesen 
+Bereich nicht in die Hand einer hauptberuflich dafür 
+abgestellten Person legen. Kein anderer gemeinsamer 
+Erfolgshebel, der in dieser Studie identifiziert wurde, 
+hat auch nur annähernd eine vergleichbare Wirksam-
+keit  
+Zum Vergleich: Startups, die einen Hauptverant-
+wortlichen für technische Innovation abgestellt ha-
+ben, erzielen den dreifachen Durchschnittsumsatz 
+gegenüber Startups ohne Hauptverantwortlichen für 
+Tech. 
+ 
+ 
+ 
+ 
+ 
+vergleichende Studie 
+über 201 digitale Me-
+dien aus drei Kontinen-
+ten 
+LINKTIPP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mit Abstand größter 
+gemeinsamer Umsatz-
+hebel: einen Vertriebs-/ 
+BD-Manager haben 
+ 
+ 
+=> haben vs. nicht ha-
+ben mit Umsatzfaktor 
+sechs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+z. Vgl.: Tech-Manager 
+haben vs. Nicht-haben 
+mit Umsatzfaktor drei 
+ 
+pvd meint wenn Sie in einem Verlag arbeiten, der sich mit der Digitalisierung seines 
+Papiergeschäfts beschäftigt, dann könnten Sie jetzt denken, 'So what? Natürlich braucht 
+es Kaufleute'. Diese anscheinende Binsenweisheit ist aber tatsächlich unter den vielen 
+journalistischen Startups nicht selbstverständlich. Wir haben schon mehrfach über sehr 
+ambitionierte digital only-Unternehmungen berichtet, die diese Erfahrung erst machen 
+mussten. Das heute recht erfolgreiche Schweizer Bezahlangebot Die Republik wäre 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 25
+ 
+ 
+In-App-Umsätze von Presseapps im April 
+P 
+App-Umsatz-Indizes 
+ 
+Die aktuelle Nachrichtenlage sorgt weiterhin für deutliche Bewegung in unseren Umsatzin-
+dizes für digitale Presseprodukte. In Deutschland hat der iPad-Index IPPT ein Niveau er-
+reicht, das wir zuletzt vor sieben Jahren gemessen haben. Auch in Österreich und der 
+Schweiz waren Presseapps im April deutlich umsatzstärker als im Monat davor (aber unter 
+dem Niveau des Februar, dem Monat, in dem der Krieg in der Ukraine begann). 
+In Deutschland und in der Schweiz haben Presseapps auch auf dem iPhone ihren 
+Anteil an den Umsätzen in Apples App-Kiosk wieder deutlich vergrößert.  
+ 
+Die Indizes Pressepro-
+dukte auf Tablets (IPPT) 
+und Presseprodukte 
+auf iPhones (IPPP) mes-
+sen die relative Um-
+satzstärke von unter-
+haltenden oder infor-
+mierenden Presseange-
+boten für iPads bzw. 
+iPhones. 
+Die Index-Werte basie-
+ren auf den durch-
+schnittlichen Ranking-
+Positionen von entspre-
+chenden Apps und kön-
+nen zwischen 0 (=keine 
+Presse-Apps unter den 
+umsatzstärksten Apps) 
+und 100 (=alle umsatz-
+starken Apps sind 
+Presse-Apps) liegen.  
+Den deutschen Wert für 
+den IPPT erheben wir 
+seit Ende 2013. Die 
+Werte für Österreich 
+und die Schweiz und 
+den IPPP haben wir 
+2020 erstmals erhoben. 
+ 
+beinahe daran zugrunde gegangen, dass man sich dort sicher war, auf einen Marketing-
+verantwortlichen verzichten zu können, weil man so großartigen Journalismus produ-
+ziert. Dass das deutsche Medium Krautreporter keinen Weg aus der Mini-Nische findet, 
+in der es sich eingerichtet hat, das liegt nicht zuletzt daran, dass die kaufmännische Seite 
+des Journalismus dort unterbelichtet ist. Den meisten Lesern von pv digest sollte diese 
+Studie den Rücken stärken. Wer im Management einer Publishing-Unternehmung für 
+das schnöde Geschäft verantwortlich ist, der trägt dort genauso zum Erfolg bei, wie 
+große Scoops und prominente Autoren. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 26
+ 
+ 
+ 
+ 
+ 
+Martin Jönsson, Bonnier News: "Micropayments testen" 
+P 
+Micropayments, 
+Einzelartikelverkauf 
+ 
+Bonnier News ist einer der größten Presseverlage in Nordeuropa. Insbesondere die Zei-
+tungsmedien des Konzerns wie Expressen oder Dagens Nyheter gehören zu den viel be-
+staunten skandinavischen Vorbildern bei der Entwicklung von Paid Content. 
+Einer der prominentesten Manager des Konzerns und häufiger Gast auf internationalen 
+Konferenzen zum Thema Paid Content ist Martin Jönsson, heute 'Head of Editorial Deve-
+lopment' und seit vielen Jahren entscheidend an der Entwicklung digitaler Bezahlprodukte 
+beteiligt. The Fix hat ein äußerst lesenswertes Interview mit Jönsson veröffentlicht  
+[pv-digest.de/linkliste Link2]. 
+Eine Passage des Interviews geht auf das Thema 'Micropayments' ein, also das Bezah-
+len für einzelne Artikel als Alternative zu Abonnementmodellen: 
+The Fix: "Sind Digitalabos das wichtigste Instrument, um Leser zu monetarisieren oder 
+haben sie auch mit Crowdfunding, Mitgliedschaften oder vielleicht sogar Micropayments 
+experimentiert?" 
+Darauf antwortet Martin Jönsson: "Im Moment sind es nur Abos. Aber wir werden uns 
+definitiv auch Micropayments ansehen und schauen, ob es in dieser Hinsicht Chancen 
+gibt..." 
+So viel Offenheit gegenüber dem Thema Micropayments ist selten. Von für erfolgrei-
+che Digitalabomodelle verantwortlichen Verlagsmanagern haben wir bisher überwiegend 
+markant ablehnende Äußerungen zum Thema Einzelartikelbezahlungen wahrgenommen. 
+Darum haben wir Martin Jönsson zu diesem Punkt noch einmal kontaktiert. 
+pvd: "Ich verstehe Ihren deutlichen Hinweis, dass Sie hier nur etwas ausprobieren wollen, 
+und dass es ganz offenbleibt, ob Micropayments wirklich Potenzial haben. Aber nachdem 
+ich so oft ein kategorisches Nein zum Thema Micropayments gehört habe, erscheint mir 
+schon dieser vorsichtige Ansatz ungewöhnlich und sehr offen." 
+Martin Jönsson: "Sie haben Recht, wir, als Unternehmen, waren Micropayments gegen-
+über skeptisch. Abonnements sind eine bessere Lösung. 
+Aber: über den Prozess Micropayments zu verfügen ist viel besser als eine 'Spotify for 
+News'-Lösung. Und wir müssen akzeptieren, dass es ein Marktsegment gibt, das sehr 
+stark nach Tagespässen oder auch Micropayments fragt. Und es ist auch wahr, dass 
+Google wohl eine Tagespass-Lösung in seine 'Abonnieren-mit-Google'-Lösung einbauen 
+wird. 
+ 
+ 
+ 
+ 
+ 
+ 
+Interview mit Martin 
+Jönsson, Bonnier News 
+(Expressen, Dagens 
+Nyheter) 
+ 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+ 
+Frage: haben Sie mit 
+Micropayments experi-
+mentiert? 
+ 
+Antwort: "Wir werden 
+das definitiv tun" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd: Sie sind unge-
+wöhnlich offen, gegen-
+über diesem Thema. 
+ 
+ 
+ 
+Jönsson: 
+Abos sind besser, 
+aber… 
+ 
+• Micropayments sind 
+besser als Flatrates 
+• Es gibt Nachfrage 
+• Google wird Tage-
+spässe pushen 
+ 
+ 
+QUELLEN:
+MEINUNGEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 27
+Ich denke, wir müssen dieses Thema sehr ernsthaft angehen: Nutzungsfälle identifizie-
+ren, testen und dann sehen, ob Micropayments ein Lead sein können, der letztlich zu 
+einem Abo führt. 
+Ich weiß noch nicht genau, wie das gehen soll. Aber ich bin sicher, dass wir die Bedürf-
+nisse der Konsumenten nicht ignorieren können". 
+ 
+• testen, ob Micropay-
+ments Lead zum 
+Abo sein können 
+ 
+• Bedürfnisse der 
+Konsumenten nicht 
+ignorieren 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Washington Post/Arc XP zu Kundengewinnung&Kunden-
+bindung: pragmatisch sein! Auf die Inhalte kommt es an. 
+P 
+Erfahrungswerte zum 
+Digitalabogeschäft 
+ 
+Die von Amazon-Gründer Jeff Bezos 2013 übernommene Zeitung Washington Post be-
+treibt nicht nur das erfolgreiche eigene Paid Content-Geschäft. Sondern sie verkauft auch 
+die Nutzung ihrer Content- und Digitalabomanagementplattform Arc XP an andere Ver-
+lage. Darunter sind prominente Kunden, zum Beispiel der deutsche Zeitungskonzern 
+Madsack oder die größte spanische Zeitung El País. 
+In Zusammenarbeit mit Digiday hat Arc XP nun eine White Paper veröffentlicht, das ei-
+nen "Führer für Verlage durch Akquisition und Kundenbindung verspricht" [pv-di-
+gest.de/linkliste Link3]. Das PR-Dokument beinhaltet leider keine Zahlen und noch nicht 
+einmal nachvollziehbare Informationen aus dem externen Kundenkreis der Plattform. 
+Aber es bietet eine Reihe konkreter Ratschläge, für die es sich auf Erfahrungswerte und 
+Ausführungen der bei der Washington Post für das Abogeschäft verantwortlichen Perso-
+nen stützt. Wir gehen davon, dass es sich hier um belastbare Erfahrungswerte handelt, 
+die sinnvolle Handlungsempfehlungen für jeden Paid Content-Publisher darstellen. 
+Empfehlungen der Arx XP-Macher für die Abonnentengewinnung: 
+> "Früher lag der Fokus darauf, die Leser in den Abobestellprozess zu locken. Aber in der 
+neuen Welt [pvd: gemeint ist die Zeit nach dem Corona-Boom] ist es wichtiger, sie 
+schon vorher in den Status 'eingeloggt' zu bekommen. Wenn Sie das tun, dann ler-
+nen Sie sie kennen, Sie etablieren eine Beziehung und Sie können sie per E-Mail aktivie-
+ren. Wenn diese Grundlage steht, dann können Publisher robuste First-Party-Data-Pro-
+file aufbauen, um zu segmentieren und danach zu bestimmen, wann die Paywall ange-
+zeigt wird und welche Werbemaßnahme die überzeugendste sein könnte, um die Nut-
+zer zu Abonnenten zu machen" (Ryan Gladstone, Group Product Manager Arc XP). 
+ 
+ 
+ 
+Washington Post ist 
+mit Arc XP auch SaaS-
+Anbieter 
+ 
+ 
+White Paper zu Aboge-
+winnung & -bindung 
+LINKTIPP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tipps Abogewinnung 
+ 
+ 
+ 
+ 
+ 
+• wichtiger erster 
+Schritt: registrierte 
+(Noch-Gratis-)Nutzer 
+gewinnen 
+ 
+ 
+ 
+pvd meint Schon aus der vorsichtigen Formulierung der Interviewfrage von The Fix 
+lässt sich ablesen, mit wie spitzen Fingern das Thema Micropayments im Bereich der 
+Digitalpressepublisher nur angefasst wird: "vielleicht sogar Micropayments" [lies: 'Gott 
+bewahre!]. Beim Thema Micropayments/Einzelartikelverkauf endet die Begeisterung für 
+das Prinzip Test&Learn in den meisten Fällen. 
+Darum ist Jönssons Einstellung zu diesem Thema bemerkenswert. Auch ihm ist Skepsis 
+anzumerken. Aber er lässt sich davon nicht abbringen, dieses große Thema als Testfeld 
+ins Auge zu fassen. Und er nennt auch den wichtigsten Grund, warum die ganze Publi-
+shing-Industrie an diesem Thema nicht dauerhaft vorbeigehen kann: "die Bedürfnisse 
+der Konsumenten". 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 28
+> Sehr wichtig seien reibungslose Registrierungsprozesse. "Früher haben wir den Leuten 
+10 Fragen gestellt, wenn sie sich registriert haben. Aber nun, nachdem wir daran gear-
+beitet haben, die Anzahl der Registrierungen zu maximieren, fragen wir zunächst nur 
+nach der E-Mail-Adresse. Die richtige Balance zwischen unserem Bedürfnis nach 
+mehr Informationen und der Vermeidung von Abbrüchen im Registrierungsprozess 
+ist elementar", wird Beth Diaz, Audience Development- und Analytics-Chefin bei der 
+Washington Post zitiert. 
+> Gladstone ergänzt hierzu, dass auch die folgenden Login-Prozesse für registrierte Nut-
+zer reibungslos sein müssen. Dabei muss bedacht werden, dass ein- und derselbe Nut-
+zer ganz unterschiedliche Geräte und Zugangswege zur Verfügung hat. "Eine holprige, 
+separate Login-Seite [für jeden Zugangsweg] ist nicht akzeptabel. Einmal-Links für 
+den direkten Zugang und Social Sign-On-Mechanismen erleichtern den Nutzern die ein-
+fache Authentifizierung im Vorübergehen." Um die eigenen Loginprozesse auf den Prüf-
+stand zu stellen, sollten die Verlage in Personas denke und die unterschiedlichen Zu-
+gangswege zu Registrierung und Abobestellung nachverfolgen und darin jeweils Friktio-
+nen identifizieren und beseitigen. 
+> Schließlich sollten Publisher sich bewusst machen, dass überkomplexe Paywallmecha-
+nismen und schicke IT-Werkzeuge nicht die erste Grundlage für eine erfolgreiche Abo-
+gewinnung sind. Zuerst sei es wichtig, dafür zu sorgen, dass die Nutzer mit den bes-
+ten Inhalten in Kontakt kommen. Danach könne man sich damit beschäftigen die 
+Paywall smart zu machen oder differenzierte Meter-Modelle zu entwerfen. 
+Empfehlungen der Arx XP-Macher für die Abonnentenbindung: 
+> Der wichtigste Kundenbindungsmechanismus sei es, neue Abonnenten schnellstmög-
+lich mit der Breite der angebotenen Inhalte vertraut zu machen. "Durch unsere Kündi-
+gungs-Wahrscheinlichkeits-Modelle haben wir herausgefunden, dass einer der größ-
+ten Hebel die Vielfalt der genutzten Inhalte ist. (…) Die Nutzung der Inhalte zu diver-
+sifizieren war ein zentrales Arbeitsfeld für uns", sagt Diaz. 
+[pvd: das deckt sich perfekt mit den Empfehlungen des Economist-COO, über die wir in 
+der letzten Ausgabe berichtet haben.] 
+> Den noch nicht bezahlenden Nutzern die ganze Breite der Inhalte vor Augen zu führen 
+sei auch für die Neukundengewinnung eine äußerst effektive Denkrichtung. Diaz berich-
+tet: "Wir haben ziemlich umfangreich mit potenziellen Abonnenten geforscht, die wir 
+noch nicht gewonnen hatten. Wir haben sie gefragt, was sie motiviert hatte, andere Ser-
+vices zu abonnieren. Ganz unterschiedliche Services, die von Peloton [Heimtrainerge-
+räte] bis zu Hulu [Videostreaming], Selbstwahrnehmungs- oder Koch-Apps reichen. Wir 
+haben dabei zwölf Motivatoren identifiziert, die für uns wichtig sind. (…) Im Zentrum 
+davon steht, unsere Inhalte zur Schau zu stellen, sicherzustellen, dass die Leute sehen, 
+dass wir ein sehr breites Bündel Inhalte für sie haben und nicht nur einen Artikel. Es 
+geht darum… es den Leuten leicht zu machen, Dinge zu entdecken, die sie interes-
+sieren". 
+ 
+ 
+ 
+• der Registrierungs-
+prozess muss ein-
+fach und reibungs-
+los sein 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• registrierte Nutzer 
+müssen sich auf al-
+len Wegen einfach 
+anmelden können 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• viel wichtiger als 
+eine ausgefeilte 
+Paywall: die richti-
+gen Inhalte anbieten 
+ 
+ 
+Tipps Kundenbindung 
+ 
+ 
+• Nutzung vielfältiger 
+Inhalte ist deutliches 
+Indiz für gut gebun-
+dene Kunden 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Auch in der Aboge-
+winnung ist Vielfalt 
+ein Schlüsselfaktor 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 29
+Um entsprechende Maßnahmen zur Engagement-Steuerung umzusetzen, sollte man 
+laut dem White Paper nicht zuerst an personalisierte Maßnahmen denken. Im ersten 
+Schritt sei es wichtig, die eigenen Inhalte richtig zu kategorisieren ('Taxonomie' entwi-
+ckeln) und dabei zum Beispiel zwischen Inhalten zu unterscheiden, die sich entweder für 
+die Gewinnung oder die Bindung neuer Abonnenten besonders eignen. Um diese In-
+halte effektiv zu nutzen, solle man nicht zunächst nutzerindividuell agieren, sondern 
+Segmente bilden. 
+"Wenn Verlage in diese Richtung gehen, dann können sie eine ganze Menge mit Seg-
+mentierung erreichen, bevor sie vollständig personalisieren", sagt Gladstone. Zu wis-
+sen, wie sich die Nutzer verhalten sei das eine. Aber das andere sei, dann auch die pas-
+senden Inhalte auszuspielen. Dafür eigne sich das Medium E-Mail am besten, weil man 
+hier entsprechende Maßnahmen ergreifen könne, ohne in das redaktionelle Manage-
+ment der Homepage einzugreifen. Wenn man aber wirklich personalisieren wolle, dann 
+gehörten auch die mit der Homepage verbundenen redaktionellen Workflows auf den 
+Prüfstand. 
+ 
+ 
+Personalisierung ist 
+nicht vordringlich; Seg-
+mentierung steht am 
+Anfang 
+ 
+ 
+ 
+ 
+ 
+Schon mit Segmentie-
+rung lässt sich viel er-
+reichen 
+ 
+wichtigstes Instrument: 
+E-Mail-Newsletter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Umbau im Vorstand von Axel Springer: Stephanie Caspar verlässt zu Ende Juli das Un-
+ternehmen. Ulrike Handel ist bereits neuer Vorstand für den Bereich News Media Natio-
+nal. Niddal Salah-Eldin übernimmt ab Juli im Vorstand die Verantwortung für das dort neu 
+implementierte Ressort 'Talent & Culture'. Jan Bayer geht als Vorstand für das internatio-
+nale News Media Geschäft ab Juli in die USA und nimmt dorthin den Titel 'stellvertretender 
+Vorstandsvorsitzender' mit. 
+Dominik Rapp ist jetzt CFO der SWMH-Gruppe und Mitgeschäftsführer der Tochterun-
+ternehmung SWMH Service. 
+Interimschef Mats Brandt wird am 20.5. zum dauerhaften CEO des Presseflatrateanbie-
+ters Readly ernannt werden. 
+Niki Fellner ist in die Geschäftsleitung der Mediengruppe Österreich aufgerückt. Im 
+Lauf dieses Jahres soll er dort CEO werden. 
+Alexander Herdt ist seit April neuer COO bei der intan group. 
+Werner Gehring, Geschäftsführer beim Landwirtschaftsverlag Münster, ist seit April 
+im Ruhestand. 
+Klaus Wurm, vorher Geschäftsführer der Nordbayerischen Presse Vertriebs GmbH 
+(NPV), ist jetzt Ruheständler. 
+Markus Gries kehrt "im Sommer" als Publisher Wassersport zu Delius Klasing zurück. 
+P 
+1 
+2 
+4 
+83 
+ 
+ 
+ 
+ 
+Personalien 
+QUELLEN:
+PERSONALIEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 30
+"Was, so wenig kostet der Druck?" 
+ 
+Ein knappes Jahr nach seinem 'Freizeit Ma-
+gazin Royale'-Coup präsentiert TV-Come-
+dian Jan Böhmermann in einem YouTube-
+Video eine "Schlussabrechnung" 
+[pv-digest.de/linkliste Link4]. 
+Zur Erinnerung: im April letzten Jahres
+hatte Böhmermann dieses Magazin, das 
+sich in der Optik an die verkaufsstarken 
+'Freizeit-Magazine' anlehnte und diese in-
+haltlich und zu Lasten der verantwortlichen
+Verlagsmanager karikierte, zum Verkaufs-
+preis von 99Cent in den Handel gebracht.  
+Die Kioskauflage war in vielen Geschäften
+noch am Erstverkaufstag ausverkauft. Ei-
+nen Monat später gab es einen Nachdruck. 
+Von den insgesamt fast 40.000 in den stati-
+onären Handel gebrachten Heften wurden 
+schlussendlich 32.000 verkauft. 
+Deutlich mehr, nämlich fast 100.000 Hefte,
+wurden über einen Onlineshop abgesetzt, 
+obwohl dort erhebliche Aufschläge verlangt 
+wurden, um die Porto- und Abwicklungs-
+kosten zu decken. Für das Heft, das am Ki-
+osk für 0,99€ zu haben war, musste online 
+das Dreifache bezahlt werden. 
+In seinem Video berichtet Böhmermann 
+detailliert über Mengen, die Erlöse der bei-
+den Vertriebssparten und die für ihn damit 
+verbundenen Kosten. Das ist ein durchaus
+erhellender Blick durch die Brille eines inte-
+ressierten Laien auf die Welt des Pressever-
+triebs ("Was, so wenig kostet der Druck? Der
+ganz große Teil der Kosten entsteht durch 
+den Vertrieb!"). 
+ Zwar fehlt an der einen und anderen Stelle 
+das Verständnis für die Aufgabenteilung 
+zwischen Nationalvertrieb, Großhandel und 
+Einzelhandel. Aber dafür macht das Video 
+deutlich, wie einfach selbst ein Branchen-
+neuling über das Grosso ein Produkt in den 
+Handel bringen kann, das jeder Händler, 
+dem das erlaubt wäre, umgehend an den
+Hersteller zurückgeben müsste. 
+In ganz Deutschland wurden mit dem Heft 
+im Handel keine 30.000€ Vertriebsumsatz
+erwirtschaftet, verrät Böhmermann. Sein 
+Anteil daran seien 50%, womit er seine Kos-
+ten habe decken und einen Gewinn verbu-
+chen können.  
+Das bedeutet, dass alle Leistungen von 
+Nationalvertrieb, Grossisten und Einzel-
+händlern 
+zusammen 
+mit 
+weniger 
+als 
+15.000€ vergütet wurden. Es ist nicht be-
+kannt, wie viele Verkaufsstellen beliefert 
+wurden. Selbst bei einem überschaubaren 
+Verteiler von 10.000 Einzelhändlern wären 
+pro Ladengeschäft im Schnitt kaum 50Cent 
+Gesamt-Erlös für den Händler zusammen-
+gekommen. 
+Aus dem Aboverkauf kann man ablesen, 
+dass die Käufer problemlos auch den drei-
+fachen Preis bezahlt hätten. Die Händler 
+hätten dann das Dreifache verdient. 
+Wenn ein Verlag (und sei es der Einmalver-
+leger Jan Böhmermann) auf seine Kosten 
+kommt, dann muss er keine weiteren Rück-
+sichten nehmen. Die übrigen Kosten muss 
+der Handel schultern. Keine Schlussabrech-
+nung stellt sicher, dass das für ihn aufgeht. 
+ 
+ 
+… letzte Worte 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+EINE GROSSE BITTE: Monat für Monat berichtet pv digest, in der Breite und in der Tiefe von anderen Medien unerreicht, über den Lesermarkt. Als bezahlende 
+Abonnenten machen Sie das möglich. Immer wieder einmal erfahre ich aber davon, dass pv digest elektronisch weitergeleitet wird. Das ist durch den regulä-
+ren Abopreis nicht abgedeckt. Ich wäre Ihnen dankbar, wenn Sie die Praxis in Ihrem Haus hinterfragen und mir ein Signal geben, wenn eine Mehrfachlizenz 
+sinnvoll ist. Ich verspreche Ihnen ein maßvolles Pricing mit hoher Mengendegression. Kontakt: schoeberl@pv-digest.de, Tel.: +49 40 308 901 09 
+ 
+AUSGABE 5/2022 ׀ SEITE 31
+ 
+  
+ 
+Über pv digest 
+ 
+pv digest ist ein Informationsdienst auf Expertenniveau für das Top-Management 
+rund um das Thema Lesermarkt und Vertrieb journalistischer Produkte. pv digest 
+beruht auf eigenen Recherchen und auf Zusammenfassungen an anderer Stelle ver-
+öffentlichter Informationen und bietet einen einzigartigen Überblick über alle stra-
+tegisch relevanten Vertriebsthemen. pv digest unternimmt in der Regel keine Prü-
+fung wiedergegebener Inhalte und übernimmt keine Garantien für die inhaltliche 
+Korrektheit von Informationen. Genutzte Quellen in pv digest sind in der vorliegen-
+den Ausgabe wie folgt codiert: 
+ 
+ 
+Quellenverzeichnis Ausgabe 5/2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum und 
+Kontaktdaten 
+ 
+HERAUSGEBER: 
+Markus Schöberl (v.i.S.d.P.) 
+Doverkamp 5 
+22335 Hamburg 
+Telefon: 040 308 901 09 
+e-mail: schoeberl@pv-digest.de 
+www.pv-digest.de 
+ 
+pv digest erscheint 11x jährlich,  
+in der Regel am fünften Werktag 
+eines Monats, als personalisiertes  
+PDF-Dokument 
+ 
+PREISE: 
+Regulärer Bezug Deutschland:  
+pro Ausgabe 78€ zzgl. USt., im 
+Jahresabo 781€ zzgl. Ust. 
+ 
+Sonderpreise für Mengenabos  
+oder Firmenlizenzen auf Anfrage 
+ 
+BESTELLUNGEN UND  
+SERVICEFRAGEN:  
+e-mail: abo@pv-digest.de 
+Telefon: 040 308 901 09 
+Post: Doverkamp 5,  
+22335 Hamburg 
+ 
+Bankverbindung: 
+Hamburger Sparkasse 
+BIC:  HASPDEHHXXX 
+IBAN: DE82 2005 0550 1237 1348 10 
+ 
+ 
+ 
+COPYRIGHT: 
+pv digest ist ein empfängerge-
+bundener Informationsservice 
+ 
+ 
+Vervielfältigung und elektroni-
+sche Weitergabe sind untersagt. 
+ 
+ACHTUNG: der nächste pv digest 
+erscheint am 8. Juni 2022 

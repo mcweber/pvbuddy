@@ -1,0 +1,3039 @@
+ZEITUNGEN 
+ZEITSCHRIFTEN 
+PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Weiter-
+gabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer Firma: 
+abo@pv-digest.de 
+Ausgabe 2/2020 
+Liebe Leserinnen und Leser, 
+ab und zu geschieht es, dass eine Recherche, die ich 
+langfristig geplant habe, auf eine aktuelle Nachricht 
+trifft, die aus dem geplanten Hintergrundbericht einen 
+Beitrag zum Hier und Jetzt macht. 
+Diesmal ist mir das beim gleich folgenden Bericht 
+über das 'iPad statt Print'-Programm der Arkansas De-
+mocrat-Gazette passiert. Darüber hat pv digest vor ei-
+nem Jahr erstmals berichtet und ich hatte begonnen, 
+Informationen zum aktuellen Stand zusammen zu tra-
+gen. Mitten im erfreulich intensiven E-Mail-Kontakt mit 
+dem Verleger der Zeitung machte in Deutschland ein 
+Studienergebnis die Runde: Drei von vier Zeitungsabonnenten können sich dem-
+nach nicht vorstellen, die gedruckte Zeitung gegen ein E-Paper zu tauschen. Das 
+konnten die Abonnenten der Zeitung aus Arkansas auch nicht. Bevor sie vom Verlag 
+trotzdem dafür gewonnen wurden. 
+Ein zweiter für diese Ausgabe sehr auskunftsfreudiger Verlagsmanager war der Ver-
+triebschef des Heise Verlags. Er hat meine zahlreichen Fragen zum Rückblick auf 
+zwölf Monate heise+ so konkret und ungefiltert beantwortet, dass ich Fragen und 
+Antworten ab Seite 6 in einem Format präsentiere, das Ihnen in pv digest nur selten 
+begegnet: als Interview. (Kuriosität am Rande: hier platzte mitten in meine Recherchen 
+eine Pressemitteilung des Verlags. Darin hat der heise+ Chefredakteur einige der Er-
+folgszahlen verraten, die ich Ihnen gerne als erster präsentiert hätte.) 
+Wer zu spät kommt… Das gilt auch für den Onboarding-Prozess bei neuen Abonnen-
+ten. Das Wall Street glaubt sogar, das dabei schon die ersten Sekunden entscheidend 
+sind. Mehr dazu ab Seite 10. 
+Auf Seite 24ff finden Sie meine jährliche Analyse der WBZ-Konditionen. Ich glaube, 
+das Thema ist nicht nur für die Abowerbefirmen aus der Zeitschriftenwelt interessant. 
+Preisgestaltung ist derzeit in der ganzen Pressebranche ein Thema. Und selten gibt es 
+rund um einzelne Titel ein so vielfältiges Geflecht von Preisen, wie im WBZ-Bereich. 
+Ich wünsche Ihnen eine anregende Lektüre und einen verkaufsstarken Monat. 
+ 
+ 
+Markus Schöberl, Herausgeber pv digest 
+Der pv digest 
+Quick Guide 
+ 
+Das Wichtigste in 15 Minuten 
+ 
+ 
+Für Zeitschriften- 
+Verlage 
+Für Zeitungs/ 
+News-Verlage 
+Für digitale  
+Verlagsangebote 
+Für Handels- 
+Verantwortliche 
+INHALT 
+Verlage und  
+Verlagsvertriebe 
+ 
+S.  2 
+ 
+Handel und 
+Absatzwege 
+ 
+S.18 
+Analysen und  
+Daten                 
+ 
+S.23 
+Meinungen 
+ 
+S.28 
+Personalien 
+ 
+S.29 
+Branchennews- 
+& Recht 
+ 
+S.29 
+letzte Worte 
+S.30 
+ 
+ 
+Editorial 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 2
+ 
+ 
+ 
+ 
+ 
+Blick zurück in die Zukunft: kostenlose iPads als Lösung 
+für das Problem der Zeitungszustellung?! 
+p 
+pvd Nachhaltigkeits-
+Check 
+ 
+Vor 12 Monaten berichteten wir über die Arkansas Democrat-Gazette. Der 'irgendwo mit-
+tendrin' gelegene US-Bundesstaat Arkansas ist ungefähr zehnmal so groß wie Mecklen-
+burg, hat aber nicht einmal doppelt so viele Einwohner. Wie fast alle Zeitungen leidet 
+auch die Democrat-Gazette unter Auflagenschwund. Zuletzt (Ende Q1/2019) wurde eine 
+tägliche Auflage von knapp 140.000 gemeldet, davon rund 30.000, die auf die eigenstän-
+dige Ausgabe Northwest Arkansas Democrat-Gazette entfallen. Es gibt in Arkansas weitere 
+10 lokal erscheinende Zeitungen, von denen aber selbst die größte mit knapp 14.000 Abos 
+nur etwa ein Zehntel des Platzhirschen Democrat-Gazette erreicht. 
+Sinkende Auflagen in einem Vertriebsgebiet von erheblicher Ausdehnung: Die größte 
+Zeitung in Arkansas leidet unter den hohen Zustellkosten insbesondere für weit vom 
+Druckstandort, der Hauptstadt des Bundesstaates, Little Rock, entfernte und dünn besie-
+delte Gebiete. 2018 erlebte die in dritter Generation von Verleger Walter E. Hussmann ge-
+führte Zeitung das erste nichtprofitable Jahr ihrer rund 200jährigen Geschichte. 
+Statt mit Kostensparmaßnahmen (die Zeitung leistet sich immer noch eine 106köpfige 
+Redaktion) oder drastischen Preiserhöhungen zu reagieren, initiierte Hussmann schon zu 
+Beginn des Jahres 2018 den Test eines Programms 'iPad statt Papier'. Dabei haben 
+Abonnenten die Möglichkeit, ohne Zuzahlung, nur zum regulären Abopreis (monatlich rd. 
+35$), vom Verlag 'leihweise' ein iPad Pro zu erhalten, um darauf die tägliche Digitalausgabe 
+im E-Paper-Format, also im gewohnten Layout, lesen zu können.  
+('Leihweise', d.h. nach Beendigung des Abos muss das Gerät zurückgegeben werden. 
+Neue Abonnenten müssen einen Kreditvertrag unterschreiben, in dem sie sich verpflich-
+ten, für das Gerät zu bezahlen, wenn sie es nach Beendigung des Abos nicht zurückgeben. 
+Den teils seit Jahrzehnten abonnierenden Stammlesern vertraut der Verlag das iPad auch 
+ohne einen solchen Vertrag an.) 
+Die App für das iPad ermöglicht auch das Lesen der Webseiten, auf denen (hinter einer 
+harten Paywall) ebenfalls alle Artikel publiziert werden. Aber Verleger Hussmann bewirbt 
+aktiv nur das E-Paper im Printlayout. Er ist überzeugt, dass der Schritt weg vom Print-
+layout ein Schritt zu viel wäre. "Das sind dann zwei Umwandlungen. Eine ist Print zu Digital. 
+Und die andere ist vom Printformat zum Scrollen einer Webseite. Es ist schon schwer ge-
+nug, die Leute von Print zu Digital zu bekommen. Vielleicht werden die Leute eines Tages 
+für das Lesen in einer Scrolling-App bezahlen. Aber noch sind wir nicht so weit."  
+Auch anschließend bietet der Verlag seinen Abonnenten "den besten Kundenservice, 
+den sie wahrscheinlich jemals erlebt haben", sagt Hussmann. Für die Gewinnung der 
+überwiegend älteren Leserschaft für das moderne Lesegerät nimmt der Verlag sehr viel 
+Aufwand in Kauf. Auf Wunsch installiert ein Verlagsmitarbeiter das iPad und die App und 
+ 
+ 
+ 
+US-Regionalzeitung im 
+ländlichen Raum bietet 
+kostenlose iPads für 
+den Verzicht auf Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arkansas Democrat- 
+Gazette 2018 erstmals 
+mit Verlust wegen ho-
+her Zustellkosten 
+ 
+ 
+ 
+ 
+Anfang 2018 erster 
+Test: Gratis-iPad bei 
+Umstellung auf Digital-
+abo 
+ 
+ 
+ 
+iPads werden 'verlie-
+hen', nicht verschenkt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+wichtig für Akzeptanz: 
+Digitalausgabe im 
+Printlayout (E-Paper) 
+ 
+ 
+ 
+ 
+ 
+Verlag investiert hoch 
+in Anleitung, techni-
+sche Hilfestellung, Kun-
+denservice 
+QUELLEN:
+NACHRICHTEN AUS VERLAGEN
+UND VERLAGSVERTRIEBEN
+#2/19 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 3
+erklärt den Abonnenten den Gebrauch des Gerätes bei ihnen zu Hause. Alternativ lädt er 
+zu Informationsabenden in teuren Hotels. "Ich glaube, die letzte Schätzung waren 90$ pro 
+Abonnent für dieses Trainingsprogramm", erzählt Hussmann über seine Erfahrungen 
+bei der Einführung des Programms im Bezirk Blytheville (wo es bei 5.000 Einwohnern nur 
+200 Abonnenten gegeben habe. "Unser Zusteller hat sich Hemd und Hose zerreißen müs-
+sen. Allerdings hatten wir für das Hemd und die Hose bezahlt").  
+Dafür beendet der Verlag den Vertrieb der gedruckten Werktagsausgabe in allen 
+Bezirken ('Counties'), in denen er 'iPad statt Print' anbietet. Nur die Sonntagszeitung wird 
+in den allermeisten Counties weiterhin auch gedruckt angeboten, ohne Aufpreis (und ohne 
+Preisreduktion, wenn der Abonnent darauf verzichten will). 
+In unserer Vorjahresausgabe zitierten wir Hussmann so: "Wir haben 60-70% aller 
+Leute, die wir kontaktiert haben, für das Angebot gewonnen (...) Gerade in ländlichen 
+Gegenden schaffen wir keine 
+höhere Durchdringung. Aber 
+insgesamt schaffen wir zwi-
+schen 60 und 70 Prozent. Das ist 
+ziemlich ermutigend." Damals 
+hatte der Verlag das Programm 
+auf 25 der 75 Bezirke von 
+Arkansas ausgerollt. Jetzt ha-
+ben wir den aktuellen Stand des 
+Projektes recherchiert. Unter 
+anderem hat Walter Hussmann 
+dafür unsere Fragen ausführlich 
+beantwortet.  
+12 Monate später: wie steht es heute um die Strategie iPad statt Print? 
+Das wichtigsten zuerst: Zwölf Monate nach unserem letzten Bericht weisen alle Para-
+meter auf einen Erfolg hin. Im Durchschnitt von ganz Arkansas haben sich nunmehr 78% 
+aller Abonnenten, denen der Tausch angeboten wurde, auf iPad statt Print eingelas-
+sen. Ein County im Norden der Heimatstadt Little Rock erreichte sogar 90%. Einige ländli-
+che Gebiete dagegen nur um 50%. 
+Wir haben Walter Hussmann gefragt, ob es außer der Qualität der zur Verfügung stehen-
+den Internet-Verbindungen weitere Erfolgsfaktoren gibt, die die Bereitschaft zum Aus-
+wechseln des Lesemediums beeinflussen. Darauf antwortet er: "Ja. Es gibt [in der Zei-
+tung] mehr Nachrichten mit lokalem Bezug zu Little Rock, was die Akzeptanz steigert. Au-
+ßerdem war Little Rock das Gebiet, das wir erst zuletzt umgestellt haben und zu diesem 
+Zeitpunkt, 18 Monate später [nach dem Start des Programms] hatten viele schon von 
+Freunden gehört, dass das Lesen der E-Paper-Ausgabe auf dem iPad tatsächlich eine noch 
+bessere Erfahrung ist als die Lektüre von Print. Und wir haben im Markt Little Rock Wer-
+bung gemacht, was wir nicht im ganzen Bundesland getan haben." 
+Das Programm ist mittlerweile flächendeckend ausgerollt. Nur noch nicht in den 12 Be-
+zirken, wo die Schwesterzeitung Northwest Democrat-Gazette erscheint. Dort startet der 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ende für Print (außer 
+sonntags) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vor 12 Monaten: 
+Rollout in 1/3 der Be-
+zirke, 60-70% erfolgrei-
+che Umstellungen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heute Rollout in alle 
+Bezirke, im Schnitt 78% 
+erfolgreiche Umstellun-
+gen 
+ 
+ 
+ 
+ 
+Erfolgsfaktoren neben 
+Breitbandabdeckung? 
+ 
+ 
+Lokalität der Inhalte, 
+Mundpropaganda, 
+Marketing 
+ 
+ 
+ 
+ 
+Verleger Walter E. Hussmann Jr. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 4
+Verlag erst jetzt mit dem Rollout. In allen anderen 63 Counties erscheint die Zeitung nur 
+noch digital als E-Paper. Zuletzt (am 26. Januar) wurde der Druck auch für den Heimat-
+standort Little Rock beendet. 
+Ökonomisch geht das Projekt auf. Für 2020 erwartet Hussmann wieder Profitabilität, 
+nachdem er mittlerweile 12Mio$ in das Programm investiert hat und eine Gesamtinves-
+tition von 13Mio$ erwartet. Diese Investition rechnet sich so laut Hussmann, so: "Die 
+größten Einsparungen sind die Kosten der täglichen Belieferung. Offensichtlich sind auch 
+die Einsparungen bei Druck und Papier. Aber es gibt auch nennenswerte Einsparungen im 
+Zusammenhang mit der Gesundheitsvorsorge, Sozial- und Rentenversicherung." 
+Ist der Tausch iPad statt Print dazu geeignet, auch jüngere Leser für die Zeitung zu 
+gewinnen? "Das ist noch offen. Eine bedeutende Herausforderung ist, dass immer noch 
+so viele kostenlose Nachrichten verfügbar sind, auch wenn das meistens internationale 
+und nationale Nachrichten, Sport und Wirtschaft sind. Eine andere Herausforderung sind 
+die nationalen Zeitungen, die NY Times, das WSJ und die Washington Post. Die haben nun 
+genug Digitalabos, um alle Gemeinkosten zu decken und Gewinn zu erwirtschaften. Also 
+bieten sie nun große Rabatte für Neuabonnenten. Ich habe letzte Woche ein Angebot der 
+New York Times erhalten, 1$ pro Woche für 52 Wochen." 
+Eine Strategie auch für andere Verlage? 
+Zu dieser Geschichte gehört die Beobachtung, dass trotz des augenscheinlichen Erfolgs 
+der Arkansas Democrat-Gazette bisher kein weiterer Verlag in den USA eine vergleichbare 
+Strategie verfolgt. Hussmann glaubt, das liege an der vorherrschenden Einspar- und Kür-
+zungsstrategie in anderen Verlagen. "Wir werden mehr als 13Mio$ für iPads und Trainings 
+in den 63 Bezirken ausgeben. Vor einem Jahr haben die Eigner ihre Zeitung in Oklahoma 
+Stadt für 12Mio$ verkauft. Die meisten würden nicht das Risiko eingehen, das wir einge-
+gangen sind und stattdessen das Geld nehmen." Lediglich eine Zeitung (der Charleston 
+Post and Courier, der rund 1.500 km entfernt in South Carolina erscheint) sei einmal zu 
+Besuch gekommen und biete nun ihren Lesern in abgelegenen Gebieten den Tausch iPad 
+gegen Print an. Dabei gewinne der Charleston Post and Courier "interessanterweise" mit 
+70% "den gleichen Prozentwert, den wir anfangs erreicht hatten" für das Angebot in sei-
+nem ersten Testmarkt. 
+Wasser im Wein? Der Teufel in den Details 
+Kurz vor Redaktionsschluss stolperten wir über einen sehr ausführlichen Bericht der Lo-
+cal News Initiative an der Northwestern Universität [pv-digest.de/linkliste Link1]. Eine De-
+tailangabe dieses Berichts hatte uns irritiert und dazu motiviert, eine letzte Frage an Walter 
+Hussmann nachzureichen. Seine ausführliche Antwort beinhaltet eine Vielzahl relevanter 
+Aspekte und Nebenbedingungen zur Strategie 'iPad statt Papier'. Darum zitieren wir 
+sie hier ausführlich. 
+Im Beitrag heißt es "Hussmann, dessen Zeitung im Rahmen des Projekts 27.000 iPads verteilt 
+hat…'. Das hat mich irritiert. Ich hätte 70.000 geschätzt (ca. 100.000 aktuelle Verkaufsauflage 
+nach Abzug der Auflage der Northwestern Democrat Gazette, 70% der Leser wechseln auf die 
+digitale Ausgabe)? 
+Schwesterzeitung im 
+Nordwesten startet 
+nun den Rollout 
+ 
+ 
+ 
+ökonomischer Erfolg: 
+trotz 13Mio$ Investi-
+tion für 2020 wieder 
+Profitabilität in Sicht 
+ 
+ 
+ 
+ 
+gewinnt 'iPad statt Pa-
+pier' auch jüngere Le-
+ser? "Das ist noch of-
+fen." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+bisher folgt kein ande-
+rer Verlag der Strategie 
+ 
+ 
+ 
+ 
+ 
+lediglich ein erster Test 
+bei einer anderen Zei-
+tung 
+ 
+ 
+dort aber mit ähnli-
+chem Erfolg 
+ 
+ 
+weitere Erfahrungen: 
+ 
+ 
+ 
+LESEEMPFEHLUNG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 5
+Darauf Walter Hussmann: "Um die kleinere Zahl zu verstehen, müssen Sie berücksichti-
+gen, dass wir die gesamte Einzelverkaufsauflage verlieren. Das reduziert die Gesamt-
+auflage schon einmal um etwa 30%. Wenn von den übrigen 70% Aboexemplaren nochmals 
+30% verloren gehen, die nicht am Programm teilnehmen, dann haben Sie schon einmal 
+21% der Aboauflage verloren. Wir haben außerdem gelernt, dass ungefähr ein Viertel 
+der Leute, die das Abo behalten, gar kein iPad haben wollen. Das verteilt sich beinahe 
+gleichmäßig, einerseits auf Leute, die sagen, sie haben bereits ein iPad oder ein Tablet und 
+Leute, die es bevorzugen, auf dem Laptop oder dem Smartphone zu lesen. Und die andere 
+Hälfte der Leute, die kein iPad will, sagt, dass sie nur an der gedruckten Sonntagsausgabe 
+interessiert sind, dass sie ihr Abo aber behalten. Das alles reduziert die Anzahl der iPads, 
+die nötig sind. Dazu kommt der natürliche Rückgang in der Aboauflage [seit der Meldung 
+der letzten Auflagenzahlen vor einem Jahr]. Und weil wir uns so sehr auf die Umwandlung 
+von Printlesern zu Digitallesern konzentriert haben und unsere Neukundengewinnung 
+dafür vernachlässigt haben, haben wir auch zum Rückgang der Auflage beigetragen." 
+• EV-Auflage geht kom-
+plett verloren 
+ 
+• ca. ¼ aller umgestell-
+ten Abonnenten ver-
+zichtet auf das iPad 
+ 
+ 
+ 
+ 
+ 
+ 
+• Neukundengewin-
+nung vernachlässigt 
+ 
+ 
+pvd meint: dass es rechnerisch darstellbar ist, das Verschenken von iPads an bezah-
+lende Abonnenten komplett mit der Einstellung des Zeitungsdrucks zu refinanzieren, ist 
+überhaupt nicht neu. Über entsprechende Vorschläge haben wir schon in den ersten 
+Tagen von pv digest vor etlichen Jahren berichtet. 
+Dass das praktisch nie passiert liegt an den großen Befürchtungen, die konservativen 
+Zeitungsleser in den oft mit schlechten Bandbreiten versorgten ländlichen Gebieten 
+würden dabei als Leser verloren gehen. 
+Aber in Arkansas haben landesweit wohl nur rund 75% der Bevölkerung Zugang zu Breit-
+bandinternet. Und der Staat ist fest in den Händen der Republikaner. Verleger Huss-
+mann selbst dürfte ein strammer Konservativer sein. So erklärt er in einem Video des 
+sehr Trump-freundlichen TV-Sender Fox News seine Vorstellung von "faktenbasiertem" 
+Journalismus und das erkennbar zur großen Zufriedenheit des in anderen Medien als 
+Rechtsaußen kritisierten Moderators Tucker Carlson. Hussmanns Vorstellung von gu-
+tem Journalismus ist meilenweit von der stark meinungsgeprägten Berichterstattung 
+der großen US-Medien entfernt. Noch konservativer als die Leser seiner Zeitung dürften 
+hiesige Abonnenten im Querschnitt nicht sein. 
+Die Leser laufen auch nicht mit wehenden Fahnen über. Die meisten wechseln nur wi-
+derwillig und Hussmanns Zeitung verwendet viel Zeit darauf, den Abonnenten zu erläu-
+tern, warum der Schritt unumgänglich ist, wenn sie weiterhin eine gehaltvolle tägliche 
+Zeitung lesen wollen. Das funktioniert. Und Hussmann denkt, mittelfristig werden die 
+Leser das digitale Lesegerät sogar als ein dem Papier überlegenes Medium anerkennen. 
+Ein wichtiger Erfolgsfaktor dürfte auch sein, dass Hussmann ein kompromissloser Über-
+zeugungstäter ist. Er hatte schon 2001 eine Paywall eingeführt, als andere noch 15 Jahre 
+und mehr davon entfernt waren. Er verkaufte seine Abos sehr früh zu hohen Preisen, 
+als andere Zeitungen auf Niedrigpreise setzten, um Auflagen 'abzusichern'. Und heute 
+stellt er seinen Lesern kostenlos nicht etwa das günstig zu habende iPad mini zur Verfü-
+gung, sondern die teuerste Version des Gerätes, das iPad Pro. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 6
+ 
+Heise Plus: Erfahrungen nach einem Jahr Zeitschriften-
+verlags-'Flatrate' 
+ 
+Ein Jahr heise+ 
+ 
+Vor einem Jahr startete der Computer- und Technikzeitschriftenverlag Heise sein Bezahl-
+modell heise+. Das war in gleich mehrfacher Hinsicht ein Markstein für die Entwicklung 
+von Paid Content in Deutschland. 
+>  heise+ ist ein Paid Content-Angebot aus dem Segment der Publikums- bzw. der Spe-
+cial Interest-Zeitschriften. Paywalls waren (sogar: sind) dort im Unterschied zur Zei-
+tungswelt eher noch Ausnahme als Regel. 
+>  heise+ ist nicht die Paywall einer einzigen Publikation, sondern ein Angebot für alle Be-
+zahlinhalte eines Verlages, d.s. in diesem Fall sämtliche Artikel aus allen Heise-Zeit-
+schriften (aber nicht in der gebündelten und gestalteten Form des E-Papers!) und weitere, 
+nur online veröffentlichte Premium-Artikel. 
+> heise+ startete mit einem mutigen Preis. Das Abo kostet 9,95€ pro Monat. Das ist noch 
+etwas weniger als die gedruckte oder die digitale Ausgabe allein des Flaggschifftitels C't 
+kostet. Dabei umfasst heise+ neben dessen Inhalten auch noch die Beiträge der Zeit-
+schriften Technology Review, iX, Make und der c't-Ableger Fotografie und Mac&i.  
+Mit diesem Preis ging der Verlag also das Risiko einer Selbstkannibalisierung ein. Dies 
+umso mehr, als eine anfangs angekündigte Erhöhung des Preises von heise+ ab dem 13. 
+Lesemonat ganz kurz nach dem Start wieder zurückgenommen wurde, weil die Reaktionen 
+der heise.de-Nutzer darauf gar zu negativ ausfielen.  
+Wir haben André Lux, Leiter Vertrieb & Marketing der Heise Medien GmbH, für einen 
+Rückblick auf 1 Jahr heise+ ausführlich befragt. Weil wir viele gute Antworten bekommen 
+haben, präsentieren wir den Rückblick in Form eines (per E-Mail durchgeführten, von 
+uns teils gekürzten und redigierten) Interviews. 
+pvd: Was ist aus Sicht des Lesermarkts die wichtigste Folge der Einführung von heise+? 
+André Lux: "Unser Ziel war es, neue Zielgruppen zu erschließen. Zielgruppen, die wir mit 
+den bis dahin existenten Produkten nicht bewegen konnten, Abonnements abzuschließen. 
+Mit heise+ haben wir genau das geschafft. Wir haben Kundenbeziehungen hergestellt, 
+die über das vorhandene Portfolio nicht zustande gekommen wären. 
+Unser wichtigstes Argument, unser USP, ist die Magazin-übergreifende Flatrate. Abon-
+nenten sind nicht mehr an Marken gebunden, sondern sie können sich thematisch ori-
+entieren – markenübergreifend. Das ist neu im Paid-Content-Bereich. Wir freuen uns über 
+die hohe Akzeptanz, unsere Inhalte digital zu lesen und dafür auch regelmäßig zu bezah-
+len." 
+Wie viele Abos habt Ihr bisher für heise+ gewonnen, wie entwickelt sich der Bestand? 
+"Wir haben zurzeit knapp 25.000 aktive Abonnenten. (Weitere 27.000 sind als Mehrfach-
+abonnenten unserer Zeitschriften zugriffsberechtigt). Von den 25.000 Abonnenten sind 
+23.400 ungekündigt. 21.700 Abonnenten sind Zahler. Etwa die Hälfte davon sind Abon-
+nenten unserer Zeitschriften, die heise+ für 3€ oder 5€ [pvd: pro Monat] hinzubuchen kön-
+nen. Wir haben für 2020 das Ziel, im Schnitt pro Tag ca. 100 Testabos zu generieren." 
+ 
+ 
+ 
+ 
+ 
+ 
+• Paid Content bei 
+PZ/SI-Titeln 
+ 
+ 
+• 'Verlagsflatrate' statt 
+Abo nur einer Marke 
+ 
+aber: nur online, 
+nicht E-Paper 
+ 
+ 
+• keine Angst vor 
+Selbstkannibalisie-
+rung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interview mit Ver-
+triebs-/Marketing-
+chef André Lux 
+ 
+ 
+ 
+ 
+heise+ gewinnt Bezah-
+ler in einer neuen Ziel-
+gruppe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aktuell 22.000 Bezah-
+ler, je 50% nur heise+, 
+weitere 50% als Up-
+grade zu Heftabos 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 7
+Sicher habt Ihr Euch mit der Frage beschäftigt, ob 9,95€ pro Monat für alle Inhalte dazu führen 
+könnte, dass c’t-Abonnenten oder gar Mehrfachabonnenten auf dieses Angebot umsteigen ('Kan-
+nibalisierung'). Wie analysiert Ihr das und zu welchem Ergebnis kommt Ihr? 
+"Die Sorge, insbesondere der 'klassischen' Marken, war, dass viele der Bestandskunden 
+ihrem Abo den Rücken kehren und zu heise+ wechseln würden. Es gibt diese 'Wechsler' – 
+aber in einem so geringen Maß, dass die Befürchtungen sich im Prinzip nicht bewahrheitet 
+haben. Vielen der Abonnenten der 'klassischen' Marken ist es nach wie vor wichtig, 
+die Inhalte kuratiert zu bekommen. Das Printheft am Wochenende in den Händen zu 
+halten, den Alltag auszublenden und sich in den IT-Tiefen 'zu verlieren'.  
+Es sind tatsächlich von allen sechs Titeln, die innerhalb der 'Browserflat' in heise+ gelesen 
+werden können, nur jeweils ein Prozent aus dem Abobestand zu heise+ gewechselt.  
+Ganz interessant dabei ist, wie unterschiedlich bei c’t und iX der Wechselwille zwischen 
+Print- und Digitalabonnenten ausfiel. Bei c’t waren es zu zwei Drittel Printabonnenten, die 
+zu heise+ wechselten. Bei iX war es genau andersherum. Dort waren es zu zwei Dritteln E-
+Paper-Abonnenten, die zu heise+ wechselten."  
+Gab es Erfahrungen/Learnings, die seit dem Start zu markanten Veränderungen an heise+ ge-
+führt haben? 
+"Unser Plan, einen höheren Ankerpreis (14,95€) im Markt zu etablieren, um dann relativ 
+unkompliziert nach einem Jahr eine Preiserhöhung bei den für 9,95 € geworbenen Abon-
+nenten durchführen zu können, ging nicht auf. Wir merkten recht schnell, dass zwei Preise 
+zu Irritationen im Markt führten. So haben wir uns zurzeit von dem Modell 'nach dem 
+13ten Monat automatisch auf 14,95€ zu erhöhen' verabschiedet. Der Preis bleibt bis auf 
+weiteres bei 9,95€. Uns war es wichtig, transparent und – besonders wichtig – mit einem 
+einfachen, nachvollziehbaren Produkt und Preis in den Markt zu gehen.  
+Das Produkt an sich hat sich bisher nicht verändert. Wir haben sehr viele Ideen, die auf 
+ihre Umsetzung warten, um das Produkt komfortabler, noch nutzbarer zu machen.  
+Änderungen haben wir jedoch beim Kaufprozess vorgenommen. Dieser ist deutlich opti-
+miert worden. Es war uns wichtig, die potenziellen Abonnenten besser an die Hand neh-
+men. Das Produktmanagement hat die Stufen im Kaufprozess 'durchgemessen' und dar-
+über die geeigneten Maßnahmen abgeleitet. Zum Beispiel haben wir im Vergleich zum 
+Start die Zahl der für eine Abobestellung erforderlichen Klicks auf die Hälfte redu-
+ziert. Und wir haben unterschiedliche Layouts getestet und dabei festgestellt, dass unsere 
+Nutzer auf nüchterne, nicht emotionalisierte Designs besser reagieren. 
+Über die Monate ließ sich feststellen, dass 'exklusive' heise+ Inhalte besonders wich-
+tig sind, wenn es darum geht, neue Abonnenten zu gewinnen. Das sind Artikel hinter der 
+Paywall, die aber nicht aus den Magazinen stammen, sondern die eine Redaktion extra 
+für heise+ erstellt. Mit diesen Artikeln gewinnen wir im Schnitt bis zu zweieinhalb Mal 
+mehr Abonnenten als mit den Plus-Artikeln aus den Magazinen. 
+Was uns auch sehr freut, ist, dass sehr viele Anfragen aus dem B2B-Umfeld kommen. 
+Interessenten aus dem B2B-Bereich wünschen sich Mehrplatzlizenzen. Diese Anfragen 
+können wir ab Januar 2020 bedienen und werden hierzu einen aktiven Vertrieb etablieren." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kannibalisierung findet 
+nur bei etwa 1% statt; 
+Thema hat keine Be-
+deutung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nicht funktioniert hat 
+der Versuch, von An-
+fang an eine Preiserhö-
+hung 'einzubauen' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kaufprozess (Anzahl 
+Klicks) deutlich ver-
+schlankt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+extra für heise+ er-
+stelle Premium-Inhalte 
+konvertieren besser als 
+Heftinhalte 
+ 
+ 
+Interesse an  
+Firmenabos 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 8
+heise+ Abonnenten haben keinen Zugriff auf die E-Paper-Ausgaben. Wie kommt diese Regelung 
+bei den Kunden an? Wird das so bleiben?  
+"heise+ ist ein Angebot, bei dem man alle Artikel der Heise-Titel auf allen Geräten im Brow-
+ser lesen kann. Das kommunizieren wir auch sehr transparent – dies macht den Unter-
+schied zu den Abos der 'klassischen' Marken aus. Wir haben dazu tatsächlich keine Be-
+schwerden erhalten. Dieser Sachverhalt scheint verstanden zu sein. Die PDFs der Marken 
+werden weiterhin kein Bestandteil von heise+ sein. 
+Allerdings gab es bei den zusätzlichen Ausstattungen der klassischen Marken (z.B. die c’t 
+Desinfect DVD) Irritationen. Ist der Inhalt der DVD nun Bestandteil in heise+ oder nicht? 
+Wir haben bei Nachfragen pragmatisch reagiert und den Inhalt zur Verfügung gestellt." 
+Wie läuft die Zusammenarbeit von Redaktion und Vertrieb bei heise+? Gibt es eine gezielte Ko-
+operation in Richtung Digitalabogewinnung und -haltbarkeit? Gibt es gemeinsame Strukturen 
+(regelmäßige Termine, Mitarbeiter mit geteilter Verantwortung etc.)? 
+"Spätestens mit heise+ haben sich bei Heise neue, moderne Strukturen der Zusammenar-
+beit etabliert. Bereits im Jahr 2018 sind wir von der reinen Marken-Sichtweise abgerückt 
+und haben den Kunden in den Mittelpunkt gerückt. Im Jahr 2019 haben wir die bereichs-
+übergreifende Zusammenarbeit intensiviert, dabei arbeiten wir nach der OKR-Me-
+thode [pvd: eine kooperative, zielzahlenorientierte Managementmethode, die u.a. Google 
+und andere Größen des Silicon Valley praktizieren]. Die heise+ Strategie zur Abogewinnung 
+haben Redaktion und Vertrieb zum Start gemeinschaftlich geplant und ausgearbeitet. Das 
+hat außerordentlich gut funktioniert und wird auch beibehalten. Zurzeit arbeiten wir be-
+reichsübergreifend an den Haltbarkeits- und Rückgewinnungs-Themen. 
+Mit dem Start von heise+ hat die Redaktion zudem einen sehr vertrieblichen Blick entwi-
+ckelt. Die Artikel werden wie 'Marketingmaßnahmen' bewertet: Wie viele Klicks wur-
+den erzeugt, wie viele Abos sind über den Artikel zustande gekommen, und wie hoch ist 
+die Churn-Rate bei den Artikeln? Das sind KPIs, die vorher so nicht in der Betrachtung wa-
+ren. Natürlich ist uns bewusst, dass nicht alles an den o.g. Zahlen festgemacht werden 
+darf. Impulse setzen ist wichtig, genau wie über den Tellerrand hinweg zu berichten. Die 
+Werte, die Heise ausmachen, auch weiterhin zu erhalten, aber trotzdem einen professio-
+nellen Blick auf die Zahlen zu haben – das ist es, wohin es sich entwickelt hat. 
+Neu bei einem Heise-Produkt ist die Echtzeitbetrachtung. Über unser heise+ Dashboard, 
+das jedem Kollegen bei Heise zur Verfügung steht, hat jede Kollegin, jeder Kollege die Mög-
+lichkeit, den Erfolg, die Kennzahlen von heise+ in Echtzeit zu verfolgen. Das hat für eine 
+großartige Dynamik gesorgt. Die Redaktion, das Produktmanagement und Vertrieb & 
+Marketing konnten darüber sehr schnell Trends erkennen und entsprechende Maßnah-
+men einleiten." 
+Was sind die erfolgreichsten Marketingkanäle&-aktionen für die Gewinnung von heise+ Kunden? 
+"Am erfolgreichsten sind die heise+ Artikel auf heise online. Aus diesen werden 60 bis 
+70 Prozent der Neuabonnenten gewonnen. Danach kommt die Bestandskundenanspra-
+che, die sehr erfolgreich ist. Des Weiteren haben wir Social-Media- Aktivitäten und pro-
+grammatische Kampagnen gestartet." 
+ 
+ 
+ 
+ 
+'kein E-Paper enthal-
+ten' ist der zentrale Un-
+terschied zu den ande-
+ren Digitalabos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bezahlmodell hat zu 
+neuen Strukturen und 
+viel mehr Zusammen-
+arbeit geführt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Redaktion mit "ver-
+trieblichem Blick" 
+ 
+"Artikel als Marketing-
+maßnahmen verste-
+hen" 
+ 
+ 
+ 
+ 
+Transparenz: zentrale 
+Kennzahlen für jeden 
+Mitarbeiter immer ein-
+sehbar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 9
+Welchen Anteil Deiner Zeit und Deines Vertriebsmarketingbudgets verwenden Du und Dein Team 
+auf heise+? 
+"heise+ ist ein weiteres Produkt und ein für unsere Zukunft sehr wichtiges Produkt; es wird 
+aber ressourcenseitig genauso behandelt wie die klassischen Marken. 
+Wichtig – und das ist eine neue Sichtweise – ist, dass wir über die Artikel (Anzahl Artikel 
+absolut, als auch, wie viele Plus-Artikel finden auf der Site statt) die Produktion skalieren 
+können. Bei den klassischen Marken hatten und haben wir neue Kanäle, Tools oder Part-
+ner anbinden müssen. Das hat sich dann in einem Mehr an Vertriebsbudget niedergeschla-
+gen. Bei heise+ investieren wir stattdessen in Redakteure. Wie oben schon erwähnt – 
+die Artikel sind hier ein Marketing-Vehikel. Darüber lässt sich skalieren." 
+Bei Digitalabos ist das Thema Churn ein großes Thema. Wie seht Ihr das? Wie geht Ihr damit 
+um? 
+"Ja, die Churn-Rate ist in diesem Umfeld eine deutlich höhere als in den 'klassischen' Um-
+feldern. Haltbarkeiten über fünf Jahre können wir bei heise+ aller Voraussicht nach 
+nicht erreichen. Vielmehr ist es in diesem Umfeld und der Zielgruppe so, dass diese [das 
+heise+ Abo] gern bei Bedarf 'anschalten', um dann genauso spontan auch mal wieder 'aus-
+zuschalten'.  
+Wir erarbeiten gerade Anstoßketten für die automatisierte Kündiger-Rückgewinnung der 
+heise+ Kündiger. Die Modelle, die Strategie, was wann für wen wie passiert, weicht von den 
+klassischen Anstößen ab.  
+Was uns allerdings sehr wichtig ist, ist, dass sich die Abonnenten in heise+ perspekti-
+visch einrichten können. Wir sind hier noch in der Kreationsphase. Wir wägen gerade ab, 
+welche Features in welchem Maße darauf einzahlen, dass die Abonnenten sich ihre Kom-
+fortzone schaffen. Dieses Einrichten soll – ähnlich wie bei Spotify, Prime, Netflix etc. – dazu 
+führen, dass die Abonnenten die ganzen Listen, Bookmarks, (Themen-)Ordner nicht mehr 
+missen wollen und letztlich keine Lust haben, ihr Abo zu kündigen, zumal das Kündigen ja 
+auch immer Energie frisst. 
+Das alles gilt übrigens nur für die reinen heise+ Abonnenten. Die andere Hälfte, die 
+heise+ als Zusatzoption zu ihrem Magazinabo dazubucht, die bezahlt jährlich im Rah-
+men der normalen Aborechnungen. In dieser Gruppe haben wir kein Churn-Thema, da 
+sind die Haltbarkeiten sehr gut." 
+Wie würdet Ihr nach aktuellem Kenntnisstand die durchschnittliche Haltbarkeit eines heise+ 
+Abos prognostizieren? 
+"Darüber kann ich zurzeit keine belastbare Aussage machen." 
+Wie ist die Umwandlung vom Gratis-Probemonat in das Bezahlabo? Hat sich die Umwandlungs-
+quote im Zeitverlauf signifikant verändert? 
+"Die Wandlungen haben sich auf einem moderaten Niveau sukzessive verschlechtert. Das 
+lässt sich aber auch relativ einfach erklären. Am Anfang konnten wir die 'Heise-Fans' leicht 
+dazu bewegen, heise+ zu testen. Diese Fans sind dann auch mit 75 bis 80 Prozent ins re-
+guläre Abo übergegangen. In den folgenden Monaten haben wir dann den größeren Kreis 
+um die Fans herum gewinnen können, das Angebot zu testen. In dieser Gruppe sind die 
+ 
+ 
+ 
+ 
+ 
+Marketing für heise+ 
+heißt besonders auch: 
+Investition in die Re-
+daktion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Haltbarkeit geringer 
+als bei anderen Abos 
+ 
+Abos werden "an – und 
+ausgeschaltet" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+heise+ als Zusatzop-
+tion zu Heftabos: viel 
+höhere Haltbarkeit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 10
+Abgänge naturgemäß etwas höher. Ganz grob würde ich im Moment sagen, dass wir aus 
+100 Probebestellern etwa 55% bezahlende Kunden gewinnen, von denen dann in der 
+folgenden Zeit noch einmal 15% abgehen. In Summe sind das dann 60% Abgang gerech-
+net auf die Testbesteller." 
+Von 100 Gratis-Probe-
+bestellern sind im 
+Schnitt heute noch 
+40% als Bezahler dabei 
+ 
+Paid Content für die Generation Greta 
+P 
+ze.tt gr.een 
+ 
+Mit ze.tt gr.een [sic!] startet der Jugendableger der Zeit, ze.tt, ein neues Paid Content-An-
+gebot für junge Leute. Versprochen wird Bezahlern ein "partizipatives Community-Modell, 
+bei dem der Fokus auf Nachhaltigkeit liegt. Damit knüpfen wir an den Zeitgeist an: Die 
+Klimakrise und umweltfreundliches Leben sind die Top-Themen unserer User*innen. Un-
+ser Motto ist: Partizipieren statt Konsumieren!".  
+Das Angebot ist dreistufig konzipiert. In der Basisversion erhalten Bezahler 
+>  zusätzliche exklusive Inhalte. 'Member', also Bezahler, lesen "zusätzliche Texte zu 
+Crime, Liebe und Einsamkeit" 
+>  sie können eine Kommentarfunktion nutzen 
+>  und sich untereinander vernetzen 
+Das alles gibt es für nur 3,66€ pro Monat. Für 6,49€ wird noch zusätzlich ein Baum ge-
+pflanzt. Und für 12,99€ können zwei Freunde mitlesen, denn dafür gibt es drei Accounts, 
+einen (!) Baum ("Außerdem pflanzen wir einen Baum für euch.") und "Das Highlight: Für 
+alle ze.tt-gr.een-Member bieten wir vergünstigte Konditionen zum Einkaufen bei unseren 
+ausgewählten Partner*innen". Freilich sollen das nur solche Unternehmen sein, die sich 
+der Idee des nachhaltigen Wirtschaftens verpflichtet fühlen. 
+Bezahlt und die Mitgliedschaft gemanagt wird über Steady (vgl. pvd #10/2019), das 
+damit erstmals beim Angebot einer großen Pressemarke zum Einsatz kommt. Ebenfalls 
+originell sind weitere Mitgliedschaftsvorteile, wie zum Beispiel die Teilnahme an Videokon-
+ferenzen ('Google Hangouts') mit der Chefredakteurin. 
+ 
+ 
+Paid Content-Angebot 
+des Jugendablegers 
+von Die Zeit 
+ 
+ 
+für 3,66€/Monat: 
+• Exklusive Inhalte 
+• Kommentarfunktion 
+• Vernetzung 
+ 
+ 
+ 
+ 
+ 
+für 6,49€/Monat 
+• 1 Baum wird ge-
+pflanzt 
+ 
+für 12,99€ 
+• 3 Nutzer 
+• Einkaufsrabatte 
+ 
+ 
+Mitgliedschaftsma-
+nagement über Steady 
+ 
+ 
+Kundenbindung: schon die ersten Sekunden nach einer 
+Abobestellung sind entscheidend 
+94 
+Kundenbindung  
+ 
+Kundenbindung ist eine Aufgabe für die ersten Sekunden (!) eines Digitalabos. Das ist die 
+Kernaussage eines Blogposts von Ian Tucker, Associate Director of Optimization beim Wall 
+Street Journal. "Der größte Faktor bei der Vermeidung von Kündigungen neuer 'Mitglie-
+der' ist die frühe Herausbildung von [Nutzungs]Gewohnheiten. Mit Hilfe der großartigen 
+Arbeit unseres Data Science-Teams fanden wir heraus, dass der Tag Null für ein neues 
+Mitglied der wichtigste Zeitpunkt für die Herausbildung von Gewohnheiten ist. Sobald 
+ 
+ 
+ 
+Erfahrung beim WSJ: 
+schon die ersten Se-
+kunden nach der Be-
+stellung entscheidend 
+ 
+ 
+ 
+pvd meint: "zusätzliche Texte zu Crime, Liebe und Einsamkeit" klingt wenig originell. 
+Und der Rest des Angebotes ist eine schamlose Anbiederung an den Fridays-for-Future-
+Zeitgeist. Ob die jungen Leute so billig zu haben sind? Zumal 'wir pflanzen 1 Baum' doch 
+sehr schwach klingt. (Selbst Biertrinker konnten schon einmal pro Kiste Bier einen gan-
+zen Quadratmeter Regenwald retten). Und Einkaufsrabatte als Top-Vorteil der höchsten 
+Preisstufe in einem 'partizipieren statt konsumieren'-Package sind einfach nur schräg. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 11
+wir ein neues Mitglied akquiriert haben, beginnt die Uhr zu ticken. In jeder Minute, die 
+vorübergeht, sinkt die Bereitschaft dieses Mitglieds, neue Gewohnheiten innerhalb unse-
+res Produktes anzunehmen, dramatisch", schreibt Tucker. 
+Dabei verwendet er den Begriff Gewohnheit für einen Mix an Aktivitäten von Abon-
+nenten, der von der Installation der App über die Bestellung von Newslettern bis hin zur 
+Teilnahme an Puzzle-Spielen oder der Angabe persönlicher Themeninteressen reicht. Alle 
+diese Aktivitäten trügen zur Erhöhung der Kundenbindung bei. Zwar seien die ersten 100 
+Tage einer Kundenbeziehung geeignet, solche neuen 'Gewohnheiten' "einzuführen". Aber 
+"nichts ist so effektiv wie das Onboarding direkt nach dem Kauf". 
+Tucker verrät drei erfolgreiche Taktiken für den Onboardingprozess: 
+>  Jede 'Gewohnheit' sollte für sich selbst, also nicht zusammen mit anderen 'Gewohnhei-
+ten', vorgestellt werden. Tucker spricht von "Karten" und meint damit wohl einzeln durch-
+geführte Prozessschritte im Onboardingprozess. Jede 'Gewohnheit' einzeln anzuprei-
+sen statt mehrere 'Gewohnheiten' in einer Liste zu präsentieren, habe beim Wall Street 
+Journal einen 125% "Uplift" in den Aktionen pro Nutzer erzeugt.  
+>  Um die Installation der App zu motivieren, sei es effektiv, den Link zur Installation per 
+SMS zu versenden. Das erzeugte beim WSJ einen "Uplift von 450% in den App-Down-
+loads" [pvd: die Abfrage der Mobilfunkrufnummer ist fester Bestandteil des Prozesses]. 
+>  Gewohnheiten sollten im Onboardingprozess vollständig ausgebildet werden kön-
+nen [d.h. eine Newsletterbestellung muss wirksam fertiggestellt werden, eine Personali-
+sierung tatsächlich durchgeführt werden können und nicht nur als Möglichkeit erwähnt 
+werden]. Das resultierte beim Walls Street Journal in einem "Uplift von 200%". 
+Tuckers Verwendung des Begriffes 'Gewohnheit' ("habit") ist ungewöhnlich. Er berichtet, 
+dass man durch die Optimierung des Onboarding-Prozesses die Anzahl der Nutzer, die 
+neue 'Gewohnheiten' annehmen um 223% gesteigert habe. Er addiert die Erfolge seiner 
+Zeitung sogar zu einer Gesamtanzahl von 986.000 "neuen Gewohnheiten, die wir in einem 
+Jahr generieren". Was er damit meint, sind alle unterschiedlichen Aktionen, die ein Nutzer 
+ergreifen kann, um bestimmte Features regelmäßig zu nutzen. Klar wird das, wenn Tucker 
+"einige Aktionen und die prozentuale Veränderung" [=Steigerung] präsentiert, die das 
+WSJ während des Onboarding-Prozesses erreicht habe: 
+>  2.253% Spielen eines Puzzles 
+>  1.900% Bestellung von 'Alerts', also gelegentlichen Hinweisen bei aktuellen Meldungen 
+zu individuell relevanten Themen 
+>  1.718% Erstellen einer Watchlist 
+>  1.100% Aufrufen der Podcast-Plattform 
+>  1.100% Angabe von Interessen 
+>  650% Abspielen eines Videos 
+>  400% App-Downloads 
+Das Gesamtergebnis daraus sei eine um 18% erhöhte Kundenbindung neuer Abon-
+nenten, die den Onboarding-Prozess wenigstens begonnen haben gegenüber solchen, die 
+ 
+ 
+ 
+ 
+ 
+noch im Onboarding 
+sollten Kunden 'Ge-
+wohnheiten' anneh-
+men 
+ 
+ 
+ 
+ 
+3 Onboarding-Takti-
+ken: 
+ 
+• Jede mögliche 'Ge-
+wohnheit' einzeln 
+vorstellen 
+ 
+ 
+ 
+• Installationslink zur 
+App per SMS versen-
+den 
+ 
+ 
+• mögliche 'Gewohn-
+heiten' nicht nur vor-
+stellen, sondern fina-
+lisieren 
+ 
+ 
+ 
+ 
+'Gewohnheit' = alle Ak-
+tivitäten, die zu regel-
+mäßiger Nutzung füh-
+ren 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++18% Kundenbindung 
+beim WSJ durch Aus-
+bau des Onboardings 
+um Gewohnheiten 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 12
+das nicht hatten. Und je mehr Aktionen ein Nutzer im Onboarding-Prozess durchführt, 
+desto höher sei seine Kundenbindung. 
+Immerhin 50% aller neuen Abonnenten/Mitglieder komplettierten den Onboarding-Pro-
+zess des Walls Street Journal, obwohl der sich im Rahmen der vorgestellten Optimierungen 
+"von 5 auf 15 Karten verlängert hat" [in unserem Test waren es sogar 16]. Das zeige das 
+große Interesse der Nutzer, die zahlreichen Features des Produktes kennenzulernen, und 
+dass es keine Informations-Müdigkeit gebe.  
+Auch später können Abonnenten des Wall Street Journal jederzeit wieder in den Onboar-
+ding-Prozess einsteigen, um dort weitere Aktionen durchzuführen. Dazu gebe es auf jeder 
+Website einen Nutzervorteile-Link im Kundenkontomenü. Dieses "in-life onboarding" er-
+zeuge sogar mehr Gewohnheiten als das Neubesteller-Onboarding, weil es für alle 
+Abonnenten, auch die schon länger bestehenden Abonnenten, verfügbar sei. Das Feature 
+würde 1,5Mio jährliche Visits durch Abonnenten generieren. [pvd: bei unserer Testbestel-
+lung sind wir erst hier auf den Prozess gestoßen, der sogar 16 als 'Karten' dargestellte 
+'Gewohnheiten' zur Einrichtung bzw. Personalisierung anbot.] 
+48% der Neuabonnenten würden Angaben zu ihren Themeninteressen machen. In der 
+nächsten Phase der Onboarding-Optimierung werde das WSJ daran arbeiten, die Effektivi-
+tät der Karten im Onboarding-Prozess mit Hilfe von Personalisierungstechniken noch wei-
+ter zu steigern. "Unser Endziel ist, den Onboardingprozess zu bestimmen, der neue 
+Mitglieder dazu verführt, so viele Aktionen wie möglich durchzuführen und so die Kün-
+digungswahrscheinlichkeit zu reduzieren". 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50% aller Besteller 
+komplettierten den auf 
+das Dreifache verlän-
+gerten Prozess 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+auch später kann je-
+derzeit wieder in den 
+Prozess eingestiegen 
+werden 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint: Die unscharfe Verwendung des Begriffes 'Gewohnheit' ("habit") sollte 
+dazu motivieren, hier weiter zu differenzieren. Mit Sicherheit macht es einen großen Un-
+terschied, ob zum Beispiel jemand einen Newsletter nur bestellt (eine Gewohnheit im 
+Sinne von Ian Tucker) oder ob er diesen Newsletter regelmäßig öffnet und liest (das erst 
+wäre nach unserem Verständnis eine Gewohnheit). 
+Aber das mindert nicht den Wert der Erfahrung, die das vielleicht am besten durchana-
+lysierte journalistische Paid Content-Angebot mit dem Rest der Branche hier teilt. Die 
+ersten Sekunden sind entscheidend. Das Onboarding hat einen gar nicht überschätzba-
+ren Einfluss auf den weiteren Verlauf der Kundenbeziehung. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 13
+ 
+Frankreichs größte TZ mit 'Sports only' Digitalangebot 
+79 
+P 
+Minuit Sport 
+ 
+Ouest-France, also Westfrankreich, ist trotz des regionalen Fokus die größte Zeitung im 
+Nachbarland (sogar die größte französischsprachige Zeitung weltweit). 2018 lag die ver-
+breitete Auflage bei immer noch deutlich über 600.000 Exemplaren täglich. 
+60 Journalisten arbeiten allein in der Sportredaktion von Ouest-France. Und die bieten nun 
+ein digital only erscheinendes Sportprodukt: Minuit Sport. 'Mitternachtssport' trägt 
+den Erscheinungstermin im Namen, soll an sieben Tagen in der Woche erscheinen und 
+nicht nur über Fußball, sondern über alle Sportarten berichten. Zu großen Ereignissen, wie 
+der kommenden Europameisterschaft im Fußball oder der kommenden Olympiade, sind 
+auch Printausgaben vorgesehen, die dann an den Wettkampfstätten kostenlos verteilt 
+werden. 
+Im Regelfall kostet Minuit Sport 4,99€ pro Monat. Es erscheint in Ausgaben, die auf gro-
+ßen Bildschirmen in einem printähnlichen Layout gelesen werden können (Umfang: 20 
+'Seiten') und auf dem Smartphone in einem für den kleinen Bildschirm angepassten mo-
+bilen Format. Im Wettbewerb um tagesaktuell interessierte und bezahlbereite Leser trifft 
+Minuit Sport auf die seit über 70 Jahren etablierte Sporttageszeitung L'Équipe. 
+ 
+ 
+ 
+ 
+ 
+größte Zeitung Frank-
+reichs startet tägliches 
+digital only Sportange-
+bot 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tägliche Ausgaben für 
+4,99€/Monat  
+ 
+Politico treibt die Nische auf die Spitze 
+B54 
+P 
+ 
+B2B-Hochpreisnische 
+ 
+Der 2007 gegründete B2B-Publisher Politico startet ein nochmals weiter zugespitztes An-
+gebot. Das US-Medium, an dem Axel Springer beteiligt ist, und das seit 2015 auch einen 
+Europa-Ableger betreibt, bedient Unternehmen und andere Organisationen mit fundier-
+ten Hintergrundberichten zu aktuellen Entwicklungen aus der Politik, insbesondere 
+mit Blick auf regulatorische Aktivitäten. Politico verdient mittlerweile mehr als die Hälfte 
+seines Umsatzes mit dem Paid Content-Angebot Politico Pro. Die Abopreise für dieses Ni-
+schenmedium für Politik-Profis sind in der Regel fünfstellig (über die variable und nach 
+außen nicht transparente Preisgestaltung haben wir zuletzt in pvd #9/2017 berichtet. Da-
+mals hatte der Dienst bereits rund 20.000 bezahlende Abonnenten). Die restlichen Um-
+sätze kommen aus einem Mix von Sponsoring&Werbung, Veranstaltungen und dem Ver-
+trieb eines Magazins. Beide Umsatzsäulen sollen im letzten Jahr prozentual zweistellig ge-
+wachsen sei, das Abogeschäft stärker als der Rest. Politico ist profitabel, wohl auch schon 
+der junge Ableger für Europa. 
+Nun will Politico die Nische auf die Spitze treiben. Unter dem Label AgencyIQ hat es einen 
+Dienst gestartet, der über die Aktivitäten der Pharma- und Lebensmittelüberwa-
+chungsbehörde FDA berichtet. Der dafür verantwortliche General Manager Aaron Kissel 
+schätzt, dass es für sein zwischen 25.000$ (Einzellizenz) und 75.000$ (Unternehmenslizenz) 
+teures Angebot zwischen 75 und 125 potenziell interessierte Unternehmen gibt. Aus "mehr 
+als einem Dutzend" dieser Unternehmen hat er ein Beratergremium gebildet, das 
+AgencyIQ dabei helfen soll, die richtigen Themen in der richtigen Art und Weise aufzube-
+reiten. Aus diesem Kreis hofft er "einen guten Teil" zu den ersten Abonnenten zählen zu 
+können. Bis Ende 2020 will er die Hälfte der Potenzialunternehmen als Abonnenten ge-
+wonnen haben. Bisher arbeiten 20 Mitarbeiter für AgencyIQ, das sein Geschäft ausschließ-
+lich auf Aboerlöse aufbauen will. 
+ 
+ 
+ 
+ 
+ 
+ 
+Politikmedium Politico 
+erfolgreich mit Hoch-
+preisabos  
+ 
+ 
+ 
+ 
+ 
+ 
+auch der EU-Ableger ist 
+profitabel und wach-
+send 
+ 
+ 
+Nun startet AgencyIQ. 
+Berichte rund um 1 US-
+Regulierungsbehörde 
+ 
+ 
+ 
+noch teurer als Politico 
+Pro (25-75TSD$), noch 
+spitzer (nur ca. 100 Po-
+tenzialkunden) 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 14
+Als Wachstumsfelder für den neuen Ableger sieht Kissel weitere Regulierungsbehörden in 
+den USA (z.B. die Wettbewerbsbehörde oder das Pendant der Bundesnetzagentur, die Fe-
+deral Communications Commission). 
+ 
+OnlyFans: wo die Pornoindustrie einmal mehr eine In-
+spiration für alle Publisher sein könnte 
+P 
+ 
+OnlyFans 
+ 
+Erfolgreiche Selfpublisher auf Social Media haben Millionen Fans, generieren hunderttau-
+sende Views mit ihren Posts und verdienen Geld vor allem mit Werbung. Für Ihre Rolle 
+im Dreieck Werbetreibende-Werbeträger-Publikum vermarkten sie sich als 'Influencer'. 
+Über die Plattform OnlyFans können sie sich auch direkt an ihre Fans vermarkten. On-
+lyFans bietet 'Publishern' die Möglichkeit, in Twitter-, Facebook- oder Instagrammanier 
+kurze Texte und Multimediainhalte zu publizieren, die nur für Nutzer (Fans) zugäng-
+lich sind, die Geld an den jeweiligen Selfpublisher bezahlen. 
+OnlyFans versucht sich als Publishing-Plattform für Kreative jeder Couleur darzustellen. 
+Auf seiner Website präsentiert OnlyFans die Fallstudien 'Wie Schauspieler OnlyFans nut-
+zen', 'Wie Fitnesstrainer als Kreative OnlyFans nutzen' und 'Treffen Sie Jem Wolfie'. 
+Jem Wolfie ist eine der erfolgreichsten Publisher auf OnlyFans und Paradebeispiel für das 
+Gros der dort erfolgreichen 'Kreativen'. Jem Wolfie folgen auf OnlyFans fast nur Männer 
+und denen bietet sie regelmäßig mehr oder weniger softerotische Fotos. Wer extra be-
+zahlt oder schon lange dabei ist, mit dem tauscht sie auch persönliche Nachrichten aus. 
+Auf Instagram folgen ihr über 2,6Mio Abonnenten, berichtet omr.com. Aber Geld verdiene 
+sie zunehmend über OnlyFans. Angeblich bis zu 30.000$ täglich hat Wolfie im April 2019 
+einmal behauptet. Die New York Times schrieb 2 Monate vorher, sie habe 10.000 Abon-
+nenten für ihre Inhalte, die monatlich mindestens 10$ bezahlen. 
+Zahlreiche Medien haben mittlerweile über OnlyFans berichtet, auch große und renom-
+mierte Redaktionen. Im Januar berichtete der Economist ausführlich. Die Hauptfigur in die-
+sem Bericht: Lucy-Anne Brooks, eine 33jährige verheiratete Mutter, die zwischen 19.000 
+und 22.000 britischen Pfund monatlich damit verdiene, ihren Followern die Illusion zu er-
+lauben, in einer digitalen erotischen Fernbeziehung mit ihr zu leben. Vorher verdiente 
+sie erheblich weniger Geld als Seite-3-Girl oder mit Fotos für Männer-Magazine. 
+Andere OnlyFans-Publisher kommen aus der harten Pornografie. Nicht nur der Econo-
+mist, auch die New York Times zeigen, dass die direkte Beziehung zu den Konsumenten 
+viele Publisherinnen von Zwängen und Praktiken der Pornoindustrie befreit. "Only Fans 
+verändert Sexarbeit für immer" behauptete nytimes.com vor genau einem Jahr. 
+Ob hier tatsächlich in großem Stil die Sexindustrie umgewälzt wird, dürfte noch offen 
+sein. Unbestreitbar scheint aber, das zeigen zahlreiche Berichte, dass einzelne Frauen mit 
+ 
+ 
+Selfpublisher in Sozia-
+len Medien verdienen 
+Geld mit Werbung (als 
+'Influencer') 
+ 
+ 
+bei OnlyFans können 
+ihr Follower bezahlen 
+lassen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die meisten 'Publisher' 
+auf OnlyFans sind 
+Frauen, die softeroti-
+sche Kontakte anbieten 
+ 
+ 
+ 
+ 
+ 
+Mehrere erzielen damit 
+deutlich fünfstellige Er-
+löse pro Monat 
+ 
+ 
+ 
+ 
+ 
+Publisher kommen oft 
+aus der Pornowelt 
+ 
+und verdienen nun 
+selbstständig mehr 
+Geld mit weniger 'har-
+ten' Inhalten 
+ 
+ 
+pvd meint: maximal 125 Kunden, die mit von Anfang an schon 20 Mitarbeitern zu 
+Preisen rund um 50.000$ pro Jahr bedient werden! Das ist hart an der Grenze zur indi-
+viduellen Unternehmensberatung. Aber noch ist es ein Angebot, das der Gattung Presse 
+– Fachpresse natürlich – zuzuordnen ist. Politico eröffnet nicht zum ersten Mal neue 
+Spielräume in der Preisgestaltung. Davon könnten auch andere Publisher profitieren. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 15
+OnlyFans nicht nur einen selbstbestimmten Ausgang aus der Hardcorewirtschaft ge-
+funden haben und nun deutlich mehr Geld verdienen als vorher. Sondern sie verdienen 
+das Geld auch nicht mehr mit harter Pornografie, sondern mit leichtbekleideten Bildern, 
+kreativen Inszenierungen und dem Austausch von persönlichen Nachrichten mit ihren be-
+zahlenden Fans. Nicht der Zugang zu Inhalten, schon gar nicht zu harten pornografischen 
+Bildern und Videos, ist ihr Leistungsversprechen auf OnlyFans. Sondern die Vermittlung 
+(der Illusion) einer echten sozialen Beziehung zu einem (Traum)Partner. Dazu gehört, dass 
+die Kreativen sich auch tatsächlich aktiv um die besonders bezahlbereiten Abonnenten 
+bemühen. "Wenn ich mal ein paar Tage ruhig bin, dann bemerkt sie das und schickt mir 
+Nachrichten und fragt, wie es mir geht", zitiert der Economist einen 42jährigen Engländer, 
+der nach eigener Schätzung 300£ pro Monat für den Kontakt zu Lacy-Anne Brooks bezahlt. 
+"Wenn jemand ein regelmäßiger Kunde ist, dann ist es wahrscheinlich, dass sie seinen Ge-
+burtstag kennt, die Namen seiner Kinder und seiner Haustiere – sogar, wann sie sich nach 
+dem Ausgang einer medizinischen Operation erkundigen muss", berichtet die New York 
+Times über Dannii Harwood, eine weitere Top-Verdienerin bei OnlyFans mit monatlichen 
+Einnahmen im Bereich 50.000$. Auch männliche Publisher mit schwulen Inhalten sollen 
+bei OnlyFans sehr erfolgreich sein. 
+OnlyFans behält 20% aller Nutzerzahlungen für sich. Der Rest geht ohne weitere Mitver-
+diener an die Publisher. Von den 20% gehen diverse Gebühren für die Zahlungsabwicklung 
+ab. Rund 12% verblieben bei OnlyFans, sagt Mitgründer Tim Stokeley. Sein Unternehmen 
+bemüht sich im Außenauftritt erkennbar um ein breitetes Spektrum an Kreativen, die ihre 
+Inhalte über OnlyFans monetarisieren. Aber die allgemeine Wahrnehmung ist, dass es eine 
+Plattform der Erotikwelt ist. Diese Art Inhalte ist wohl auch ein Grund, warum OnlyFans 
+nicht als App in den Stores von Apple oder Google verfügbar ist, die solche Inhalte gerne 
+blockieren. OnlyFans funktioniert als (mobile) Website. Laut Selbstdarstellung sind über 
+8Mio Nutzer und 70.000 'Kreative' auf OnlyFans registriert. An letztere habe die erst 2016 
+gegründete Plattform schon über 150Mio$ ausgeschüttet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Follower, die viel be-
+zahlen, werden auch 
+individuell angespro-
+chen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+80% aller Umsätze ge-
+hen an die Publisher, 
+20% bleiben bei Only 
+Fans 
+ 
+nach Abzug der Zah-
+lungskosten 12% 
+ 
+ 
+• 8Mio Nutzer 
+• 70.000 Publisher 
+• 150Mio$ Publisher-
+Erlöse seit 2016 
+ 
+ 
+pvd meint: schon immer war die Pornowirtschaft die Avantgarde bei der Nutzung 
+neuer Möglichkeiten der digitalen Welt, gerade bei der Monetarisierung. Davon muss 
+man sich nicht abschrecken lassen.  
+Auch Redaktionen bauen teilweise hochemotionale Beziehungen zu ihren Nutzern, also 
+den Lesern, auf. Wenn nicht wenige Erotikmodels Geld damit verdienen, sich nicht an 
+ein Massenpublikum zu vermarkten, sondern individuelle und teils ganz persönliche Be-
+ziehungen zu ihren Abonnenten aufzubauen, dann kann das auch für Redaktionen und 
+einzelne Redakteure eine Inspiration sein. Einen kleinen Schritt in diese Richtung sind 
+die per SMS mit ihren Lesern kommunizierenden Journalisten schon gegangen, die sich 
+am 'Project Text' (später in 'Subtext' umbenannt) beteiligen (vgl. pvd #5/2019). 
+Nicht unbemerkt bleiben sollte auch der zivilisierende Aspekt der Geschichte von On-
+lyFans. Die Macher der Plattform und viele der 'Publisherinnen', vermutlich auch ein gro-
+ßer Teil der bezahlenden Abonnenten, kommen aus den Winkeln der Hardcoreporno-
+grafie. Und bemerken nun, dass noch mehr Geld mit Zurückhaltung, Kreativität und der 
+Pflege von Beziehungen zu verdienen ist. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 16
+ 
+"Think Tank": HH Abendblatt testet Hochpreis-B2B-Abo 
+P 
+HA Think Tank 
+ 
+Das Hamburger Abendblatt hat leise ein Hochpreis-Bezahlangebot für B2B-Kunden ge-
+launcht. Für 999€ pro Jahr können die Mitglied im 'Think Tank' werden. Versprochen 
+wird ihnen dafür  
+>  das Wissen des "umfangreichen Hamburg-Archivs, das unter anderem alle Abendblatt-
+Ausgaben seit 1948 umfasst" 
+>  ein "exklusiver wöchentlicher Newsletter"  
+>  persönlicher Austausch mit und "Entscheidungshilfen für alle Hamburger Themen" von 
+"dem Expertenteam" [d.s. OMR-Gründer Philipp Westermeyer und Mitarbeiter von Re-
+daktion und Marketingabteilung (!) der Zeitung] 
+>  kostenloser Zugang zu Events, Führungen "beim renommierten OMR-Festival 2020" 
+>  das Digitalabo des Hamburger Abendblatts 
+>  monatliche Conference Calls zu aktuellen Themen 
+ 
+ 
+Hochpreisabo für B2B-
+Kunden (999€ p.a.) 
+ 
+ 
+• Archivzugang 
+ 
+• "exklusiver" Newslet-
+ter 
+ 
+• Expertenrat 
+ 
+ 
+ 
+• Events 
+ 
+• Digitalabo 
+ 
+• Conference Calls 
+ 
+ 
+ 
+pvd meint: Das nur wenig prominent in einem Eckartikel in der Zeitung und in einem 
+Webartikel vorgestellte Angebot ist äußerst halbgar. Der Bestellprozess ist erkennbar 
+improvisiert. Die Angebotsbeschreibung wirft genauso viele Fragen auf, wie sie Verspre-
+chungen macht. Die Inhalte des 'exklusiven' Newsletters sind Hamburger Allerweltsthe-
+men. Was "Entscheidungshilfen für alle Hamburger Themen" sein könnten, bleibt offen. 
+Einerseits. 
+Andererseits: "Exklusiv" klingt immer gut. Hamburgs junger Medien-Supermann Philipp 
+Westermeyer ist ein starkes Zugpferd. 999€ sind ein Preis, der im B2B-Markt auch Klein-
+stunternehmer nicht verprellen dürfte, zumal sie ein Drittel für das Digitalabo anrech-
+nen können, das sie bereits beziehen. 'Think Tank' ist ein Paradebeispiel für den Test 
+eines 'Minimum Viable Product'. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 17
+ 
+ 
+P 
+      
+Marktentwicklung
+neue Objekte
+ 
+Verteilung neu eingeführter 
+periodischer Zeitschriften und 
+Non-Periodika in Deutschland 
+nach Segmenten und Erschei-
+nungswochentagen 
+ 
+(Abgrenzung: erster EVT im Ja-
+nuar 2020, zu Anzahl und Er-
+scheinungsweise siehe  
+"Daten Cockpit Handel")  
+  
+ 
+Marktentwicklung
+Copypreise
+ 
+neu eingeführte Zeitschriften 
+Print, Verlags-Apps in ausge-
+wählten Stores 
+   
+ 
+Marktentwicklung
+Copypreise
+ 
+ 
+(Häufigkeitsverteilung Copy-
+Preise bei neuen Zeitschriften) 
+  
+ 
+DATEN COCKPIT VERLAGE 
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 18
+ 
+ 
+ 
+ 
+ 
+Ehastra 2019 – Daten zum grossobelieferten Pressehandel 
+P 
+Ehastra 2019 
+ 
+Der Gesamtverband Pressegroßhandel hat die Daten der letztjährigen Einzelhandelsstruk-
+turanalyse (Ehastra) veröffentlicht. Danach gab es in Deutschland zum Erhebungszeit-
+punkt (KW39/2019) 97.486 Presseverkaufsstellen. Das sind 3,7% weniger als in der glei-
+chen Woche im Vorjahr. Die Zahl ist das Saldo aus rund 6.400 Einzelhändlern, die keine 
+Presse mehr verkaufen [pvd: meistens Ladenschließungen, manchmal auch Sortiments-
+auslistungen] und immerhin 2.600 neuen Presseverkaufsstellen. Im Unterschied zum Vor-
+jahr, in dem die Anzahl der Vollverkaufsstellen stärker sank, ging im letzten Jahr die Anzahl 
+der reinen Zeitungsverkäufer im Gleichschritt mit der bei den Vollverkaufsstellen um 3,7% 
+zurück. 
+Die nun erstmals seit langem weniger als 100.000 grossobelieferten Pressehändler ver-
+teilen sich wie folgt auf die Geschäftsarten: 
+Nur noch 51.391 Presse-Händler sind komplett eigenständig. Das sind fast 7% weni-
+ger als im Vorjahr. Gegen den Trend stieg die Anzahl der selbstständigen Einzelhändler 
+und Pächter mit Bindung an eine Vertriebslinie (z.B. Rewe, Edeka, aber auch Aral etc.) so-
+gar, wenn auch nur wenig, um 1% auf 21.220. Im Vorjahr war deren Zahl gesunken. Die 
+Zahl der Filialbetriebe in Regie einer Zentrale sank leicht auf knapp 25.000. Der Um-
+satz verteilt sich auf diese drei unterschiedlichen Organisationsformen im Einzelhandel 
+wie folgt: 33% des deutschen Handelsumsatzes mit grossobelieferten Presseprodukten 
+wird von selbstständigen unabhängigen Händlern generiert, 29% von selbstständigen Ein-
+zelhändlern mit Bindung an eine Vertriebslinie (Edeka, Aral etc.) und 38% von Filialen gro-
+ßer Einzelhandelsketten. 
+Bei der angebotenen Sortimentsbreite gab es im letzten Jahr unter dem Strich keine 
+weitere deutliche Verschmälerung. Im Durchschnitt bietet ein Pressehändler 183 ver-
+schiedene Zeitschriften an, 7 Zeitungen und 40 Produkte aus dem Romane-, Comics- und 
+Rätsel-Segment. Nennenswert zurückgegangen ist die durchschnittliche Anzahl der 
+ 
+ 
+Strukturanalyse der 
+grossobelieferten Pres-
+sehändler 
+ 
+ 
+97.486 (-3,7% z. VJ) 
+ 
+ 
+ 
+ 
+ 
+ 
+erstmals unter 100.000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• -7% komplett eigen-
+ständige Händler 
+• +1% Händler mit Bin-
+dung 
+• etwas weniger zent-
+ral gesteuerte Stand-
+orte  
+ 
+• 33% Umsatz durch 
+Eigenständige  
+• 29% Gebundene 
+• 38% Umsatz in Filial-
+betrieben 
+ 
+ 
+ 
+Sortimentsbreite iGuG 
+stabil 
+ 
+ 
+ 
+QUELLEN:
+HANDEL UND ABSATZWEGE
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 19
+präsentierten Titel nur bei den Tankstellen, die auch im Vorjahr ihr Angebot schon signifi-
+kant verkleinert hatten. 
+Einen zweiten Rückgang in 
+Folge gab es bei der durch-
+schnittlichen 
+Regalfläche, 
+die für das Presseangebot zur 
+Verfügung gestellt wird. Diese 
+Kennzahl war in der Vergan-
+genheit regelmäßig anstei-
+gend und danach stagnie-
+rend. 2019 waren die Presse-
+regale im Schnitt 30cm kleiner 
+(0,3 Bordmeter weniger) als 
+im Vorjahr. 
+Seit der Verabredung neuer Regeln für die Sortimentssteuerung im Jahr 2014 messen die 
+Grossisten zu diesem Thema zwei neue Kennzahlen, die abbilden sollen, wie 'voll' die 
+Presseregale in Deutschland sind. Beide Kennzahlen hatten sich 2018 in die gewünschte 
+Richtung entwickelt. 2019 gab es bei diesem Thema keine signifikante Entwicklung. In 
+weniger als einem Drittel (31%) aller Regale fanden sich 'zu viele' verschiedene Titel ("Prä-
+sentationsauslastung > 100%") und in 12% aller Regale ist das Sortiment an dieser Kenn-
+zahl gemessen sogar um mehr als ein Fünftel zu umfangreich ("Präsentationsauslastung > 
+120%").  
+Diese 'Stagnation' zeigt sich auch in der folgenden Übersicht der Pressehändler je nach 
+Breite des Angebotes. Insbesondere die Anzahl der Verkaufsstellen mit einem sehr breiten 
+Angebot ist deutlich weniger zurückgegangen als noch bei der Erhebung davor. Überhaupt 
+hatten wir in mehreren Vorjahren einen deutlichen negativen Trend gesehen, der 2019 
+teils sogar durchbrochen scheint. Tendenziell gilt aber weiterhin: die prozentuale Entwick-
+lung bei der Anzahl der Pressehändler mit breiten Sortimenten ist negativer (d.h. 
+kleinere Indexwerte in der folgenden Grafik) als bei den Händlern, die nur weniger ver-
+schiedene Titel anbieten.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Trend(?!): weniger Re-
+galfläche 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ØRegalauslastung un-
+verändert 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+stärkerer Rückgang der 
+Verkaufsstellen mit 
+breitem Angebot ge-
+bremst 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 20
+ 
+Heftiger Streit zwischen Händlerbündnis und Coca Cola  5 
+Lebensmittelhandel 
+ 
+Im Lebensmittelhandel tobt ein Kampf um die Marktmacht, der zwischen der Händleral-
+lianz Agecore und der weltweiten Top-Marke Coca Cola ausgefochten wird. Die Details 
+sind erst einmal nicht so interessant. Es geht um Einkaufspreise, Verkaufspreise und um 
+die Frage, wie viele Artikel aus dem mittlerweile sehr breiten Sortiment von Coca Cola ein 
+Händler anbieten 'muss'.  
+Hochinteressant ist die Struktur dieses Konflikts unter Dinosauriern. Die Größe und 
+Macht von Coca Cola bedarf keiner weiteren Ausführungen. Aber zum Händlerbündnis 
+Agecore muss man wissen, dass sich da marktführende Lebensmittelhändler aus ganz 
+Europa zusammengeschlossen haben, um gemeinsam Einkaufskonditionen zu verhan-
+deln. Bei Agecore machen zum Beispiel der deutsche Riese Edeka, die Schweizer Coop, das 
+französische Intermarché und andere mit, die in ihren jeweiligen Ländern eine vergleich-
+bare Bedeutung haben. Bisher haben schon Nestlé oder die Großbrauerei AB InBev in Aus-
+einandersetzungen mit Agecore Federn lassen müssen. 
+Aber mit Coca Cola und seiner wahrscheinlich einzigartig 'unverzichtbaren' Marke hat 
+sich Agecore diesmal den größtmöglichen Gegner überhaupt ausgesucht, und es hat den 
+Konflikt sogar vor Gericht getrieben. 
+Die Lebensmittelzeitung glaubt, dass Agecore in dieser Auseinandersetzung nur verlieren 
+kann. Entweder, weil sich am Ende Coca Cola durchsetzt. Oder, weil ein Einknicken von 
+Coca Cola zeigen würde, dass die nur mühsam mit dem Wettbewerbsrecht vereinbare 
+Konstruktion einer internationalen Supergroßunternehmen-Einkaufsgemeinschaft so 
+mächtig ist, dass ihr absolut niemand widerstehen kann, nicht einmal Coca Cola. Das wäre 
+dann ein dringender Weckruf für die Politik. 
+Zur Anknüpfung an den Pressevertrieb lohnt der Blick auf ein Detail des Konflikts dann 
+doch. Die Lebensmittelzeitung zählt rund 80 Produkte, die Coca Cola im Sortiment hat. In 
+Kombination mit diversen Packungs- und Gebindegrößen kämen 460 unterschiedliche 
+'Artikel' zusammen. Coca Cola möchte am liebsten, dass jeder Einzelhändler alles anbie-
+tet. Darum gestaltet es seine Konditionen so, dass Händler im Einkauf mehr bezahlen müs-
+sen, wenn sie weniger Produkte anbieten. Für die Händler ist unter den 80 Produkten aber 
+trotz aller Vielfalt vor allem die Brause mit dem rot-weißen Label von Bedeutung. Mit Coca 
+Cola, so schätzen Insider, macht der Einzelhandel in Deutschland mehr als 50% seiner 
+2Mrd€ Endkundenumsatz, die er insgesamt mit den Produkten dieses Lieferanten erzielt. 
+Auf den Energy-Drink Monster, die Biolimonade Vio, auf Eistee oder Wasser aus dem 
+Hause Coca Cola würde mancher Händler vielleicht sogar gerne verzichten. 
+ 
+ 
+Coca Cola und Ein-
+kaufsgemeinschaft 
+Agecore liegen im 
+Clinch 
+ 
+ 
+ 
+ 
+ 
+ 
+Agecore ist ein Bündnis 
+marktführender Super-
+marktbetreiber aus 
+ganz Europa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kann Agecore nur ver-
+lieren? 
+ 
+entweder weil Coca 
+Cola sich durchsetzt 
+ 
+oder weil Agecore sich 
+als zu mächtig erweist 
+ 
+ 
+ 
+Ein aus dem Pressebe-
+reich bestens bekann-
+tes Detail des Streits: 
+ 
+Der Lieferant möchte 
+viele verschiedene Pro-
+dukte im Angebot se-
+hen 
+ 
+Der Händler will seine 
+Regale nicht überfüllen 
+ 
+ 
+ 
+websiteübergreifende Werbefreiheit für 5$/Monat 
+P 
+20 
+Scroll ist gestartet 
+ 
+Mit einiger Verzögerung (die ersten Meldungen zu diesem Thema stammen schon aus 
+dem Jahr 2016, der Launch war einmal für 2018 angekündigt und ist später auf 2019 ver-
+schoben worden, s. pvd #11/2018) ist Scroll gestartet. Scroll ermöglicht für seine Nutzer 
+gegen ein Entgelt von 5$ pro Monat die werbe- und weitestgehend auch trackingfreie 
+Nutzung der teilnehmenden Websites. Dazu gehören bisher nur in den USA relevante 
+Angebote, vor allem digital only erscheinenden Medien. Darunter auch bei uns bekannte 
+ 
+ 
+ 
+ 
+für5$ monatlich viele 
+Websites ohne Wer-
+bung und ohne Tra-
+cking nutzen 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 21
+prominente Marken wie Business Insider, The Atlantic, Vox, Buzzfeed aber zum Beispiel 
+auch die Zeitungen USA Today und The Philadelphia Inquirer. Wie viele Publisher sich dem 
+Netzwerk tatsächlich schon angeschlossen haben, bliebt unklar. Insgesamt zeigt Scroll an 
+prominenter Stelle die Logos von 32 Partner-Verlagen. In seinen FAQ wird von "mehr als 
+300 Sites" gesprochen, die aber nicht weiter benannt werden. Gleichzeitig findet sich dort 
+eine nur neun Einträge umfassende Liste unter der Überschrift "Live now". Bei Stichpro-
+ben-Tests haben wir Scroll auf allen 32 mit Logo angezeigten Seiten aktiv gefunden. 
+Paywall-Mechanismen werden von Scroll nicht berührt, bezahlpflichtige Inhalte müs-
+sen weiterhin per Abo oder Einzelkauf direkt beim Verlag gekauft werden. Aber auch 
+bezahlende Nutzer profitieren von Scroll, nämlich von Werbefreiheit. 
+In den groben Zügen klingt das nicht sehr originell. Im Detail ist Scroll eine echte Inova-
+tion. Denn neben dem Kernnutzen der Werbefreiheit bietet Scroll websiteübergreifend 
+weitere Komfortfeatures: 
+>  Über Scroll können Artikel verschiedener Websites auf einem Gerät begonnen und auf 
+einem anderen Gerät weitergelesen werden 
+>  Der Text jedes Artikels kann auch per Sprachausgabe angehört werden [pvd: übri-
+gens in einer ganz ungewöhnlich 'natürlichen' Qualität der synthetischen Sprache. Das 
+ist anhörenswert.] 
+>  Die Bereinigung um Tracker und Werbeeinblendungen beschleunigt den Seitenauf-
+bau erheblich. In seiner Eigenwerbung demonstriert Scroll das eindrücklich 
+[pv-digest.de/linkliste Link2]. 
+"Wie sieht ein besseres Internet aus?", sei seine Leitfrage, sagt Scroll-Gründer Tony Haile. 
+Was das Projekt außerdem spannend macht: Tony Hale hat mit der Webanalysefirma 
+Chartbeat schon einmal ein Erfolgsunternehmen der digitalen Welt auf die Beine gestellt. 
+Mit Axel Springer, der New York Times oder dem US-Zeitungskonzern Gannett haben sich 
+große Verlage von Anfang an als Investoren hinter das Projekt gestellt. 
+70% des von den Nutzern bezahlten Geldes verteilt Scroll nutzerindividuell nutzungs-
+zeitproportional auf die teilnehmenden Websites. Monatlich wird jedem Nutzer ange-
+zeigt, welche Sites in welchem Umfang von seinen 5$ profitiert haben. Während der zu-
+rückliegenden Betaphase sollen die teilnehmenden Websites im Schnitt einen TKP von 46$ 
+verdient haben. Wenn die Nutzerbasis und auch die Zahl der teilnehmenden Sites im Re-
+gelbetrieb breiter wird, dann, so schätzt Haile, werden das immer noch 25-30$ sein. (Die 
+damit zu ersetzenden Werbeerlöse schätzt Haile auf TKP's zwischen 5$ und 25$). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+viele in den USA promi-
+nente Angebote sind 
+dabei 
+ 
+ 
+ 
+ 
+ 
+ 
+Für Paid Content muss 
+weiter bezahlt werden 
+ 
+ 
+ 
+weitere Features: 
+ 
+ 
+• nahtloser Wechsel 
+des Lesegerätes 
+ 
+• alle Artikel auch als 
+Audio 
+ 
+ 
+• schneller Seitenauf-
+bau 
+ 
+LINKTIPP 
+ 
+erfahrener Erfolgs-
+gründer (Chartbeat) 
+ 
+ 
+prominente Unterneh-
+men als Investoren 
+ 
+ 
+Business Case: 70% der 
+Erlöse gehen an die 
+Verlage 
+ 
+ 
+wegfallende Werbeer-
+löse sollen überkom-
+pensiert werden 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pvd meint: früher oder später werden sich Publisher-übergreifende Bezahlmecha-
+nismen etablieren. Das ist in der zersplitterten Welt des Online-Publizierens gar nicht 
+anders vorstellbar. Entsprechende Anbieter (Laterpay, Axate, SwissPay/SmartWall und 
+eine Vielzahl noch unbekannterer, oft schon wieder gescheiterter Firmen) sind bisher 
+nur wenig erfolgreich. Was für Scroll spricht sind a) ein bekannter Unternehmer, b) zu-
+mindest in den USA etliche hochprominente Start-Kunden, c) ein Modell, das (zunächst?) 
+nur das Werbegeschäft betrifft – eine Umsatzsäule, die zunehmend an Bedeutung ver-
+liert, und die im Gegensatz zu Paid Content ohnehin hochgradig über zentralisierte Ver-
+marktungspartner und weniger in eigener Regie betrieben wird. 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 22
+ 
+   
+ 
+    P2 
+  
+Index 
+Marktentwicklung 
+Einzelhandel 
+ 
+(EV-Verkäufe wöchentliche 
+deutsche Presse; Umsätze im 
+Lebensmitteleinzelhandel 
+Deutschland) 
+ 
+ 
+  
+ 
+Marktentwicklung
+Sortimentsbreite 
+Deutschland 
+ 
+Anzahl Non-Periodika mit 
+Erstverkaufstag (EVT) im je-
+weiligen Monat, Neueinfüh-
+rungen Periodika, Hochrech-
+nung der jährlichen neuen 
+EVT inkl. Einzel-, Sonder- und 
+jährliche Hefte 
+ 
+ 
+Marktentwicklung
+digitaler Vertrieb 
+Top-Presse-Angebote  
+in wichtigen Digitalkiosken 
+An dieser Stelle präsentiert  
+pv digest monatlich die Top 
+10 der erfolgreichsten Presse-
+Produkte in wichtigen deut-
+schen App-Stores und Digital-
+kiosken. Die Rangfolge ent-
+spricht der Logik (Absatz, Um-
+satz, andere?!) der Shops.  
+Quelle: kontinuierliche Markt-
+beobachtung pv digest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATEN COCKPIT HANDEL UND ABSATZ 
+QUELLEN:
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 23
+ 
+ 
+ 
+ 
+ 
+IVW-Zahlen für das vierte Quartal 2019 
+P 
+IVW Q4/2019 
+ 
+Keine Überraschungen boten die IVW-Zahlen des vierten Quartals. Das Abo hält sich in den 
+meisten Segmenten stabiler als der Einzelverkauf; Tageszeitungen können ihr Abogeschäft 
+– weiterhin auch dank der E-Paper-Auflagen – stabiler gestalten als die meisten Zeitschrif-
+ten, verlieren dafür aber prozentual mehr im Einzelhandel verkaufte Exemplare.  
+ 
+Die aktuellen Auflagen der Publikumstitel im Indexvergleich (Q4/2018 = 100) 
+Daten: ivw.de, eigene Berechnungen, nur Publikumstitel mit Vertriebserlösen  
+(ohne reine Mitgliederzeitschriften) 
+ 
+ 
+Tageszeitungen: 
+(inkl. Bild) 
+• Abo -3,9% 
+• EV -10,58% 
+ 
+Publikumszeitschriften 
+(nur mit Vertriebsmo-
+dell, exkl. Kd.-&Mitgld.-
+zeitschriften) 
+• Abo -5% 
+• EV -6,7% 
+ 
+ 
+Fachzeitschriften: 
+• Abo -10,76% 
+• EV -31,55% 
+ 
+ 
+ 
+QUELLEN: 
+ANALYSEN UND DATEN
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 24
+ 
+Preis- & Konditionenstrategie der Verlage für den WBZ 
+P 
+WBZ Konditionen 
+ 
+Vielleicht kein anderer Kanal des Pressevertriebs wird so sehr über Preise und Margen 
+gesteuert wie der Verkauf von Abonnements über die Werbefirmen des WBZ. Im konven-
+tionellen WBZ-Geschäft definieren die Verlage einen 'Abgabepreis' für ihre Abonnements. 
+Die WBZ-Firmen werben mit eigenen Maßnahmen und auf eigene Rechnung Abonnenten 
+als ihre eigenen Kunden (zum Beispiel mit Aboshops im Internet, per Telefonmarketing, 
+per Haustürwerbung oder an Verkaufsständen). Die Verlage beliefern diese Kunden mit 
+ihren Heften. Die WBZ-Firmen vergüten den Verlagen die Lieferung mit dem Abgabepreis. 
+Der Abgabepreis wird so zum Einkaufspreis der WBZ-Firmen. Die Differenz zum Verkaufs-
+preis, den die Abonnenten an die WBZ-Firmen bezahlen, ist eine Handelsspanne, im 
+Branchensprech 'Rendite' genannt. Aus dieser Spanne decken die WBZ-Firmen ihre Kos-
+ten und ihren Gewinn. Mit einer hohen Rendite motivieren Verlage die WBZ-Unternehmen 
+zur Werbung für ihre Titel. Darüber hinaus nutzen sie weitere monetäre Steuerungshebel, 
+zum Beispiel Werbekostenzuschüsse, um die Abomarketingaktivitäten der WBZ-Unterneh-
+men in ihrem Sinn zu beeinflussen. 
+Darüber hinaus gibt es weitere Faktoren, die die Werbeaktivitäten der WBZ-Firmen moti-
+vieren. Wöchentlich erscheinende Titel erwirtschaften in der Summe meistens höhere Er-
+träge als seltener erscheinende Titel, selbst wenn die prozentuale Rendite im Vergleich 
+zum Abopreis einmal geringer ausfällt. Abonnements von TV-Zeitschriften, ein Brot- und 
+Butter-Segment des WBZ, haben häufig bessere Haltbarkeiten als Abonnements anderer 
+Titel. Abos für Zeitschriften mit einem bekannten Markennamen sind leichter zu werben 
+als Abos für unbekannte Titel. Aber während diese Faktoren für sie in der Regel nicht steu-
+erbar sind, nehmen Verlage mit ihrer Konditionengestaltung aktiv Einfluss auf die 
+Aktivitäten der Abowerbefirmen des WBZ. Darum lassen sich aus der Preis- und Kondi-
+tionengestaltung der Verlage Rückschlüsse auf die strategische Ausrichtung ziehen. 
+Die folgenden Analysen fußen auf von den Verlagen initiierte Preis- und/oder Konditio-
+nenveränderungen für insgesamt über 420 Titel. Im vergangenen Jahr veränderten davon 
+176 Titel ihr Preis- und 
+Konditionengefüge 
+oder stellten sich den 
+Abowerbefirmen erst-
+mals für die WBZ-Wer-
+bung zur Verfügung. 
+Die durchschnittliche 
+Handelsspanne (Ren-
+dite) dieser 176 Titel 
+beträgt nach der Kondi-
+tionenveränderung 
+knapp 42%. Vor fünf 
+Jahren, als wir diese Be-
+trachtung erstmals an-
+gestellt 
+haben, 
+lag 
+ 
+ 
+ 
+ 
+ 
+ 
+WBZ = Werbung von 
+und Handel mit Abon-
+nements 
+ 
+ 
+ 
+ 
+ 
+Handelsspanne = 'Ren-
+dite' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+langjähriger Trend: im 
+Ø schmälern die Ver-
+lage die Renditen ihrer 
+Titel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 25
+dieser Durchschnittswert noch bei fast 46%. Seitdem ist er von Jahr zu Jahr rückläufig. 
+Während sich bei vielen Titeln im Rahmen von Preis- und Konditionenveränderungen die 
+Rendite nur marginal verändert, sehen wir seltene deutliche Veränderungen. 
+Im vergangenen Jahr hat sich bei folgenden Titeln durch eine Preisänderung die Rendite 
+stark verringert: Frag doch mal die Maus (jetzt 37% nach zuvor 55%), Das neue Blatt & Neue 
+Post (beide jetzt 35%, vorher 45%), Blinker (jetzt 41%, vorher 49%). Wir haben in allen drei 
+Fällen keine Antwort auf unsere Frage erhalten, welche Überlegungen zu diesem Schritt 
+geführt haben.  
+Betrachtet man nur 
+die Titel, die im jeweili-
+gen Jahr erstmals für 
+die WBZ-Werbung zur 
+Verfügung gestellt wur-
+den, dann zeigt sich ein 
+ähnliches Bild. Die Ent-
+wicklung im Zeitverlauf 
+ist – vermutlich auf-
+grund der geringeren 
+Fallzahlen und damit 
+verbundener größerer 
+statistischer Varianz – 
+nicht ganz so eindeutig. 
+Dafür liegt der aktuelle 
+Wert noch deutlicher unter den in der Vergangenheit üblichen Margen. 
+Je mehr Interesse ein Verlag daran hat, dass die WBZ-Unternehmen aktiv um Abonnenten 
+für seine Titel werben, desto attraktiver macht er seine Titel für die Abowerber. Zum Bei-
+spiel, indem er eine hohe Rendite anbietet. Wie die nebenstehende Grafik zeigt, bieten die 
+meisten Titel Renditen zwischen 35% und 50% an. Aber es gibt sowohl Zeitschriften, die 
+den WBZ-Firmen nur 
+äußerst kleine Handels-
+spannen anbieten (im 
+Minimum 2019 waren 
+das 20%) als auch Titel, 
+die der Verlag an die 
+WBZ-Firmen sehr güns-
+tig abgibt und damit 
+eine sehr hohe Rendite 
+ermöglicht (im Maxi-
+mum betrug die Ren-
+dite 70%).  
+Dass die Verlage diesen Steuerungshebel titelindividuell handhaben, das zeigt zum 
+Beispiel Gruner+Jahr. Ein Abonnement seiner Frauenzeitschrift Brigitte rentiert sich für ein 
+Je Titel fallen die Ände-
+rungen meistens nur 
+marginal aus 
+ 
+ 
+Frag doch mal die 
+Maus, Das neue Blatt, 
+Neue Post, Blinker mit 
+starker Renditekürzung 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+im WBZ neue Titel mit 
+geringeren Renditen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+die meisten Titel bieten 
+Renditen zwischen  
+35% und 50% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+teils titelindividuelle 
+Konditionenstrategie 
+der Verlage 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 26
+WBZ-Unternehmen mit über 60%. Bei einem Abonnement der G+J-Zeitschrift Chefkoch 
+muss sich die WBZ-Firma dagegen mit 23% begnügen.  
+Der typische Anlass für eine Neudefinition der WBZ-Konditionen ist die Erhöhung der 
+Verkaufspreise einer Zeitschrift. Im letzten Jahr erhöhten die von uns beobachteten Titel 
+mit WBZ-Geschäft in 163 Fällen den Verkaufspreis im Einzelhandel. Im Durchschnitt er-
+höhte sich dieser Preis um 8,7% [vgl. hierzu unsere letzte Ausgabe: die über 800 Preiser-
+höhungen sämtlicher Zeitschriften im Jahr 2019 waren im Durchschnitt noch deutlich hö-
+her, nämlich +13%.] Das durchschnittliche Verlagsabo verteuerte sich bei diesen Titeln um 
+8,4%. Die WBZ-Abos nur um 8,1%. Weiterhin gilt allerdings: das durchschnittliche WBZ-
+Abo ist im Verhältnis zum Kioskpreise und auch zum Preis des Verlagsabos deutlich teu-
+rer. 
+In der folgenden Tabelle zeigen wir Extremwerte (jeweils Minimum und Maximum), die 
+wir im vergangenen Jahr bei der Gestaltung von WBZ-Konditionen beobachtet haben. 
+ 
+ 
+ 
+ 
+ 
+2019 stiegen die Preise 
+am Kiosk und für das 
+Verlagsabo stärker als 
+für die WBZ-Abos 
+ 
+ 
+im Ø sind die WBZ-
+Abos aber immer noch 
+am teuersten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eckwerte (Min/Max)  
+relevanter WBZ-Kondi-
+tionen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 27
+ 
+Readly: Playboy bei Apple beliebter als auf Android 
+P 
+Readly Fun Fact 
+ 
+Die Presseflatrate Readly zeichnet sich durch eine Öffentlichkeits-
+arbeit aus, die gerne über Daten informiert; allerdings häufig über 
+Daten, die nur wenig substanziellen Einblick in die Geschäftsent-
+wicklung geben. Gar keinen substanziellen Einblick, aber doch eine 
+interessante Beobachtung, erlaubte die Liste der innerhalb der 
+deutschen App am häufigsten gesuchten Begriffe. Es handelt 
+sich dabei wenig überraschend um die Namen oder Namensbe-
+standteile von Magazintiteln.  
+Die Nutzer der beiden Betriebssysteme haben viele gemeinsame 
+Präferenzen, aber auch markante Unterschiede. So fällt auf, dass 
+deutsche Android-Nutzer mehr Interesse an Titeln rund um TV, Bild 
+und Auto haben als am Playboy (den es bei Readly nur in der züch-
+tigen US-Version gibt). Bei den Apple-Nutzern steht dieser Titel 
+ganz oben. 
+Das gilt nicht nur 
+für 
+Deutschland. 
+Dass der Playboy den Apple-Nutzer mehr 
+am Herzen liegt als den Android-Nutzern, 
+das ist auch in den anderen Readly-
+Märkten der Fall. Auf Rückfrage erklärt 
+die Readly-Sprecherin, das könne nicht an 
+einem unterschiedlichen Anteil männli-
+cher Leser liegen; dieser Anteil sei nämlich 
+bei iOS und Android gleich groß.  
+ 
+ 
+ 
+ 
+ 
+ 
+Playboy ist bei Apple-
+Nutzern oft der belieb-
+teste Titel  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Playboy von Apple-
+Nutzern in allen Län-
+dern häufiger nachge-
+fragt als bei Android 
+ 
+ 
+IPPT (Index Presseprodukte auf Tablets) 
+P 
+IPPT 
+ 
+Im Januar setzt sich wieder der zuletzt starke Aufwärtstrend fort. 50 Punkte hatte der IPPT davor 
+zuletzt im Mai 2016 erreicht. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-App-Umsätze von 
+Presse-Apps in Relation 
+zu den IAPs anderer 
+Apps 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 28
+ 
+ 
+ 
+ 
+ 
+Trends im Digitalabomarketing 
+94 
+Digitalabomarketing 
+ 
+Matt Lindsay, President von Mather Economics und damit Chef eines der prominentesten 
+Beratungsunternehmen für Verlage im Bereich Preis- und Angebotsgestaltung, sieht acht 
+Trends für das Digitalabogeschäft. 
+>  weniger kostenlose Inhalte (niedrigere Meter-Schwellen oder ein höherer Anteil Pre-
+mium-Artikel) um mehr Nutzer in Kontakt mit der Paywall zu bringen. 
+>  niedrigere Preise – v.a. für die Einführungsangebote; teilweise seien die niedrigen Pro-
+bepreise eine direkte Folge der vorangehenden Strategie, die zu mehr Paywallkontakten 
+führt und damit zwangsläufig zu Nutzern mit einer geringeren Umwandlungswahrschein-
+lichkeit, insbesondere, wenn das folgende Einstiegsangebot zu teuer erscheint. 
+>  längere Probephasen. Die Umwandlungsquote eines Probeabos ist höher, wenn das 
+Probeabo länger gedauert hat; mit einer Verlängerung der Probephase lassen sich ins-
+besondere die Kunden, die mit einem sehr günstigen Einstiegsangebot geködert wurden, 
+besser wandeln. 
+>  Onboarding-Pfade ('Journeys'). Viele Verlage installierten definierte Prozesse, und 
+steuern neu gewonnene Abonnenten so mit dem Ziel, deren Engagement zu erhöhen, 
+zum Beispiel durch Newsletter-Opt-Ins. 
+>  Inhalte bewerben, Leser auf besonders exklusive Artikel aufmerksam machen, stei-
+gere die Bestellquoten bei Neukunden und es erhöhe das Bewusstsein der bezahlenden 
+Abonnenten für die Leistung, die die Redaktion erbringt 
+>  Marke bewerben. Aufgrund der stark gesunkenen Auflagen sinkt die Markenstärke von 
+Zeitungstiteln in ihrem Heimatmarkt. Markenwerbung könne das Neukundenge-
+schäft stärken und bestehende Abonnenten besser binden. 
+>  Wert-Briefe. [pvd: "value letters" – diesen Begriff haben wir hier zum ersten Mal gelesen. 
+Lindsay beschreibt sie als Briefe des Chefredakteurs, in denen der Wert des Abos her-
+ausgestellt wird.] Das sei ein effektives Kundengewinnungsmittel und auch Kunden-
+bindungstool. 
+>  selektives Preismanagement. Preise sollten mit Blick auf die individuelle Kündigungs-
+wahrscheinlichkeit der Kunden gesteuert werden; bei kündigungsgefährdeten Kunden 
+könne man Probeabos weiter verlängern oder einen Zwischenpreis auf dem Weg zum 
+Regelpreis anbieten. 
+"Diese und andere Taktiken helfen Verlagen einen höheren Prozentsatz ihrer digitalen 
+Reichweite zu bezahlenden Abonnenten zu machen und diese für eine längere Zeit zu bin-
+den. Zweifellos werden zukünftige Innovationen in diesen Bereichen und die Optimierung 
+dieser Taktiken Verlagen beim Erreichen nachhaltiger, Digitalabo-gestützter Geschäftsmo-
+delle helfen", schließt Lindsay seinen Blogpost ab. 
+ 
+ 
+aktuelle Trends laut 
+Mather Economics: 
+ 
+ 
+• weniger gratis 
+ 
+ 
+ 
+• billigere Proben 
+ 
+ 
+ 
+ 
+• längere Proben 
+ 
+ 
+ 
+ 
+ 
+• gesteuertes Onboar-
+ding 
+ 
+ 
+• einzelne Inhalte be-
+werben 
+ 
+ 
+ 
+• Marke bewerben 
+ 
+ 
+ 
+ 
+• Chefredakteursbriefe 
+ 
+ 
+ 
+ 
+ 
+• kundenindividuelle 
+Preissteuerung 
+ 
+ 
+ 
+ 
+ 
+ 
+QUELLEN:
+MEINUNGEN 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 29
+ 
+ 
+ 
+ 
+ 
+Die Verantwortung für das Pressezustellgeschäft bei der Deutschen Post hat Jens 
+Terboven von Dr. Alexander Plum übernommen. Terboven berichtet an Dr. Yuldon 
+Klein, Senior Vice President Dialogmarketing, Presse und Identitätsmanagement. 
+Das Badische Pressehaus hat seine Geschäftsführung neu sortiert. Wolfgang Poppen ist 
+nun als geschäftsführender Verleger Sprecher der Geschäftsführung. Nadja Poppen ver-
+antwortet Personal und Recht, Thomas Zehnle die Privatkundenvermarktung und Logis-
+tik, Patrick Zürcher Controlling, Finanzbuchhaltung, IT und Druck&Versand. 
+Neuer CEO von Lagardère Travel Retail Deutschland ist Jochen Halfmann. 
+Geschäftsführer Matthias Niewiem verlässt MZV zum 30. Juni. 
+Dr. Tobias Röhnelt ist jetzt geschäftsführender Gesellschafter bei der Inkassogesellschaft 
+KSP Rechtsanwälte. 
+Mark Wittland ist neuer Verlagsleiter Privatkunden beim Mannheimer Morgen. Vorgän-
+ger Andreas Hohmann hat das Unternehmen verlassen. 
+Gosia Schweizer ist als Geschäftsführerin des Spotlight Verlages auf Jan Henrik Groß 
+gefolgt. 
+Bastienne Früh ist beim Bauer Verlag neue Verlagsleiterin für die wöchentlichen Frauen-
+magazine. 
+André Pollmann, bisher Publisher von Vogue, Glamour und GQ bei Condé Nast Deutsch-
+land, nennt sich jetzt Chief Creative Director für GQ – unter diesem Titel ist er auch für 
+die kaufmännischen Fragen des Magazins verantwortlich. 
+1 
+P 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schweizer Kanton Waadt mit eigener Presseförderung 
+3 
+P 
+Presseförderung 
+ 
+Der Schweizer Kanton Waadt (französischsprachige Westschweiz) hat ein ehrgeiziges 
+Förderprogramm für Pressenangebote beschlossen. Verteilt über die nächsten 5 Jahre 
+sollen die lokalen und regionalen Medien des Kantons mit 6,2Mio Franken gefördert wer-
+den, unter anderem mit der Schaltung von Werbung im Gegenwert von 2,5MioCHF. 
+1,4Mio CHF sollen in den Aufbau eines Digitalkiosks investiert werden, der alle bezahl-
+pflichtigen Presseangebote des Kantons präsentiert. Jugendliche sollen über diesen Kanal 
+von deutlich ermäßigten Preisen profitieren. 
+ 
+ 
+ 
+eigenes Programm in 
+frz.-sprachiger Schweiz 
+ 
+ 
+ 
+u.a. Finanzierung von 
+Digitalkiosk mit ermä-
+ßigten Preisen für 
+junge Menschen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personalien 
+QUELLEN:
+PERSONALIEN 
+Branchennews 
+BRANCHENNEWS & -RECHT 
+QUELLEN:
+pvd meint: ins Verhältnis zu Größe der Bevölkerung gesetzt entspräche das einer 
+Fördersumme von landesweit fast 60Mio Franken, oder 60 Mio Euro in Österreich oder 
+600Mio€ in Deutschland. Und ein wesentlicher Teil der Fördersumme geht in Richtung 
+digitaler Produkte und nimmt junge Leser in den Blick! 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 30
+ 
+Sich mit Fragen vergaloppieren 
+"Wenn ich die Leute gefragt hätte, was sie
+wollen, dann hätten sie gesagt: schnellere 
+Pferde". Das hat Henry Ford vermutlich nie 
+gesagt – zumindest gibt es keinen Beleg da-
+für.  
+In einem kurzen Beitrag der Harvard Busi-
+ness Review fanden wir neben dem Hinweis 
+auf die ungeklärte Urheberschaft dieses
+sehr bekannten Satzes auch eine uns vor-
+her unbekannte Deutung. 
+Mit diesem Zitat meistens verbunden ist 
+der Verweis auf visionäre Unternehmer, die
+sich soweit von den Vorstellungen normaler 
+Menschen entfernen, dass eine Marktfor-
+schung dazu führen würde, die größten un-
+ternehmerischen Erfolge schon im Keim zu
+ersticken. 
+HBR-Autor Patrick Vlaskovitz dagegen
+meint, das Zitat passe deswegen zu Henry 
+Ford, weil der legendär starrköpfig gewesen
+sei. Überlange habe er an der Produktion
+eines unveränderten Model T-Autos festge-
+halten und immer nur nach Kostenspar-
+möglichkeiten gesucht, auch als die Konsu-
+menten längst schon nach anderen Autos 
+verlangten. Er hätte sie früher fragen sollen.
+"Warum lassen Verlage die gedruckte
+#Zeitung nicht einfach sterben? Die Leser
+können ja auf das #epaper umsteigen. Eine 
+Studie liefert Antworten" – twitterte die Me-
+dienjournalistin Ulrike Simon im Januar. An-
+lass war eine Studie der Zeitungsmarketing-
+gesellschaft ZMG. 
+ Die ZMG hat in einer repräsentativen Tele-
+fonumfrage unter 1.200 Personen, die eine 
+gedruckte Tageszeitung abonnieren, erfah-
+ren, dass drei von vier Printzeitungsabon-
+nenten sich "grundsätzlich" nicht vorstellen 
+können, "die abonnierte Tageszeitung nicht 
+mehr in gedruckter Form, sondern nur noch 
+als E-Paper zu lesen". 
+Diesen Mangel an Vorstellungskraft teilen 
+die deutschen Befragten mit einigen zigtau-
+send Abonnenten der Arkansas Democrat-
+Gazette. Nur dass die mittlerweile trotzdem
+die ehemals gedruckte Zeitung nur noch als 
+E-Paper lesen. Der Phantasie auf die 
+Sprünge geholfen haben die Einstellung der 
+Druckausgabe und ein intensives Bemühen 
+des Verlages. 
+Das ist natürlich kein ausreichender 
+Grund, um die gedruckte Zeitung 'einfach 
+sterben' zu lassen. Aber es ist ein guter 
+Grund, solchen Umfragen zu misstrauen. 
+Und bei der Gelegenheit auch gleich allen 
+anderen Umfragen zu Zahlungsbereit-
+schaft, akzeptablen Preisen oder maximaler
+Anzahl von Abos, die abzuschließen jemand 
+bereit wäre. 
+Gewiss ist aber auch: das E-Paper ist nicht 
+das Pferd, auf das Zeitungen ihre Zukunft 
+verwetten können. Es ist nur der Klepper. 
+der sie im besten Fall im Rennen hält. Die an
+der Spitze haben erfolgreiche Paywalls und 
+mobile Apps im Rennen. Darauf umzusat-
+teln ist die große Herausforderung. 
+ 
+ 
+… letzte Worte 
+ 
+ 
+ZEITUNGEN, ZEITSCHRIFTEN, PAID CONTENT 
+INFORMATIONEN FÜR DEN VERLEGERISCHEN ERFOLG IM LESERMARKT 
+ 
+ 
+ 
+ 
+ 
+Achten Sie das Urheberrecht – dieses Exemplar von pv digest ist ausschließlich zur persönlichen Nutzung bestimmt. Jede nicht lizenzierte elektronische Wei-
+tergabe und jede Vervielfältigung ist untersagt. Bitte erfragen Sie gerne unser sehr attraktives Angebot zur Mehrfachnutzung für Kollegen innerhalb Ihrer 
+Firma: abo@pv-digest.de 
+AUSGABE 2/2020 ׀ SEITE 31
+  
+ 
+Über pv digest 
+ 
+ 
+pv digest ist ein Informationsdienst auf Expertenniveau für das Top-Management 
+rund um das Thema Lesermarkt und Vertrieb journalistischer Produkte. pv digest 
+beruht auf eigenen Recherchen und auf Zusammenfassungen an anderer Stelle ver-
+öffentlichter Informationen und bietet einen einzigartigen Überblick über alle stra-
+tegisch relevanten Vertriebsthemen. pv digest unternimmt in der Regel keine Prü-
+fung wiedergegebener Inhalte und übernimmt keine Garantien für die inhaltliche 
+Korrektheit von Informationen. Genutzte Quellen in pv digest sind in der vorliegen-
+den Ausgabe wie folgt codiert: 
+ 
+Quellenverzeichnis Ausgabe 2/2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Impressum und 
+Kontaktdaten 
+ 
+HERAUSGEBER: 
+Markus Schöberl (v.i.S.d.P.) 
+Doverkamp 5 
+22335 Hamburg 
+Telefon: 040 308 901 09 
+e-mail: schoeberl@pv-digest.de 
+www.pv-digest.de 
+ 
+pv digest erscheint 11x jährlich,  
+in der Regel am fünften Werktag 
+eines Monats, als personalisiertes  
+PDF-Dokument 
+ 
+PREISE: 
+Regulärer Bezug Deutschland:  
+pro Ausgabe 71€ zzgl. USt., Aus-
+landspreise auf Anfrage 
+ 
+Sonderpreise für Mengenabos  
+oder Firmenlizenzen auf Anfrage 
+ 
+BESTELLUNGEN UND  
+SERVICEFRAGEN:  
+e-mail: abo@pv-digest.de 
+Telefon: 040 308 901 09 
+Post: Doverkamp 5,  
+22335 Hamburg 
+ 
+Bankverbindung: 
+Hamburger Sparkasse 
+BIC:  HASPDEHHXXX 
+IBAN: DE82 2005 0550 1237 1348 10 
+ 
+ 
+ 
+COPYRIGHT: 
+pv digest ist ein empfängerge-
+bundener Informationsservice 
+ 
+ 
+Vervielfältigung und elektroni-
+sche Weitergabe sind untersagt. 
+ 
+ 
+ 
+ 
+ACHTUNG: der nächste pv digest 
+erscheint am 6. März 2020 
