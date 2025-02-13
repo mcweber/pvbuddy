@@ -481,7 +481,7 @@ def vector_search(search_text: str = "*", gen_suchworte: bool = False, sort: str
         # {"$match": {"quelle_id": {"$in": filter}}},
         {"$match": {"score": {"$gte": score}}},  # Move this up
         {"$sort": {sort: -1}},
-        {"$limit": limit},  # Add this stage
+        # {"$limit": limit},  # Add this stage
     ]
 
     # execute query ------------------------------------------------
