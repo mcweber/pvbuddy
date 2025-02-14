@@ -34,6 +34,7 @@ coll_config = database.config
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 model_name = "bert-base-german-cased" # 768 dimensions
 # model_name = "bert-base-multilingual-cased"
+# model_name = "deepset-mxbai-embed-de-large-v1 "
 tokenizer = BertTokenizer.from_pretrained(model_name)
 model = BertModel.from_pretrained(model_name)
 # model_name = "sentence-transformers/all-MiniLM-L6-v2"
