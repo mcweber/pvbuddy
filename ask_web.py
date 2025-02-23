@@ -16,7 +16,7 @@ class WebSearch:
         try:
             results_list = self.tavilyClient.search(
                 query=query,
-                topic="news",
+                # topic="news",
                 max_results=limit,
                 )
         except:

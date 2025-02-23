@@ -108,7 +108,6 @@ def main() -> None:
             st.rerun()
         
         st.divider()
-        
         if st.button("Clear History"):
             st.session_state.history = []
             st.session_state.results_web = ""
@@ -132,12 +131,6 @@ def main() -> None:
         if question == "test4":
             question = "Wie funktioniert das deutsche Presse Grosso System?"
     
-        if question == "reset":
-            st.session_state.history = []
-            st.session_state.web_results = ""
-            st.session_state.db_results = ""
-            st.rerun()
-    
         st.session_state.search_status = True
 
     # Define Search & Search Results -------------------------------------------
@@ -145,10 +138,9 @@ def main() -> None:
 
         # Web Search ------------------------------------------------
         if st.session_state.search_web and st.session_state.results_web == "":
-            print("Web Search...")
             web_results_str = ""
             web_search_handler = ask_web.WebSearch()
-            results = web_search_handler.search(query=question, score=0.0, limit=st.session_state.results_limit)
+            results = web_search_handler.search(query=question, score=0.5, limit=st.session_state.results_limit)
             with st.expander("WEB Suchergebnisse"):
                 for result in results:
                     st.write(f"[{round(result['score'], 3)}] {result['title']} [{result['url']}]")
@@ -184,9 +176,10 @@ def main() -> None:
             )
         st.session_state.history.append({"role": "user", "content": question})
         st.session_state.history.append({"role": "assistant", "content": summary})
-        logbook.add_entry(app="pvBuddy", user="default", text=question)
-        write_history()
         st.session_state.search_status = False
+        logbook.add_entry(app="pvBuddy", user="default", text=question)
 
+        write_history()
+        
 if __name__ == "__main__":
     main()
