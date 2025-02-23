@@ -21,9 +21,11 @@ class WebSearch:
                 )
         except:
             return results
+        
         for result in results_list['results']:
             if result['score'] > score:
                 results.append(result)
+        
         return results
     
     def search_context(self, query: str = "", score: float = 0.5, limit: int = 10) -> str:

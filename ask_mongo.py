@@ -552,7 +552,10 @@ def get_system_prompt() -> str:
         str: The system prompt.
     """
     result = coll_config.find_one({"key": "systemprompt"})
-    return str(result["content"])
+    if result is not None:
+        return str(result["content"])
+    else:
+        return ""
     
 def update_system_prompt(text: str = ""):
     """
