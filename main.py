@@ -1,10 +1,11 @@
 # ---------------------------------------------------
-VERSION ="23.02.2025"
+VERSION ="24.02.2025"
 # Author: M. Weber
 # ---------------------------------------------------
 # 12.02.2024 added test4
 # 23.02.2025 added search_web
 # 23.02.2025 added logbook
+# 24.02.2025 added use dict for test queries
 # ---------------------------------------------------
 
 import streamlit as st
@@ -117,20 +118,16 @@ def main() -> None:
     # Define Search Form ----------------------------------------------
     question = st.chat_input("Frage oder test1, test2, test3, test4 eingeben:")
 
+    TEST_QUERIES = {
+        "test1": "Erstelle ein Dossier zu El Pais?",
+        "test2": "Erstelle ein Dossier zur Firma Readly. Welche Informationen sind relevant?", 
+        "test3": "Was sind die Zeitungen mit den höchsten Digitalumsätzen?",
+        "test4": "Wie funktioniert das deutsche Presse Grosso System?"
+    }
+    
     if question:
-    
-        if question == "test1":
-            question = "Erstelle ein Dossier zu El Pais?"
-
-        if question == "test2":
-            question = "Erstelle ein Dossier zur Firma Readly. Welche Informationen sind relevant?"
-
-        if question == "test3":
-            question = "Was sind die Zeitungen mit den höchsten Digitalumsätzen?"
-
-        if question == "test4":
-            question = "Wie funktioniert das deutsche Presse Grosso System?"
-    
+        if question in TEST_QUERIES:
+            question = TEST_QUERIES[question]
         st.session_state.search_status = True
 
     # Define Search & Search Results -------------------------------------------
